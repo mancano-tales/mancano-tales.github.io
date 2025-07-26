@@ -22,22 +22,22 @@ repository               : "https://academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo-tales.png"
   name             : "Tales Mançano" # Your name, e.g. "John Smith"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student in Political Science at the University of São Paulo"
   location         : "São Paulo"
   employer         : "[Department of Political Science at the University of São Paulo](https://dcp.fflch.usp.br/en/institutional/about)"
   uri              : # URL
-  email            : "mancano.tales@usp.br" 
+  email            : "mangitcano.tales@usp.br" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=UcrcWloAAAAJ&hl=pt-BR"
-  impactstory      : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=UcrcWloAAAAJ"
+  Linktr.ee        : "https://linktr.ee/mancano.tales" # URL
   orcid            : "https://orcid.org/0000-0001-5923-9743"
-  semantic         : # URL
+  Lattes           : "http://lattes.cnpq.br/0097347186681804git a" # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
