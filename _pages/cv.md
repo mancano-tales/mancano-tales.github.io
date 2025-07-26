@@ -3,3 +3,5 @@
         height="600px" 
         allow="autoplay">
 </iframe>
+
+Acesse a versão em [PDF](/files/Mancano-Tales_3_2025_CV.docx)
