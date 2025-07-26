@@ -27,18 +27,18 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student in Political Science at the University of São Paulo"
   location         : "São Paulo"
-  employer         : "University of São Paulo"
+  employer         : "[Department of Political Science at the University of São Paulo](https://dcp.fflch.usp.br/en/institutional/about)"
   uri              : # URL
   email            : "mancano.tales@usp.br" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=UcrcWloAAAAJ&hl=pt-BR"
   impactstory      : # URL
-  orcid            : "orcid.org/0000-0001-5923-9743"
+  orcid            : "https://orcid.org/0000-0001-5923-9743"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
