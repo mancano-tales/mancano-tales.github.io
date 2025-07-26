@@ -22,7 +22,7 @@ repository               : "https://academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo-tales.png"
+  avatar           : "photo-tales.jpg"
   name             : "Tales Mançano" # Your name, e.g. "John Smith"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student in Political Science at the University of São Paulo"
