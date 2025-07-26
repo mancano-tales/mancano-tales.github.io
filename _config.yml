@@ -26,10 +26,10 @@ author:
   name             : "Tales Mançano" # Your name, e.g. "John Smith"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student in Political Science at the University of São Paulo"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "São"
+  employer         : "University of São Paulo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mancano.tales@usp.br" 
 
   # Academic websites
   academia         : # URL
