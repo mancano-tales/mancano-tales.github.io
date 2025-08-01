@@ -3,7 +3,7 @@ title: "Social Protection in Latin America: a critical review"
 subtitle: "Armando Barrientos, University of Manchester, *Journal of Social Policy* (2025)"
 author: "Tales Mançano"
 institute: "CEM-DCP/FFLCH-USP"
-date: today
+date: 2025-07-31
 format: 
   beamer:
     toc: false
