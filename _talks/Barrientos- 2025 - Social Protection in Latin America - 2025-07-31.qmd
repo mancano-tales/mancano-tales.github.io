@@ -1,0 +1,117 @@
+---
+title: "Social Protection in Latin America: a critical review"
+subtitle: "Armando Barrientos, University of Manchester, *Journal of Social Policy* (2025)"
+author: "Tales Mançano"
+institute: "CEM-DCP/FFLCH-USP"
+date: today
+format: 
+  beamer:
+    toc: false
+    toc-title: "Sumário"
+    slide-level: 2
+    aspectratio: 169
+    navigation: horizontal
+    theme: Madrid
+    colortheme: default
+---
+
+## Objetivo
+
+- **Questão Central**: *Por que os países da América Latina, apesar de inovações institucionais em proteção social, continuam com grandes lacunas e desigualdades em acesso a provisão social?*
+
+Barrientos tem como objetivo explicar o aparente paradoxo entre da proteção social latino americana, que geram uma estratificação substantiva da população e tem impactos redistributivos decepcionantes.
+
+## Foco do artigo
+
+O foco principal é a análise de três instituições centrais: os fundos de seguro ocupacional (surgidos com a industrialização), as previdências privadas (implementadas durante o neoliberalismo) e a assistência social (expandida com a redemocratização). 
+
+Barrientos ressalta como essas instituições, moldadas por realinhamentos políticos particulares do caso latino-americano, geram estratificação e, paradoxalmente, têm um efeito decepcionante na redução da desigualdade geral devido à tributação regressiva, sistemas previdenciarios também regressivos e o baixa expressividade da assistência social em relação ao PIB. 
+
+---
+
+## Argumento Central
+
+- A matriz institucional da proteção social na América Latina combina:
+  - Fundos de seguro ocupacional
+  - Previdência individual (personal pensions)
+  - Assistência social
+- Essas instituições surgem de **realinhamentos políticos internos**, não de evolução linear rumo ao modelo europeu.
+- As instituições **reproduzem estratificação** e oferecem lições para uma teoria geral das instituições de bem-estar.
+- A revisão sugere que a análise da **diferenciação interna da própria classe trabalhadora** é crucial para entender a persistência da fragmentação e a ineficácia redistributiva do sistema.
+
+---
+
+## 1. Matriz da Proteção Social
+
+- **Três pilares principais:**
+  - Seguros ocupacionais: vinculados ao emprego formal
+      - (Divisão entre *Insiders* e *Outsiders* na classe trabalhadora ampliando a desigualdade)
+  - Previdência individual: baseada em contas privadas 
+      - (e.g. Chile: principal caso da influência do neoliberalismo)
+  - Assistência social: transferências condicionais e não contributivas
+      - (e.g. Brasil, com Bolsa Família e México, com o PROGRESA)
+  - Cobertura desigual: alto grau de informalidade e fragmentação
+
+---
+
+## Industrialização
+
+- **Industrialização** → fundos ocupacionais (incorporação seletiva)
+    - Acompanhou a incorporação política de grupos selecionados de trabalhadores urbanos
+    - Resultou em **características seletivas e fragmentadas** dos fundos, excluindo grandes segmentos da força de trabalho (ex: trabalhadores agrícolas, autônomos)
+    - O pico de participação foi alcançado no final dos anos 1960 e início dos 1970
+    
+## Neoliberalismo
+
+- **Neoliberalismo** → previdência individual (desincorporação e mercantilização)
+    - As reformas de proteção social desempenharam um papel central nas políticas de ajuste estrutural, buscando substituir o seguro ocupacional por pensões pessoais
+    - Argumentava-se que o sistema antigo desincentivava o trabalho, e o foco na **poupança individual** visava promover a competição e fortalecer os mercados financeiros
+    - A resistência às reformas foi limitada em países onde as organizações trabalhistas e partidos de esquerda estavam enfraquecidos por regimes autoritários, como no Chile
+    
+## Redemocratização
+
+- **Redemocratização + esquerda** → expansão da assistência social (segunda incorporação)
+    - O retorno à democracia (anos 1980/90) e a ascensão de coalizões de esquerda levaram ao foco em grupos excluídos
+    - Essa expansão reflete um **novo realinhamento político e uma nova forma de pensar a redução da pobreza**
+    - Programas de **transferência de renda condicional** (ex: PROGRESA no México, Bolsa Família no Brasil) se espalharam, visando a redução da pobreza e promovendo o investimento em capital humano
+
+---
+
+## 3. Efeitos de Estratificação
+
+- Cada pilar atende a grupos diferentes:
+  - Ocupacional: trabalhadores estáveis e formais
+  - Individual: trabalhadores qualificados e móveis
+  - Assistência: trabalhadores vulneráveis e informais
+  - Resultado: **reforço da desigualdade socioeconômica**
+
+---
+
+## 4. Efeitos Distributivos
+
+- Transferências e impostos diretos têm **baixo impacto redistributivo**
+- Em alguns casos, o sistema **aumenta a desigualdade** pós-transferência
+- Impostos regressivos: impostos sobre consumo, como ICMS, IVA,  prevalecem como principais impostos.
+- Assistência social progressiva, mas representa pequena fração do gasto
+- **Contribuidores**: Aproximadamente **metade da força de trabalho** na América Latina contribui para alguma forma de provisão de pensão, mas apenas cerca de **metade desses contribuintes** realmente acessará um benefício de aposentadoria devido à volatilidade do emprego e regras de elegibilidade.
+- **Beneficiários de Pensão**: A proporção de pessoas com 65 anos ou mais que recebem um benefício de pensão é um indicador mais preciso do alcance .
+- **Assistência Social**: Medida pela proporção da população em lares beneficiários, mostrando uma **expansão notável no século XXI**.
+
+---
+
+## 5. Uma Teoria Geral da proteção social
+
+- Foco na:
+  - Separação entre proteção social e serviços
+  - Diferenciação **intra-classe** (por inserção no trabalho)
+  - Papel central dos **realinhamentos políticos**
+  - Causalidade e métodos de inferência como prioridade analítica
+
+---
+
+## Considerações Finais
+
+- A América Latina não está “em transição” para o modelo europeu
+- A matriz institucional é produto de **trajetórias políticas específicas**
+- Desigualdades estruturais demandam **novas abordagens teóricas**
+- O estudo da região pode contribuir para uma **teoria geral do bem-estar social**
