@@ -9,6 +9,6 @@ author_profile: true
 
 ## The Four *‘Worlds’* of Brazilian Educational Reform: a comparative-historical analysis
 
-[Acess the PDF](https://drive.google.com/file/d/1N_c30ol0s4WS5DBOMRZB7qH4GNM9hKKx/view?usp=sharing)
+*Updated in 2025-11*
 
-Breve descrição do working paper.
+[Acess the PDF](https://drive.google.com/file/d/1N_c30ol0s4WS5DBOMRZB7qH4GNM9hKKx/view?usp=sharing)

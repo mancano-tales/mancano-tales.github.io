@@ -10,12 +10,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Working Papers"
+    url: /working-papers/
 
   - title: "CV"
     url: /cv/
     
-  - title: "`Presentations"
-    url: /presentations/  
-
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "Presentations"
+    url: /talks/  
