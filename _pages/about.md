@@ -7,18 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Bem-vindo ao meu site acadêmico.  
-Welcome to my academic website.
+# (EN) Welcome to my website
 
-Sou Tales Mançano, pesquisador em Ciência Política e mestre pelo Programa de Pós-Graduação em Ciência Política da Universidade de São Paulo (FFLCH-USP). Meus interesses de pesquisa giram em torno da relação entre instituições, desigualdade e políticas públicas, com ênfase na educação pós-secundária, na economia política comparada e nos regimes de bem-estar.
+I'm Tales Mançano, a political science researcher and master's graduate from the Graduate Program in Political Science at the University of São Paulo (FFLCH-USP). My research explores the relationship between institutions, inequality, and public policy, with a focus on post-secondary education, comparative political economy, welfare regimes, and market regulation.
 
-I'm Tales Mançano, a political science researcher and master's graduate from the University of São Paulo (FFLCH-USP). My research focuses on the relationship between institutions, inequality, and public policy, with an emphasis on post-secondary education, comparative political economy, and welfare regimes.
+This site gathers information about my academic trajectory, publications, public presentations, ongoing projects, and open notes/ideas published periodically in the **Blog Posts** section.
 
-Este site reúne informações sobre minha trajetória acadêmica, publicações, apresentações, projetos em andamento e algumas anotações abertas sobre teoria social, metodologia e política educacional.  
-This site contains information about my academic background, publications, talks, ongoing projects, and open notes on social theory, methodology, and education policy.
+The goal here is to share my activities, organize ideas, and make the research process publicly available—both the results and the paths taken.
 
-A proposta aqui é compartilhar conhecimento, sistematizar ideias e tornar mais acessível o processo de pesquisa — tanto os resultados quanto os caminhos percorridos.  
-This space is meant to share knowledge, organize ideas, and make the research process more transparent — both the outcomes and the paths taken.
+Feel free to explore the content and get in touch.
 
-Sinta-se à vontade para explorar o conteúdo ou entrar em contato.  
-Feel free to explore the content or get in touch.
+---
+
+# (PT) Bem-vindo ao meu website
+
+Sou Tales Mançano, pesquisador em Ciência Política e mestre pelo Programa de Pós-Graduação em Ciência Política da Universidade de São Paulo (FFLCH-USP). Meus interesses de pesquisa giram em torno da relação entre instituições, desigualdade e políticas públicas, com ênfase na educação pós-secundária, economia política comparada, regimes de bem-estar e regulação de mercados.
+
+Este site reúne informações sobre minha trajetória acadêmica, publicações, apresentações públicas, projetos em andamento e anotações abertas/ideias publicadas periodicamente na seção **Blog Posts**.
+
+A proposta aqui é compartilhar minhas atividades, sistematizar ideias e tornar o processo de pesquisa publicamente acessível—tanto os resultados quanto os caminhos percorridos.
+
+Sinta-se à vontade para explorar o conteúdo ou entrar em contato.
