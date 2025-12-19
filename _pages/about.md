@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# (EN) Welcome to my website
+---
+
+## (EN) Welcome to my website
 
 I'm Tales Mançano, a political science researcher and master's graduate from the Graduate Program in Political Science at the University of São Paulo (FFLCH-USP). My research explores the relationship between institutions, inequality, and public policy, with a focus on post-secondary education, comparative political economy, welfare regimes, and market regulation.
 
@@ -19,7 +21,7 @@ Feel free to explore the content and get in touch.
 
 ---
 
-# (PT) Bem-vindo ao meu website
+## (PT) Bem-vindo ao meu website
 
 Sou Tales Mançano, pesquisador em Ciência Política e mestre pelo Programa de Pós-Graduação em Ciência Política da Universidade de São Paulo (FFLCH-USP). Meus interesses de pesquisa giram em torno da relação entre instituições, desigualdade e políticas públicas, com ênfase na educação pós-secundária, economia política comparada, regimes de bem-estar e regulação de mercados.
 
