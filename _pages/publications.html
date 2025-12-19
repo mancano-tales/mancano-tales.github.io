@@ -7,52 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>ORCID</h2>
+<h2>External profiles</h2>
+
 <p>
-  You can see my full ORCID record here:
-  <a href="https://orcid.org/0000-0001-5923-9743" target="_blank" rel="noopener">
-    https://orcid.org/0000-0001-5923-9743
+  <a href="https://orcid.org/0000-0001-5923-9743"
+     target="_blank" rel="noopener"
+     class="btn btn--primary">
+    View full record on ORCID
   </a>
 </p>
 
-<iframe
-  src="https://orcid.org/0000-0001-5923-9743"
-  width="100%"
-  height="800"
-  frameborder="0">
-</iframe>
-
-<hr />
-
-<h2>Google Scholar</h2>
-
 {% if site.author.googlescholar %}
-  <p class="wordwrap">
-    You can also find my articles on
-    <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">
-      my Google Scholar profile
-    </a>.
-  </p>
-
-  <!-- Botão para abrir o Google Scholar em nova aba -->
   <p>
-    <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener" class="btn btn--primary">
-      View on Google Scholar
+    <a href="{{ site.author.googlescholar }}"
+       target="_blank" rel="noopener"
+       class="btn btn--primary">
+      View publications on Google Scholar
     </a>
   </p>
-
-  <!-- Tentativa de embed do Google Scholar em iframe -->
-  <iframe
-    src="{{ site.author.googlescholar }}"
-    width="100%"
-    height="800"
-    frameborder="0">
-  </iframe>
 {% endif %}
 
 <hr />
 
-<h2>Publications list (site)</h2>
+<h2>Publications list (this site)</h2>
 
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
