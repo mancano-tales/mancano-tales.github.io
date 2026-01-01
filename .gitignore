@@ -1,5 +1,6 @@
 /.quarto/
 .Rproj.user
+.Rproj.user/
 
 # Ignore the contents of the _site directory and other cache directories
 _site/
