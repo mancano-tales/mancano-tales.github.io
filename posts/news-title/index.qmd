@@ -1,10 +1,10 @@
 ---
-title: "News item"
-description: "About new item"
+title: "About the EDUC-306B"
+description: "What we learned in this course?"
 author: "News"
-date: "2024-06-24"
+date: "2025-01-02"
 categories: [news]
-image: "/files/images/placeholder3.JPG"
+#image: ""
 #css: /custom.css
 #draft: true
 ---
@@ -12,7 +12,8 @@ image: "/files/images/placeholder3.JPG"
 
 ## Summary
 
-About the news
+O
+
 
 <!--Include social share buttons-->
 
