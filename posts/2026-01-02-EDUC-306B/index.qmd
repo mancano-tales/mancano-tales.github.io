@@ -2,6 +2,7 @@
 title: "About the EDUC-306B"
 description: "What we learned in this course?"
 date: "2026-01-02"
+date-modified: "2026-01-15"
 categories: [Courses, Syllabus, Political Economy, Classes] # Adicione suas categorias aqui
 ---
 
@@ -12,5 +13,9 @@ categories: [Courses, Syllabus, Political Economy, Classes] # Adicione suas cate
 *Proposed Course Objectives*: The objectives of this course are (1) to introduce students to the nature of some current major debates in educational reforms from a political economy point of view; (2) to give students a grasp of various conceptions of the State—of the workings of the “political system” and the political structures in society; and, through this understanding, (3) to be able better to conduct policy analyses of education, interpret the meaning of existing educational structures and of educational reforms and gain insights into theories of educational change. Although most educational policy is developed within the context of the national State, in the past fifty years there have been important—and some say, increasing—political influences on national States from international organizations.  We will also analyze literature on globalization and global governance and try to come to some conclusions about the importance of those influences. By the end of the course, everyone should have a clear idea of how to analyze education policy through a political economy approach and with an explicit theory of the state.
 
 # First Impressions (2026-01-01)
+
+O cusrso est''a organiado em 18 seções que mesclam teorias mais abstratas sobre o Estado com discussões bastante aplicadas sobre políticas específicas
+
+Carnoy faz muito bme o que podemos chamar de debate paradigmático da educação, educação não é nem só um investimento tal qual um investimento em capital produtivol, nem simplesmente uma forma de dominação e doutrinação das classes dominantes, nem apenas um instrumento redistributivo e de libertação, depede de qual educação se fala e embora um ou outro modelo educacional possa ser pretominante em determinado país reguão ou momento histórco ou a educação destinada a grupos específicos, geralmente vemos diversidades de educac'~ao e resuktadis
 
 Conforme discutido em [no post sobre Embedded Autonomy](../2025-01-01-Evans1995-Embedded-Autonomy/)
