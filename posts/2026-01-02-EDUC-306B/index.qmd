@@ -11,11 +11,9 @@ categories: [Courses, Syllabus, Political Economy, Classes] # Adicione suas cate
 
 *Proposed Course Objectives*: The objectives of this course are (1) to introduce students to the nature of some current major debates in educational reforms from a political economy point of view; (2) to give students a grasp of various conceptions of the State—of the workings of the “political system” and the political structures in society; and, through this understanding, (3) to be able better to conduct policy analyses of education, interpret the meaning of existing educational structures and of educational reforms and gain insights into theories of educational change. Although most educational policy is developed within the context of the national State, in the past fifty years there have been important—and some say, increasing—political influences on national States from international organizations.  We will also analyze literature on globalization and global governance and try to come to some conclusions about the importance of those influences. By the end of the course, everyone should have a clear idea of how to analyze education policy through a political economy approach and with an explicit theory of the state.
 
+# First Impressions (2026-01-01)
 
 
 
 
-
-this class isn't just about what happens in the classroom—it’s about why certain policies exist in the first place.
-
-Led by two distinguished scholars, Dr. Martin Carnoy and Dr. Rebecca Tarlau, the course challenges us to look at education through the lens of political economy.
+Conforme discutido em [no post sobre Embedded Autonomy](../2025-01-01-Evans1995-Embedded-Autonomy/)

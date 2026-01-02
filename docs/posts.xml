@@ -10,15 +10,63 @@
 <atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Tales Mançano Academic Website</description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Mon, 14 Oct 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Jan 2026 08:00:00 GMT</lastBuildDate>
 <item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
+  <title>About the EDUC-306B</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/2026-01-02-EDUC-306B/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="description" class="level1">
+<h1>Description</h1>
+<p><em>EDUC 306B</em>: Global Education Policy &amp; Organization. “The Politics of Education Policy”</p>
+<p><em>Proposed Course Objectives</em>: The objectives of this course are (1) to introduce students to the nature of some current major debates in educational reforms from a political economy point of view; (2) to give students a grasp of various conceptions of the State—of the workings of the “political system” and the political structures in society; and, through this understanding, (3) to be able better to conduct policy analyses of education, interpret the meaning of existing educational structures and of educational reforms and gain insights into theories of educational change. Although most educational policy is developed within the context of the national State, in the past fifty years there have been important—and some say, increasing—political influences on national States from international organizations. We will also analyze literature on globalization and global governance and try to come to some conclusions about the importance of those influences. By the end of the course, everyone should have a clear idea of how to analyze education policy through a political economy approach and with an explicit theory of the state.</p>
+<p>this class isn’t just about what happens in the classroom—it’s about why certain policies exist in the first place.</p>
+<p>Led by two distinguished scholars, Dr.&nbsp;Martin Carnoy and Dr.&nbsp;Rebecca Tarlau, the course challenges us to look at education through the lens of political economy.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Courses</category>
+  <category>Syllabus</category>
+  <category>Political Economy</category>
+  <category>Classes</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/2026-01-02-EDUC-306B/</guid>
+  <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>About the EDUC-306B</title>
+  <dc:creator>News </dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>O</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
-  <pubDate>Mon, 14 Oct 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
+  <pubDate>Thu, 02 Jan 2025 08:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Event item</title>
@@ -47,40 +95,8 @@ https://quarto.org/docs/authoring/includes.html
   <category>event</category>
   <category>presentation</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</guid>
-  <pubDate>Mon, 02 Sep 2024 22:00:00 GMT</pubDate>
+  <pubDate>Tue, 03 Sep 2024 07:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" medium="image"/>
-</item>
-<item>
-  <title>News item</title>
-  <dc:creator>News </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>About the news</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
-  <pubDate>Sun, 23 Jun 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
   <title>Can quantum-mechanical description of physical reality be considered complete?</title>
@@ -141,7 +157,7 @@ Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https
 </div></div></section></div> ]]></description>
   <category>paper</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
-  <pubDate>Tue, 14 May 1935 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 15 May 1935 08:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
