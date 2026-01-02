@@ -2,12 +2,12 @@
 title: "The State and Industrial Transformation: Insights from Peter Evans"
 subtitle: "Reviewing 'Embedded Autonomy' for EDUC 306B"
 author: "Tales Mançano"
-date: "2026-01-01"
+date: "2026-01-02"
 categories: [Reading Notes, Political Economy, State Theory,]
 ---
 
 ## Note 
-S
+
 This post was first written as a reading exercise for the course [**EDUC 306B**](../2026-01-02-EDUC-306B/), this was my second reading of the text.
 
 ## Overview
@@ -63,6 +63,8 @@ The lesson for us in **EDUC 306B** is clear: industrial and educational outcomes
 ## 💡 Personal Reflection
 
 Reading Evans helps bridge the gap between "politics" and "economics." It suggests that for educational reforms to be successful, the state must not only have the *will* to change but also the *institutional capacity* and *social connections* to see that change through.
+
+## Chapter 3
 
 ***
 

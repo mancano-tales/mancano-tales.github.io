@@ -42,7 +42,7 @@ website:
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/2026-1-02-CV-Mancano-Tales.pdf
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
         target: _blank
