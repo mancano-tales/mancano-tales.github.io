@@ -6,11 +6,13 @@ date: "2026-01-01"
 categories: [Reading Notes, Political Economy, State Theory,]
 ---
 
-_Post first written as a reading exercise for the course (**EDUC 306B**)[../2026-01-02-EDUC-306B/], this was my second reading of the texto_
+## Note 
+S
+This post was first written as a reading exercise for the course [**EDUC 306B**](../2026-01-02-EDUC-306B/), this was my second reading of the text.
 
 ## Overview
 
-In our discussions for **EDUC 306B: Global Education Policy & Organization**, we recently delved into the work of **Peter Evans**, specifically his 1995 seminal book, *Embedded Autonomy: States and Industrial Transformation*. 
+In our discussions for **EDUC 306B: Global Education Policy & Organization**, we recently delved into the work of **Peter Evans**, specifically his 1995 most famous book, *Embedded Autonomy: States and Industrial Transformation*. 
 
 Evans provides a critical framework for understanding why some states succeed at industrialization while others fail, focusing on the internal structure of the state and its relationship with society.
 
