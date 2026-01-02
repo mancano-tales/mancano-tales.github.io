@@ -13,7 +13,4 @@ categories: [Courses, Syllabus, Political Economy, Classes] # Adicione suas cate
 
 # First Impressions (2026-01-01)
 
-
-
-
 Conforme discutido em [no post sobre Embedded Autonomy](../2025-01-01-Evans1995-Embedded-Autonomy/)

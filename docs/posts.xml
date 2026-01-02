@@ -38,6 +38,110 @@
   <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>The State and Industrial Transformation: Insights from Peter Evans</title>
+  <dc:creator>Tales Mançano</dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/2025-01-01-Evans1995-Embedded-Autonomy/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>In our discussions for <strong>EDUC 306B: Global Education Policy &amp; Organization</strong>, we recently delved into the work of <strong>Peter Evans</strong>, specifically his 1995 seminal book, <em>Embedded Autonomy: States and Industrial Transformation</em>.</p>
+<p>Evans provides a critical framework for understanding why some states succeed at industrialization while others fail, focusing on the internal structure of the state and its relationship with society.</p>
+<hr>
+</section>
+<section id="what-is-embedded-autonomy" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-embedded-autonomy">🏗️ What is “Embedded Autonomy”?</h2>
+<p>The central thesis of the book is that the state’s ability to transform its economy depends on a unique structural combination:</p>
+<ul>
+<li><strong>Autonomy (Corporate Coherence):</strong> A professional, meritocratic bureaucracy that can act independently of narrow interest groups.</li>
+<li><strong>Embeddedness (Social Ties):</strong> A dense network of connections to the private sector that allows the state to gather information and implement policy.</li>
+</ul>
+<blockquote class="blockquote">
+<p>“The state must be sufficiently autonomous to avoid being captured, but sufficiently embedded to be effective.”</p>
+</blockquote>
+<section id="state-archetypes" class="level3">
+<h3 class="anchored" data-anchor-id="state-archetypes">State Archetypes</h3>
+<p>Evans contrasts different types of states based on their developmental outcomes:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">State Type</th>
+<th style="text-align: left;">Characteristics</th>
+<th style="text-align: left;">Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Developmental</strong></td>
+<td style="text-align: left;">High Embedded Autonomy; fosters growth.</td>
+<td style="text-align: left;">South Korea</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Intermediate</strong></td>
+<td style="text-align: left;">Mixed capacity; inconsistent results.</td>
+<td style="text-align: left;">Brazil, India</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Predatory</strong></td>
+<td style="text-align: left;">Lacks autonomy; extracts wealth from society.</td>
+<td style="text-align: left;">Zaire (DRC)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+</section>
+<section id="the-four-roles-of-the-state" class="level2">
+<h2 class="anchored" data-anchor-id="the-four-roles-of-the-state">🛠️ The Four Roles of the State</h2>
+<p>Evans identifies how states engage with the industrial sector, particularly in high-tech fields like informatics during the 1970s and 80s:</p>
+<ol type="1">
+<li><strong>Custodian:</strong> The regulator. Focuses on “policing” and setting legal frameworks.</li>
+<li><strong>Demiurge:</strong> The producer. The state acts as a player by creating State-Owned Enterprises (SOEs).</li>
+<li><strong>Midwifery:</strong> The promoter. Fostering the birth of new private sector firms through protection or incentives.</li>
+<li><strong>Husbandry:</strong> The nurturer. Supporting existing firms to help them navigate global competition and R&amp;D.</li>
+</ol>
+<hr>
+</section>
+<section id="case-studies-brazil-india-and-korea" class="level2">
+<h2 class="anchored" data-anchor-id="case-studies-brazil-india-and-korea">🌎 Case Studies: Brazil, India, and Korea</h2>
+<p>Evans uses an <strong>institutional comparative approach</strong> to analyze the IT and computer industries. He argues that:</p>
+<ul>
+<li><strong>South Korea</strong> succeeded through a combination of <em>Midwifery</em> and <em>Husbandry</em>, moving quickly into global markets.</li>
+<li><strong>Brazil and India</strong> initially focused on the <em>Demiurge</em> and <em>Custodian</em> roles, which provided mixed results in the high-tech sector.</li>
+</ul>
+<p>The lesson for us in <strong>EDUC 306B</strong> is clear: industrial and educational outcomes are not just about “good policy”—they depend on the <strong>character of the state structures</strong> that implement them.</p>
+<hr>
+</section>
+<section id="personal-reflection" class="level2">
+<h2 class="anchored" data-anchor-id="personal-reflection">💡 Personal Reflection</h2>
+<p>Reading Evans helps bridge the gap between “politics” and “economics.” It suggests that for educational reforms to be successful, the state must not only have the <em>will</em> to change but also the <em>institutional capacity</em> and <em>social connections</em> to see that change through.</p>
+<hr>
+<p><strong>References</strong> Evans, P. B. (1995). <em>Embedded Autonomy: States and Industrial Transformation</em>. Princeton, NJ: Princeton University Press.</p>
+<hr>
+<section id="next-steps" class="level3">
+<h3 class="anchored" data-anchor-id="next-steps">Next Steps</h3>
+<p><strong>Would you like me to help you draft a specific section comparing the “Husbandry” role in Brazil versus South Korea based on Evans’ analysis?</strong></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Reading Notes</category>
+  <category>Political Economy</category>
+  <category>State Theory</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/2025-01-01-Evans1995-Embedded-Autonomy/</guid>
+  <pubDate>Thu, 01 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
   <title>About the EDUC-306B</title>
   <dc:creator>News </dc:creator>
   <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>

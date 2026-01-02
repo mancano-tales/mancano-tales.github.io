@@ -1,15 +1,12 @@
 ---
 title: "The State and Industrial Transformation: Insights from Peter Evans"
 subtitle: "Reviewing 'Embedded Autonomy' for EDUC 306B"
-author: "Your Name"
-date: "2026-01-02"
-categories: [Education Policy, Political Economy, State Theory]
-format:
-  html:
-    toc: true
-    toc-depth: 3
-    code-fold: true
+author: "Tales Mançano"
+date: "2026-01-01"
+categories: [Reading Notes, Political Economy, State Theory,]
 ---
+
+_Post first written as a reading exercise for the course (**EDUC 306B**)[../2026-01-02-EDUC-306B/], this was my second reading of the texto_
 
 ## Overview
 
