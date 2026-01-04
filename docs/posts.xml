@@ -10,7 +10,26 @@
 <atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Tales Mançano Academic Website</description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 02 Jan 2026 08:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>2026-01-03-Deciding-Classes-Stanford</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/2026-01-03-Deciding-Classes-Stanford/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Do, or not to do? That’s the question</p>
+
+
+
+ ]]></description>
+  <category>Reading Notes</category>
+  <category>Political Economy</category>
+  <category>State Theory</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/2026-01-03-Deciding-Classes-Stanford/</guid>
+  <pubDate>Sat, 03 Jan 2026 08:00:00 GMT</pubDate>
+</item>
 <item>
   <title>The State and Industrial Transformation: Insights from Peter Evans</title>
   <dc:creator>Tales Mançano</dc:creator>
@@ -22,7 +41,7 @@
 
 <section id="note" class="level2">
 <h2 class="anchored" data-anchor-id="note">Note</h2>
-<p>S This post was first written as a reading exercise for the course <a href="../2026-01-02-EDUC-306B/"><strong>EDUC 306B</strong></a>, this was my second reading of the text.</p>
+<p>This post was first written as a reading exercise for the course <a href="../2026-01-02-EDUC-306B/"><strong>EDUC 306B</strong></a>, this was my second reading of the text.</p>
 </section>
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
@@ -101,6 +120,9 @@
 <section id="personal-reflection" class="level2">
 <h2 class="anchored" data-anchor-id="personal-reflection">💡 Personal Reflection</h2>
 <p>Reading Evans helps bridge the gap between “politics” and “economics.” It suggests that for educational reforms to be successful, the state must not only have the <em>will</em> to change but also the <em>institutional capacity</em> and <em>social connections</em> to see that change through.</p>
+</section>
+<section id="chapter-3" class="level2">
+<h2 class="anchored" data-anchor-id="chapter-3">Chapter 3</h2>
 <hr>
 <p><strong>References</strong> Evans, P. B. (1995). <em>Embedded Autonomy: States and Industrial Transformation</em>. Princeton, NJ: Princeton University Press.</p>
 <hr>
@@ -120,6 +142,26 @@
   <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>2026-01-02-Carnoy2014-Ch3-Political-Economy-Education</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/2026-01-02-Carnoy2024-Ch3-Political-Economy-Education/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>O Estado e a Educação: Uma Perspectiva Político-Econômica</p>
+<p>Os sistemas educacionais modernos desempenham um papel econômico e social fundamental, profundamente moldado pelas relações de poder econômico e social refletidas no Estado-nação. Poder e Estrutura do Estado: Escolas e instituições de ensino superior são majoritariamente públicas e, portanto, produtos de forças político-econômicas. O texto argumenta que as diferenças inerentes de renda e riqueza nas economias de mercado capitalistas criam uma estrutura de classe social ou quase-classe que influencia as desigualdades de poder. Essa estrutura de poder desigual na democracia capitalista, onde a riqueza se traduz em poder político, fornece a estrutura para uma teoria política da educação. Apesar da influência do poder econômico de uma minoria, a democracia é a principal instituição através da qual a maioria pode pressionar por políticas redistributivas, como o aumento de impostos sobre os ricos para financiar escolas com menos recursos. Conflito e Legitimidade: O sistema educacional é um local central de conflito entre a desigualdade do mercado e a promessa democrática de mobilidade social e direitos humanos, incluindo igualdade de oportunidades. O sistema educacional busca reproduzir as desigualdades de renda e riqueza, mas também é um local de luta por direitos e oportunidades. A educação serve como uma fonte de legitimidade para o Estado ao tentar gerenciar o conflito entre a democracia e as relações de poder desiguais da economia de mercado. Conflito por Recursos: As relações de poder são claras no conflito sobre como os recursos públicos são distribuídos no sistema educacional. O gasto público em alunos de classes sociais mais baixas, especialmente em sistemas financeiros descentralizados, tende a ser menor do que em seus equivalentes de classes sociais mais altas. Um debate político e ideológico questiona se o aumento do gasto público melhora o desempenho dos alunos. Estudos mais recentes sugerem que o aumento do gasto por aluno tem um impacto positivo significativo nos resultados educacionais para distritos escolares de baixa renda. Capital Social Gerado pelo Estado: O Estado pode investir em capital social (como segurança e redução da exploração do trabalho infantil) para complementar o capital humano, influenciando o sucesso acadêmico, especialmente para crianças de classes sociais mais baixas. Os estados socialistas autoritários, por exemplo, foram mais bem-sucedidos do que os capitalistas na entrega de educação de massa de alta qualidade devido ao maior investimento e ao capital social socialista (ênfase na igualdade, segurança e alto valor na educação).</p>
+
+
+
+ ]]></description>
+  <category>Reading Notes</category>
+  <category>Political Economy</category>
+  <category>State Theory</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/2026-01-02-Carnoy2024-Ch3-Political-Economy-Education/</guid>
+  <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
   <title>About the EDUC-306B</title>
   <link>https://drganghe.github.io/quarto-academic-website-template/posts/2026-01-02-EDUC-306B/</link>
   <description><![CDATA[ 
@@ -134,8 +176,32 @@
 </section>
 <section id="first-impressions-2026-01-01" class="level1">
 <h1>First Impressions (2026-01-01)</h1>
-<p>O cusrso est’’a organiado em 18 seções que mesclam teorias mais abstratas sobre o Estado com discussões bastante aplicadas sobre políticas específicas</p>
+<p>O cusrso est’’a organiado em 18 seções que mesclam teorias mais abstratas sobre o Estado com discussões bastante aplicadas sobre políticas específicas, a disciplina alterna questões teóricas com estudos de caso.</p>
+<p>O curso começa com uma aula introdutoria sobre porque estado importa, vai para as teorias liberais e do mecano, depois cobre o debate entre institucionalistas e gramscianos,,pluralistas, raça, gênero, socialismo etc. Uma pergunta a ser feita para o Carnoy é “How many theories of State are there? What does a theory have to be to be considered a theory of the State?”</p>
 <p>Carnoy faz muito bme o que podemos chamar de debate paradigmático da educação, educação não é nem só um investimento tal qual um investimento em capital produtivol, nem simplesmente uma forma de dominação e doutrinação das classes dominantes, nem apenas um instrumento redistributivo e de libertação, depede de qual educação se fala e embora um ou outro modelo educacional possa ser pretominante em determinado país reguão ou momento histórco ou a educação destinada a grupos específicos, geralmente vemos diversidades de educac’~ao e resuktadis</p>
+<p>Class titles:</p>
+<hr>
+<ul>
+<li>Session 1, Week 1, Monday, January 5: <strong>Why Does the State Matter in Educational Policy Analysis?</strong></li>
+<li>Session 2, Week 1, Wednesday, January 7: <strong>Case Study 1: Educational Privatization in the Low-income Countries</strong></li>
+<li>Session 3, Week 2, Monday, January 12: <strong>Theories of the State: Dependency Theory and Embedded Autonomy</strong></li>
+<li>Session 4, Week 2, Wednesday, January 14: <strong>Case Study 2: Educational Privatization in Middle-and High-income Countries</strong></li>
+<li>Session 5, Week 3, Wednesday, January 21: <strong>Theories of the State: Liberal Common Good Theories and Markets</strong></li>
+<li>Session 6, Week 4, Monday, January 26: <strong>Case Study 3: Public Sector Accountability Reforms (including Standards Reforms)</strong></li>
+<li>Session 7, Week 4, Wednesday, January 28: <strong>Theories of the State: The Institutionalists versus the Gramscians</strong></li>
+<li>Session 8, Week 5, Monday, February 2: <strong>Case Study 4: Vocational Education in Europe and Brazil</strong></li>
+<li>Session 9, Week 5, Wednesday, February 4: <strong>Theories of the State: Educational Borrowing and Education and Legitimacy</strong></li>
+<li>Session 10, Week 6, Monday, February 9: <strong>Case Study 5: Persistent Achievement Gaps across Race, Class, and Gender</strong></li>
+<li>Session 11, Week 6, Wednesday, February 11: <strong>Theories of the State: Pluralists, Class Conflict, and Social Reproduction</strong></li>
+<li>Session 12, Week 7, Wednesday, February 18: <strong>Theories of the State: The Racial State and Racial Capitalism</strong></li>
+<li>Session 13, Week 8, Monday, February 23: <strong>Theories of the State: Gender and the State</strong></li>
+<li>Session 14, Week 8, Wednesday, February 25: <strong>Case Study 6: PISA, TIMSS, and the Global Institutions</strong></li>
+<li>Session 15, Week 9, Monday, March 2: <strong>Theories of the State: Globalization and the Decline of the Nation State?</strong></li>
+<li>Session 16, Week 9, Wednesday, March 4: <strong>Case Study 7: Education in Transition in Cuba and China</strong></li>
+<li>Session 17, Week 10, Monday, March 9: <strong>Theories of the State: Socialist States and States in Transition</strong></li>
+<li>Session 18, Week 10, Wednesday, March 11: <strong>Course Wrap-up, Q&amp;A, Discussion of Final Paper</strong></li>
+</ul>
+<hr>
 <p>Conforme discutido em <a href="../2025-01-01-Evans1995-Embedded-Autonomy/">no post sobre Embedded Autonomy</a></p>
 
 
@@ -150,127 +216,33 @@
   <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>About the EDUC-306B</title>
-  <dc:creator>News </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>
+  <title>draft</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/2026-01-03-Mechanisms-in-SSciences/draft.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>O</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<p>Mecanismos nas ciencias sociais, algumas tipologias de mecanismso ficaram muito famosas nas ciencias sociais, publicar algumas tpologias as vezes leva a grande sucesso editorial, existem tipologias de mecanismos (Drift, Conversion,</p>
+<p>Mimetic, Coercitive, Legal Isomorphism</p>
 
 
-</section>
 
  ]]></description>
+  <category>Ideas</category>
+  <category>Concepcts</category>
+  <category>Core Ideas</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/2026-01-03-Mechanisms-in-SSciences/draft.html</guid>
+  <pubDate>Fri, 02 Jan 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Quarto Academic Website Examples and Tips</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
+  <description>Examples and tips for Quarto Academic Website</description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
-  <pubDate>Thu, 02 Jan 2025 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Event item</title>
-  <dc:creator>Event </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
- ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</guid>
-  <pubDate>Tue, 03 Sep 2024 07:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" medium="image"/>
-</item>
-<item>
-  <title>Can quantum-mechanical description of physical reality be considered complete?</title>
-  <dc:creator>Albert Einstein</dc:creator>
-  <dc:creator>Boris Podolsky</dc:creator>
-  <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<!--Include academic icons or bottons-->
-<!-- 
-Load Academicons v1: https://jpswalsh.github.io/academicons/
--->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
-<!---
-The following code are needed to show dimension citation and altmetrics.
-https://api.altmetric.com/embeds.html
-https://badge.dimensions.ai/
---->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777">paper</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{einstein1935,
-  author = {Einstein, Albert and Podolsky, Boris and Rosen, Nathan},
-  title = {Can Quantum-Mechanical Description of Physical Reality Be
-    Considered Complete?},
-  journal = {Physical Review},
-  volume = {47},
-  number = {7938},
-  pages = {777-80},
-  date = {1935-05-15},
-  url = {https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777},
-  doi = {10.1103/PhysRev.47.777},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-einstein1935" class="csl-entry quarto-appendix-citeas">
-Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. <span>“Can
-Quantum-Mechanical Description of Physical Reality Be Considered
-Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
-  <pubDate>Wed, 15 May 1935 08:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
+  <pubDate>Tue, 15 Oct 2024 07:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
