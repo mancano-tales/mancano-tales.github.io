@@ -1,0 +1,45 @@
+---
+title: "Carnoy, M. (1989). Education, State, and Culture in American Society. In H. A. Giroux & M. Carnoy (Eds.), Critical pedagogy, the state, and cultural struggle. State University of New York Press."
+description: "Reading notes"
+date: "2026-01-02"
+date-modified: "2026-01-15"
+categories: [Courses, Reading notes] # Adicione suas categorias aqui
+---
+
+O texto de Martin Carnoy avança no debate paradigmário, ou na discussão sobre ontologias educacionias, talvez seja um dos primeiros textos a ressaltar isso tão fortemtente, conforme faz Paulo Freire também. Talvez uma das principais virtudes de Carnoy é ter se misturado tão fortemtente com tantas tradições diferentes de politica educacional, possibilitanto o desenvolvimento dessa perspectiva
+
+---
+
+_NotebokLM_
+
+O texto de Martin Carnoy analisa o sistema educacional dos Estados Unidos como um espaço de conflito político e cultural entre a ideologia dominante das classes empresariais e as aspirações de grupos subordinados. O autor explora como o Estado utiliza as escolas para promover a legitimação política e o desenvolvimento econômico, tentando integrar imigrantes e minorias em uma cultura nacional que favoreça a produtividade capitalista. Contudo, essa dinâmica não é unilateral, pois os movimentos sociais pressionam as instituições por maior igualdade e currículos inclusivos, transformando a educação em uma arena de resistência e negociação constante. Em última análise, a obra busca demonstrar que o ensino público serve tanto para a reprodução da estrutura de classes quanto como um campo fértil para a emergência de contra-hegemonias que desafiam o status quo.
+
+---
+
+_NotebokLM_
+_Qual a tese central do texto?_
+
+A tese central apresentada por Martin Carnoy no ensaio *"Education, State, and Culture in American Society"* é a de que o sistema educacional americano (e o Estado em geral) não é meramente um instrumento monolítico da classe dominante para reproduzir desigualdades, nem uma instituição puramente democrática de mobilidade social. Em vez disso, a educação é definida como um **campo de conflito e contradição** moldado pela luta contínua entre duas forças opostas: as forças "reprodutivas" do capital e as forças "democratizantes" dos movimentos sociais.
+
+Aqui estão os pontos principais que sustentam essa tese no texto:
+
+**1. O Estado como Arena de Luta (Dualidade de Fins)**
+Carnoy rejeita a visão simplista de que as escolas apenas impõem uma ideologia dominante ou que servem apenas para a mobilidade social. Ele argumenta que o Estado capitalista democrático tem objetivos contraditórios:
+*   **Reprodução:** Precisa socializar a mão de obra para a produção capitalista, o que gera desigualdades, hierarquias e injustiças naturais ao sistema econômico.
+*   **Democratização:** Precisa promover o ideal de um Estado democrático, respondendo às demandas por igualdade e mobilidade social para manter sua legitimidade política,.
+Consequentemente, a educação americana é o produto histórico tanto das tentativas da classe dominante de moldar a escola para suas necessidades quanto das tentativas dos grupos subordinados de expandir e democratizar o acesso.
+
+**2. Cultura Dominante vs. Ideologia**
+A tese distingue entre "cultura" (a totalidade de padrões de comportamento e a capacidade de fazer história de uma comunidade) e "ideologia" (uma versão a-histórica da cultura imposta pelo grupo dominante).
+*   O grupo dominante tenta impor sua "ideologia de negócios" (individualismo, consumo, meritocracia) como se fosse a cultura nacional.
+*   No entanto, para manter a hegemonia, a cultura dominante precisa ceder e incorporar elementos das culturas subordinadas, tornando-se mais "popular" para garantir o consenso. Assim, as vitórias dos movimentos sociais (como direitos civis) alteram a própria natureza da cultura dominante, embora a elite empresarial tente constantemente reabsorver essas mudanças para manter o controle.
+
+**3. A Natureza da Resistência e a Contra-hegemonia**
+Carnoy argumenta contra a ideia de que o fracasso escolar ou a rejeição da escola sejam formas eficazes de resistência política.
+*   **Resistência Falsa:** Quando estudantes marginalizados rejeitam a escola ("acting out") ou abandonam os estudos, isso é frequentemente uma reação pessoal que acaba reforçando sua posição subordinada, pois lhes nega o acesso ao conhecimento necessário para o poder político.
+*   **Contra-hegemonia Real:** A verdadeira resistência exige que os grupos subordinados permaneçam na escola e exijam acesso ao "conhecimento dominante" (habilidades intelectuais, ciência, matemática), não para aceitar a ideologia empresarial, mas para usar essas ferramentas na luta política democrática.
+
+**4. O Papel da Educação na Mudança Social**
+A conclusão da tese é que as escolas são locais onde o conflito social mais amplo (baseado em raça, gênero e classe) é disputado. O sucesso dos movimentos sociais não está em criar enclaves culturais separados, mas em travar uma "guerra de posição" (usando o termo gramsciano citado no texto) dentro das instituições públicas para redefinir o conhecimento e a cultura nacional.
+
+Em suma, a educação é descrita não como um mecanismo estático de controle, mas como um **processo dialético** onde a hegemonia é constantemente desafiada e renegociada através da ação política dos grupos subordinados dentro de um Estado democrático contraditório.
