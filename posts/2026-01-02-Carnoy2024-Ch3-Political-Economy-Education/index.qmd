@@ -4,6 +4,20 @@ date: "2026-01-02"
 categories: [Reading Notes, Political Economy, State Theory,]
 ---
 
+_Full citation:_  Carnoy, M. (1989). Education, State, and Culture in American Society. In H. A. Giroux & M. Carnoy (Eds.), Critical pedagogy, the state, and cultural struggle. State University of New York Press.
+
+
+## Personal Notes and highlights
+
+O texto de Martin Carnoy avança no debate paradigmário, ou na discussão sobre ontologias educacionias, talvez seja um dos primeiros textos a ressaltar isso tão fortemtente, conforme faz Paulo Freire também. Talvez uma das principais virtudes de Carnoy é ter se misturado tão fortemtente com tantas tradições diferentes de politica educacional, possibilitanto o desenvolvimento dessa perspectiva.
+
+---
+
+## LLM Generated content
+
+_NotebokLM_
+
+
 O Estado e a Educação: Uma Perspectiva Político-Econômica
 
 Os sistemas educacionais modernos desempenham um papel econômico e social fundamental, profundamente moldado pelas relações de poder econômico e social refletidas no Estado-nação.

@@ -1,0 +1,56 @@
+---
+title: "Template"
+description: "Reading notes"
+date: "2026-01-04"
+date-modified: "2026-01-04"
+categories: [Courses, Reading notes] # Adicione suas categorias aqui
+---
+
+What are the central research questions or problems raised by the authors? 
+
+What core concepts, evidence, and research methods are utilized? 
+
+As you do the readings, think about what the author did right as well as wrong.  
+
+What are the interesting ideas in the paper?  
+
+If you disagree with an argument, what would it require to persuade you?  
+
+Can these differences be adjudicated through further empirical study?  
+
+_Full citation:_   
+
+## Personal Notes and highlights
+
+
+---
+
+## LLM Generated content
+
+---
+
+### _NotebookLM_
+
+
+
+### _Perplexity_
+
+---
+
+_NotebookLM_ :
+#### _Qual a tese central do texto?_
+
+---
+
+
+(a)	ideas, concepts, arguments that you found stimulating, worth remembering and building on,
+(b)	questions, concerns, disagreements with ideas encountered,
+(c)	connections, linkages, contradictions between one idea or approach and another.
+
+Short memos are due by 5pm Monday, the day before class. A third of your course grade will be based on the short memos. Please submit them through Canvas.
+
+2.  Long memos: For four of the topics, students will prepare a more detailed memo (5 pages) assessing the weekly readings.  You choose which week’s readings you wish to analyze, but you must complete this assignment before the date the topic is discussed in class.  The purpose of the longer memos is to help you grapple with the readings and respond with questions, criticisms, and new ideas.  The main thrust of the longer memos should be on developing promising research ideas suggested by the readings.  We strongly encourage you use the long memos as a vehicle for advancing your own work. When you choose to write a longer memo about a particular topic, you should consult the additional readings for that week.  Longer memos are due by 9am on Tuesdays. A third of your course grade is based on the long memos.
+
+3.	All students should arrive at class with questions, topics, and issues to be vetted and debated. You should come to class prepared to answer: What are the central research questions or problems raised by the authors? What core concepts, evidence, and research methods are utilized? As you do the readings, think about what the author did right as well as wrong.  What are the interesting ideas in the paper?  If you disagree with an argument, what would it require to persuade you?  Can these differences be adjudicated through further empirical study?  A good seminar should have active dialog and debate.  If someone proposes an idea that is contrary to your view, speak up.  I will often be intentionally provocative, so be prepared to push back.  Your task is to engage one another in an assessment of the readings.  
+
+

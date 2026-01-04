@@ -1,0 +1,42 @@
+---
+title: "Carnoy, M. (2024). The State and Education."
+description: "Reading notes"
+date: "2026-01-04"
+date-modified: "2026-01-04"
+categories: [Courses, Reading notes] # Adicione suas categorias aqui
+---
+
+_Full citation:_  Carnoy, M. (2024). The State and Education. In The political economy of education. Cambridge University Press. 
+
+## Personal Notes and highlights
+
+
+
+---
+
+## LLM Generated content
+
+### _NotebookLM_
+
+
+---
+
+_NotebookLM_ :
+#### _Qual a tese central do texto?_
+
+
+--- 
+
+### _Gemini in Google Drive_
+
+
+**O Estado e a Educação: Uma Análise Político-Econômica**
+
+Os sistemas educacionais modernos desempenham um papel econômico e social fundamental, profundamente moldado pelas relações de poder econômico e social, refletidas na estrutura política do Estado-nação.
+
+  * **Poder e Educação:** Com a ascensão do capitalismo de mercado e da democracia política, as escolas se secularizaram e a ideologia estatal substituiu a ideologia religiosa como base para a transmissão de conhecimento e valores. As hierarquias de poder econômico/político do Estado capitalista (e pós-capitalista) substituíram a hierarquia religiosa na definição do que constitui conhecimento valioso e comportamento adequado.
+  * **Teoria Política da Educação:** As hierarquias de poder no Estado-nação secular fornecem a estrutura para uma teoria política da educação, definindo como indivíduos de diferentes classes sociais, raças, etnias e gêneros exercem agência em relação à educação e as oportunidades econômicas que enfrentam.
+  * **Poder Desigual em Democracias Capitalistas:** As grandes diferenças de renda e riqueza inerentes às economias de mercado capitalistas influenciam a força da voz individual nas decisões coletivas. O texto argumenta que essas diferenças produzem uma estrutura de classe social ou quase-classe, com características de longo prazo enraizadas no poder econômico, que o Estado reflete.
+  * **Tensão e Conflito:** O aumento concomitante do capitalismo (que é inerentemente desigual) e da democracia (que promete poder igual e mobilidade social) criou uma tensão contínua. O sistema educacional público é um local importante dessa luta entre o valor democrático da igualdade de oportunidades e as desigualdades geradas pelo capitalismo de mercado.
+  * **Conflito por Recursos:** As relações de poder no Estado são evidentes no conflito sobre como os recursos públicos são distribuídos no sistema educacional. Em sistemas financeiros públicos descentralizados, como o dos Estados Unidos, os gastos públicos médios com alunos de classes sociais mais baixas são menores do que com seus equivalentes de classes mais altas.
+  * **Capital Social Gerado pelo Estado:** O Estado pode investir em capital social (como aumentar a segurança do bairro ou reduzir a violência escolar) para influenciar a estrutura que condiciona a escolha individual. Países escandinavos, por exemplo, enfatizam a responsabilidade coletiva e a igualdade social, o que pode levar a uma educação de maior qualidade.
