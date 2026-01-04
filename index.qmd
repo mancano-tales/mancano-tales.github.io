@@ -32,7 +32,7 @@ listing:
     type: grid
     max-items: 3
     page-size: 3
-    fields: [image, date, title, subtitle]
+    fields: [date, title, subtitle]
     sort: 
       - "date desc"
 ---
