@@ -13,7 +13,7 @@ listing:
   contents: 
       - posts
       - posts/post-links.yml  # Use this file to add external links
-#      categories: [] 
+      categories: [All] 
 
 #page-layout: full
 draft-mode: unlinked

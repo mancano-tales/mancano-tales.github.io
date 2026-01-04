@@ -1,0 +1,12 @@
+---
+title: "draft"
+date: "2026-01-02"
+date-modified: "2026-01-15"
+categories: [Ideas, Concepcts, Core Ideas] # Adicione suas categorias aqui
+draft: True
+---
+
+
+Mecanismos nas ciencias sociais, algumas tipologias de mecanismso ficaram muito famosas nas ciencias sociais, publicar algumas tpologias as vezes leva a grande sucesso editorial, existem tipologias de mecanismos (Drift, Conversion,
+
+Mimetic, Coercitive, Legal Isomorphism
