@@ -6,6 +6,8 @@ date-modified: "2026-01-06"
 categories: [Courses, Class notes] # Adicione suas categorias aqui
 ---
 
+**Positron**
+
 What are the central research questions or problems raised by the authors? 
 
 What core concepts, evidence, and research methods are utilized? 
@@ -36,6 +38,12 @@ Brazil made substancial progress in average test scores from 2007 to 2017
 but average gains don't tell much abou heterogenial inequality.
 
 Racial and social class are the really stron predictor of unequal oportunithi correlated with social class and rache
+
+
+
+unit of analysis municipalit --  saep data prova brazil 5th to 9th grades near universal coverage ofd public schools.
+
+THe municipal schools and the state schools are under very differente policies under the same network
 
 
 
