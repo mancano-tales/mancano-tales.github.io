@@ -184,11 +184,11 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Tales Mançano">
-<meta property="og:description" content="Tales Mançano Academic Website">
+<meta property="og:description" content="(pronounced TAH-leez mun-SAH-no | /ˈta.lis mɐ̃.’sɐ.nu/) | He/Him (en) · Ele/Dele (pt)">
 <meta property="og:image" content="files/images/photo-tales.jpg">
 <meta property="og:site_name" content="Tales Mançano">
 <meta name="twitter:title" content="Tales Mançano">
-<meta name="twitter:description" content="Tales Mançano Academic Website">
+<meta name="twitter:description" content="(pronounced TAH-leez mun-SAH-no | /ˈta.lis mɐ̃.’sɐ.nu/) | He/Him (en) · Ele/Dele (pt)">
 <meta name="twitter:image" content="files/images/photo-tales.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -294,6 +294,112 @@ window.Quarto = {
 
 
 
+<style>
+.lang-toggle {
+  position: fixed;
+  top: 70px;
+  right: 20px;
+  z-index: 1000;
+}
+.lang-btn {
+  background: transparent;
+  border: 1px solid #666;
+  border-radius: 4px;
+  padding: 5px 12px;
+  margin: 0 2px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+}
+.lang-btn:hover {
+  background: #f0f0f0;
+}
+.lang-btn.active {
+  background: #0366d6;
+  color: white;
+  border-color: #0366d6;
+}
+[lang]:not([lang="en"]) { display: none; }
+[lang="en"] { display: block; }
+</style><style>
+.lang-toggle {
+  position: fixed;
+  top: 80px;
+  right: 30px;
+  z-index: 1000;
+  background: white;
+  padding: 5px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.lang-btn {
+  background: transparent;
+  border: 1px solid #666;
+  border-radius: 4px;
+  padding: 6px 14px;
+  margin: 0 2px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+  font-weight: 500;
+}
+.lang-btn:hover {
+  background: #f0f0f0;
+}
+.lang-btn.active {
+  background: #0366d6;
+  color: white;
+  border-color: #0366d6;
+}
+</style>
+
+<div class="lang-toggle">
+  <button class="lang-btn active" id="btn-en" onclick="switchLang('en')">English</button>
+  <button class="lang-btn" id="btn-pt" onclick="switchLang('pt')">Português</button>
+</div>
+
+<script>
+function switchLang(lang) {
+  console.log('Switching to:', lang);
+  
+  // Procura todos os elementos que contém lang- na classe
+  const allElements = document.querySelectorAll('*');
+  let enCount = 0;
+  let ptCount = 0;
+  
+  allElements.forEach(el => {
+    const classes = el.className;
+    if (typeof classes === 'string') {
+      if (classes.includes('lang-en')) {
+        el.style.display = (lang === 'en') ? '' : 'none';
+        enCount++;
+      }
+      if (classes.includes('lang-pt')) {
+        el.style.display = (lang === 'pt') ? '' : 'none';
+        ptCount++;
+      }
+    }
+  });
+  
+  console.log('EN elements:', enCount, 'PT elements:', ptCount);
+  
+  // Atualiza botões
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  document.getElementById('btn-' + lang).classList.add('active');
+  
+  // Salva
+  localStorage.setItem('preferredLang', lang);
+}
+
+// Carrega inglês por padrão ao iniciar
+window.onload = function() {
+  const savedLang = localStorage.getItem('preferredLang') || 'en';
+  console.log('Loading with language:', savedLang);
+  switchLang(savedLang);
+};
+</script>
 <div class="quarto-about-trestles column-page">
   <div class="about-entity">
     <img src="files/images/photo-tales.jpg" class="about-image
@@ -301,6 +407,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Tales Mançano</h1>
+<p class="subtitle lead">(pronounced TAH-leez mun-SAH-no | /ˈta.lis mɐ̃.’sɐ.nu/) | He/Him (en) · Ele/Dele (pt)</p>
 </div>
 <div class="quarto-title-meta column-page">
   </div>
@@ -323,24 +430,16 @@ window.Quarto = {
 </div>
   </div>
   <div class="about-contents"><div id="hero-heading">
-<section id="en-welcome-to-my-academic-website" class="level1">
-<h1>(EN) Welcome to my academic website</h1>
+<div class="lang-en">
 <p>I’m Tales Mançano, a political science researcher and master’s graduate from the Graduate Program in Political Science at the University of São Paulo (FFLCH-USP). My research explores the relationship between institutions, inequality, and public policy, with a focus on post-secondary education, comparative political economy, welfare regimes, and market regulation.</p>
 <p>This site gathers information about my academic trajectory, publications, presentations, ongoing projects, and open notes/ideas published periodically in the <strong>Blog Posts</strong> section.</p>
 <p>The goal here is to share my activities, organize ideas, and make the research process publicly available—both the results and the paths taken.</p>
-<hr>
-</section>
-<section id="pt-bem-vindo-ao-meu-site-acadêmico" class="level1">
-<h1>(PT) Bem-vindo ao meu site acadêmico</h1>
-<p>Sou Tales Mançano, pesquisador em Ciência Política e mestre pelo Programa de Pós-Graduação em Ciência Política da Universidade de São Paulo (FFLCH-USP). Meus interesses de pesquisa giram em torno da relação entre instituições, desigualdade e políticas públicas, com ênfase na educação pós-secundária, economia política comparada, regimes de bem-estar e regulação de mercados.</p>
-<p>Este site reúne informações sobre minha trajetória acadêmica, publicações, apresentações públicas, projetos em andamento e anotações abertas/ideias publicadas periodicamente na seção <strong>Blog Posts</strong>.</p>
-<p>A proposta aqui é compartilhar minhas atividades, sistematizar ideias e tornar o processo de pesquisa publicamente acessível—tanto os resultados quanto os caminhos percorridos.</p>
 <section id="experience" class="level2 unnumbered">
 <h2 class="unnumbered" data-anchor-id="experience">Experience</h2>
 <ul>
 <li><strong>Master’s Student/Researcher</strong>, University of São Paulo (USP) - FFLCH</li>
 <li><strong>Visiting Scholar</strong>, University of Konstanz, Germany</li>
-<li><strong>Visiting Student Researches</strong>, Stanford University, Graduate School of Education, Lemman Center</li>
+<li><strong>Visiting Student Researcher</strong>, Stanford University, Graduate School of Education, Lemman Center</li>
 </ul>
 </section>
 <section id="education" class="level2 unnumbered">
@@ -350,13 +449,38 @@ window.Quarto = {
 <li><strong>B.A. Social Sciences</strong>, University of São Paulo (2023)</li>
 </ul>
 </section>
+</div>
+<div class="lang-pt">
+<p>Sou Tales Mançano, pesquisador em Ciência Política e mestre pelo Programa de Pós-Graduação em Ciência Política da Universidade de São Paulo (FFLCH-USP). Meus interesses de pesquisa giram em torno da relação entre instituições, desigualdade e políticas públicas, com ênfase na educação pós-secundária, economia política comparada, regimes de bem-estar e regulação de mercados.</p>
+<p>Este site reúne informações sobre minha trajetória acadêmica, publicações, apresentações públicas, projetos em andamento e anotações abertas/ideias publicadas periodicamente na seção <strong>Blog Posts</strong>.</p>
+<p>A proposta aqui é compartilhar minhas atividades, sistematizar ideias e tornar o processo de pesquisa publicamente acessível—tanto os resultados quanto os caminhos percorridos.</p>
+<section id="experiência" class="level2 unnumbered">
+<h2 class="unnumbered" data-anchor-id="experiência">Experiência</h2>
+<ul>
+<li><strong>Mestrando/Pesquisador</strong>, Universidade de São Paulo (USP) - FFLCH</li>
+<li><strong>Pesquisador Visitante</strong>, Universidade de Konstanz, Alemanha</li>
+<li><strong>Pesquisador Visitante</strong>, Universidade Stanford, Escola de Educação, Lemman Center</li>
+</ul>
 </section>
+<section id="formação" class="level2 unnumbered">
+<h2 class="unnumbered" data-anchor-id="formação">Formação</h2>
+<ul>
+<li><strong>M.A.&nbsp;Ciência Política</strong>, Universidade de São Paulo (2026, prev.)</li>
+<li><strong>B.A. Ciências Sociais</strong>, Universidade de São Paulo (2023)</li>
+</ul>
+</section>
+</div>
 </div></div>
 </div>
 
-<section id="recent-posts" class="level2">
+<section id="recent-posts" class="level2 lang-en">
 <h2 data-anchor-id="recent-posts">Recent Posts</h2>
 <p>Check out my latest blog posts:</p>
+</section>
+<section id="postagens-recentes" class="level2 lang-pt">
+<h2 data-anchor-id="postagens-recentes">Postagens Recentes</h2>
+<p>Confira as últimas postagens do blog:</p>
+</section>
 <div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1768318143823" data-listing-reading-time-sort="8" data-listing-word-count-sort="1498">
@@ -374,28 +498,256 @@ Untitled
 <div class="quarto-grid-item card h-100 card-left">
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="RGV2ZWxvcG1lbnQlMjBFY29ub21pY3MlMkNJbnN0aXR1dGlvbnMlMkNFY29ub21ldHJpY3MlMkNSZWFkaW5nJTIwbm90ZXM=" data-listing-date-sort="1768291200000" data-listing-file-modified-sort="1768698277699" data-listing-date-modified-sort="1768291200000" data-listing-reading-time-sort="4" data-listing-word-count-sort="629">
-<a href="./posts/Albouy2012.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1768707455041" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<a href="./posts/MA_Acknoledgemnts.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Albouy, D. Y. (2012). The Colonial Origins of Comparative Development: Comment.
+Todos os meus professores anteriores
 </h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 13, 2026
-</div>
-</div>
 </div>
 </div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
+<div class="lang-en">
 <p align="right">
 <a href="./posts.html">All Posts »</a>
 </p>
-<!--
+</div>
+<div class="lang-pt">
+<p align="right">
+<a href="./posts.html">Todas as Postagens »</a>
+</p>
+</div>
+<!--- First non working attempt
+title: "Tales Mançano"
+description-meta: "Political Science Researcher | USP Graduate Program"
+image: "files/images/photo-tales.jpg"
+page-navigation: true
+toc: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:mancano.tales@gmail.com    
+    - text: " ORCID"
+      href: https://orcid.org/0000-0001-5923-9743
+      target: _blank
+    - text: " Google Scholar"
+      href: https://scholar.google.com/citations?user=SEU_ID
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/mancano-tales
+      target: _blank
+
+listing:
+  - id: recent-posts
+    contents: 
+      - posts
+    type: grid
+    max-items: 3
+    page-size: 3
+    fields: [date, title, subtitle]
+    sort: 
+      - "date desc"
+---
+
+:::{#hero-heading}
+
+::: {lang="en"}
+
+# Welcome to my academic website
+
+I'm Tales Mançano, a political science researcher and master's graduate from the Graduate Program in Political Science at the University of São Paulo (FFLCH-USP). My research explores the relationship between institutions, inequality, and public policy, with a focus on post-secondary education, comparative political economy, welfare regimes, and market regulation.
+
+This site gathers information about my academic trajectory, publications, presentations, ongoing projects, and open notes/ideas published periodically in the **Blog Posts** section.
+
+The goal here is to share my activities, organize ideas, and make the research process publicly available—both the results and the paths taken.
+
+## Experience {.unnumbered}
+
+- **Master's Student/Researcher**, University of São Paulo (USP) - FFLCH
+- **Visiting Scholar**, University of Konstanz, Germany
+- **Visiting Student Researcher**, Stanford University, Graduate School of Education, Lemman Center
+
+## Education {.unnumbered}
+
+- **M.A. Political Science**, University of São Paulo (2026, exp.)
+- **B.A. Social Sciences**, University of São Paulo (2023)
+
+:::
+
+::: {lang="pt"}
+
+# Bem-vindo ao meu site acadêmico
+
+Sou Tales Mançano, pesquisador em Ciência Política e mestre pelo Programa de Pós-Graduação em Ciência Política da Universidade de São Paulo (FFLCH-USP). Meus interesses de pesquisa giram em torno da relação entre instituições, desigualdade e políticas públicas, com ênfase na educação pós-secundária, economia política comparada, regimes de bem-estar e regulação de mercados.
+
+Este site reúne informações sobre minha trajetória acadêmica, publicações, apresentações públicas, projetos em andamento e anotações abertas/ideias publicadas periodicamente na seção **Blog Posts**.
+
+A proposta aqui é compartilhar minhas atividades, sistematizar ideias e tornar o processo de pesquisa publicamente acessível—tanto os resultados quanto os caminhos percorridos.
+
+## Experiência {.unnumbered}
+
+- **Mestrando/Pesquisador**, Universidade de São Paulo (USP) - FFLCH
+- **Pesquisador Visitante**, Universidade de Konstanz, Alemanha
+- **Pesquisador Visitante**, Universidade Stanford, Escola de Educação, Lemman Center
+
+## Formação {.unnumbered}
+
+- **M.A. Ciência Política**, Universidade de São Paulo (2026, prev.)
+- **B.A. Ciências Sociais**, Universidade de São Paulo (2023)
+
+:::
+
+:::
+
+::: {lang="en"}
+## Recent Posts
+Check out my latest blog posts:
+:::
+
+::: {lang="pt"}
+## Postagens Recentes
+Confira as últimas postagens do blog:
+:::
+
+:::{#recent-posts}
+:::
+
+::: {lang="en"}
+<p align="right">[All Posts »](/posts.qmd)</p>
+:::
+
+::: {lang="pt"}
+<p align="right">[Todas as Postagens »](/posts.qmd)</p>
+:::
+
+```{=html}
+<script>
+function switchLang(lang) {
+  // Esconde todos os elementos
+  document.querySelectorAll('[lang]').forEach(el => {
+    el.style.display = 'none';
+  });
+  
+  // Mostra apenas o idioma selecionado
+  document.querySelectorAll(`[lang="${lang}"]`).forEach(el => {
+    el.style.display = 'block';
+  });
+  
+  // Atualiza botões ativos
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  event.target.classList.add('active');
+  
+  // Salva preferência no navegador
+  localStorage.setItem('preferredLang', lang);
+}
+
+// Carrega preferência salva quando a página carrega
+window.addEventListener('DOMContentLoaded', () => {
+  const savedLang = localStorage.getItem('preferredLang') || 'en';
+  if (savedLang === 'pt') {
+    document.querySelectorAll('[lang="en"]').forEach(el => el.style.display = 'none');
+    document.querySelectorAll('[lang="pt"]').forEach(el => el.style.display = 'block');
+    document.querySelectorAll('.lang-btn').classList.remove('active');
+    document.querySelectorAll('.lang-btn').classList.add('active');[1]
+  }
+});
+</script>
+
+<!-- OLD VERSION WITHOUT BUTTONS
+---
+title: "Tales Mançano"
+description-meta: "Political Science Researcher | USP Graduate Program"
+image: "files/images/photo-tales.jpg"  # adicione sua foto em files/
+page-navigation: true
+toc: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:mancano.tales@gmail.com    
+    - text: " ORCID"
+      href: https://orcid.org/0000-0001-5923-9743
+      target: _blank
+    - text: " Google Scholar"
+      href: https://scholar.google.com/citations?user=SEU_ID
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/mancano-tales
+      target: _blank
+
+listing:
+  - id: recent-posts
+    contents: 
+      - posts
+    type: grid
+    max-items: 3
+    page-size: 3
+    fields: [date, title, subtitle]
+    sort: 
+      - "date desc"
+---
+
+:::{#hero-heading}
+
+# (EN) Welcome to my academic website
+
+I'm Tales Mançano, a political science researcher and master's graduate from the Graduate Program in Political Science at the University of São Paulo (FFLCH-USP). My research explores the relationship between institutions, inequality, and public policy, with a focus on post-secondary education, comparative political economy, welfare regimes, and market regulation.
+
+This site gathers information about my academic trajectory, publications, presentations, ongoing projects, and open notes/ideas published periodically in the **Blog Posts** section.
+
+The goal here is to share my activities, organize ideas, and make the research process publicly available—both the results and the paths taken.
+
+---
+
+# (PT) Bem-vindo ao meu site acadêmico
+
+Sou Tales Mançano, pesquisador em Ciência Política e mestre pelo Programa de Pós-Graduação em Ciência Política da Universidade de São Paulo (FFLCH-USP). Meus interesses de pesquisa giram em torno da relação entre instituições, desigualdade e políticas públicas, com ênfase na educação pós-secundária, economia política comparada, regimes de bem-estar e regulação de mercados.
+
+Este site reúne informações sobre minha trajetória acadêmica, publicações, apresentações públicas, projetos em andamento e anotações abertas/ideias publicadas periodicamente na seção **Blog Posts**.
+
+A proposta aqui é compartilhar minhas atividades, sistematizar ideias e tornar o processo de pesquisa publicamente acessível—tanto os resultados quanto os caminhos percorridos.
+
+## Experience {.unnumbered}
+
+- **Master's Student/Researcher**, University of São Paulo (USP) - FFLCH
+- **Visiting Scholar**, University of Konstanz, Germany
+- **Visiting Student Researches**, Stanford University, Graduate School of Education, Lemman Center
+
+
+## Education {.unnumbered}
+
+- **M.A. Political Science**, University of São Paulo (2026, exp.)
+- **B.A. Social Sciences**, University of São Paulo (2023)
+
+:::
+
+## Recent Posts
+Check out my latest blog posts:
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>
+
 ---
 title: "Quarto Academic, PhD"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
@@ -495,7 +847,6 @@ I'm a template that you can fork to build your own website with easy adaptation 
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-</section>
 <section id="recent-posts-1" class="level2">
 <h2 data-anchor-id="recent-posts-1">Recent Posts</h2>
 <p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>

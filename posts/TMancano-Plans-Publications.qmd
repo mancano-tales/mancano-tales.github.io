@@ -14,32 +14,65 @@ draft: true
     Author: Tales Mançano (with prospective parts in co-authorshio)
     Statis: in progress
     Prospective deadline
+    Things to do
+    Last Updated: 
+
 
 1. Research article on Anti trust in brazil and creation of multinationals
     title
     autor: Andre Nahoum and Tales Mançano
     Status: In progress (with André Vereta Nahoum)
     State of the project: completed article draft in portugues, artc
+* **Target Journal:** Review of international Political Economy (RIPE)
+    journal url
+* **Status Atual:** Limpeza de dados e rodando regressões de base.
+* **Próximo Passo:** Gerar tabelas de estatística descritiva.
+
 
     Last Updated: 
 
 ## Prospective ideas next in line
 
+### Papers
+
 1. Prouni e Cotas como politicas redistributivas avançadas por movmentos sociais
-    People involded in the process: Tales Mancano, Rebecca Tarlau, Eric Rinaldi
+    People involded in the process: Tales Mancano, Rebecca Tarlau, 
+    People i want to envoleEric Rinaldi
 
     State of the project: BEPE project, non transcribed interview, Resumo do processo de aprovação das cotas
 
 
+1. Replication of Paglayan
 
-## Paralized Working papers
+people to envolve: Eric Rinaldi, Artur Damião, Davi veronese, Agustina Paglayan, Thomas Kang
+People I
+Main argumet:
 
 
+1. Concentração fundiaria e atraso educational?
+people to envolve:
+Main argumet:
+
+Things to do
+
+
+##  Working papers on hold
+
+1. Four Worlds of Brazillian Welfare state
+
+1. Historia politica das ciencias sociais com montezuma
+
+
+
+
+### Intervirew
 
 1. Entrevista com Elizabeth Balbachevsjy
+    State of the project: Hired Research assisten to transcribe the interview
+
 
 1. Entrevista com Reginaldo Prandi
-
+    State of the project: Untranscribed interview
 
 
 
@@ -61,9 +94,21 @@ The performativuty of Marxism: How not only economist ideas, but also revolution
 Argument idea:
 
 
-## Abandoned Ideas
+## Abandoned projects
+
+Artigo com crusp com igor Sena
+status: reprovado por parecerista.
+Argument idea:
+
+    State of the project: Abandonado
+        reason: Perdeu o timing e qualidade era baixa
+
+## Submetido
 
 
+## No prelo
+
+# Publicado
 
 
 

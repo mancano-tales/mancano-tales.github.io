@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: false # Isso impede que o Quarto use versões antigas (congeladas) do seu código
+
 # Meta
 description-meta: "Tales Mançano Academic Website"
 author-meta: "Tales Mançano"
@@ -10,7 +13,41 @@ website:
   title: "Tales Mançano"
   image: ""
   description: "Tales Mançano Academic Website"
- 
+  
+  body-header: |
+    <style>
+    .lang-toggle {
+      position: fixed;
+      top: 70px;
+      right: 20px;
+      z-index: 1000;
+    }
+    .lang-btn {
+      background: transparent;
+      border: 1px solid #666;
+      border-radius: 4px;
+      padding: 5px 12px;
+      margin: 0 2px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.3s;
+    }
+    .lang-btn:hover {
+      background: #f0f0f0;
+    }
+    .lang-btn.active {
+      background: #0366d6;
+      color: white;
+      border-color: #0366d6;
+    }
+    [lang]:not([lang="en"]) { display: none; }
+    [lang="en"] { display: block; }
+    </style>
+    <div class="lang-toggle">
+      <button class="lang-btn active" onclick="switchLang('en')">English</button>
+      <button class="lang-btn" onclick="switchLang('pt')">Português</button>
+    </div>
+
   navbar:
     background: light  # You can change the background color here
 
