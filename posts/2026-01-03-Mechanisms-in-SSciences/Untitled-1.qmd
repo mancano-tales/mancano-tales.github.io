@@ -1,0 +1,118 @@
+---
+title: "Untitled"
+format: html
+---
+
+**Resumo de "Historical Institutionalism in Rationalist and Sociological Perspective" por Peter A. Hall**
+
+O ensaio explora a sobreposição e as contribuições do institucionalismo histórico para as abordagens racionalistas e sociológicas da mudança institucional.
+
+**I. Modelo Racionalista de Mudança Institucional Expandido**
+
+O autor propõe expandir o modelo racionalista para incluir *insights* do institucionalismo histórico, que aborda a mudança institucional como um processo contínuo e incremental. A expansão se baseia em seis pontos:
+
+  * **Pré-condição:** A mudança institucional frequentemente exige a formação de uma coalizão a favor das alterações.
+  * **Crenças Instrumentais:** A incerteza sobre os efeitos da reforma sustenta a estabilidade institucional. As crenças instrumentais, que são esquemas de meios-fins sobre como as novas instituições afetarão o alcance de objetivos, são cruciais para a probabilidade e direção da mudança.
+  * **Ação Coletiva, Organização e Poder:** A mobilização para a reforma enfrenta problemas de ação coletiva, cuja intensidade é influenciada pelas estruturas organizacionais existentes, as quais também condicionam o poder relativo dos atores.
+  * **Questões Distributivas e Crenças Normativas:** A coordenação em novas instituições envolve a resolução de questões distributivas. Sua resolução depende do poder relativo dos atores (custos de oportunidade e capacidade de mobilização) e de crenças normativas sobre justiça.
+  * **Funções de Preferência Multivariadas e Identidades:** As preferências dos atores são multidimensionais. Fatores que ativam identidades específicas podem influenciar o peso que um ator atribui a diferentes variáveis em sua função de preferência.
+  * **Externalidades de Rede e Complementaridades Institucionais:** Os efeitos de novas práticas institucionais são mediados pelas práticas institucionais existentes não alvo de reforma, condicionando assim a posição dos atores.
+
+**II. Institucionalismo Histórico em Perspectiva Sociológica**
+
+Esta abordagem sociológica oferece uma visão alternativa:
+
+  * **Instituições como Ambiguidade:** As instituições são vistas como práticas regularizadas com base em normas passíveis de reinterpretação.
+  * **Mudança por Reinterpretação:** A mudança pode ocorrer por processos desagregados de "interpretação" ou "reinterpretação" dos significados das instituições ao longo do tempo, sem a necessidade de coalizões explícitas.
+  * **Agência Robusta:** As instituições são estruturas habilitadoras dentro das quais os atores exercem uma agência relativamente robusta, em vez de ditar ações específicas.
+  * **Contestação Contínua:** A persistência institucional é vista como resultado de exercícios de poder e interpretação, resultando em uma estabilidade contestada.
+  * **Outras Formas de Mudança:** A mudança também pode ocorrer através da ruptura institucional (revoluções sociais) ou de processos de "abandono" (defection) de práticas antigas e por via experimental, com ajustes *ad hoc* e consequências não intencionais.
+
+
+---
+
+
+O documento, "An Introduction to Varieties of Capitalism" por Peter A. Hall e David Soskice, elabora uma nova estrutura conceitual para entender as diferenças e similaridades entre economias desenvolvidas.
+
+**Abordagem de Variedades de Capitalismo (VoC):**
+
+  * É uma abordagem centrada no ator, vendo a economia política como um terreno povoado por múltiplos atores racionais que se envolvem em interação estratégica.
+  * É centrada na empresa, considerando as empresas como os atores centrais.
+  * A concepção de empresa é relacional; o sucesso depende da coordenação eficaz com outros (empregados, fornecedores, clientes, etc.).
+  * As empresas enfrentam problemas de coordenação em cinco esferas principais: relações industriais, formação e educação profissional, governança corporativa, relações inter-firmas e relações com seus próprios empregados.
+
+**Tipos Ideais de Economias Políticas:**
+As economias nacionais podem ser comparadas pela forma como as empresas resolvem esses problemas de coordenação.
+
+  * **Economias de Mercado Liberal (LMEs):** As empresas coordenam suas atividades principalmente através de arranjos de mercado competitivos, caracterizados pela troca "à distância" e contratação formal, respondendo a sinais de preço.
+  * **Economias de Mercado Coordenado (CMEs):** As empresas dependem mais de relações não-mercadológicas, envolvendo contratação relacional ou incompleta, monitoramento de rede e relações colaborativas para construir competências.
+
+**O Papel das Instituições:**
+
+  * As instituições e organizações fornecem suporte para os tipos de relações que as empresas usam para resolver problemas de coordenação.
+  * Em CMEs, as instituições (associações empresariais fortes, sindicatos fortes, redes de participações acionárias cruzadas) permitem que os atores façam compromissos críveis e reduzam a incerteza.
+  * O conceito de **complementaridades institucionais** sugere que práticas institucionais devem se agrupar; a presença (ou eficiência) de uma instituição aumenta os retornos (ou eficiência) da outra.
+
+**Vantagem Institucional Comparativa:**
+
+  * As estruturas institucionais nacionais fornecem às nações vantagens comparativas em tipos específicos de atividades e produtos.
+  * **LMEs** são mais favoráveis à **inovação radical**, que envolve o desenvolvimento de bens inteiramente novos (ex: biotecnologia, semicondutores).
+  * **CMEs** são mais favoráveis à **inovação incremental**, que envolve melhorias contínuas e em pequena escala aos produtos e processos existentes (ex: bens de capital, máquinas-ferramentas).
+
+
+---
+
+**Resumo de "Imperialism, Dependency, and Dependent Development" (Peter Evans)**
+
+Este capítulo discute a evolução das teorias de imperialismo e dependência e introduz o conceito de "desenvolvimento dependente".
+
+**Imperialismo e Estagnação:**
+
+  * A teoria do imperialismo, desde Hobson, é definida como uma combinação de expansão econômica e dominação política, com o capital do centro adquirindo controle sobre os meios de produção na periferia.
+  * Hobson e Lênin argumentaram que a exportação de capital aceleraria o desenvolvimento do capitalismo em países subdesenvolvidos.
+  * Paul Baran (anos 50) discordou, vendo o imperialismo, baseado no capitalismo monopolista, como uma força que retarda e controla o desenvolvimento econômico de países subdesenvolvidos, aliando-se a elites locais que se opõem à industrialização.
+
+**Mudança no Imperialismo e Teoria da Dependência:**
+
+  * A competição entre países centrais, a mudança no poder de barganha dos estados do terceiro mundo e a evolução das corporações multinacionais transformaram o imperialismo.
+  * A Teoria da Dependência foca nas consequências do imperialismo para a evolução interna dos países periféricos, definindo a dependência como uma situação onde a taxa e direção da acumulação são condicionadas externamente.
+  * A industrialização na periferia é parcial, baseada em tecnologias rotinizadas (modelo do ciclo de vida do produto) e reforça a "desarticulação" da economia.
+  * A exclusão da massa da população é uma característica constante da dependência, levando à crescente desigualdade e à necessidade de exclusão política.
+
+**Desenvolvimento Dependente e a Tríplice Aliança:**
+
+  * "Desenvolvimento dependente" é uma instância especial de dependência caracterizada pela acumulação de capital e industrialização diversificada na periferia, dominando a transformação econômica e social.
+  * Ele envolve uma aliança complexa entre o capital internacional, o capital local e o Estado.
+  * O Brasil é um exemplo avançado que ocupa uma posição distinta de "semiperiferia" no sistema internacional.
+  * As **multinacionais** agem com "racionalidade limitada", tendendo a centralizar a inovação, promover tecnologias do centro e contribuir para a concentração de renda, exacerbando o exclusivismo.
+  * O **capital local** sobrevive através de alianças e nichos.
+  * O **Estado** é central, atuando como agente de acumulação e controle social. Ele precisa negociar com as multinacionais, e empresas estatais podem aumentar seu poder de barganha. A necessidade de repressão é grande, e a "autocracia burguesa" substitui a democracia burguesa.
+
+
+---
+
+Claro, aqui está um resumo abrangente e estruturado do documento:
+
+O livro, *The Political Power of Economic Ideas: Keynesianism across Nations*, editado por Peter A. Hall, analisa o impacto das ideias Keynesianas em várias nações. O volume é o produto de um grupo de trabalho estabelecido pelo Comitê de Estados e Estruturas Sociais do Conselho de Pesquisa em Ciências Sociais (SSRC).
+
+**Objetivos Principais do Volume:**
+
+  * Rastrear o impacto das ideias Keynesianas nas nações industrializadas.
+  * Explicar por que as ideias e políticas Keynesianas foram aceitas em algumas nações e não em outras.
+  * Analisar a disposição dos governos em se engajar no financiamento de déficits durante a década de 1930 ou na gestão anticíclica da demanda no pós-guerra.
+  * Explorar o papel do Keynesianismo como um conjunto de ideias simbólicas que influenciaram coalizões de classe e compromissos políticos no pós-guerra.
+
+**Princípios Keynesianos de Política (Foco do Livro):**
+O foco principal é na prontidão dos governos em intervir na economia de acordo com os princípios da gestão anticíclica da demanda. Estes princípios derivam da *The General Theory of Employment, Interest and Money* (1936) de Keynes:
+
+  * **Instabilidade da Economia Privada:** A economia privada é fundamentalmente instável e propensa à estagnação em níveis de emprego desnecessariamente baixos, exigindo intervenção governamental.
+  * **Gestão da Demanda Agregada:** O governo pode influenciar os níveis de crescimento e emprego gerindo a demanda agregada, principalmente aumentando os gastos (ou reduzindo impostos).
+  * **Papel da Política Fiscal:** Ênfase na política fiscal, rejeitando o princípio de que o orçamento do governo deve ser equilibrado, em favor do gasto deficitário em recessões e superávits em períodos de inflação.
+
+**Perspectivas Teóricas sobre a Aceitação das Ideias:**
+O volume identifica três abordagens para explicar a aceitação das ideias Keynesianas:
+
+  * **Centrada no Economista:** Enfatiza a persuasão das ideias entre os economistas e seu papel na assessoria política (modelo de "gotejamento ascendente").
+  * **Centrada no Estado:** Foca na configuração institucional do estado e em suas experiências políticas prévias como fatores que influenciam a receptividade a novas ideias econômicas.
+  * **Centrada na Coalizão:** Destaca a capacidade dos políticos de construir coalizões de apoio entre grupos sociais, cujos interesses são considerados favoráveis às medidas Keynesianas.
+ss

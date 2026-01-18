@@ -8,6 +8,8 @@ categories: [Courses, Reading notes] # Adicione suas categorias aqui
 
 What are the central research questions or problems raised by the authors? 
 
+
+
 What core concepts, evidence, and research methods are utilized? 
 
 As you do the readings, think about what the author did right as well as wrong.  

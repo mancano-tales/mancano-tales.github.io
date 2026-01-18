@@ -1,0 +1,70 @@
+---
+title: "Notes for Carnoy 1984"
+description: "Text notes"
+date: "2026-01-12"
+date-modified: "2026-01-12"
+categories: [Political Economy, Text notes] # Adicione suas categorias aqui
+---
+
+Aqui está um resumo abrangente e estruturado do texto fornecido:
+
+O livro, *The State and Political Theory*, de Martin Carnoy, visa analisar o conceito de Estado a partir de uma perspectiva de classe. O crescimento do setor público, ou Estado, tornou-se uma questão crucial nas sociedades de hoje, pois ele detém a chave para o desenvolvimento econômico, a segurança social e a liberdade individual.
+
+**Principais Propósitos do Livro:**
+
+  * Chamar a atenção para o Estado como objeto de investigação.
+  * Demonstrar que as discussões sobre o Estado refletem diferentes visões da sociedade e do papel do Estado.
+  * Mostrar que visões distintas do Estado implicam diferentes políticas de mudança social.
+
+**Estrutura da Análise de Teorias do Estado:**
+O livro compara a visão dominante americana, centrada no pluralismo e corporativismo, com as teorias marxistas.
+
+  * **Teorias do "Bem Comum" (Clássicas e Liberais):**
+      * **Clássica (Hobbes, Locke, Rousseau):** Substituiu o direito divino pelos direitos individuais, baseando a autoridade na razão humana e no "bem comum".
+      * **Liberal (Adam Smith, Utilitaristas):** Smith argumentou que o interesse individual (ganho material) maximiza o bem-estar coletivo. Utilitaristas como Bentham e James Mill viam o Estado como necessário para proteger a propriedade e garantir a segurança, mas não para produzir subsistência ou abundância.
+  * **Pluralismo:**
+      * Modelo empírico em que o Estado é um árbitro neutro.
+      * Schumpeter e os pluralistas veem a democracia como um mecanismo de mercado para escolher líderes (políticos), não como um meio para alcançar o "bem comum".
+  * **Marxistas (Pós-Leninistas):** O livro discute cinco contribuições principais, que veem o Estado a partir de uma perspectiva de classe.
+      * **Gramsci:** O Estado é um aparelho ideológico que ajuda a legitimar a hegemonia da classe capitalista.
+      * **Estruturalismo (Althusser e Poulantzas):** A forma e função do Estado capitalista são determinadas pelas relações de classe e o Estado é "relativamente autônomo".
+      * **Derivacionista (Joachim Hirsch):** A função do Estado é deduzida do processo de acumulação de capital.
+      * **Política (Claus Offe):** O Estado é independente do controle capitalista, mas representa seus interesses e é o local principal das crises.
+      * **Luta de Classes (Pietro Ingrao e Poulantzas posterior):** O Estado em si é uma arena de conflito de classes, moldado e disputado pelas relações de classe.
+
+As tendências recentes na teoria marxista apontam para o Estado como o foco principal da luta de classes e para uma estratégia de transição para o socialismo que é fundamentalmente democrática.
+
+Especificamente o Capítulo 7 sobre teoria da dependência:
+
+O Capítulo 7 do livro, intitulado **"O Estado Dependente"**, discute a natureza e as características do Estado nas sociedades capitalistas menos industrializadas, frequentemente referidas como Terceiro Mundo.
+
+O capítulo explora se o Estado nestes países é um resquício de formas políticas antigas, uma fase temporária do capitalismo, ou se é fundamentalmente diferente devido à sua industrialização tardia e à sua relação histórica com as economias já industrializadas.
+
+Os principais pontos abordados são:
+
+### 1\. Antecedentes Históricos e Teóricos
+
+  * **Visão Marxista:** O capítulo contextualiza a discussão com as visões de Marx sobre o colonialismo, que via a dominação britânica na Índia como uma força "destrutiva, a outra regeneradora" contra uma sociedade estagnada, mas via o domínio na Irlanda como destrutivo e subdesenvolvedor.
+  * **Lenin e o Imperialismo:** Lenin argumentou que o imperialismo é uma fase necessária do capitalismo, impulsionada pela exportação de capital devido ao excesso de acumulação e à rivalidade entre potências capitalistas.
+  * **O Estado Colonial:** O Estado colonial não representava as classes sociais da colônia, mas subordinava-as à classe capitalista metropolitana, com a função de tornar toda a economia da colônia subserviente à economia metropolitana.
+
+### 2\. Modelos de Sistema Mundial (Frank e Amin)
+
+  * **Tese Central:** Esta perspectiva (representada por Frank e Amin) vê o desenvolvimento (ou subdesenvolvimento) do capitalismo do Terceiro Mundo como parte do desenvolvimento do processo de produção mundial.
+  * **O Estado Dependente como Instrumento:** O Estado é visto como um instrumento essencial para administrar o papel dependente dessas economias na divisão internacional do trabalho e no processo mundial de acumulação de capital.
+  * **Natureza do Estado:** O Estado periférico é "muito mais um instrumento do capital estrangeiro do que do capital local". É relativamente forte e autônomo em relação à sua burguesia local, mas fundamentalmente fraco e dependente da burguesia internacional. Sua função é garantir o acesso aos recursos domésticos para o capital metropolitano, mobilizando fundos públicos e reformando a estrutura social para disponibilizar mão de obra para as exportações.
+
+### 3\. Dependência Histórico-Estrutural (Cardoso e Faletto)
+
+  * **Ênfase na Luta de Classes:** Cardoso e Faletto rejeitam a derivação mecânica das sociedades dependentes unicamente da "lógica da acumulação capitalista". Eles enfatizam a **"transformação histórica das estruturas por meio de conflitos, movimentos sociais e luta de classes"**.
+  * **Fatores Locais:** A forma e as políticas do Estado resultam de como os "setores das classes locais se aliaram ou se chocaram com interesses estrangeiros" e organizaram diferentes formas de Estado.
+  * **O Estado como Arena de Conflito:** O Estado dependente é uma arena primária de conflito de classes, e a pressão dos grupos populares ("el pueblo") força o Estado em uma direção democrática. O Estado é fundamental para a organização do mercado interno e da acumulação de capital local.
+
+### 4\. O Novo Autoritarismo (Autoritarismo Burocrático)
+
+  * **Características:** O regime de autoritarismo burocrático é um tipo de corporatismo que é "garantidor e organizador da dominação exercida através de uma estrutura de classes subordinada às frações superiores de uma burguesia altamente oligopolizada e transnacionalizada". Ele exclui politicamente os setores populares por meio da coerção e economicamente, redirecionando os gastos sociais para a infraestrutura e a burocracia estatal.
+  * **Debate sobre a Origem:** Enquanto Frank e O'Donnell (em sua fase inicial) argumentavam que o regime era uma resposta **necessária** à crise de acumulação ou à necessidade de aprofundar a industrialização, Cardoso e Stepan discordam. Eles veem o autoritarismo burocrático como uma resposta a uma **exigência política**—a ameaça à hegemonia da elite por movimentos populares—e o consideram um "tipo de regime político" e não uma forma estruturalmente inevitável do Estado.
+
+### Conclusão do Capítulo
+
+O capítulo conclui que o Estado autoritário é **frágil** devido à sua base social limitada e à "nostalgia pela democracia". A luta pela democracia é um elemento dinâmico e unificador para a transformação social. A degeneração do autoritarismo burocrático está intimamente ligada à expansão democrática nas metrópoles.

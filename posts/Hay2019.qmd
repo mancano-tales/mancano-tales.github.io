@@ -1,0 +1,30 @@
+---
+title: "Hay, C. (2019). Does capitalism (still) come in varieties?"
+description: "Reading notes on the evolution of the Varieties of Capitalism (VoC) framework."
+date: "2026-01-13"
+date-modified: "2026-01-13"
+categories: [Political Economy, Varieties of Capitalism, Comparative Politics, Reading notes]
+---
+
+_Full citation:_ Hay, Colin (2019). Does capitalism (still) come in varieties?, Review of International Political Economy, 27:1, 1-19. https://doi.org/10.1080/09692290.2019.1633382
+
+## Personal Notes and highlights
+
+* ## LLM Generated content
+
+### _Summary_
+
+In this article, Colin Hay provides a "state of the art" reflection on the **Varieties of Capitalism (VoC)** perspective nearly two decades after its inception. He argues that while the core intuition of the framework—that national institutional differences persist despite globalization—remains valid, the original binary (LME vs. CME) is increasingly insufficient.
+
+
+
+Hay identifies three major shifts in the contemporary landscape:
+1. **The move from 'Firm-Centric' to 'Growth Models':** Scholars are shifting focus from how firms coordinate to how national economies generate growth (e.g., export-led vs. debt-led consumption).
+2. **Internal Diversity:** Recognition that "varieties" exist within the clusters, and that the "Mediterranean" or "Emerging" models deserve distinct theoretical status.
+3. **Common Pathologies:** Regardless of their variety, most capitalist economies are currently grappling with the same "secular stagnation" and the overarching crisis of financialization.
+
+### _NotebookLM_
+
+### _Gemini at Google Drive_ 
+
+### _Perplexity with Claude Sonet 4.5_

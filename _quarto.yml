@@ -20,9 +20,7 @@ website:
       - text: About
         menu:
           - text: Posts
-            href: posts.qmd#category=posts
-          - text: Working Papers
-            href: posts.qmd#category=papers      
+            href: posts.qmd
           - text: Contact
             href: contact.qmd             
       - text: Research
@@ -85,7 +83,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  #site-url: "https://drganghe.github.io/quarto-academic-website-template"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
