@@ -1,0 +1,455 @@
+---
+title: "Tales Mançano - Research Pipeline"
+subtitle: "Sistema de gestão de projetos acadêmicos"
+date: "2026-01-16"
+author: "Tales Mançano"
+categories: ["research", "meta", "pipeline"]
+listing:
+  contents: TMancano-Projects_Planning/*.qmd
+  type: table
+  fields: [title, status, priority, type, next_step, prospective_deadline]
+  sort: "priority desc"
+  filter-ui: true
+  sort-ui: true
+  categories: true
+  field-display-names:
+    title: "Project Title"
+    status: "Status"
+    priority: "Priority"
+    type: "Type"
+    next_step: "Next Step"
+    prospective_deadline: "Deadline"
+  field-types:
+    date: date
+    prospective_deadline: date
+  page-size: 50
+  table-striped: true
+  table-hover: true
+---
+
+## 📊 Research Pipeline Dashboard
+
+Este sistema gerencia todos os meus projetos de publicação acadêmica usando um arquivo JSON centralizado como **Single Source of Truth**.
+
+
+
+<!-- ```{r}
+# No console do RStudio, execute:
+# 1. Limpar arquivos antigos
+unlink("posts/2026_01_16_TMancano_Plans_Projects/projects/*.qmd")
+
+# 2. Executar
+source("posts/2026_01_16_TMancano_Plans_Projects/R_Engine.R")
+main()
+
+``` -->
+
+### Status dos Projetos
+
+- 🟢 **Work in Progress**: Escrita/análise ativa
+- 🟡 **Prospective**: Projeto planejado, não iniciado
+- 💡 **Prospective Idea**: Ideia inicial, fase de ideação
+- 🟠 **On Hold**: Temporariamente pausado
+- 🔴 **Abandoned**: Descontinuado
+- 📮 **Submitted**: Enviado para revisão
+- ✅ **Published**: Aceito e publicado
+
+### Workflow de Gestão
+
+1. **Editar dados**: Modifique `TMancano-Plans-Projects.json`
+2. **Gerar arquivos**: Execute `generate_projects.R`
+3. **Escrever notas**: Edite os arquivos `.qmd` gerados
+4. **Atualizar metadados**: Repita passos 1-2 (notas são preservadas!)
+
+### Recursos do Sistema
+
+- ✅ JSON centralizado com schema estruturado (v1.0)
+- ✅ Preservação automática de notas e conteúdo escrito
+- ✅ Tracking de milestones e pending tasks
+- ✅ Histórico de status changes
+- ✅ Metadados ricos (JEL codes, keywords, methodology)
+- ✅ Gestão de colaboradores e instituições
+- ✅ Links para recursos externos (GitHub, OSF, Overleaf)
+- ✅ Tracking de submissions e publications
+
+
+<!-- 2 -
+title: "Project Planning and Organization"
+subtitle: "Academic publication projects in progress"
+date: "2026-01-17"
+last-modified: "2026-01-17"
+draft: true
+categories: ["research", "meta"]
+listing:
+  contents: projects/*.qmd
+  type: table
+  fields: [title, status, type, date, deadline, venue]
+  sort: "date desc"
+  filter-ui: true
+  sort-ui: true
+  categories: true
+  field-display-names:
+    title: "Project Title"
+    status: "Status"
+    type: "Type"
+    date: "Started"
+    deadline: "Deadline"
+    venue: "Target Venue"
+  field-types:
+    date: date
+    deadline: date
+  page-size: 20
+  table-striped: true
+  table-hover: true
+---
+
+## About This Pipeline
+
+Esta página rastreia todos os meus projetos de publicação acadêmica, desde ideias prospectivas até manuscritos em desenvolvimento. Cada projeto tem uma página dedicada com notas metodológicas, revisão de literatura e atualizações de progresso.
+
+### Status Legend
+
+- **Prospective**: Ideia inicial, ainda não iniciado
+- **Work-in-Progress**: Escrita/análise ativa
+- **On-Hold**: Temporariamente pausado
+- **Abandoned**: Descontinuado
+- **Submitted**: Em revisão
+- **Published**: Aceito e publicado
+
+### Como Usar
+
+- **Filtrar**: Use a caixa de busca para filtrar por palavras-chave, autores ou venue
+- **Ordenar**: Clique nos cabeçalhos das colunas
+- **Visualizar**: Clique em qualquer título para ver detalhes completos
+
+
+
+
+<!---
+title: "Planning Papers and Publications"
+description: "Repositório central de ideias, working papers e prospecções de artigos."
+date: "2026-01-18"
+date modified: "2026-01-18"
+categories: [Planning, Working Papers]
+draft: true
+---
+
+## Work in progress
+
+1. MA Dissertation
+    Tittle: Education intequality ttiary education in BRazil: political economy of redistrubuteve policies
+    Author: Tales Mançano (with prospective parts in co-authorshio)
+    Statis: in progress
+    Prospective deadline
+    Things to do
+    Last Updated: 
+
+
+1. Research article on Anti trust in brazil and creation of multinationals
+    title
+    autor: Andre Nahoum and Tales Mançano
+    Status: In progress (with André Vereta Nahoum)
+    State of the project: completed article draft in portugues, artc
+* **Target Journal:** Review of international Political Economy (RIPE)
+    journal url
+* **Status Atual:** Limpeza de dados e rodando regressões de base.
+* **Próximo Passo:** Gerar tabelas de estatística descritiva.
+
+
+    Last Updated: 
+
+## Prospective ideas next in line
+
+### Papers
+
+1. Prouni e Cotas como politicas redistributivas avançadas por movmentos sociais
+    People involded in the process: Tales Mancano, Rebecca Tarlau, 
+    People i want to envoleEric Rinaldi
+
+    State of the project: BEPE project, non transcribed interview, Resumo do processo de aprovação das cotas
+
+
+1. Replication of Paglayan
+
+people to envolve: Eric Rinaldi, Artur Damião, Davi veronese, Agustina Paglayan, Thomas Kang
+People I
+Main argumet:
+
+
+1. Concentração fundiaria e atraso educational?
+people to envolve:
+Main argumet:
+
+Things to do
+
+
+##  Working papers on hold
+
+1. Four Worlds of Brazillian Welfare state
+
+1. Historia politica das ciencias sociais com montezuma
+
+
+
+
+### Intervirew
+
+1. Entrevista com Elizabeth Balbachevsjy
+    State of the project: Hired Research assisten to transcribe the interview
+
+
+1. Entrevista com Reginaldo Prandi
+    State of the project: Untranscribed interview
+
+
+
+## Prospective Ideas with interesting arguments
+
+
+There is no Such thing as rationality: how there is no such action you can always consider rational in a larger scale
+
+Argument idea:
+
+Coroneis e Comunistas: como instituições que davam vatnagens aos coroneirs foram apropriadas por comunistas para capturar a UNE?
+
+Argument idea:
+
+
+
+The performativuty of Marxism: How not only economist ideas, but also revolutionary marxism performed the world
+
+Argument idea:
+
+
+## Abandoned projects
+
+Artigo com crusp com igor Sena
+status: reprovado por parecerista.
+Argument idea:
+
+    State of the project: Abandonado
+        reason: Perdeu o timing e qualidade era baixa
+
+## Submetido
+
+
+## No prelo
+
+# Publicado
+
+
+
+---
+
+
+# Lista de Trabalhos em Andamento
+
+## Em Progresso
+
+### Dissertação de Mestrado
+**Título:** Education Inequality in Tertiary Education in Brazil: Political Economy of Redistributive Policies
+
+**Autor:** Tales Mançano (com partes prospectivas em coautoria)
+
+**Status:** Em andamento
+
+**Prazo Prospectivo:** [a definir]
+
+**Tarefas Pendentes:** [a definir]
+
+**Última Atualização:** [a definir]
+
+***
+
+### Artigo sobre Antitruste no Brasil e Criação de Multinacionais
+**Título:** [a definir]
+
+**Autores:** André Vereta Nahoum e Tales Mançano
+
+**Status:** Em andamento — artigo rascunho completo em português
+
+**Periódico-Alvo:** Review of International Political Economy (RIPE) | [URL do periódico]
+
+**Estado do Projeto:** Limpeza de dados e rodando regressões de base
+
+**Próximo Passo:** Gerar tabelas de estatística descritiva
+
+**Última Atualização:** [a definir]
+
+***
+
+## Ideias Prospectivas em Fila
+
+### ProUni e Cotas como Políticas Redistributivas Avançadas por Movimentos Sociais
+**Pessoas Envolvidas:** Tales Mançano, Rebecca Tarlau
+
+**Pessoas a Envolver:** Eric Rinaldi
+
+**Estado do Projeto:** Projeto BEPE, entrevistas não transcritas, resumo do processo de aprovação das cotas
+
+**Argumento Principal:** [a definir]
+
+**Última Atualização:** [a definir]
+
+***
+
+### Replicação do Trabalho de Paglayan
+**Pessoas a Envolver:** Eric Rinaldi, Artur Damião, Davi Veronese, Agustina Paglayan, Thomas Kang
+
+**Argumento Principal:** [a definir]
+
+**Tarefas Pendentes:** [a definir]
+
+**Última Atualização:** [a definir]
+
+***
+
+### Concentração Fundiária e Atraso Educacional
+**Pessoas a Envolver:** [a definir]
+
+**Argumento Principal:** [a definir]
+
+**Tarefas Pendentes:** [a definir]
+
+**Última Atualização:** [a definir]
+
+***
+
+## Working Papers em Espera
+
+### Four Worlds of Brazilian Welfare State
+**Status:** Em espera
+
+**Última Atualização:** [a definir]
+
+***
+
+### História Política das Ciências Sociais com Montezuma
+**Status:** Em espera
+
+**Última Atualização:** [a definir]
+
+***
+
+## Entrevistas
+
+### Entrevista com Elizabeth Balbachevsky
+**Estado do Projeto:** Assistente de pesquisa contratado para transcrever a entrevista
+
+**Última Atualização:** [a definir]
+
+***
+
+### Entrevista com Reginaldo Prandi
+**Estado do Projeto:** Entrevista não transcrita
+
+**Última Atualização:** [a definir]
+
+***
+
+## Ideias Prospectivas com Argumentos Interessantes
+
+### There Is No Such Thing as Rationality
+**Argumento:** How there is no action you can always consider rational in a larger scale
+
+***
+
+### Coronéis e Comunistas
+**Argumento:** Como instituições que davam vantagens aos coronéis foram apropriadas por comunistas para capturar a UNE?
+
+***
+
+### The Performativity of Marxism
+**Argumento:** How not only economic ideas, but also revolutionary Marxism performed the world
+
+***
+
+## Projetos Abandonados
+
+### Artigo sobre CRUSP com Igor Sena
+**Status:** Rejeitado por parecerista
+
+**Motivo do Abandono:** Perdeu o timing e qualidade era baixa
+
+**Última Atualização:** [a definir]
+
+***
+
+## Submetido
+
+[Nenhum projeto no momento]
+
+***
+
+## No Prelo
+
+[Nenhum projeto no momento]
+
+***
+
+## Publicado
+
+[Nenhuma publicação registrada]
+
+***
+
+Organizei a lista com categorias coerentes para facilitar o acompanhamento. Gostaria de adicionar mais detalhes a algum dos projetos ou ajustar a estrutura de alguma forma?
+
+---
+
+
+
+|--------|----------|
+| 📝 **Em Progresso** | [Título Curto 1], [Título Curto 2] |
+| 💡 **Ideias/Prospecção** | [Ideia A], [Ideia B] |
+| 🚀 **Submetidos/Revisão** | [Título Artigo C] |
+
+---
+
+## 📝 1. Papers em Progresso (Working Papers)
+*Projetos com base de dados montada ou escrita iniciada.*
+
+### **[Projeto 1: Título Provisório]**
+* **Objetivo:** Investigar a relação entre X e Y.
+* **Coautores:** [Nome ou N/A]
+* **Target Journal:** [Ex: American Economic Review]
+* **Status Atual:** Limpeza de dados e rodando regressões de base.
+* **Próximo Passo:** Gerar tabelas de estatística descritiva.
+
+### **[Projeto 2: Título Provisório]**
+* **Objetivo:** Replicar o modelo de [Autor] com novos dados de [País].
+* **Status Atual:** Redigindo a seção de Metodologia.
+
+---
+
+## 💡 2. Ideias e Prospecção (Backlog)
+*Intuições, lacunas de literatura encontradas ou "insights" de conversas.*
+
+* **Ideia A:** "Efeito de [Evento Histórico] no desenvolvimento de [Região]."
+    * *Nota:* Vi um gráfico no Twitter/X que sugeria uma correlação. Preciso checar se existe IV disponível.
+* **Ideia B:** "Uso de LLMs para extração de dados em arquivos coloniais."
+    * *Nota:* Conversar com o departamento de computação sobre viabilidade técnica.
+
+---
+
+## 🔍 3. Revisão de Literatura & Notas Rápidas
+*Espaço para conectar leituras recentes com possíveis novos papers.*
+
+* **Albouy (2012):** A crítica sobre a mortalidade dos colonos abre espaço para testar o instrumento de [Outro Autor] em uma amostra de países africanos?
+* **Acemoglu et al. (2025?):** Ficar de olho na nova linha de pesquisa sobre IA e Instituições.
+
+---
+
+## 📅 4. Planejamento de Submissões e Conferências
+*Datas importantes para não perder prazos.*
+
+* **Conferência X:** Deadline em Março/2026. (Tentar enviar o Projeto 1).
+* **Chamada Especial Journal Y:** Foco em Econometria Aplicada - Outubro/2026.
+
+---
+
+## 📓 Diário de Pesquisa (Log de Insights)
+*Espaço livre para descarregar o cérebro sem filtro.*
+
+* **[2026-01-18]:** Tive um insight sobre como tratar o erro padrão no projeto X. Preciso testar o clustering por município.
+* **[2026-01-15]:** A base de dados do IBGE que eu procurava foi atualizada. Verificar viabilidade.

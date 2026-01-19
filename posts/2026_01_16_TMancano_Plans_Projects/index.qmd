@@ -1,0 +1,209 @@
+---
+title: "Research Pipeline - Tales Mançano"
+subtitle: "Planning Papers and Publications"
+description: "Repositório central de ideias, working papers e prospecções de artigos"
+date: "2026-01-18"
+author: "Tales Mançano"
+categories: [Planning, Research, Pipeline]
+draft: true
+toc: true
+toc-depth: 2
+---
+
+## 📊 Overview
+
+Sistema de gestão de projetos acadêmicos com **13 projetos** em diferentes estágios.
+
+**Last Pipeline Update:** 2026-01-18
+
+### Projects by Status
+
+- **Abandoned:** 1
+- **On Hold:** 3
+- **Prospective:** 2
+- **Prospective Idea:** 3
+- **Work in Progress:** 4
+
+---
+
+## 🟢 Work in Progress
+
+### Education Inequality in Tertiary Education in Brazil: Political Economy of Redistributive Policies
+
+   - **Type:** Dissertation
+   - **Authors:** Tales Mançano
+   - **State:** In progress
+   - **Last Updated:** 2026-01-18
+
+
+   - Atualizar Next Step para preparar apresentação para o centro Lemann
+   - Terminar de consolodar uma preimeira versão do Paper
+---
+
+### Antitrust in Brazil and Creation of Multinationals
+
+   - **Type:** Research Article
+   - **Authors:** André Vereta Nahoum, Tales Mançano
+   - **State:** Complete draft in Portuguese
+   - **Target Journal:** [Review of International Political Economy (RIPE)](https://www.tandfonline.com/journals/rrip20)
+   - **Next Step:** Wait for Coauthor
+   - **Deadline:** 2026-06-30
+   - **Last Updated:** 2026-01-17
+
+---
+
+### ProUni and Quotas as Redistributive Policies Advanced by Social Movements
+
+   - **Type:** Research Article
+   - **Authors:** Tales Mançano, Rebecca Tarlau
+   - **People to Involve:** Eric Rinaldi
+   - **State:** BEPE project, summary of quota approval process completed
+   - **Next Step:** Organize Project and Schedule meeting with Rebecca Tarlau
+   - **Last Updated:** 2026-01-18
+
+--- Adicionar Malu e Kieran nas people to envolve?
+
+---
+
+### Interview with Elizabeth Balbachevsky
+
+   - **Type:** Interview
+   - **Authors:** Tales Mançano, Elizabeth Balbachevsky
+   - **State:** Research assistant hired to transcribe the interview
+   - **Next Step:** Transcribe interview
+   - **Last Updated:** 2026-01-18
+
+
+-- Tentar conseguir
+
+
+## 🟡 Prospective Projects - Next in Line
+
+### Replication of Paglayan's Work
+
+   - **Type:** Research Article
+   - **Authors:** Tales Mançano
+   - **People to Involve:** Eric Rinaldi, Artur Damião, Davi Veronese, Thomas Kang, Agustina Paglayan
+   - **State:** Ideation phase
+   - **Next Step:** Re-read Paglayan's Work
+   - **Last Updated:** 2026-01-18
+
+
+--- Falar com Davi Veronese sobre a ideia
+
+---
+
+### Land Concentration and Educational Backwardness
+
+   - **Type:** Research Article
+   - **Authors:** Tim Wegenast
+   - **People to Involve:** Clara Bicalho, Rebecca Tarlau
+   - **State:** Ideation phase
+   - **Next Step:** Literature review
+   - **Main Argument:** Existem bancos de dados sobre soncentração de terra e sobre matrículas. Me parece que, seguindo o que já fez Wegenast e também Daniel Ziblatt, pode ser possivel fazer uma análise histórica comparativa que encontre efeito causal entre concentração de Terra e Expansão educacional.
+   - **Last Updated:** 2026-01-18
+
+
+--- Deixar em banho Maria, talvez mencionar para clara bicalho
+
+
+## 💡 Prospective Ideas
+
+### There Is No Such Thing as Rationality
+
+   - **Type:** Essay/Article
+   - **Authors:** Tales Mançano
+   - **State:** Ideation phase
+   - **Main Argument:** How there is no action you can always consider rational in a larger scale
+   - **Last Updated:** 2026-01-18
+
+   - Organizar conversa do Eric sobre o tema
+---
+
+### Coronéis e Comunistas
+
+   - **Type:** Research Article
+   - **Authors:** Tales Mançano
+   - **State:** Ideation phase
+   - **Main Argument:** How institutions that gave advantages to colonels were appropriated by communists to capture UNE?
+   - **Last Updated:** 2026-01-18
+
+---
+
+### The Performativity of Marxism
+
+   - **Type:** Essay/Article
+   - **Authors:** Tales Mançano
+   - **State:** Ideation phase
+   - **Main Argument:** How not only economic ideas, but also revolutionary Marxism performed the world
+   - **Last Updated:** 2026-01-18
+
+
+
+## 🟠 Working Papers on Hold
+
+### Four Worlds of Brazilian Welfare State
+
+   - **Type:** Working Paper
+   - **Authors:** Tales Mançano
+   - **State:** On hold
+   - **Next Step:** Resume writing
+   - **Last Updated:** 2025-06-01
+
+---
+
+### Political History of Social Sciences with Montezuma
+
+   - **Type:** Research Article
+   - **Authors:** Tales Mançano, Juan Michel Montezuma
+   - **State:** On hold
+   - **Next Step:** Schedule meeting with Montezuma
+   - **Last Updated:** 2025-09-01
+
+---
+
+### Interview with Reginaldo Prandi
+
+   - **Type:** Interview
+   - **Authors:** Tales Mançano, Reginaldo Prandi
+   - **State:** Untranscribed interview
+   - **Next Step:** Transcribe interview
+   - **Last Updated:** 2026-01-18
+
+
+## 🎤 Interviews
+
+_Nenhum projeto neste status._
+
+## 🔴 Abandoned Projects
+
+### Article on CRUSP with Igor Sena
+
+   - **Type:** Research Article
+   - **Authors:** Tales Mançano, Igor Sena
+   - **State:** Rejected by reviewer, not revised
+   - **Last Updated:** 2024-11-15
+
+
+## 📮 Submitted for Review
+
+_Nenhum projeto neste status._
+## ✅ Published
+
+_Nenhum projeto neste status._
+
+---
+
+## 🔧 System Info
+
+Este pipeline é gerenciado através de um arquivo JSON centralizado (`TMancano_Plans_Projects.json`).
+
+**Workflow:**
+1. Editar JSON para adicionar/atualizar projetos
+2. Executar `generate_index.R` para atualizar esta página
+3. Render do site com `quarto render`
+
+**Total de projetos:** 13  
+**Schema version:** 1.0  
+**Generated:** 2026-01-18 10:16:28
+
