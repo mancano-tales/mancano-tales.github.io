@@ -1,8 +1,0 @@
----
-title: "Notes for EDUC-483-01-SOC-373"
-description: "Class Notes"
-date: "2026-01-07"
-date-modified: "2026-01-07"
-categories: [Courses, Class notes] # Adicione suas categorias aqui
----
-
