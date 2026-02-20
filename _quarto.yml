@@ -126,7 +126,7 @@ website:
     tracking-id: ""  # Please delete or replace with your own tracking ID
     anonymize-ip: true 
 
-bibliography: "C:\\Users\\Mancano\\Documents\\MancanoSync\\MA-TMancano\\2025-10-14-MA-TMancano-Library.bib" # Add references.bib to the root folder to enable the bibliography function
+bibliography: "references.bib" # Add references.bib to the root folder to enable the bibliography function
 
 format:
   html:
