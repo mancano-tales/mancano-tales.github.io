@@ -1,0 +1,377 @@
+---
+title: "Huber, E., & Stephens, J. D. (2024). Challenging Inequality: Variation across Postindustrial Societies. University of Chicago Press"
+description: "Reading on Huber and Stephens (2024"
+date: "2026-02-19"
+date-modified: "2026-02-19"
+categories: [Courses, Reading notes] # Adicione suas categorias aqui
+---
+
+What are the central research questions or problems raised by the authors? 
+
+What core concepts, evidence, and research methods are utilized? 
+
+As you do the readings, think about what the author did right as well as wrong.  
+
+What are the interesting ideas in the paper?  
+
+If you disagree with an argument, what would it require to persuade you?  
+
+Can these differences be adjudicated through further empirical study?  
+
+_Full citation:_ Huber, E., & Stephens, J. D. (2024). Challenging Inequality: Variation across Postindustrial Societies. University of Chicago Press. https://doi.org/10.7208/chicago/9780226834641.001.0001
+
+
+## Personal Notes and highlights
+
+Minha primeira impressão do texto é que ele tenta pensar como uma série de variáveis exógenas (*1.* globalização, *1.*mudança tecnológica, *1.*transição para economia do conhecimento) às instituições passaram a levar a uma aumento na desigualdade no mundo todo, mas esse aumento nõa foi igual em todo lugar, os países que  tninham instituições mais redistributivas (porqu)e que a classe trabalhadora era mais forte tiveram um menor aumento na desigualdade.
+
+A Conclusão é que a  **power resources theory (PRT)** se mantem como explicação central nesse processo.
+
+
+Takeaways Principais
+Power Resources Theory (PRT) e institucionalismo continuam válidos.
+
+
+   Eles sistematizam cinco grandes grupos de fatores para o lado da **renda de mercado**:  
+   - transformações econômicas (desindustrialização, transição para serviços e economia do conhecimento, financeirização);  
+   - globalização (comércio, outsourcing, mobilidade de capital, imigração);  
+   - mudanças nas instituições de mercado de trabalho (proteção ao emprego, estrutura de negociação, sindicalização, salário mínimo, dualização entre insiders e outsiders);  
+   - demografia (envelhecimento, famílias monoparentais);  
+   - educação (investimento em capital humano, distribuição de qualificações).  
+   - “virada” para social investment vs social consumption (investimento em capital humano vs foco em benefícios de renda).  
+   - desenho do sistema de impostos e transferências;  
+   - generosidade e estrutura do welfare (seguros, assistência, serviços);  
+
+
+- montar séries temporais comparativas (quase universo de democracias pós-industriais com mais de 1 milhão de habitantes);  
+- combinar modelos estatísticos de painel (para vários tipos de desigualdade/pobreza) com estudos de caso históricos de quatro países (Alemanha, Espanha, Suécia, EUA), escolhidos como trajetórias contrastantes dentro de diferentes regimes de economia política (nórdico, continental, sul europeu, anglo-americano).  
+
+
+
+---
+
+## LLM Generated content
+
+---
+
+### _NotebookLM_
+
+
+
+### _Perplexity_
+
+O livro da Huber e do Stephens parte de uma pergunta bastante simples, mas ambiciosa: por que, enfrentando praticamente as mesmas forças econômicas (globalização, mudança tecnológica, transição para economia do conhecimento), alguns países ricos ficaram muito mais desiguais que outros, enquanto alguns conseguiram conter tanto a desigualdade quanto a pobreza?  
+
+Eles olham para isso em vários planos:  
+- diferentes medidas de desigualdade (dispersão salarial, concentração no topo, desigualdade/pobreza de renda de mercado, desigualdade/pobreza de renda disponível);  
+- mecanismos explicativos (mercado de trabalho, welfare state, educação, partidos, sindicatos);  
+- e quatro trajetórias nacionais em detalhe (Alemanha, Espanha, Suécia, EUA).  
+
+## Qual é o argumento central?
+
+O argumento central pode ser resumido assim: as mesmas forças estruturais (tecnologia, globalização, mudança setorial) **empurram todos os países na direção de maior desigualdade**, mas o tamanho e o formato final dessa desigualdade dependem do “poder organizado do trabalho” (sindicatos, instituições de barganha) e das escolhas de política pública (generosidade e desenho do welfare, investimento em capital humano).  
+
+Em linguagem simples:
+
+- A economia do conhecimento aumenta a recompensa para quem tem muita qualificação e reduz a estabilidade e os salários de quem tem pouca qualificação.  
+- A globalização aumenta a competição, facilita importar de países de baixos salários e dificulta tributar capital e ricos.  
+- Isso tende a gerar: mais desemprego, mais empregos precários, mais baixa remuneração no fundo da distribuição e mais oportunidades de renda muito alta no topo.  
+- Mas:  
+  - onde sindicatos são fortes, a barganha é coordenada, há proteção ao emprego e participação sindical no salário mínimo, o mercado de trabalho fica menos desigual (menos gente em “subempregos” e menos explosão de salários no topo);  
+  - onde o welfare é generoso (seguro-desemprego, auxílio-doença, assistência, licenças) e o Estado investe pesado em educação, a renda disponível (depois de impostos e transferências) fica bem mais igual e a pobreza cai.  
+
+Eles enxergam isso por meio de uma atualização da **power resources theory (PRT)**:  
+- quanto mais organizado e forte é o trabalho (sindicatos, alta sindicalização, alta cobertura contratual, conselhos de empresa, participação em salário mínimo), e quanto mais tempo partidos de esquerda governam, mais provável é que o país desenvolva e preserve um welfare state generoso e políticas de investimento em capital humano;  
+- esses arranjos, por sua vez, moderam diretamente a desigualdade de mercado e reforçam a capacidade do Estado de redistribuir, mesmo sob pressões de globalização e tecnologia.  
+
+***
+
+## Qual é exatamente o problema de pesquisa?
+
+Eles estão enfrentando, grosso modo, três problemas de pesquisa interligados:
+
+1. **Por que a desigualdade aumentou em quase todos os países ricos a partir dos anos 1970–1980, mas em graus e formas muito diferentes?**  
+   - Em alguns, o problema é principalmente o topo (top 1% “disparando”).  
+   - Em outros, é o crescimento do setor de baixa remuneração.  
+   - Em alguns, ambos.  
+   - Em outros, o aumento foi pequeno e o welfare ainda redistribui bastante.  
+
+2. **O que explica essa variação?**  
+   Eles sistematizam cinco grandes grupos de fatores para o lado da **renda de mercado**:  
+   - transformações econômicas (desindustrialização, transição para serviços e economia do conhecimento, financeirização);  
+   - globalização (comércio, outsourcing, mobilidade de capital, imigração);  
+   - mudanças nas instituições de mercado de trabalho (proteção ao emprego, estrutura de negociação, sindicalização, salário mínimo, dualização entre insiders e outsiders);  
+   - demografia (envelhecimento, famílias monoparentais);  
+   - educação (investimento em capital humano, distribuição de qualificações).  
+
+   E, para a **renda disponível**, adicionam:  
+   - desenho do sistema de impostos e transferências;  
+   - generosidade e estrutura do welfare (seguros, assistência, serviços);  
+   - “virada” para social investment vs social consumption (investimento em capital humano vs foco em benefícios de renda).  
+
+3. **As respostas políticas (instituições, partidos, políticas) ainda importam num contexto de globalização e “nova política” do welfare?**  
+   A literatura recente enfatizou muito:  
+   - preferências individuais por redistribuição;  
+   - estrutura de desigualdade (por exemplo, quão distante está a classe média dos pobres e dos ricos);  
+   - instituições eleitorais (proporcional vs majoritária).  
+
+   Eles perguntam:  
+   - ainda faz sentido falar em “power resources theory”?  
+   - sindicatos e partidos de esquerda ainda são centrais para explicar desigualdade, ou tudo é “estrutural” (tecnologia, globalização, UE, etc.)?  
+
+Em termos metodológicos, o problema se traduz em:  
+- montar séries temporais comparativas (quase universo de democracias pós-industriais com mais de 1 milhão de habitantes);  
+- combinar modelos estatísticos de painel (para vários tipos de desigualdade/pobreza) com estudos de caso históricos de quatro países (Alemanha, Espanha, Suécia, EUA), escolhidos como trajetórias contrastantes dentro de diferentes regimes de economia política (nórdico, continental, sul europeu, anglo-americano).  
+
+***
+
+## Isso é ou não é um “puzzle” de pesquisa?
+
+Depende do que você entende por “puzzle”.
+
+1. **Há um puzzle empírico claro?**  
+   Sim, no sentido de que uma narrativa puramente “pikettyana” ou puramente baseada em tecnologia/globalização não explica a variação que eles mostram.  
+   - Quase todos os países enfrentaram globalização, digitalização, desindustrialização.  
+   - Ainda assim:
+     - top 1% dispara muito em EUA e Reino Unido, bem menos (ou quase não) em países nórdicos e parte da Europa continental.  
+     - a desigualdade de renda disponível sobe fortemente em EUA, Alemanha e Finlândia, mas pouco nos Países Baixos e Áustria, e cai na França e Suíça.  
+   O “puzzle” é: como as mesmas pressões geram trajetórias tão diferentes?  
+
+2. **Eles próprios falam em “puzzle”?**  
+   Eles usam a metáfora de “colocar as peças do quebra-cabeça” (puzzle) – olhar para desigualdade sob múltiplas medidas e juntar as peças numa história coerente.  
+   - Não é um “puzzle lógico” (um paradoxo), mas um **puzzle empírico-comparativo**: entender padrões divergentes sob pressões similares.
+
+3. **É um puzzle teórico?**  
+   Menos no sentido de contradição, mais no sentido de **lacuna explicativa**:  
+   - muita literatura foca em **efeitos médios** de variáveis específicas (globalização, skill-biased technological change, etc.), geralmente com modelos estatísticos que dizem “na média, X aumenta desigualdade”.  
+   - a contribuição deles é articular como esses fatores estruturais **interagem com instituições e políticas**, e mostrar que, sem incorporar poder de classe e política partidária, a explicação fica incompleta.  
+
+Então, sim, você pode tratar como um puzzle de pesquisa:  
+- “Dado um conjunto comum de choques estruturais, por que as trajetórias de desigualdade e pobreza divergem tanto?”  
+- A solução proposta é: porque as configurações de poder (sindicatos, partidos, instituições do mercado de trabalho) e os legados de política (welfare, educação) são diferentes, e esses mediadores continuam a importar bastante.  
+
+***
+
+## Explicando o argumento em linguagem bem simples
+
+### 1. O que está acontecendo com a desigualdade?
+
+Eles começam lembrando tendências gerais:  
+- Depois da “Gilded Age” (EUA) e da Belle Époque (Europa), a desigualdade caiu durante boa parte do século XX.  
+- A partir de meados dos anos 1970 / 1980, ela volta a subir em quase todas as democracias ricas.  
+- Mas não sobe igual em todo lugar, nem do mesmo jeito:  
+  - Em alguns países, o maior problema é que o “top 1%” pega uma fatia cada vez maior da renda nacional (sobretudo anglo-americanos).  
+  - Em outros, o problema é a expansão de um setor de salários baixos e empregos precários.  
+  - Em vários, há mais desigualdade no topo da distribuição salarial (o 90–50), mas em alguns também aumenta a desigualdade na parte de baixo (50–10).  
+  - A capacidade do Estado de reduzir desigualdade via impostos e transferências varia muito.  
+
+Eles olham para:  
+- dispersão de salários (50–10 e 90–50);  
+- participação do top 1% na renda nacional;  
+- desigualdade e pobreza de **renda de mercado** (antes de impostos/transferências) e de **renda disponível** (depois);  
+- quanto a política social reduz a desigualdade (redistribuição).  
+
+### 2. Quais forças empurram a desigualdade para cima?
+
+Do lado “estrutural”:  
+
+- **Mudança tecnológica e transição para economia do conhecimento**  
+  - aumento na demanda por trabalhadores muito qualificados;  
+  - destruição de empregos industriais relativamente bem pagos e rotineiros;  
+  - automação de trabalhos de escritório de nível médio;  
+  - empurrão de trabalhadores com pouca qualificação para serviços de baixa produtividade (e baixa remuneração).  
+
+- **Globalização**  
+  - importações de países de baixos salários (pressão sobre indústria, desemprego, reestruturação produtiva);  
+  - outsourcing de serviços e produção;  
+  - mobilidade de capital (difícil taxar capital e ricos, medo de “fuga”);  
+  - imigração, especialmente em ocupações de baixa qualificação, aumentando competição no fundo da distribuição e, potencialmente, afetando coalizões políticas pró-redistribuição.  
+
+- **Mudanças na regulação setorial**  
+  - desregulação e privatização em energia, comunicações, transporte, etc., substituindo empregos públicos estáveis por empregos privados mais precários e criando cargos executivos muito bem remunerados.  
+
+- **Demografia**  
+  - envelhecimento populacional (mais gente com pouca ou nenhuma renda de mercado, dependendo da generosidade das pensões públicas);  
+  - crescimento de famílias monoparentais (menos adultos trabalhando por domicílio).  
+
+- **Mudanças no mercado de trabalho**  
+  - enfraquecimento da proteção ao emprego;  
+  - queda na sindicalização;  
+  - descentralização da negociação coletiva;  
+  - crescimento de contratos temporários, tempo parcial e formas precárias;  
+  - dualização: “insiders” com boas proteções vs “outsiders” em empregos instáveis.  
+
+### 3. Por que isso não se traduz em resultados iguais em todo lugar?
+
+Aqui entra a parte “política” e institucional, onde eles dizem que muita literatura recente é incompleta.
+
+#### a) Poder de trabalho organizado e instituições de barganha
+
+Eles mostram que **instituições de mercado de trabalho ligadas ao poder sindical** têm efeitos grandes e substantivos na desigualdade:  
+
+- **Densidade sindical** (proporção de trabalhadores sindicalizados)  
+  - reduz forte e consistentemente a desigualdade no meio e no topo da distribuição salarial (90–50);  
+  - reduz a participação do top 1%;  
+  - está associada a menor desigualdade de renda de mercado de domicílios;  
+  - permanece importante mesmo depois de controlar por políticas sociais (i.e., tem efeito direto).  
+
+- **Coordenação salarial** (negociação mais centralizada ou coordenada entre sindicatos/patrões)  
+  - reduz desigualdade salarial em cima e em baixo (especialmente 50–10);  
+
+- **Cobertura de contratos coletivos**  
+  - menor espaço para “bolsões” de salários muito altos ou muito baixos;  
+  - reduz o poder do top 1% capturar rendas.  
+
+- **Participação sindical no salário mínimo**  
+  - ajuda a manter um piso salarial razoável, evitando que a parte de baixo da distribuição “afunde” demais;  
+
+- **Proteção ao emprego**  
+  - reduz especialmente a desigualdade na parte de baixo (50–10), ajudando a evitar o surgimento de um subproletariado super precarizado.  
+
+#### b) Welfare state e generosidade de direitos sociais
+
+Para desigualdade e pobreza de **renda disponível**, os efeitos mais fortes vêm do lado das políticas sociais:  
+
+- A variável mais importante para redução de desigualdade e pobreza é a **generosidade de seguro-desemprego e auxílio-doença** (benefícios para população em idade ativa).  
+  - Um aumento de dois desvios padrão nessa generosidade pode reduzir o Gini da renda disponível em cerca de 3–5 pontos, o que é enorme em termos comparativos.  
+
+- **Generosidade de assistência social** também importa, especialmente para reduzir pobreza, mas tende a ser politicamente mais frágil que seguros sociais contributivos.  
+
+- **Políticas de licenças parentais** generosas (substituição salarial) têm efeito moderado de redução de desigualdade (relação com igualdade de gênero, participação feminina no mercado de trabalho e proteção de renda em momentos de cuidado).  
+
+- A combinação de benefícios generosos com alta cobertura impede que choques de mercado (desemprego, doença) se traduzam automaticamente em pobreza persistente.  
+
+#### c) Investimento em capital humano (educação)
+
+Eles tratam **educação** como forma de “pré-distribuição”:
+
+- Maiores gastos públicos em educação (sobretudo quando amplos, da primeira infância ao superior) estão associados a:  
+  - menor dispersão salarial (90–50),  
+  - menor desigualdade de renda de mercado domicialiar,  
+  - menor participação do top 1% (via maior oferta de qualificação, menor prêmio extremo para poucos).  
+
+- No entanto, eles mostram algo importante:  
+  - os efeitos mais fortes de educação pública aparecem no meio e topo da distribuição;  
+  - os resultados educacionais na base (5º, 25º percentil em testes internacionais) estão fortemente associados à **pobreza e desigualdade de uma geração anterior**, mais do que simplesmente ao gasto educacional contemporâneo.  
+
+Em termos simples:  
+- se um país mantém alta pobreza e desigualdade por muito tempo, isso “passa” para a geração seguinte, que entra na escola com desvantagens que o gasto educacional sozinho pode não compensar;  
+- portanto, investimento em educação é crucial, mas sem enfrentar pobreza/inegalidade via welfare e mercado de trabalho, você continua reproduzindo baixo desempenho na base.  
+
+#### d) Globalização e “compensation hypothesis”
+
+Os resultados deles sobre globalização são interessantes:  
+
+- **Trade openness** (abertura comercial) não está associado a “corrida para o fundo” em termos de redistribuição. Ao contrário:  
+  - maior abertura está associada a **mais redistribuição** via sistema de impostos/transferências, depois de controlar por outras variáveis;  
+  - eles interpretam isso como evidência de “compensação”: governos ampliam proteção social para compensar riscos trazidos por abertura (notadamente, riscos de desemprego e pressão sobre salários).  
+
+- Outros indicadores de globalização (capital market openness, outward FDI, third world imports) têm efeitos, em geral, no sentido esperado de pressionar salários e desigualdade de mercado, e dificultar tributação de capital.  
+
+- **Desregulação setorial** aparece com efeito forte e robusto em vários modelos: quando setores como energia, transporte e comunicações são desregulados, a desigualdade tende a aumentar tanto em mercado quanto em renda disponível.  
+
+#### e) Política partidária e instituições políticas
+
+Os resultados sobre política partidária e instituições complementam a história:
+
+- **Partidos de esquerda** (social-democratas, verdes, socialistas)  
+  - quanto maior sua participação média em gabinetes ao longo de décadas, mais generoso tende a ser o welfare (especialmente seguros sociais);  
+  - isso, por sua vez, reduz pobreza e desigualdade.  
+  - Em modelos de redistribuição, o efeito direto de “governo de esquerda” enfraquece quando você inclui generosidade do welfare, o que é coerente: o efeito de esquerda opera principalmente via construção de políticas.  
+
+- **Sindicatos e participação eleitoral**  
+  - melhoram a redistribuição não apenas porque ajudam a eleger governos mais redistributivos, mas também porque mantêm pressão contínua sobre qualquer governo para não desmontar direitos sociais.  
+
+- **Instituições como veto points e sistemas proporcionais**  
+  - sistemas proporcionais, como argumentado por Iversen e Soskice, tendem a estar associados a mais redistribuição, mas esse efeito é menor que o efeito de variáveis de poder de classe (sindicatos, esquerda, turnout) e de generosidade do welfare.  
+  - veto points têm efeitos ambíguos, às vezes freando expansão, às vezes ajudando a bloquear cortes.  
+
+***
+
+## As análises mostram que algo mudou depois de 2000?
+
+Sim. Eles dividem o período em pré‑2000 e pós‑2000 e encontram diferenças interessantes:  
+
+- Antes de 2000, a desigualdade de renda disponível é fortemente reduzida por:  
+  - generosidade de benefícios de desemprego/doença,  
+  - gastos em capital humano,  
+  - densidade sindical.  
+
+- Depois de 2000, além desses três fatores, entram com força:  
+  - desemprego (agora sua alta aumenta significativamente a desigualdade de renda disponível);  
+  - desregulação;  
+  - participação eleitoral.  
+
+Eles interpretam assim:  
+- no período anterior, o welfare, relativamente mais generoso, conseguia neutralizar o impacto do desemprego sobre desigualdade;  
+- no período pós‑2000, com cortes, restrições e reformas (muitas vezes “ativadoras” mas menos generosas), o aumento do desemprego passa a se traduzir mais diretamente em desigualdade de renda disponível.  
+
+***
+
+## E as implicações do livro?
+
+### 1. Implicações teóricas
+
+- A tese forte é que **power resources theory ainda é central** para entender desigualdade no século XXI.  
+  - sindicatos, cobertura de negociação, coordenação salarial, proteção ao emprego, partidos de esquerda e legados de políticas sociais continuam a exercer grande influência sobre distribuição de mercado e redistribuição;  
+  - isso vale **mesmo numa fase de “nova política” do welfare** (retomada, austeridade, fragmentação partidária) e sob globalização/tecnologia.  
+
+- Eles criticam abordagens que focam demais em preferências individuais, estrutura da desigualdade ou regras eleitorais, sem passar pelo “meio do caminho” das políticas concretas e do poder organizado.  
+
+- A combinação de análise estatística de longo prazo e história comparada de casos permite sustentar afirmações causais:  
+  - não só há correlações, mas é possível traçar como mudanças nas instituições de mercado de trabalho e no welfare alteram trajetórias de desigualdade e pobreza (por exemplo, reformas Hartz na Alemanha, reformas de welfare nos EUA, expansão e depois recuo do welfare na Espanha, mudanças graduais na Suécia).  
+
+### 2. Implicações normativas e de policy
+
+- **Política ainda importa muito.**  
+  - Não estamos diante de um destino “natural” ou “inevitável” de alta desigualdade.  
+  - Mesmo sob fortes pressões, países com sindicatos fortes, welfare generoso e alto investimento em educação conseguem resultados de desigualdade e pobreza muito melhores do que outros.  
+
+- **Prioridade para políticas com maior impacto distributivo**  
+  - se o objetivo é reduzir desigualdade de renda disponível e pobreza, a prioridade deve recair sobre:  
+    - generosidade e cobertura de benefícios de desemprego e doença;  
+    - assistência social para quem está fora dos seguros contributivos;  
+    - políticas de emprego e conciliação trabalho–família (p.ex. licenças pagas, creches públicas).  
+  - se o objetivo é conter desigualdade de mercado, é fundamental:  
+    - fortalecer mecanismos de barganha coletiva,  
+    - garantir salário mínimo robusto com presença sindical,  
+    - evitar desregulações que destruam empregos estáveis sem contrapartida.  
+
+- **Social investment não substitui social protection**  
+  - investir em educação e qualificação é crucial, mas não pode ser visto como substituto de transferências e seguros.  
+  - sem proteção social, os mais pobres não conseguem se beneficiar plenamente das oportunidades educacionais;  
+  - a pobreza de hoje compromete a formação de capital humano de amanhã.  
+
+- **Desigualdade e pobreza persistentes alimentam problemas políticos**  
+  - alta desigualdade está associada a pobreza relativa, exclusão, ressentimento e maior abertura a apelos populistas, além de desigualdade política (influência desproporcional de ricos).  
+  - logo, conter desigualdade não é só uma questão econômica, mas de qualidade democrática.  
+
+***
+
+## Resumindo em termos bem acessíveis
+
+1. Quase todos os países ricos ficaram mais desiguais nas últimas décadas, mas uns muito mais do que outros.  
+2. Isso não é apenas culpa de tecnologia e globalização; é também resultado de escolhas políticas e institucionais, especialmente sobre sindicatos, leis trabalhistas, welfare e educação.  
+3. Onde o trabalho está mais organizado e o welfare é mais generoso, a desigualdade de mercado é menor e o Estado corrige melhor o que o mercado produz, mantendo pobreza mais baixa.  
+4. Investir em educação ajuda, mas não resolve se a sociedade tolera muita pobreza e desigualdade, porque essas desigualdades se transmitem entre gerações.  
+5. Portanto, se quisermos desafiar a desigualdade nas sociedades pós‑industriais, precisamos olhar para poder de classe e política redistributiva, e não apenas para “forças de mercado” ou preferências individuais.  
+
+---
+
+_NotebookLM_ :
+#### _Qual a tese central do texto?_
+
+---
+
+
+(a)	ideas, concepts, arguments that you found stimulating, worth remembering and building on,
+(b)	questions, concerns, disagreements with ideas encountered,
+(c)	connections, linkages, contradictions between one idea or approach and another.
+
+Short memos are due by 5pm Monday, the day before class. A third of your course grade will be based on the short memos. Please submit them through Canvas.
+
+2.  Long memos: For four of the topics, students will prepare a more detailed memo (5 pages) assessing the weekly readings.  You choose which week’s readings you wish to analyze, but you must complete this assignment before the date the topic is discussed in class.  The purpose of the longer memos is to help you grapple with the readings and respond with questions, criticisms, and new ideas.  The main thrust of the longer memos should be on developing promising research ideas suggested by the readings.  We strongly encourage you use the long memos as a vehicle for advancing your own work. When you choose to write a longer memo about a particular topic, you should consult the additional readings for that week.  Longer memos are due by 9am on Tuesdays. A third of your course grade is based on the long memos.
+
+3.	All students should arrive at class with questions, topics, and issues to be vetted and debated. You should come to class prepared to answer: What are the central research questions or problems raised by the authors? What core concepts, evidence, and research methods are utilized? As you do the readings, think about what the author did right as well as wrong.  What are the interesting ideas in the paper?  If you disagree with an argument, what would it require to persuade you?  Can these differences be adjudicated through further empirical study?  A good seminar should have active dialog and debate.  If someone proposes an idea that is contrary to your view, speak up.  I will often be intentionally provocative, so be prepared to push back.  Your task is to engage one another in an assessment of the readings.  
+
+

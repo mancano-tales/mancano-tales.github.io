@@ -1,0 +1,112 @@
+---
+title: "Contdid"
+description: "Reading notes"
+date: "2026-01-04"
+date-modified: "2026-01-04"
+categories: [Courses, Reading notes] # Adicione suas categorias aqui
+---
+
+_Full citation:_  
+
+## Personal Notes and highlights'
+
+Two-Way Fixed Effects" (TWFE) é geralmente traduzido como "Efeitos Fixos Bidimensionais" ou "Efeitos Fixos de Duas Vias
+
+TWFE é uma caixa reta ininteligivel, 
+
+Eu estou interessado no gini educacional, quero saber como as cotas impactaram nesse gini educacional
+
+---
+
+## LLM Generated content
+
+### _Perplexity using Claude Sonnet 4.5_
+
+## Central Research Questions and Problems
+
+Carnoy examines how political power relations in capitalist democracies fundamentally shape educational systems and their distributional outcomes. The core research problem is understanding education not merely through economic frameworks, but through a political-economic lens that foregrounds how the State—reflecting unequal class, racial, and gender power structures—conditions educational opportunities and resource allocation.
+
+The chapter challenges the analytical separation between political and economic power in educational analysis, arguing that wealth inequalities inherent in capitalism create quasi-class structures that crystallize within democratic State institutions, including education systems. Carnoy specifically critiques pluralist theories that disconnect political power from economic power, contending instead that long-term economic inequalities provide the most consistent explanatory framework for understanding educational policy and outcomes.
+
+## Core Concepts and Theoretical Framework
+
+### The Conflictual State
+
+The central theoretical contribution builds on Bowles and Gintis's framework of the tension between capitalism and democracy. Carnoy positions education as a critical site of struggle between two contradictory forces: the unequal, hierarchical market economy that generates class differentiation, and democratic promises of equal opportunity, social mobility, and human rights. This makes schooling both a reproducer of inequality (through resource disparities and class-based achievement gaps) and a potential mechanism for social transformation (through democratic struggles for inclusion and redistribution).
+
+### State-Generated Social Capital
+
+Carnoy extends Coleman's concept of social capital beyond family and community relations to theorize how States themselves can invest in social capital—through ensuring neighborhood safety, reducing school violence, or eliminating child labor—which complements human capital formation. This concept becomes particularly important when comparing educational outcomes across different political regimes, suggesting that authoritarian socialist states (Cuba, Vietnam) may generate social contexts more conducive to mass education provision than market democracies, even while capitalist societies excel at linking social capital to individual productivity.
+
+### Power Hierarchies and Educational Resource Distribution
+
+The chapter analyzes conflicts over public educational spending as manifestations of underlying power relations. Carnoy critiques Brighouse et al.'s suggestion that democratic processes constrain bureaucrats from redistributing resources from wealthy to poor families, arguing instead that bureaucrats' decisions reflect internalized understandings of State power structures that privilege economic elites. The historical evidence from Texas school finance litigation (San Antonio v. Rodriguez) and movements for vertical equity demonstrate that democratic mechanisms—lawsuits, social movements, union organizing—actually provide the primary institutional channels through which marginalized groups challenge State bureaucracies serving wealthy interests.
+
+## Evidence and Research Methods
+
+### Comparative-Historical Analysis
+
+Carnoy employs comparative-historical methods across multiple dimensions. He contrasts democratic versus authoritarian capitalist states (comparing Spain, Chile, Argentina, and Brazil under military rule with democratic periods), and capitalist versus socialist education systems (Scandinavian social democracies, East Asian developmental states, and revolutionary socialist states). This comparative framework reveals how different political-economic configurations produce varying educational outcomes and distributional patterns.
+
+### Legal and Policy Analysis
+
+The chapter extensively analyzes U.S. Supreme Court cases (Brown v. Board of Education, San Antonio v. Rodriguez) and legal struggles over educational finance equity as empirical evidence of how class and racial power structures manifest in educational policy. These cases demonstrate the concrete mechanisms through which political conflicts over educational resources play out in capitalist democracies.
+
+### Engagement with Empirical Economics Literature
+
+Carnoy systematically reviews econometric evidence on educational production functions, particularly the contested relationship between per-pupil spending and student achievement. He traces the evolution from Hanushek's influential claims that spending doesn't matter, through Friedman's market-based voucher arguments, to more recent quasi-experimental studies using court-mandated spending increases (Jackson et al. 2015; LaFortune et al. 2018; Carrasco 2014 on Chile's voucher expansion) that demonstrate large positive causal effects of increased spending on low-income student outcomes. This engagement shows how ideological positions about public sector efficiency have been adjudicated through improved empirical methods—specifically, exploiting exogenous variation in spending to identify causal effects.
+
+## Analytical Strengths
+
+### Theoretical Integration
+
+The chapter successfully integrates multiple theoretical traditions—neo-Marxist State theory (Gramsci, Poulantzas), institutionalism (Evans), and social capital theory (Coleman, Putnam)—into a coherent framework centered on power relations. This synthetic approach avoids reductionism while maintaining analytical clarity about how economic inequalities structure political possibilities.
+
+### Historical Specificity
+
+Carnoy recognizes that while power relations operate similarly across capitalist democracies, their specific manifestations depend on historical trajectories unique to each society. His discussion of Scandinavian countries' legitimacy structures differing from Anglo-American models demonstrates sensitivity to institutional variation while maintaining the general theoretical framework.
+
+### Empirical Grounding of Ideological Debates
+
+The treatment of the spending effectiveness debate exemplifies rigorous empirical engagement. Carnoy acknowledges ideological preferences transparently while insisting that validity claims require empirical testing. His demonstration that improved identification strategies (using court-mandated spending changes as natural experiments) have largely resolved the spending debate in favor of effectiveness shows how methodological advances can adjudicate theoretical disputes.
+
+## Potential Weaknesses and Critical Questions
+
+### Agency and Determinism
+
+While Carnoy emphasizes that education is a site of struggle and transformation, the structural emphasis on how power hierarchies "condition" individual and group agency sometimes verges on determinism. The framework could benefit from more explicit theorization of the conditions under which subordinate groups successfully challenge power structures versus when reproduction prevails. What specific institutional features or historical conjunctures enable transformative democratic mobilization?
+
+### Measurement and Operationalization
+
+The concept of State-generated social capital, while theoretically valuable, lacks clear operationalization. How precisely should researchers measure cross-national variation in State-produced safety, institutional trust, or collective norms? Without clearer measurement strategies, the concept risks becoming a residual category explaining variance not captured by human capital investments.
+
+### Comparative Scope Conditions
+
+The comparison between authoritarian socialist and democratic capitalist educational systems raises important questions about scope conditions. Carnoy suggests socialist states excel at mass education provision due to egalitarian values and State capacity to enforce learning conditions, but the limited number of cases (Cuba, Vietnam, China pre-reform) makes generalization difficult. Additionally, the recent trajectory of China and Vietnam toward market mechanisms complicates claims about socialist versus capitalist complementarities with educational quality.
+
+### Causal Mechanisms
+
+While the chapter effectively demonstrates correlations between power structures and educational outcomes, the specific causal mechanisms linking class relations to policy decisions could be more precisely specified. For example, *how exactly* do wealthy elites translate economic power into educational policy influence? Through campaign finance? Social networks with bureaucrats? Ideological hegemony shaping what seems politically feasible? More micro-level analysis of decision-making processes would strengthen causal claims.
+
+## Adjudicating Disagreements
+
+Several theoretical disagreements could be resolved through further empirical research:
+
+**Democratic versus Bureaucratic Resource Allocation**: Carnoy's critique of Brighouse et al. suggests that authoritarian capitalist states should be *less* redistributive than democracies. This could be tested systematically by comparing educational spending progressivity across regime types, controlling for economic development—though measurement challenges around authoritarian versus democratic classification and quality of spending data would need careful attention.
+
+**Social Capital Complementarity**: The claim that socialist values complement mass education better than capitalist individualism  could be examined through quasi-experimental variation in governance regimes. Natural experiments like German reunification, or cross-provincial variation in China between more market-oriented and state-controlled regions, could provide leverage on whether egalitarian institutions improve educational outcomes independent of resource levels.
+
+**Spending Effectiveness Heterogeneity**: While recent evidence supports spending effectiveness for low-income students, questions remain about whether effects vary by institutional context (decentralized versus centralized systems, strong versus weak teacher unions, high versus low State capacity). Cross-national comparative studies exploiting within-country variation in governance structures could illuminate how political-economic configurations moderate spending impacts.
+
+The most interesting unresolved question is whether Carnoy's framework predicts that *all* educational inequalities reflect power structures, or whether some inefficiencies exist that even perfectly egalitarian power distributions wouldn't resolve. Testing this would require imagining counterfactuals where power was equalized—perhaps through analysis of maximally egalitarian cases like Cuba or Scandinavian countries—to see whether residual inequalities persist, suggesting technical rather than purely political constraints.
+
+(https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/111334221/1a391ada-4303-493c-924e-4261d4eacc30/Carnoy-2024-The-State-and-Education.pdf)
+---
+
+_NotebookLM_ :
+#### _Qual a tese central do texto?_
+
+
+--- 
+
+### _Gemini in Google Drive_

@@ -1,0 +1,15 @@
+{
+  "hash": "d2c29a94c704f8fc559626a71c422fc1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Paglayan SER Replication\"\ndescription: \" - draft\"\ndate: \"2026-01-18\"\nauthor: \"Tales Mançano\"\ncategories: [Planning, Research, Pipeline]\ndraft: true\ntoc: true\ntoc-depth: 2\nformat:\n  html:\n    code-fold: true\n    code-summary: \"Show code\"\n---\n\n## Primary Enrollment Rates: Cross-Country Comparison\n\nThis interactive visualization shows primary enrollment rates across countries over time, with a focus on key countries in Latin America, Europe, and beyond.\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

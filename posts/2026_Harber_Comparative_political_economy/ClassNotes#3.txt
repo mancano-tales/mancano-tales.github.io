@@ -1,0 +1,229 @@
+---
+title: "Template"
+description: "Reading notes"
+date: "2026-01-04"
+date-modified: "2026-01-04"
+categories: [Courses, Reading notes] # Adicione suas categorias aqui
+---
+
+Ideia de que instituições e causas muito amplas como complexas como "Instituições" e "Democracia", são tratamentos muito complexos e heterogeneos, que interagem com outros fatores institucionais ou não, que, por sua vez, pode gerar efeitos muito heterogeneios, tornando a ideia de que existe um efeito independente das instituições algo sem sentido.
+
+Vamos chamar isso de **Heterogeneidade causal via mediação institucional** que é um problema muito grande de pesquisas que tentam fazer inferencia causal com explicações amplas e ver efeitos de coisas como democracia, educação e instituições em desigualdade e etc.
+
+---
+
+Eu gostei que ela cita Mahoney e coloca ele na literatura
+
+Não existe só um mecanismo para o crescimento economico! O que torna o efeito causal de coisas amplas como instituições demasiadamente mal especificado
+
+Engerman e Sokoloff participavam e tentavam influenciar o debate sobre as origens institucionais do desenvolvimento econômico de longo prazo. Seu trabalho oferecia uma alternativa ou complemento às explicações que enfatizavam exclusivamente a persistência de instituições europeias nas colônias, argumentando que as condições do Novo Mundo - especialmente clima e dotações de fatores - foram fundamentais na moldagem institucional
+
+Sellars and Aliz -Garcia argues that it was not the encomienda but the haciendas that made the diference in Mexico! So the show the importance of population collapse and how it can develops in defferent way which is interesting
+
+**Autores:** Emily A. Sellars e Jennifer Alix-Garcia.
+
+**Objetivo Central:** Examinar o impacto de longo prazo do colapso demográfico do século XVI no México sobre os padrões de posse da terra até os dias atuais.
+
+**Principais Descobertas:**
+
+  * O colapso demográfico do século XVI, que reduziu a população indígena em 70 a 90%, facilitou a concentração de terras e o surgimento de uma classe de proprietários de terras que dominou a economia política mexicana por séculos.
+  * Antes da Revolução de 1910, uma porcentagem maior da população rural vivia em comunidades em grandes propriedades (fazendas) nas áreas que experimentaram um declínio populacional mais acentuado entre 1570 e 1650.
+  * Após a Revolução e a subsequente reforma agrária, as áreas afetadas pela doença agora têm mais terras em instituições de propriedade comum, como os *ejidos*, com direitos de propriedade limitados, do que as áreas onde o colapso foi menos severo.
+  * A reforma agrária, que desmantelou o sistema de *haciendas* e criou o sistema *ejidal*, atingiu desproporcionalmente regiões de alta concentração de terras, ligando a instituição moderna do *ejido* ao legado da *hacienda* e, em última instância, ao colapso populacional.
+  * O impacto do colapso populacional persistiu, mas a natureza desse impacto mudou radicalmente ao longo do tempo (de concentração de terras na *hacienda* para terras fracionadas no *ejido*).
+
+**Metodologia:**
+
+  * Estratégia de Variáveis Instrumentais (IV) explorando choques climáticos (seca prolongada seguida de chuva excessiva) associados a uma epidemia na década de 1570 que reduziu aproximadamente pela metade a população indígena.
+  * Os proxies de clima são construídos a partir de cronologias de anéis de árvores (Palmer Drought Severity Index - PDSI) para prever a queda populacional entre 1570 e 1650.
+  * Os dados populacionais coloniais foram digitalizados a partir das obras de Gerhard (1993a,b).
+  * Os dados sobre *haciendas* são do Arquivo Histórico Mexicano de Localidades (AHL) para 1900 e 1910.
+  * As medições da reforma agrária vieram do banco de dados de Sanderson (1984) e cálculos GIS de propriedade social após 1992.
+
+---
+
+O que são as instituições nesse texto?
+''
+Eu gosto muito do texto que não parece que tem a ideia de que as instituições se desenvolvem por um mecanismo só, como parece no texto de acemoglu. --- “Early patterns of land concentration during the 16th-century collapse were amplified in during the 19th-century economic boom before being radically transformed through the agrarian reform.” ([Sellars and Alix-Garcia, 2018, p. 506](zotero://select/library/items/EIN2BTUZ)) ([pdf](zotero://open-pdf/library/items/ZTFSEVVN?page=3&annotation=2QIFJYYJ)) **Essa passagem fala isso**
+
+
+
+Though Mexico’s land arrangements and rural political economy were transformed during the 20th century, we show that diseaseimpacted areas continue to follow a unique development trajectory. After the Revolution, Mexico undertook one of the most significant land reform programs in history, through which much of the country’s surface area was redistributed from large estates to peasant villages in the form of ejidos, common-property institutions with limited property rights protections and legal constraints on landholding and land use. Because this reform disproportionately targeted regions of previously high land concentration, areas that lost more population in the early colonial period saw more land redistributed into ejidos than areas where the collapse had been less severe. “As a consequence, diseaseimpacted areas now have more land in these unique common-property institutions than in areas where the collapse was less severe” ([Sellars and Alix-Garcia, 2018, p. 505](zotero://select/library/items/EIN2BTUZ)) ([pdf](zotero://open-pdf/library/items/ZTFSEVVN?page=2&annotation=J8DSH8AH))
+
+Estou assumindo que o texto considera que reforma agraria e dimi uição da concentraçãor rural no méxico é uma coisa boa, uam boa instituições
+
+“The specific land institutions we examine, the hacienda and the ejido, have been independently blamed for persistent underdevelopment in Mexico. However, the mechanisms through which each institution is thought to impede development are different. Whereas the hacienda system is blamed for fostering the rise of a dominant landowner class that perpetuated economic and political inequality, the ejido, introduced in part to address this inequality, is thought to impede development through institutionalized land fragmentation and the incomplete property rights granted to smallholders” ([Sellars and Alix-Garcia, 2018, p. 505](zotero://select/library/items/EIN2BTUZ)) ([pdf](zotero://open-pdf/library/items/ZTFSEVVN?page=2&annotation=AMPKC659))
+
+
+“In tying both institutions to the much earlier population collapse, this paper illustrates how the legacy of the collapse continues to affect development, though the nature of its impact has changed dramatically” ([Sellars and Alix-Garcia, 2018, p. 505](zotero://select/library/items/EIN2BTUZ)) ([pdf](zotero://open-pdf/library/items/ZTFSEVVN?page=2&annotation=6AFJBZLF))
+
+---
+
+“Building on this work, we highlight two mechanisms through which population scarcity can enable and encourage land concentration by elites: by reducing the cost of acquiring land from smallholders and by increasing the benefits of controlling local labor markets once initial land concentration has been established” ([Sellars and Alix-Garcia, 2018, p. 505](zotero://select/library/items/EIN2BTUZ)) ([pdf](zotero://open-pdf/library/items/ZTFSEVVN?page=2&annotation=Q54B6CD4))
+
+“elites in Mexico used their pre-established political and economic power to obtain large quantities of land while the indigenous population was weakened by disease, forcing surviving workers into employment on large estates.” ([Sellars and Alix-Garcia, 2018, p. 505](zotero://select/library/items/EIN2BTUZ)) ([pdf](zotero://open-pdf/library/items/ZTFSEVVN?page=2&annotation=QRF8YH2S))
+
+“Evidence suggests that this early land concentration increased over time as large landowners sought to acquire additional land around their estates to deprive peasant workers of outside earnings opportunities and, later, to take advantage of export opportunities abroa” ([Sellars and Alix-Garcia, 2018, p. 505](zotero://select/library/items/EIN2BTUZ)) ([pdf](zotero://open-pdf/library/items/ZTFSEVVN?page=2&annotation=8Z5VVX4B))
+
+
+“Early patterns of land concentration during the 16th-century collapse were amplified in during the 19th-century economic boom before being radically transformed through the agrarian reform.” ([Sellars and Alix-Garcia, 2018, p. 506](zotero://select/library/items/EIN2BTUZ)) ([pdf](zotero://open-pdf/library/items/ZTFSEVVN?page=3&annotation=2QIFJYYJ))
+
+
+“Early patterns of land concentration during the 16th-century collapse were amplified in during the 19th-century economic boom before being radically transformed through the agrarian reform.” ([Sellars and Alix-Garcia, 2018, p. 506](zotero://select/library/items/EIN2BTUZ)) ([pdf](zotero://open-pdf/library/items/ZTFSEVVN?page=3&annotation=2QIFJYYJ))
+
+
+
+
+
+
+----------
+
+
+Argumento de Acemoglu, James e Robinson
+The discussion centers on a critical evaluation of the seminal paper by **Acemoglu, Johnson, and Robinson (AJR)** regarding the colonial origins of economic development and the subsequent academic challenges to its findings.
+
+### **The Core Theory: Colonial Persistence**
+The AJR paper argues that contemporary economic disparities between countries can be explained by **institutional quality**. The authors propose a causal chain:
+*   **Colonial Mortality:** In areas where European settlers faced high mortality rates (due to diseases like malaria and yellow fever), they established **extractive institutions** focused on resource drain. 
+*   **Settlement:** In areas with low mortality, they settled and created **inclusive institutions**—such as property rights and checks on government power—modeled after their home countries.
+*   **Persistence:** These early institutions persisted over centuries, eventually determining modern-day GDP per capita.
+
+### **Methodological and Empirical Critiques**
+The audience and sources highlight several significant flaws in the AJR study, many of which were popularized by **David Albouy’s** replication.
+*   **Data Imputation:** A major revelation is that **56.25% of the mortality data** used in the paper was imputed (estimated) rather than based on direct historical records. Albouy found that when these imputed data points are removed, the results are **no longer statistically significant**.
+*   **Violation of the Exclusion Restriction:** For the study's "instrumental variable" (mortality) to be valid, it must affect GDP *only* through institutions. However, critics argue that the **disease environment** (malaria/yellow fever) affects modern GDP **directly** through public health and worker productivity, violating this core econometric requirement.
+*   **Temporal Inconsistency:** The mortality data used by AJR dates from 1817 to 1848, yet they apply it to a colonial process that began in the 1500s, assuming mortality rates remained unchanged for three centuries.
+
+### **Definitional and Classification Issues**
+The discussion questions how AJR defined and coded their variables:
+*   **Vague Definitions:** The term "institutions" is used inconsistently, sometimes referring to permanent features and other times to **"less distortionary policies"** that can change quickly.
+*   **Selective Coding:** The audience notes inconsistencies in how countries like **Australia, Ethiopia, and New Zealand** were coded regarding their colonial status or independence in 1900. 
+*   **The Australian Paradox:** Australia is cited as a complex case; it began as a **penal colony** with highly extractive features (forced convict labor), yet it is classified as "inclusive" simply because it became wealthy.
+
+### **The Evolution of the "Institutional Puzzle"**
+The discussion notes that the linear relationship AJR found in 2000 (better institutions = higher GDP) has shifted. Recent 2024 data shows a **"U-shape" or "smile" curve**, where countries with very low democracy or different institutional models (e.g., **China** or Middle Eastern oil nations) also achieve high GDP per capita.
+
+### **Scientific Ethics and Research Design**
+The dialogue concludes with a broader reflection on the **philosophy of social science**:
+*   **"Falling in Love" with Hypotheses:** The professor suggests that the AJR authors may have become "blind" to their data's flaws because they were so committed to their theory.
+*   **P-hacking and Transparency:** The conversation addresses the pressures of **"P-hacking"**—running multiple regressions until a significant result is found—and the necessity of **theory-driven research** over simple data mining.
+
+
+
+
+
+What are the central research questions or problems raised by the authors? 
+
+What core concepts, evidence, and research methods are utilized? 
+
+As you do the readings, think about what the author did right as well as wrong.  
+
+What are the interesting ideas in the paper?  
+
+If you disagree with an argument, what would it require to persuade you?  
+
+Can these differences be adjudicated through further empirical study?  
+
+_Full citation:_   
+
+## Personal Notes and highlights
+
+
+---
+
+## LLM Generated content
+
+---
+
+### _NotebookLM_
+
+
+
+### _Perplexity_
+
+---
+
+_NotebookLM_ :
+#### _Qual a tese central do texto?_
+
+---
+
+
+(a)	ideas, concepts, arguments that you found stimulating, worth remembering and building on,
+(b)	questions, concerns, disagreements with ideas encountered,
+(c)	connections, linkages, contradictions between one idea or approach and another.
+
+Short memos are due by 5pm Monday, the day before class. A third of your course grade will be based on the short memos. Please submit them through Canvas.
+
+2.  Long memos: For four of the topics, students will prepare a more detailed memo (5 pages) assessing the weekly readings.  You choose which week’s readings you wish to analyze, but you must complete this assignment before the date the topic is discussed in class.  The purpose of the longer memos is to help you grapple with the readings and respond with questions, criticisms, and new ideas.  The main thrust of the longer memos should be on developing promising research ideas suggested by the readings.  We strongly encourage you use the long memos as a vehicle for advancing your own work. When you choose to write a longer memo about a particular topic, you should consult the additional readings for that week.  Longer memos are due by 9am on Tuesdays. A third of your course grade is based on the long memos.
+
+3.	All students should arrive at class with questions, topics, and issues to be vetted and debated. You should come to class prepared to answer: What are the central research questions or problems raised by the authors? What core concepts, evidence, and research methods are utilized? As you do the readings, think about what the author did right as well as wrong.  What are the interesting ideas in the paper?  If you disagree with an argument, what would it require to persuade you?  Can these differences be adjudicated through further empirical study?  A good seminar should have active dialog and debate.  If someone proposes an idea that is contrary to your view, speak up.  I will often be intentionally provocative, so be prepared to push back.  Your task is to engage one another in an assessment of the readings.  
+
+
+---
+
+Nunn (2008)
+
+
+
+---
+- Results in seach of a question (what is the problem?)
+
+Effect of causes (efeito de slavory no underdevelopment) or
+Causes of effects (causes of underdevelopment of africa)
+
+Você tem um resultado e investa um mecanismo plausivel (indução) - Mais fácil (el sobrevive a dedução posterior? Ser mais rigoroso?)
+você tem um mecanismo que gera expectativa e testa esse mecanismo (dedução)
+
+The question is not about povery in africa but what explains the difference in Africa.
+
+Mordoc maps Controversy on the maps, geografically location etinic people on maps, where groups, quais grupos são uns ou outros, eles podem se fundir difundir mudar de lugar, validadde disso é diferente
+
+Jusristition hierarchy. How wrong it is. It's pretty wrong.
+
+Estamos medindo tudo isso com bias, não sabemos nada
+
+
+Como vamos do eighty thousand to ten milion.
+
+
+Variance in prosperity before slave trade -- Plays with population and places are selected into slave trade.
+
+Can't stabish in Angola,  -- European weapons -- When Europeans try to go inland they get defeated.
+
+The africans are organized into kingdons and empires, some of which predate colonization. Kingdon of Kongo predates colonization. Kingdon - Empires that emerge based on slave trading -woudn't know it from this paper. States parts of africa are stateless, and some of those state go into slave
+
+Dahomi
+
+---
+
+Não é identificado exatamente quando
+
+Data generated
+
+Two tipes of data (total number of slaves exported frmim the )
+
+we don't know how good that its, vague ideas.
+
+MAsure of juristictional hierarchy -- may or may now have not to do anything with realiyty.
+
+
+---
+
+In spacial data, corretaltion p statistics, and everything
+
+
+-- Clsuter for the spatial correlation of the data
+
+
+Should take into account that they may be a cluster, how to cluster.
+
+Spacial trend
+
+
+It's on them to make it understandable to us they have to influence us. I should be able to understand us.
+
+
+---
+
+### Porque os historicadores pararam de fazer datasets?

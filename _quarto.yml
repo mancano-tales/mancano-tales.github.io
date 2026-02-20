@@ -1,0 +1,146 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: false # Isso impede que o Quarto use versões antigas (congeladas) do seu código
+
+# Meta
+description-meta: "Tales Mançano Academic Website"
+author-meta: "Tales Mançano"
+
+website:
+  title: "Tales Mançano"
+  image: ""
+  description: "Tales Mançano Academic Website"
+  
+  body-header: |
+    <style>
+    .lang-toggle {
+      position: fixed;
+      top: 70px;
+      right: 20px;
+      z-index: 1000;
+    }
+    .lang-btn {
+      background: transparent;
+      border: 1px solid #666;
+      border-radius: 4px;
+      padding: 5px 12px;
+      margin: 0 2px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.3s;
+    }
+    .lang-btn:hover {
+      background: #f0f0f0;
+    }
+    .lang-btn.active {
+      background: #0366d6;
+      color: white;
+      border-color: #0366d6;
+    }
+    [lang]:not([lang="en"]) { display: none; }
+    [lang="en"] { display: block; }
+    </style>
+    <div class="lang-toggle">
+      <button class="lang-btn active" onclick="switchLang('en')">English</button>
+      <button class="lang-btn" onclick="switchLang('pt')">Português</button>
+    </div>
+
+  navbar:
+    background: light  # You can change the background color here
+
+    left:   # You can comment out all navigation items here if you just like to keep the index page only
+#      - text: Home
+#        href: index.qmd
+      - text: About
+        menu:
+          - text: Posts
+            href: posts.qmd
+          - text: Contact
+            href: contact.qmd             
+      - text: Research
+        menu:
+          - text: List of Publications
+            href: publications.qmd
+          - text: Grants
+            href: projects.qmd                                
+#      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+#        href: teaching.qmd
+      - text: Outreach
+        menu:        
+        - text: Presentations
+          href: posts.qmd#category=presentation                   
+#      - text: Group   # Comment the Group part out to remove the Group page
+#        href: people.qmd
+
+    right: 
+      - text: CV
+        href: files/2026-1-02-CV-Mancano-Tales.pdf
+      - icon: github
+        href: https://github.com/drganghe/quarto-academic-website-template
+        target: _blank
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app
+        target: _blank      
+      - icon: rss
+        href: posts.xml
+        target: _blank
+  
+  page-navigation: true
+  
+  page-footer: 
+    left: "[Tales Mançano](http://www.github.com/mancano-tales) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    right:  
+      - icon: github
+        href: https://github.com/drganghe/quarto-academic-website-template
+        target: _blank
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://bsky.app
+        target: _blank
+      - icon: rss
+        href: posts.xml
+        target: _blank  
+  
+  search:
+    location: navbar
+    type: textbox
+  
+  reader-mode: true
+
+  draft-mode: unlinked
+  
+  repo-url: https://github.com/drganghe/quarto-academic-website-template
+#  repo-actions: [edit, issue, source]
+  
+  open-graph: true
+  
+  twitter-card: true 
+#  card-style: summary      
+  
+  #site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  
+  google-analytics:
+    tracking-id: ""  # Please delete or replace with your own tracking ID
+    anonymize-ip: true 
+
+bibliography: "C:\\Users\\Mancano\\Documents\\MancanoSync\\MA-TMancano\\2025-10-14-MA-TMancano-Library.bib" # Add references.bib to the root folder to enable the bibliography function
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    include-in-header: "files/includes/_academic.qmd"
+

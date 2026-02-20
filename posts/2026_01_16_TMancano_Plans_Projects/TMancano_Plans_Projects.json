@@ -1,0 +1,1522 @@
+{
+  "schema_version": "1.0",
+  "metadata": {
+    "description": "Research projects tracking system",
+    "owner": "Tales Mançano",
+    "last_backup": "2026-01-18"
+  },
+  "research_projects": [
+    { "id": "2024-MA_TMAncano_Politics_Education-Inequality_Dissertation",
+      "status": "Work in Progress",
+      "type": "Dissertation",
+      "priority": "high",
+      "title": "Education Inequality in Tertiary Education in Brazil: Political Economy of Redistributive Policies",
+      "created_date": "2024-03-01",
+      "last_updated": "2026-01-18",
+      "status_history": [
+        {
+          "status": "Prospective",
+          "date": "2023-09-01"
+        },
+        {
+          "status": "Work in Progress",
+          "date": "2024-03-01"
+        }
+      ],
+      "collaborators": [
+        {
+          "name": "Tales Mançano",
+          "role": "Main author",
+          "institution": "USP",
+          "email": null,
+          "contribution": [
+            "Complete responsability",
+            "Conceptualization",
+            "Writing - Original Draft",
+            "Data Analysis"
+          ]
+        }
+      ],
+      "people_to_involve": [],
+      "project_state": "In progress",
+      "status_notes": "Main dissertation project, central to graduation",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": null,
+      "milestones": [],
+      "pending_tasks": [],
+      "main_argument": null,
+      "tags": [
+        "education",
+        "inequality",
+        "Brazil",
+        "tertiary education",
+        "political economy"
+      ],
+      "keywords": [
+        "education policy",
+        "redistribution",
+        "higher education",
+        "Brazil"
+      ],
+      "discipline": "Political Economy",
+      "methodology": [
+        "Comparative-Historical Analysis",
+        "Mixed Methods"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": null,
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": null,
+        "complexity": "high"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "2024-12-03_Antitrust-Brazil_Nahoum-Mancano_Article",
+      "status": "Work in Progress",
+      "type": "Research Article",
+      "priority": "high",
+      "title": "Antitrust in Brazil and Creation of Multinationals",
+      "created_date": "2025-12-03",
+      "last_updated": "2026-01-17",
+      "status_history": [
+        {
+          "status": "Prospective",
+          "date": "2025-10-01"
+        },
+        {
+          "status": "Work in Progress",
+          "date": "2025-12-03"
+        }
+      ],
+      "collaborators": [
+        {
+          "name": "André Vereta Nahoum",
+          "role": "Co-author",
+          "institution": "USP",
+          "email": null,
+          "contribution": [
+            "Conceptualization",
+            "Writing - Original Draft",
+            "Data Analysis"
+          ]
+        },
+        {
+          "name": "Tales Mançano",
+          "role": "Co-author",
+          "institution": "USP",
+          "email": null,
+          "contribution": [
+            "Conceptualization",
+            "Writing - Original Draft",
+            "Data Analysis"
+          ]
+        }
+      ],
+      "people_to_involve": [],
+      "project_state": "Complete draft in Portuguese",
+      "status_notes": "Article progressing well, on track for submission in Q2 2026",
+      "target_journal": {
+        "name": "Review of International Political Economy (RIPE)",
+        "url": "https://www.tandfonline.com/journals/rrip20",
+        "impact_factor": null,
+        "acceptance_rate": null
+      },
+      "alternative_journals": [
+        "Brazillian Journal of Political Economy",
+        "Journal of Development Economics"
+      ],
+      "prospective_deadline": "2026-06-30",
+      "next_step": "Wait for Coauthor",
+      "milestones": [
+
+        {
+          "name": "Translate to English",
+          "deadline": "2026-04-30",
+          "completed": false
+        },
+        {
+          "name": "Submit to RIPE",
+          "deadline": "2026-06-30",
+          "completed": false
+        }
+      ],
+      "pending_tasks": [
+        "Translate article to English",
+        "Format for journal submission"
+      ],
+      "main_argument": null,
+      "tags": [
+        "antitrust",
+        "Brazil",
+        "multinationals",
+        "political economy",
+        "development"
+      ],
+      "keywords": [
+        "competition policy",
+        "multinational corporations",
+        "industrial policy",
+        "Brazil"
+      ],
+      "discipline": "Political Economy",
+      "methodology": [
+        "Quantitative",
+        "Regression Analysis"
+      ],
+      "related_files": {
+        "draft": "path/to/antitrust_draft_pt.docx",
+        "data": "path/to/antitrust_data.csv",
+        "code": "path/to/analysis.R",
+        "notes": "path/to/research_notes.md",
+        "presentations": [
+          "Sucessfully presented at SASE 2025 at Montreal",
+          "Sucessfully presented at SBS 2025 at São Paulo",
+          "Propose presentation at CEM-USP in Marta Arretche group"
+        ]
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": 120,
+        "complexity": "medium-high"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "2026-RIA_BEPE_Tarlau_Process_Tracing_ProUni-Quotas_Article",
+      "status": "Work in Progress",
+      "type": "Research Article",
+      "priority": "medium",
+      "title": "ProUni and Quotas as Redistributive Policies Advanced by Social Movements",
+      "created_date": "2025-03-01",
+      "last_updated": "2026-01-18",
+      "status_history": [
+        {
+          "status": "Prospective",
+          "date": "2026-01-18"
+        }
+      ],
+      "collaborators": [
+        {
+          "name": "Tales Mançano",
+          "role": "Main author",
+          "institution": "USP",
+          "email": null,
+          "contribution": [
+            "Conceptualization",
+            "Data Collection",
+            "Writing - Original Draft"
+          ]
+        },
+        {
+          "name": "Rebecca Tarlau",
+          "role": "Supervisor",
+          "institution": "Stanford GSE",
+          "email": null,
+          "contribution": [
+            "Supervision",
+            "Conceptualization",
+            "Writing - Review & Editing"
+          ]
+        }
+      ],
+      "people_to_involve": [
+        {
+          "name": "Eric Rinaldi",
+          "role": "Co-author",
+          "institution": null,
+          "email": null,
+          "contribution": []
+        }
+      ],
+      "project_state": "BEPE project, summary of quota approval process completed",
+      "status_notes": "Advance research desing",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": "Organize Project and Schedule meeting with Rebecca Tarlau",
+      "milestones": [
+        {
+          "name": "Complete literature review",
+          "deadline": "2026-02-10",
+          "completed": false
+        },
+        {
+          "name": "Draft initial argument",
+          "deadline": "2026-02-10",
+          "completed": false
+        }
+      ],
+      "pending_tasks": [
+        "Complete literature review",
+        "Draft initial argument",
+        "Analyze interview data"
+      ],
+      "main_argument": null,
+      "tags": [
+        "ProUni",
+        "quotas",
+        "affirmative action",
+        "Brazil",
+        "social movements",
+        "education policy"
+      ],
+      "keywords": [
+        "redistributive policies",
+        "higher education",
+        "social movements",
+        "Brazil",
+        "policy advocacy"
+      ],
+      "discipline": [
+        "Political Science",
+        "Sociology"
+      ],
+      "methodology": [
+        "Qualitative",
+        "Interviews",
+        "Process Tracing"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": "path/to/interviews/",
+        "code": null,
+        "notes": "path/to/bepe_notes.md",
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": "BEPE/FAPESP",
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [
+        "BEPE scholarship",
+        "Interview recordings"
+      ],
+      "estimated_effort": {
+        "remaining_hours": 300,
+        "complexity": "high"
+      },
+      "dependencies": [
+        "2024-ongoing_Education-Inequality_Mancano_Dissertation"
+      ],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "Mancano-etal-2026_Paglayan_Replication_Article",
+      "status": "Prospective",
+      "type": "Research Article",
+      "priority": "low",
+      "title": "Replication of Paglayan's Work",
+      "created_date": "2026-01-01",
+      "last_updated": "2026-01-18",
+      "status_history": [
+        {
+          "status": "Prospective",
+          "date": "2026-01-01"
+        }
+      ],
+      "collaborators": [],
+      "people_to_involve": [
+        {
+          "name": "Eric Rinaldi",
+          "role": "Co-author",
+          "institution": null,
+          "email": null,
+          "contribution": []
+        },
+        {
+          "name": "Artur Damião",
+          "role": "Co-author",
+          "institution": null,
+          "email": null,
+          "contribution": []
+        },
+        {
+          "name": "Davi Veronese",
+          "role": "Consult",
+          "institution": null,
+          "email": null,
+          "contribution": []
+        },
+        {
+          "name": "Thomas Kang",
+          "role": "Consult",
+          "institution": null,
+          "email": null,
+          "contribution": []
+        },
+        {
+          "name": "Agustina Paglayan",
+          "role": "Consult",
+          "institution": null,
+          "email": null,
+          "contribution": []
+        }
+      ],
+      "project_state": "Ideation phase",
+      "status_notes": "Need to re-read the a define research question and assemble team",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": "Re-read Paglayan's Work",
+      "milestones": [
+        {
+          "name": "Review Paglayan's methodology",
+          "deadline": null,
+          "completed": false
+        },
+        {
+          "name": "Organize data",
+          "deadline": null,
+          "completed": false
+        }
+      ],
+      "pending_tasks": [
+        "Review Paglayan's methodology",
+        "Organize data",
+        "Contact potential co-authors"
+      ],
+      "main_argument": null,
+      "tags": [
+        "replication",
+        "education",
+        "political economy",
+        "comparative"
+      ],
+      "keywords": [
+        "replication study",
+        "education policy",
+        "comparative analysis"
+      ],
+      "discipline": "Political Science / Political Economy",
+      "methodology": [
+        "Replication",
+        "Quantitative"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": null,
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": null,
+        "complexity": "medium"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "Mancano-Wegenast-2025_11_26_Land-Concentration_Educational_Backwardness_Article",
+      "status": "Prospective",
+      "type": "Research Article",
+      "priority": "low",
+      "title": "Land Concentration and Educational Backwardness",
+      "created_date": "2025-11-26",
+      "last_updated": "2026-01-18",
+      "status_history": [
+        {
+          "status": "Prospective",
+          "date": "2026-01-01"
+        }
+      ],
+      "collaborators": [
+        {
+          "name": "Tim Wegenast",
+          "role": "Co-author",
+          "institution": null,
+          "email": null,
+          "contribution": []
+        }
+            ],
+      "people_to_involve": [
+        {
+          "name": "Clara Bicalho",
+          "role": "Consult",
+          "institution": "Stanford CLAS",
+          "email": null,
+          "contribution": [
+            "Opinion",
+            "Conceptualization",
+            "Data Collection"
+          ]
+        },
+        {
+          "name": "Rebecca Tarlau",
+          "role": "Consult",
+          "institution": "Stanford GSE",
+          "email": null,
+          "contribution": [
+            "Opinion",
+            "Conceptualization"
+          ]
+        }            ],
+      "project_state": "Ideation phase",
+      "status_notes": "Early stage idea exploring relationship between land and education inequality",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": "Literature review",
+      "milestones": [
+        {
+          "name": "Complete literature review",
+          "deadline": null,
+          "completed": false
+        },
+        {
+          "name": "Define hypothesis",
+          "deadline": null,
+          "completed": false
+        },
+        {
+          "name": "Identify data sources",
+          "deadline": null,
+          "completed": false
+        }
+      ],
+      "pending_tasks": [
+        "Literature review",
+        "Define hypothesis",
+        "Identify data sources"
+      ],
+      "main_argument": "Existem bancos de dados sobre soncentração de terra e sobre matrículas. Me parece que, seguindo o que já fez Wegenast e também Daniel Ziblatt, pode ser possivel fazer uma análise histórica comparativa que encontre efeito causal entre concentração de Terra e Expansão educacional.",
+      "tags": [
+        "land inequality",
+        "education",
+        "Brazil",
+        "development",
+        "agrarian"
+      ],
+      "keywords": [
+        "land concentration",
+        "educational development",
+        "inequality",
+        "Brazil"
+      ],
+      "discipline": "Political Economy / Development Studies",
+      "methodology": [
+        "Quantitative",
+        "Historical Analysis"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": null,
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": null,
+        "complexity": "medium-high"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "Mancano2025-11-30_Four_Worlds_Welfare_Working-Paper",
+      "status": "On Hold",
+      "type": "Working Paper",
+      "priority": null,
+      "title": "Four Worlds of Brazilian Welfare State",
+      "created_date": "2024-01-01",
+      "last_updated": "2025-06-01",
+      "status_history": [
+        {
+          "status": "Work in Progress",
+          "date": "2024-01-01"
+        },
+        {
+          "status": "On Hold",
+          "date": "2025-06-01"
+        }
+      ],
+      "collaborators": [
+        {
+          "name": "Tales Mançano",
+          "role": "Main author",
+          "institution": "USP",
+          "email": null,
+          "contribution": [
+            "Conceptualization",
+            "Writing - Original Draft"
+          ]
+        }
+      ],
+      "people_to_involve": [],
+      "project_state": "On hold",
+      "status_notes": "Paused to focus on dissertation, will resume after completion",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": "Resume writing",
+      "milestones": [
+        {
+          "name": "Resume writing",
+          "deadline": null,
+          "completed": false
+        },
+        {
+          "name": "Update literature review",
+          "deadline": null,
+          "completed": false
+        }
+      ],
+      "pending_tasks": [
+        "Resume writing",
+        "Update literature review"
+      ],
+      "main_argument": null,
+      "tags": [
+        "welfare state",
+        "Brazil",
+        "comparative",
+        "typology"
+      ],
+      "keywords": [
+        "welfare state",
+        "Brazil",
+        "social policy",
+        "comparative analysis"
+      ],
+      "discipline": "Political Economy / Comparative Politics",
+      "methodology": [
+        "Comparative Analysis",
+        "Typology"
+      ],
+      "related_files": {
+        "draft": "path/to/four_worlds_draft.docx",
+        "data": null,
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": 200,
+        "complexity": "high"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "2025-hold_Political-History-Social-Sciences_Mancano-Montezuma_Article",
+      "status": "On Hold",
+      "type": "Research Article",
+      "priority": null,
+      "title": "Political History of Social Sciences with Montezuma",
+      "created_date": "2025-03-01",
+      "last_updated": "2025-09-01",
+      "status_history": [
+        {
+          "status": "Prospective",
+          "date": "2025-03-01"
+        },
+        {
+          "status": "On Hold",
+          "date": "2025-09-01"
+        }
+      ],
+      "collaborators": [
+        {
+          "name": "Tales Mançano",
+          "role": "Co-author",
+          "institution": "USP",
+          "email": null,
+          "contribution": []
+        },
+        {
+          "name": "Juan Michel Montezuma",
+          "role": "Co-author",
+          "institution": null,
+          "email": null,
+          "contribution": []
+        }
+      ],
+      "people_to_involve": [],
+      "project_state": "On hold",
+      "status_notes": "Need to schedule meeting with Montezuma to define scope and restart project",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": "Schedule meeting with Montezuma",
+      "milestones": [
+        {
+          "name": "Schedule meeting with Montezuma",
+          "deadline": null,
+          "completed": false
+        },
+        {
+          "name": "Define scope",
+          "deadline": null,
+          "completed": false
+        }
+      ],
+      "pending_tasks": [
+        "Schedule meeting with Montezuma",
+        "Define scope"
+      ],
+      "main_argument": null,
+      "tags": [
+        "history",
+        "social sciences",
+        "Brazil",
+        "intellectual history"
+      ],
+      "keywords": [
+        "political history",
+        "social sciences",
+        "intellectual history"
+      ],
+      "discipline": "Sociology / History",
+      "methodology": [
+        "Historical Analysis",
+        "Qualitative"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": null,
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": null,
+        "complexity": "medium"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "2025-interview_Balbachevsky_Mancano_Interview",
+      "status": "Work in Progress",
+      "type": "Interview",
+      "priority": "Low",
+      "title": "Interview with Elizabeth Balbachevsky",
+      "created_date": "2025-09-01",
+      "last_updated": "2026-01-18",
+      "status_history": [
+        {
+          "status": "Prospective",
+          "date": "2025-09-01"
+        },
+        {
+          "status": "Work in Progress",
+          "date": "2025-11-15"
+        }
+      ],
+      "collaborators": [
+        {
+          "name": "Tales Mançano",
+          "role": "Interviewer",
+          "institution": "USP",
+          "email": null,
+          "contribution": [
+            "Data Collection"
+          ]
+        },
+        {
+          "name": "Elizabeth Balbachevsky",
+          "role": "Interviewee",
+          "institution": "USP",
+          "email": null,
+          "contribution": []
+        }
+      ],
+      "people_to_involve": [],
+      "project_state": "Research assistant hired to transcribe the interview",
+      "status_notes": "Interview completed, transcription in progress",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": "Transcribe interview",
+      "milestones": [
+        {
+          "name": "Transcribe interview",
+          "deadline": "2026-02-15",
+          "completed": false
+        },
+        {
+          "name": "Code interview",
+          "deadline": "2026-03-01",
+          "completed": false
+        },
+        {
+          "name": "Analyze themes",
+          "deadline": "2026-03-15",
+          "completed": false
+        }
+      ],
+      "pending_tasks": [
+        "Transcribe interview",
+        "Code interview",
+        "Analyze themes"
+      ],
+      "main_argument": null,
+      "tags": [
+        "interview",
+        "education policy",
+        "Brazil",
+        "higher education"
+      ],
+      "keywords": [
+        "interview",
+        "education policy",
+        "expert interview"
+      ],
+      "discipline": "Political Science",
+      "methodology": [
+        "Qualitative",
+        "Interview"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": "path/to/balbachevsky_interview.mp3",
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [
+        "Research assistant budget"
+      ],
+      "estimated_effort": {
+        "remaining_hours": 20,
+        "complexity": "low"
+      },
+      "dependencies": [
+        null
+      ],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "2025-interview_Prandi_Mancano_Interview",
+      "status": "On Hold",
+      "type": "Interview",
+      "priority": "medium",
+      "title": "Interview with Reginaldo Prandi",
+      "created_date": "2025-10-01",
+      "last_updated": "2026-01-18",
+      "status_history": [
+        {
+          "status": "On Hold",
+          "date": "2025-10-01"
+        },
+        {
+          "status": "On Hold",
+          "date": "2025-12-01"
+        }
+      ],
+      "collaborators": [
+        {
+          "name": "Tales Mançano",
+          "role": "Interviewer",
+          "institution": "USP",
+          "email": null,
+          "contribution": [
+            "Data Collection"
+          ]
+        },
+        {
+          "name": "Reginaldo Prandi",
+          "role": "Interviewee",
+          "institution": "USP",
+          "email": null,
+          "contribution": []
+        }
+      ],
+      "people_to_involve": [],
+      "project_state": "Untranscribed interview",
+      "status_notes": "Interview completed, needs transcription",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": "Transcribe interview",
+      "milestones": [
+        {
+          "name": "Transcribe interview",
+          "deadline": "2026-02-28",
+          "completed": false
+        }
+      ],
+      "pending_tasks": [
+        "Transcribe interview",
+        "Code interview",
+        "Analyze themes"
+      ],
+      "main_argument": null,
+      "tags": [
+        "interview",
+        "sociology",
+        "Brazil",
+        "intellectual history"
+      ],
+      "keywords": [
+        "interview",
+        "sociology",
+        "expert interview"
+      ],
+      "discipline": "Sociology",
+      "methodology": [
+        "Qualitative",
+        "Interview"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": "path/to/prandi_interview.mp3",
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": 15,
+        "complexity": "low"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "2026-idea_No-Rationality_Mancano_Essay",
+      "status": "Prospective Idea",
+      "type": "Essay/Article",
+      "priority": null,
+      "title": "There Is No Such Thing as Rationality",
+      "created_date": "2026-01-01",
+      "last_updated": "2026-01-18",
+      "status_history": [
+        {
+          "status": "Prospective Idea",
+          "date": "2026-01-01"
+        }
+      ],
+      "collaborators": [],
+      "people_to_involve": [],
+      "project_state": "Ideation phase",
+      "status_notes": "Theoretical essay idea, needs development",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": null,
+      "milestones": [],
+      "pending_tasks": [],
+      "main_argument": "How there is no action you can always consider rational in a larger scale",
+      "tags": [
+        "theory",
+        "rationality",
+        "philosophy",
+        "social theory"
+      ],
+      "keywords": [
+        "rationality",
+        "rational choice",
+        "social theory"
+      ],
+      "discipline": "Social Theory / Philosophy",
+      "methodology": [
+        "Theoretical",
+        "Essay"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": null,
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": null,
+        "complexity": "low"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "2026-idea_Colonels-Communists_Mancano_Article",
+      "status": "Prospective Idea",
+      "type": "Research Article",
+      "priority": null,
+      "title": "Coronéis e Comunistas",
+      "created_date": "2026-01-01",
+      "last_updated": "2026-01-18",
+      "status_history": [
+        {
+          "status": "Prospective Idea",
+          "date": "2026-01-01"
+        }
+      ],
+      "collaborators": [],
+      "people_to_involve": [],
+      "project_state": "Ideation phase",
+      "status_notes": "Interesting historical argument, needs research to develop",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": null,
+      "milestones": [],
+      "pending_tasks": [],
+      "main_argument": "How institutions that gave advantages to colonels were appropriated by communists to capture UNE?",
+      "tags": [
+        "Brazil",
+        "history",
+        "political history",
+        "UNE",
+        "communism"
+      ],
+      "keywords": [
+        "colonels",
+        "communism",
+        "UNE",
+        "institutional appropriation",
+        "Brazil"
+      ],
+      "discipline": "Political Science / History",
+      "methodology": [
+        "Historical Analysis",
+        "Process Tracing"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": null,
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": null,
+        "complexity": "medium"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "2024-idea_Performativity-Marxism_Mancano_Essay",
+      "status": "Prospective Idea",
+      "type": "Essay/Article",
+      "priority": null,
+      "title": "The Performativity of Marxism",
+      "created_date": "2026-01-01",
+      "last_updated": "2026-01-18",
+      "status_history": [
+        {
+          "status": "Prospective Idea",
+          "date": "2026-01-01"
+        }
+      ],
+      "collaborators": [],
+      "people_to_involve": [],
+      "project_state": "Ideation phase",
+      "status_notes": "Theoretical essay on performativity of Marxist ideas",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": null,
+      "milestones": [],
+      "pending_tasks": [],
+      "main_argument": "How not only economic ideas, but also revolutionary Marxism performed the world",
+      "tags": [
+        "theory",
+        "Marxism",
+        "performativity",
+        "social theory"
+      ],
+      "keywords": [
+        "Marxism",
+        "performativity",
+        "social theory",
+        "ideas"
+      ],
+      "discipline": "Social Theory / Political Economy",
+      "methodology": [
+        "Theoretical",
+        "Essay"
+      ],
+      "related_files": {
+        "draft": null,
+        "data": null,
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": null,
+        "complexity": "medium"
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": null,
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [],
+        "revision_rounds": 0,
+        "decision": null,
+        "decision_date": null
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    },
+    { "id": "Mancano-Sena2020-abandoned_CRUSP_Article",
+      "status": "Abandoned",
+      "type": "Research Article",
+      "priority": null,
+      "title": "Article on CRUSP with Igor Sena",
+      "created_date": "2023-06-01",
+      "last_updated": "2024-11-15",
+      "status_history": [
+        {
+          "status": "Prospective",
+          "date": "2023-06-01"
+        },
+        {
+          "status": "Work in Progress",
+          "date": "2023-09-01"
+        },
+        {
+          "status": "Submitted",
+          "date": "2024-05-10"
+        },
+        {
+          "status": "Abandoned",
+          "date": "2024-11-15"
+        }
+      ],
+      "collaborators": [
+        {
+          "name": "Tales Mançano",
+          "role": "Co-author",
+          "institution": "USP",
+          "email": null,
+          "contribution": [
+            "Conceptualization",
+            "Data Collection",
+            "Writing - Original Draft"
+          ]
+        },
+        {
+          "name": "Igor Sena",
+          "role": "Co-author",
+          "institution": "USP",
+          "email": null,
+          "contribution": [
+            "Conceptualization",
+            "Data Collection",
+            "Writing - Original Draft"
+          ]
+        }
+      ],
+      "people_to_involve": [],
+      "project_state": "Rejected by reviewer, not revised",
+      "status_notes": "Project abandoned due to missed timing for revisions and low quality of initial submission. Lessons learned: need better time management and more thorough peer review before submission",
+      "target_journal": null,
+      "alternative_journals": [],
+      "prospective_deadline": null,
+      "next_step": null,
+      "milestones": [],
+      "pending_tasks": [],
+      "main_argument": null,
+      "tags": [
+        "CRUSP",
+        "student housing",
+        "USP",
+        "Brazil",
+        "abandoned"
+      ],
+      "keywords": [
+        "student housing",
+        "university policy",
+        "Brazil"
+      ],
+      "discipline": "Urban Studies / Education Policy",
+      "methodology": [
+        "Mixed Methods"
+      ],
+      "related_files": {
+        "draft": "path/to/crusp_draft.docx",
+        "data": "path/to/crusp_data.csv",
+        "code": null,
+        "notes": null,
+        "presentations": []
+      },
+      "related_urls": {
+        "github_repo": null,
+        "osf_project": null,
+        "overleaf": null,
+        "zotero_collection": null
+      },
+      "funding": {
+        "source": null,
+        "amount": null,
+        "grant_number": null
+      },
+      "resources": [],
+      "estimated_effort": {
+        "remaining_hours": 0,
+        "complexity": null
+      },
+      "dependencies": [],
+      "submission_info": {
+        "submitted_date": "2024-05-10",
+        "journal": null,
+        "manuscript_number": null,
+        "reviews": [
+          {
+            "reviewer": "Reviewer 1",
+            "decision": "Reject",
+            "comments": "Quality concerns, methodology issues"
+          }
+        ],
+        "revision_rounds": 0,
+        "decision": "Reject",
+        "decision_date": "2024-08-15"
+      },
+      "publication_info": {
+        "doi": null,
+        "citation": null,
+        "volume": null,
+        "issue": null,
+        "pages": null,
+        "publication_date": null
+      },
+      "presentations": [],
+      "conference_deadlines": []
+    }
+  ]
+}
