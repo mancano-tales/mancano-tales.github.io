@@ -1,0 +1,465 @@
+---
+title: "Fichamento: The Effects of Widespread Online Education on Market Structure and Enrollment"
+subtitle: "Barahona, N.; Dobbin, C.; Otero, S. (2025)"
+author: "Tales Mançano"
+date: "2026-04-18"
+last-updated: "2026-04-18"
+categories: [Annotated Bibliography, Economics of Education, Industrial Organization, Causal Inference, Higher Education Policy, Brazil]
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: "Sumário"
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    code-fold: false
+    self-contained: true
+    lang: pt
+---
+
+**Última atualização:** 2026-04-18  
+**Modelo:** Perplexity — Sonnet 4.6 Thinking  
+**Gerado em:** 2026-04-18T17:39:00-03:00
+
+---
+
+| Campo | Valor |
+|:------|:------|
+| Citation-key | Barahona-etal2025 |
+| Ano | 2025 |
+| Autor(es) | Barahona, N.; Dobbin, C.; Otero, S. |
+| Título | The Effects of Widespread Online Education on Market Structure and Enrollment |
+| Instituição | UC Berkeley e NBER (Barahona); Georgetown University (Dobbin); Columbia University e NBER (Otero) |
+| Tipo de documento | Working Paper |
+| Modelo | Perplexity — Sonnet 4.6 Thinking |
+| Timestamp | 2026-04-18T17:39:00-03:00 |
+
+> Barahona, N., Dobbin, C., & Otero, S. (2025, November 21). *The effects of widespread online education on market structure and enrollment*. Working paper. UC Berkeley / Georgetown University / Columbia University / NBER.
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX — Barahona-etal2025
+
+```bibtex
+@techreport{Barahona-etal2025,
+  author    = {Barahona, Nano and Dobbin, Cauê and Otero, Sebastián},
+  title     = {The Effects of Widespread Online Education on Market Structure and Enrollment},
+  year      = {2025},
+  month     = {November},
+  institution = {National Bureau of Economic Research},
+  note      = {Working paper, versão de 21 nov. 2025},
+  url       = {}
+}
+```
+:::
+
+---
+
+## Introdução (pp. 1–7)
+
+### Motivação, contexto e puzzle empírico [§1–§5]
+
+O artigo abre enquadrando a expansão da educação *online* como parte de um processo mais amplo de digitalização de setores historicamente dependentes de interação presencial — entre eles a saúde e a educação. No ensino superior, esse movimento se tornou especialmente pronunciado: nos Estados Unidos, cerca de 15% dos estudantes de graduação estavam matriculados exclusivamente em cursos a distância em 2019, proporção que subiu para 24% em 2022, acelerada pela pandemia de Covid-19 (NCES, 2022). Os autores identificam dois efeitos potencialmente opostos da expansão *online*: por um lado, a democratização do acesso, especialmente para populações anteriormente excluídas (Barrow et al., 2024); por outro, o risco de substituição de programas presenciais de maior qualidade por alternativas remotas de menor retorno (Bettinger et al., 2017; Garrett et al., 2022).
+
+O **puzzle** central do artigo é exatamente a tensão entre expansão de acesso e diluição de qualidade. Em mercados de ensino superior onde a qualidade é difícil de observar (Hastings et al., 2015; Larroucau et al., 2024), estudantes podem migrar para modalidades *online* sem perceber que estão abrindo mão de retornos maiores no mercado de trabalho. O problema se agrava quando se consideram **efeitos de equilíbrio**: a entrada de cursos *online* intensifica a competição com programas presenciais, que operam com custos fixos elevados, e pode levar ao fechamento de cursos de maior qualidade — tornando a opção *online* a única disponível em certos mercados (Deming et al., 2016; Deming et al., 2015).
+
+> "Enquanto a educação *online* pode impulsionar a matrícula total, ela também pode desviar estudantes de programas presenciais de alta qualidade para alternativas *online* de qualidade potencialmente inferior."
+
+### O Brasil como laboratório e as contribuições do artigo [§6–§10]
+
+O Brasil é apresentado como o maior mercado mundial de graduações totalmente *online*, o que torna o país um laboratório ideal para analisar efeitos de equilíbrio. Em 2010, apenas 17% dos novos estudantes do setor privado escolheram cursos *online*; em 2019, essa proporção havia subido para 44%, chegando a 65% após a pandemia. Dois aspectos regulatórios específicos ao Brasil geram a variação exógena necessária para identificação causal: (1) a exigência de que programas *online* instalem **hubs físicos locais** — onde alunos devem comparecer periodicamente para provas e atividades presenciais —, criando diferenças geográficas na penetração *online*; e (2) a **proibição de cursos *online*** em determinados campos — Direito, Medicina e Psicologia —, introduzindo variação entre áreas de estudo.
+
+::: {.callout-note icon=false}
+**Tese antecipada na introdução:** A expansão do ensino superior *online* no Brasil gerou ganhos de acesso para estudantes mais velhos, mas desviou estudantes mais jovens de programas presenciais de maior valor agregado; a competição resultante reduziu preços de mensalidades presenciais e contraiu a oferta de cursos presenciais, produzindo uma perda líquida de 1,4% no valor adicionado agregado ao mercado de trabalho.
+:::
+
+Os autores descrevem sua estratégia analítica em dois estágios: primeiro, um **modelo linear de primeiras diferenças** com variável instrumental *shift-share* (Bartik/SSIV) para estimar efeitos causais marginais; segundo, um **modelo de equilíbrio demanda-oferta** que incorpora padrões ricos de substituição, respostas de preços e decisões endógenas de entrada e saída de cursos. Os dados utilizados incluem o Censo da Educação Superior, dados de mensalidades de quatro fontes (PROUNI, FIES, pesquisa Hoper, QueroBolsa), microdados do ENEM e registros administrativos de emprego-salário (RAIS), além do censo populacional de 2010 e dados de penetração de internet (DSCOM/IBGE).
+
+O artigo se posiciona na intersecção de três literaturas: (i) efeitos da introdução de alternativas de menor qualidade em mercados educacionais — community colleges (Rouse, 1995, 1998; Mountjoy, 2022) e educação *online* (Deming et al., 2012; Goodman et al., 2019; Deming et al., 2015); (ii) aprendizado e progresso acadêmico em formatos *online* (Figlio et al., 2013; Bettinger et al., 2017; Kofoed et al., 2024); e (iii) modelos de equilíbrio de competição imperfeita em educação (Neilson et al., 2013; Allende, 2019; Barahona et al., 2023, 2025; Armona e Cao, 2024; Bau, 2022). A contribuição distintiva do artigo é articular um **framework de equilíbrio** que captura simultaneamente expansão de mercado, desvio de demanda, mudanças de preços e oferta endógena de cursos.
+
+---
+
+## Contexto Institucional e Dados (pp. 7–15)
+
+### O setor de educação superior *online* no Brasil [§11–§17]
+
+O ensino superior brasileiro expandiu-se substancialmente na última década, com novas matrículas de graduação passando de aproximadamente 2,2 milhões em 2010 para 3,6 milhões em 2022. Os autores descrevem o crescimento do setor privado de educação a distância — denominado **Educação a Distância (EaD)** no Brasil — como um fenômeno liderado por instituições privadas com fins lucrativos, que respondem por 95% do mercado *online*, com 79% dessa fatia concentrada em for-profit. Sete instituições concentravam 73% das matrículas *online* totais em 2019, revelando alta concentração de mercado.
+
+::: {.callout-note icon=false}
+**Características dos programas EaD:** Os diplomas de cursos EaD não diferenciam a modalidade de entrega, colocando formatos *online* e presenciais em igualdade formal de reconhecimento. Currículos e carga horária mínima são os mesmos por determinação regulatória. Porém, os cursos *online* são frequentemente percebidos como de menor qualidade pelos gestores de política educacional (Bertolin et al., 2023). A instrução é integralmente remota, com a maioria das instituições oferecendo aulas ao vivo (síncronas) e 78% disponibilizando recursos assíncronos — videoaulas gravadas, materiais de leitura e quizzes interativos (ABED, 2018).
+:::
+
+Três fatores impulsionaram o crescimento da EaD no Brasil: (1) a demanda por **flexibilidade**, que beneficia especialmente estudantes mais velhos que precisam conciliar estudos com trabalho e responsabilidades familiares — em 2019, 71% dos novos estudantes *online* tinham mais de 24 anos, contra apenas 32% nos cursos presenciais; (2) a melhora da **infraestrutura de internet**, com a proporção de domicílios conectados saltando de 40% em 2010 (IBGE, 2010) para 83% em 2019 (PNAD, 2019); e (3) as **reformas regulatórias de 2016** (Resolução CNE/CES N1/2016; Decreto 9.057/2017; Portaria Normativa 11/2017), que simplificaram o credenciamento de novos programas e ampliaram a autonomia das instituições para instalar hubs.
+
+Certos campos são proibidos de oferta *online*: Direito e Medicina requerem autorização especial da OAB e do Conselho Nacional de Saúde, respectivamente; até 2019, nenhum programa nessas áreas havia sido aprovado. Em contraste, Administração e Educação responderam por 78% das matrículas *online* totais em 2019, apesar de representarem apenas 31% das matrículas presenciais.
+
+### Fontes de dados e definições operacionais [§18–§29]
+
+**Dados do Censo da Educação Superior** constituem a espinha dorsal da análise: contêm informações institucionais (estrutura de propriedade, firma-mãe), características dos programas (campo de estudo, modalidade, carga horária, ano de criação, hubs associados) e dados estudantis com demografia completa para rastreamento de trajetórias educacionais. **Dados de mensalidades** foram compilados de quatro fontes — registros administrativos do PROUNI e do FIES via FNDE, pesquisa nacional da Hoper Consultoria e dados administrativos do QueroBolsa —, cobrindo 95,5% dos pares programa-ano e 98,5% das matrículas totais. **Dados de pontuação no ENEM** fornecem informações de todos os estudantes que prestaram o exame, incluindo cinco notas por área e questionário socioeconômico. **Registros administrativos de emprego-salário (RAIS)**, do Ministério do Trabalho, com informações de salários, horas contratuais e ocupação para o universo de trabalhadores formais — utilizados para construir perfis de rendimentos por programa e estudante, cobrindo 2010–2023.
+
+As definições operacionais centrais são:
+
+- **Regiões/Mercados:** 137 mesorregiões do IBGE (agrupamento de municípios por proximidade e características compartilhadas). Um "mercado" é a interseção região-ano; tamanho de mercado = número de residentes de 18 a 45 anos sem diploma de graduação.
+- **Firmas/Instituições:** Empresa que pode deter múltiplas universidades; distinção entre *expanding institutions* (entrando em novas regiões) e *local institutions* (operando nas mesmas localidades). Na amostra: 340 locais, 134 em expansão, das quais 93 expandiram *online*.
+- **Graus (degrees):** Agregação de programas da mesma instituição, mesmo campo de estudo e mesma modalidade; 35.420 programas únicos, reduzidos a 3.824 graus únicos após agregação.
+- **Amostra final:** 110 regiões × 10 anos, 474 instituições, 14.319 pares grau-região, 88.108 observações grau-região-ano. Critérios de exclusão: regiões com menos de 50.000 residentes de 18 a 45 anos; instituições com menos de 500 alunos nacionais; pares com menos de 5 alunos.
+
+### Valor adicionado (VA) como medida de qualidade [§30–§36]
+
+A construção de uma medida de qualidade de programas — central para a análise normativa do artigo — baseia-se em **estimativas de valor adicionado** calculadas a partir do impacto de cada programa nos rendimentos futuros dos egressos. A metodologia rastreia todos os estudantes que prestaram o ENEM entre 2010 e 2013, atribui-os a programas conforme matrícula inicial e mede seus salários formais reportados na RAIS em 2023 — ou seja, mais de dez anos depois. O modelo de VA incorpora quatro características metodológicas:
+
+1. Controle por um rico conjunto de características observáveis: notas do ENEM em cinco subáreas, renda domiciliar, idade, raça, escola pública/privada, ano de conclusão do ensino médio, log do PIB per capita municipal;
+2. Controle de preferências não observáveis por programas usando uma **função de controle de dois passos** com distância entre residência e localização do programa como instrumento excluído (Card, 1993; Carneiro et al., 2011; Eisenhauer et al., 2015; Mountjoy, 2022);
+3. Normalização de todas as medidas em relação à opção externa de não cursar a graduação (VA = 0);
+4. Métodos **Bayesianos empíricos** para melhorar a precisão das estimativas de programas menores (Abdulkadiroğlu et al., 2020; Angrist et al., 2023).
+
+Os resultados mostram que, em média, cursar um programa presencial aumenta os salários futuros em 18% em relação a não estudar, enquanto o equivalente online aumenta apenas 7%. Para a coorte mais jovem (18–20 anos), os retornos presenciais são **três vezes maiores** do que os online. Essa diferença se estreita progressivamente com a idade e desaparece completamente para o grupo mais velho (35–45 anos). A diferença de VA também varia substancialmente por campo: Medicina apresenta os maiores retornos.
+
+::: {.callout-important}
+**Caveats importantes sobre a medida de VA:** (1) O VA é estimado apenas para os 35% dos estudantes matriculados no setor privado que prestaram o ENEM — não uma amostra aleatória. (2) Os dados salariais da RAIS registram apenas trabalhadores no mercado formal, omitindo trabalhadores informais — grupo desproporcionalmente composto por indivíduos de menor escolaridade. Os autores reconhecem essas limitações, mas argumentam que as estimativas fornecem um "benchmarking informativo" para avaliar a realocação de estudantes entre programas de qualidade diferente.
+:::
+
+### Descritivos: a expansão da EaD e comparação online/presencial [§37–§43]
+
+A Figura 1 do artigo (reproduzida em ambos os painéis) mostra que entre 2010 e 2014 as matrículas cresceram de forma equilibrada entre modalidades, com o *online* representando cerca de 23% do total em 2014. A partir das reformas de 2016, contudo, a trajetória se bifurca: matrículas *online* disparam enquanto as presenciais estagnam e começam a declinar. Em 2019, mais da metade dos ingressantes em universidades privadas estava matriculada em programas EaD. O crescimento foi especialmente concentrado em Administração e Educação (ver Figura 2), enquanto Direito, Medicina e Psicologia — com restrições regulatórias — não experimentaram expansão similar.
+
+A Figura 3 documenta o **perfil etário diferenciado**: em 2019, 64% dos estudantes *online* tinham 26 anos ou mais, contra apenas 28% nos cursos presenciais. Já em 2010, alunos de 18–20 anos tinham 12 vezes mais probabilidade de se matricular em cursos presenciais do que em *online*, comparados aos estudantes de 36–45 anos.
+
+A comparação direta entre programas online e presenciais equivalentes — oferecidos pela mesma instituição, campo e ano, com diferença apenas na modalidade (Equação 1 do artigo) — revela o seguinte padrão, resumido na **Tabela 1**:
+
+| Dimensão | Online vs. Presencial (coeficiente) | Base média presencial |
+|:---------|:-------------------------------------:|:--------------------:|
+| Horas para conclusão (log) | −0,003 (n.s.) | 3.220 horas |
+| Preço da mensalidade (log) | −0,573*** | R$ 443/mês |
+| Taxa de evasão no 1º ano | −0,021** | 20% |
+| Valor adicionado (VA) | −0,076*** | 0,18 |
+
+Programas *online* são 44% mais baratos (0,57 log-points), apresentam evasão ligeiramente **menor** e entregam VA significativamente **menor** — equivalente a 42% abaixo dos presenciais. As regressões incluem efeitos fixos de região e de universidade-major-ano, ponderadas pelo número de alunos, com erros-padrão clusterizados no nível universidade-major.
+
+---
+
+## Os Efeitos da Entrada Online nos Resultados de Mercado: Modelo Linear (pp. 14–23)
+
+### Especificação do modelo linear e hipóteses de identificação [§44–§49]
+
+A análise parte da estimação da seguinte equação em primeiras diferenças:
+
+\[
+\Delta y_{ra} = \phi \, \Delta N^o_{ra} + \varepsilon_{ra}
+\]
+
+onde \(\Delta N^o_{ra}\) representa a variação no número de graus *online* oferecidos na região \(r\) e campo \(a\) entre 2010 e 2019, e \(\Delta y_{ra}\) é a variação em um dos quatro resultados de interesse: (i) número de alunos *online* relativo ao tamanho do mercado; (ii) número de alunos presenciais relativo ao mercado; (iii) total de graus presenciais disponíveis; (iv) preço médio de graus presenciais. O parâmetro \(\phi\) captura o efeito causal marginal de um grau *online* adicional.
+
+A identificação via **MQO** requer a hipótese de tendências paralelas: na ausência de expansão diferencial *online*, as regiões/campos com maior crescimento teriam seguido a mesma tendência que os de menor crescimento. Os autores reconhecem que testes padrão de pré-tendências não são viáveis, pois a educação *online* já era significativa e crescente no início da amostra (2010). O **SUTVA** (Stable Unit Treatment Value Assumption) também é requerido: mudanças no número de graus *online* em uma região/campo afetam somente os resultados naquela unidade específica — hipótese violada se graus em diferentes campos forem substitutos próximos.
+
+Para endereçar essas ameaças à identificação, os autores implementam um **instrumento *shift-share*** (SSIV), combinando:
+
+- **Shift (deslocamento):** variação total de graus *online* introduzidos por cada instituição \(f\) entre 2010 e 2019 (\(\Delta N^o_f\));
+- **Share (participação):** produto de três componentes — (i) exposição da região à instituição com base na distância geográfica da sede (\(z_{fr}\)); (ii) propensão da instituição a expandir em cada campo de estudo, dada sua especialização em 2010 (\(z_{fa}\)); (iii) indicador de campo permitido para expansão online (\(z_a\)).
+
+Formalmente:
+\[
+z_{ra} = \sum_f \Delta N^o_f \cdot (z_{fr} \, z_{fa} \, z_a)
+\]
+
+### Relevância e restrição de exclusão do SSIV [§50–§55]
+
+A relevância do instrumento é documentada por uma regressão de primeiro estágio com F-estatístico = 185 — muito acima dos limites convencionais de instrumento fraco. O coeficiente de primeiro estágio é reportado na Tabela 2, Painel B, Coluna 1.
+
+A restrição de exclusão exige que a distância entre instituições e regiões — base das participações (*shares*) exógenas — seja não correlacionada com choques regionais não observados que afetam os campos em que aquelas instituições se especializam. Os autores fortalecem esse argumento de duas formas: (1) decomposição em **pesos de Rotemberg** (Goldsmith-Pinkham et al., 2020), identificando as firmas que mais contribuem para o estimador e mostrando que estimadores just-identified por firma produzem resultados consistentes; (2) re-estimação separada para os períodos 2010–2014 e 2015–2019 — períodos de menor e maior entrada *online*, respectivamente —, com estimativas IV estáveis apesar de grandes diferenças no coeficiente de primeiro estágio.
+
+::: {.callout-tip}
+**Interpretação da exogeneidade dos shares:** A condição \(\mathbb{E}[z_{fr} \tilde{\alpha}_{fr}] = 0\) — onde \(\tilde{\alpha}_{fr}\) captura a tendência da firma \(f\) de expandir na região \(r\) em antecipação a choques específicos naquele campo — é plausível porque: (a) firmas estabeleceram suas sedes muito antes do período de análise (ano médio de fundação: 1994); (b) a probabilidade de entrada de uma firma em uma região cai 4% para cada 10% de aumento na distância até a sede.
+:::
+
+### Resultados do modelo linear: efeitos gerais e por coorte etária [§56–§63]
+
+A **Tabela 2** do artigo reporta os principais resultados. Os estimadores MQO e SSIV são qualitativamente consistentes, embora os IV sejam maiores em magnitude — o que os autores interpretam como evidência de que viés de endogeneidade é pequeno (instituições têm dificuldade de antecipar choques futuros de demanda ao decidir onde expandir online).
+
+Pelos estimadores SSIV (Painel B):
+
+- **Alunos online:** cada grau *online* adicional aumentou as matrículas online em 0,386 alunos por 1.000 indivíduos no mercado (+14% no total de matrículas se o número de graus *online* aumentar 50%);
+- **Alunos presenciais:** cada grau *online* adicional reduziu matrículas presenciais em 0,190 alunos por 1.000 (−7% sob o mesmo cenário);
+- **Graus presenciais disponíveis:** cada grau *online* adicional eliminou 0,185 graus presenciais — via maior saída e menor entrada de cursos presenciais — sobre uma base de 11,43 graus em 2010;
+- **Preços presenciais:** queda de 1,4% no preço médio por grau *online* adicional numa região-campo.
+
+Desses resultados, os autores extraem que **51% de cada aluno online adicional é novo no sistema** (anteriormente fora do ensino superior) e **49% é desviado de programas presenciais**. Um cálculo *back-of-the-envelope* com a fórmula:
+
+\[
+\Delta VA = \frac{\Delta s^o \cdot VA^o + \Delta s^\ell \cdot VA^\ell}{s^o \cdot VA^o + s^\ell \cdot VA^\ell}
+\]
+
+sugere que aumentar o número de graus *online* em 50% eleva o VA em 8,7% (via maior matrícula online) e reduz em 7,6% (via queda na matrícula presencial), resultando em ganho líquido de 1,02%.
+
+A **Tabela 3** desagrega os efeitos por coorte etária. A substituição presencial→online é fortemente decrescente com a idade:
+
+| Coorte | Substituição (alunos presenciais perdidos por aluno online ganho) |
+|:-------|:------------------------------------------------------------------:|
+| 18–20 | 0,70 |
+| 21–25 | 0,54 |
+| 26–35 | 0,44 |
+| 36–45 | 0,26 |
+
+Para a coorte mais jovem (18–20), aumentar graus *online* em 50% **reduz** o VA em 2%; para a mais velha (36–45), o mesmo aumento **eleva** o VA em 25%.
+
+::: {.callout-important}
+**Limitações do modelo linear:** O modelo viola o SUTVA quando graus de diferentes campos são substitutos. Além disso, a estrutura linear não captura adequadamente efeitos *out-of-sample*, onde competição, preços e decisões de entrada/saída interagem de forma não linear — tornando a extrapolação para counterfactuais amplos enganosa.
+:::
+
+---
+
+## Modelo de Equilíbrio (pp. 23–39)
+
+### Configuração e estrutura do modelo de dois estágios [§64–§70]
+
+Para superar as limitações do modelo linear, os autores desenvolvem um modelo de equilíbrio de oferta e demanda de educação superior. O modelo compreende firmas \(f \in F\) e estudantes \(i \in I\). **Graus** são definidos como a combinação firma \(f\), campo de estudo \(a\) e modalidade (presencial/online), indexados por \(j\). Regiões são indexadas por \(r\) e anos por \(t\); mercados são interseções região-ano.
+
+O modelo tem **dois estágios**:
+
+1. **Primeiro estágio — decisões de entrada:** Instituições decidem simultaneamente em quais regiões operar e quais portfólios de graus oferecer, comparando lucros esperados com custos fixos de entrada específicos a cada *bundle*. Observam a estrutura de mercado pré-existente \(J_{frt_0}\), características de demanda e custos, além de choques idiossincrásicos de custo fixo privados. A decisão de não entrar (\(J_{frt} = \emptyset\)) está disponível a todas as firmas. As firmas formam **expectativas sobre as decisões dos concorrentes** — podendo optar por não abrir um campus presencial se antecipar que rivais expandirão online.
+2. **Segundo estágio — precificação:** Dado o conjunto de graus ofertados, instituições competem *à la* Bertrand em preços de mensalidades; demanda é realizada.
+
+### Demanda: modelo logit aninhado com coeficientes aleatórios [§71–§76]
+
+A utilidade do estudante \(i\) ao se matricular no grau \(j\) na região \(r\) no ano \(t\) é:
+
+\[
+u_{ijrt} = -\alpha_i p_{jrt} + x_j^{(1)} \beta_i + w_{jrt} \gamma + \delta_{jrt} + \varepsilon_{ijrt}
+\]
+
+onde \(p_{jrt}\) é a mensalidade, \(x_j^{(1)}\) indica a modalidade (vetor binário online/presencial), \(w_{jrt}\) é um *shifter* de demanda baseado na penetração de internet regional interagido com modalidade, e \(\delta_{jrt}\) captura características observáveis constantes entre indivíduos. A heterogeneidade individual em preços e preferências por modalidade segue:
+
+\[
+[\log(\alpha_i); \beta_i]' \sim \mathcal{N}(\bar{\mu}_{b(i)}, \Sigma)
+\]
+
+onde \(\bar{\mu}_{b(i)}\) depende da coorte etária do estudante. O choque \(\varepsilon_{ijrt}\) segue uma distribuição do valor extremo generalizado, consistente com um modelo **logit aninhado** com ninhos definidos pelo campo de estudo e correlação intra-ninho \(\hat{\rho}\).
+
+A decomposição do componente de utilidade específico do grau \(\delta_{jrt}\) inclui: um vetor de características do grau (constante, idade do programa, pontuação média dos ingressantes, salários médios de egressos, carga horária em horas, percentual STEM); efeitos fixos por grau (\(\xi_j\)), região-campo (\(\xi_{ra}\)), ano-campo (\(\xi_{ta}\)) e online-ano (\(\xi_{to_j}\)).
+
+A identificação da demanda utiliza o método generalizado de momentos de Berry, Levinsohn e Pakes (1995). Para endogeneidade de preços, são utilizados **preços Hausman**: preços contemporâneos do mesmo grau em outras regiões como proxy de *cost-shifters* (Hausman et al., 1994). Para padrões de substituição, são construídos dois instrumentos *shift-share* que predizem o número de graus *online* e presenciais disponíveis em cada mercado. As elasticidades-preço próprias medianas estimadas são −3,2 para presencial e −1,3 para *online*.
+
+::: {.callout-tip}
+**Padrões de substituição presencial→online:** Quando um grau presencial fecha, 56% dos estudantes migram para outro presencial, 18% para online e 24% saem do mercado. Isso indica que online e presencial são **substitutos próximos**, mas com preferência residual por presencial quando disponível.
+:::
+
+### Oferta: custos de entrada e competição à la Bertrand [§77–§80]
+
+No lado da oferta, os custos de abertura de um campus presencial são estimados como 2,4 vezes maiores do que os de abertura de um hub online. A elasticidade de entrada em relação aos lucros próprios é estimada em 0,5, utilizando dois instrumentos que afetam lucros mas não os custos fixos: (1) variação regional ao longo do tempo na penetração de internet como deslocador de demanda para EaD; (2) diferenças na distância dos concorrentes a várias regiões, que cria variação de pressão competitiva sem alterar custos fixos.
+
+---
+
+## Counterfactuais e Política [pp. 29–38]
+
+### Três counterfactuais progressivamente mais flexíveis [§81–§88]
+
+Para quantificar o impacto geral da expansão *online*, os autores simulam três counterfactuais que **removem a educação online**, cada um incorporando respostas do lado da oferta de forma progressivamente mais flexível. Todos são comparados a uma baseline que reflete o status quo (com EaD disponível):
+
+::: {.callout-note icon=false}
+**Contrafactual 1 — Sem EaD, sem resposta da oferta (preços e oferta de graus fixos):**
+57% dos alunos online migrariam para presencial; 43% sairiam do mercado → queda de 15,1% no total de matrículas. Como a EaD oferece VA positivo frente à opção externa (sem faculdade), a perda de alunos que saem supera os ganhos dos que migram para presencial: **queda líquida no VA total**. Gastos com educação superior sobem (maior proporção presencial, mais cara).
+
+**Contrafactual 2 — Sem EaD, com ajuste de preços:**
+Mensalidades presenciais aumentam 6,7% → nova queda em matrículas e VA; aumento adicional de despesas totais.
+
+**Contrafactual 3 — Sem EaD, com ajuste de preços e portfólio de graus:**
+A oferta de graus presenciais sobe 9,3% → novos estudantes são atraídos; matrículas totais aumentam 3,1% em relação ao Contrafactual 2. O VA total neste cenário é 1,2% maior do que no Contrafactual 1, destacando a importância das respostas de equilíbrio.
+:::
+
+Comparado ao status quo (EaD disponível), o Contrafactual 3 — o mais realista — mostra que o VA agregado na ausência de EaD seria **1,4% menor**: a EaD, no cômputo geral, adiciona valor ao mercado de trabalho. No entanto, uma análise de preferência revelada assumindo racionalidade plena mostra que o excedente do consumidor **cai 14%** sem EaD, indicando que os estudantes valorizam fortemente as opções mais acessíveis e flexíveis mesmo que de menor retorno.
+
+### Efeitos distributivos por coorte etária [§89–§93]
+
+Sob o Contrafactual 3, os efeitos são **opostos por coorte**:
+
+- **Jovens (18–25 anos):** beneficiam-se da ausência de EaD, pois teriam acesso a cursos presenciais antes indisponíveis (antes deslocados pela concorrência *online*). Seu VA aumenta.
+- **Mais velhos (26–45 anos):** com forte preferência por EaD (por razões de flexibilidade e custo), seriam prejudicados — tendem a sair do mercado na ausência de *online*. Seu VA cai.
+
+### Política: restrição etária para acesso online [§94–§97]
+
+::: {.callout-tip}
+Com base nos efeitos heterogêneos, os autores simulam uma política de **restrição de acesso online a estudantes acima de 25 anos**. Os resultados mostram que essa política aumentaria o VA para as coortes jovens sem reduzir os ganhos para as coortes mais velhas — aumentando o VA total em 1% em relação ao cenário baseline (EaD disponível para todos). Esse resultado fornece uma justificativa teórica para políticas de focalização da EaD em populações para as quais os retornos são mais elevados.
+:::
+
+A implicação normativa mais ampla dos autores é que tecnologias disruptivas — como serviços *online* em educação e saúde — podem redistribuir bem-estar de forma assimétrica. Em mercados com informação imperfeita, consumidores podem inadvertidamente migrar de opções de maior qualidade. A resposta de política adequada seria garantir acesso às opções estabelecidas para grupos afetados, ao mesmo tempo em que se permite que outros adotem as novas tecnologias.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** A expansão massiva da educação superior *online* no Brasil entre 2010 e 2019 gerou dois efeitos opostos: expandiu o acesso de estudantes mais velhos (que de outra forma não teriam cursado graduação) e ao mesmo tempo desviou estudantes mais jovens de programas presenciais de maior valor adicionado para alternativas online de menor retorno, resultando em perda líquida de valor adicionado entre jovens e em efeito positivo entre adultos; considerados em conjunto, os efeitos de equilíbrio — incluindo a contração da oferta presencial — produzem ganho líquido de VA de 1,4% em favor da EaD vis-à-vis um mundo sem ela, mas com redistribuição regressiva entre coortes.
+
+**Natureza do argumento:** Causal-quantitativo, com extensão normativa via análise de counterfactuais de política. O argumento combina identificação de efeitos parciais (modelo linear com SSIV) com simulação de equilíbrio geral para avaliação de políticas.
+
+**O que o texto demonstra com força:**
+- A expansão online expande acesso para coortes mais velhas e reduz acesso a presencial para coortes jovens — efeitos causais plausíveis via SSIV com F = 185;
+- Online e presencial são substitutos próximos (elasticidades simétricas estimadas);
+- Abertura de campus presencial custa 2,4× mais que hub online — assimetria que afeta estrutura de mercado;
+- Restrição etária sobre EaD pode ser Pareto-melhorante sob o modelo calibrado.
+
+**O que permanece como hipótese ou agenda:**
+- A validade da preferência revelada como medida de bem-estar (racionalidade plena é premissa forte em contexto de informação imperfeita);
+- Generalização para outros países ou para o setor público;
+- Efeitos de longo prazo sobre acumulação de capital humano e mobilidade social.
+
+**Contribuição ao debate mais amplo:** O artigo é o primeiro a construir um framework de equilíbrio que articula simultaneamente expansão de mercado, desvio de demanda, endogeneidade de portfólio e preços em educação superior. Avança sobre Deming et al. (2015, 2016) e Goodman et al. (2019) ao modelar explicitamente respostas de equilíbrio e heterogeneidade por coorte, e contribui para a literatura de IO em educação (Barahona et al., 2025; Armona e Cao, 2024; Bau, 2022) com um caso onde a tecnologia de entrega é o principal vetor de disrupção de mercado.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+Esta seção segue o formato *IA Planilhando Textos v8.1*. A análise é adversarial sem ser destrutiva identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é explicitado em itálico antes do conteúdo, separado por linha horizontal.
+
+
+```{=html}
+<style>
+.ficha-table { width:100%; border-collapse:collapse; font-size:0.85em;
+               font-family:'Segoe UI', sans-serif; }
+.ficha-table th { background-color:#2c3e50; color:white; padding:8px 10px;
+                  text-align:left; vertical-align:top;
+                  width:200px; min-width:180px; }
+.ficha-table td { padding:8px 10px; border-bottom:1px solid #ddd;
+                  vertical-align:top; }
+.ficha-table tr:nth-child(even) { background-color:#f9f9f9; }
+.ficha-table tr:hover           { background-color:#eef2f7; }
+.ficha-table em                 { color:#555; font-style:italic; }
+</style>
+
+<div>
+<table class="ficha-table">
+  <tr>
+    <th>Questão de Pesquisa</th>
+    <td>
+      <em>A pergunta central é explicitada na introdução, mas é composta: envolve tanto efeitos de equilíbrio parcial (expansão e desvio de demanda, preços) quanto efeitos agregados de bem-estar e heterogeneidade distributiva. É preciso distinguir a pergunta positiva (o que a EaD fez?) da normativa (quem ganhou e quem perdeu?).</em>
+      <hr/>
+      Pergunta central (explícita): Como a expansão rápida da educação superior <em>online</em> privada no Brasil afeta a estrutura de mercado (oferta de graus, preços) e as matrículas, com atenção aos efeitos sobre o valor adicionado ao mercado de trabalho e à distribuição desses efeitos por coorte etária? A pergunta é explicativa-avaliativa e tem dimensão normativa clara: qual política regulatória seria mais eficiente dados os efeitos heterogêneos identificados?
+    </td>
+  </tr>
+  <tr>
+    <th>Questões Secundárias</th>
+    <td>
+      <em>As questões secundárias são instrumentalmente necessárias para construir o argumento central; todas convergem para a pergunta de bem-estar agregado e distributivo.</em>
+      <hr/>
+      (1) Online e presencial são substitutos próximos ou complementares? (2) A expansão online aumenta ou comprime a oferta de graus presenciais? (3) Os retornos ao mercado de trabalho de cursos online diferem dos presenciais — e de que forma essa diferença varia por coorte etária e campo de estudo? (4) Quanto das respostas de equilíbrio (preços, entrada, saída) o modelo linear captura adequadamente? (5) Que políticas podem capturar os ganhos de acesso sem sacrificar qualidade para jovens?
+    </td>
+  </tr>
+  <tr>
+    <th>Puzzle-Type</th>
+    <td>
+      <em>O puzzle combina um gap descritivo (não havia evidência causal sobre estrutura de mercado em contexto de expansão online massiva) com um puzzle de avaliação de política (como regular EaD sem eliminar seus benefícios de acesso). A questão de se o puzzle é genuíno e generalizável depende da unicidade do caso brasileiro.</em>
+      <hr/>
+      <strong>Avaliação de política com puzzle explicativo acoplado.</strong> O puzzle é genuíno: a literatura existente (Deming et al., 2012; Goodman et al., 2019) documentou efeitos parciais da EaD sem capturar respostas de equilíbrio de mercado — nomeadamente a contração endógena da oferta presencial. O artigo torna esse mecanismo identificável e quantificável. A generalizabilidade é parcialmente limitada pelo contexto institucional brasileiro (EaD altamente concentrada, exigência de hubs físicos, restrições por campo); o puzzle é, no entanto, relevante para outros países com mercados educacionais privados em expansão.
+    </td>
+  </tr>
+  <tr>
+    <th>Conclusão / Argumento Central</th>
+    <td>
+      <em>O <em>claim of discovery</em> é triplo: (1) estimação causal dos efeitos marginais via SSIV; (2) estimação estrutural de um modelo de equilíbrio com endogeneidade de portfólio; (3) análise normativa counterfactual. É necessário distinguir o que cada estrato do argumento realmente sustenta.</em>
+      <hr/>
+      A EaD expande acesso para adultos mais velhos mas desvia jovens de programas presenciais de maior VA. A competição resultante reduz mensalidades presenciais mas também contrai a oferta presencial. No agregado, a EaD eleva o VA total em 1,4% em relação a um mundo sem ela (resultado do Contrafactual 3, modelo de equilíbrio completo). O <em>claim of discovery</em> mais robusto é o efeito heterogêneo por coorte — documentado tanto no modelo linear (Tabela 3) quanto no modelo estrutural. O <em>claim</em> de que uma política de restrição etária seria Pareto-melhorante é mais especulativo: descansa inteiramente nos parâmetros estruturais do modelo e nas premissas normativas (maximização de VA de mercado formal como métrica de bem-estar).
+    </td>
+  </tr>
+  <tr>
+    <th>Métodos</th>
+    <td>
+      <em>O artigo emprega três camadas metodológicas sequenciais: (i) comparação descritiva within-institution-field-year; (ii) diferenças em primeiras diferenças com SSIV; (iii) modelo estrutural BLP com oferta endógena. Cada camada tem hipóteses de identificação distintas e crescentemente fortes.</em>
+      <hr/>
+      <strong>Camada 1 — Comparação descritiva:</strong> Regressão com efeitos fixos de região e universidade-major-ano (Equação 1). Identifica diferenças médias entre modalidades para a mesma instituição-campo-ano. Limitação: não causal; seleção de qual modalidade a instituição oferece pode ser endógena.<br/><br/>
+      <strong>Camada 2 — Modelo linear em primeiras diferenças + SSIV:</strong> Equação 2. Força da identificação descansa em três premissas: (a) shares exógenos (distância prediz entrada, não choques de demanda); (b) SUTVA dentro de campo; (c) paralelas tendências. A premissa (b) é reconhecidamente violada — justificativa para a camada 3.<br/><br/>
+      <strong>Camada 3 — Modelo de equilíbrio BLP:</strong> Estimação de demanda via GMM com instrumentos de preço (Hausman) e de substituição (SSIV para disponibilidade de graus). Estimação de oferta com dois instrumentos (penetração de internet, distância de concorrentes). Limitação: o modelo estrutural impõe racionalidade plena e forma funcional logit aninhado; heterogeneidade capturada por coeficientes aleatórios — mas a distribuição normal da heterogeneidade pode subrepresentar comportamento de canto (não matrícula).
+    </td>
+  </tr>
+  <tr>
+    <th>Data Generation Process (DGP)</th>
+    <td>
+      <em>O DGP real é complexo: estudantes escolhem cursos em mercados locais com informação imperfeita sobre qualidade; instituições entram e saem de mercados com base em lucros esperados; o regulador afeta tanto a oferta (hubs, restrições por campo) quanto a demanda (PROUNI, FIES). O DGP do modelo formal simplifica cada uma dessas dimensões.</em>
+      <hr/>
+      <strong>Fenômeno real → observação → análise:</strong><br/>
+      — Unidade de análise primária: par região (mesorregião IBGE) × campo de estudo × ano.<br/>
+      — Nível de agregação: meso (não municipal, não estadual) — escolha calibrada para maximizar a variação exógena via hubs, mas que pode obscurecer heterogeneidade intra-regional.<br/>
+      — Coleta: dados administrativos do Censo da Educação Superior (2010–2019), ENEM (2010–2013), RAIS (até 2023), Censo 2010, DSCOM, QueroBolsa/PROUNI/FIES/Hoper para mensalidades.<br/>
+      — Operacionalização central: VA como incremento salarial 10+ anos após matrícula — medida de longo prazo que captura retorno a educação, mas não outras dimensões de bem-estar (não-cognitivo, capital social, saúde).<br/>
+      — Tipo de inferência: causal (efeito médio de tratamento local via SSIV) + estrutural (parâmetros de preferência e custo).
+    </td>
+  </tr>
+  <tr>
+    <th>Achados e Contribuições</th>
+    <td>
+      <em>Os achados mais robustos são os do modelo linear (Tabelas 2 e 3); os counterfactuais dependem da calibração do modelo estrutural e de premissas normativas adicionais.</em>
+      <hr/>
+      <strong>Achados empíricos robustos:</strong><br/>
+      — 51% de cada aluno online adicional é novo no sistema; 49% é desviado do presencial (modelo linear).<br/>
+      — Substituição presencial→online é fortemente decrescente com a idade (0,70 para 18–20; 0,26 para 36–45).<br/>
+      — Cada grau online adicional elimina 0,185 graus presenciais e reduz mensalidades presenciais em 1,4%.<br/>
+      — Programas online têm VA 42% menor (0,076 log-points), evasão 2,1 p.p. menor e preço 44% menor.<br/><br/>
+      <strong>Contribuições teórico-metodológicas:</strong><br/>
+      — Primeiro framework de equilíbrio para EaD que endogeniza portfólio de graus e preços simultaneamente.<br/>
+      — Medida de VA com seleção em não-observáveis via função de controle (distância como instrumento) — metodologicamente sólida.<br/>
+      — Estimativa de custos relativos de entrada presencial vs. online (razão 2,4×) — parâmetro novo na literatura.
+    </td>
+  </tr>
+  <tr>
+    <th>Análise Crítica dos Achados</th>
+    <td>
+      <em>Os pontos mais vulneráveis são: (1) a exogeneidade dos shares do SSIV em campos altamente concentrados geograficamente; (2) a premissa de racionalidade plena para inferência de bem-estar via preferência revelada; (3) a validade externa fora do contexto brasileiro.</em>
+      <hr/>
+      <strong>Pontos mais sólidos:</strong> A triangulação OLS-SSIV com resultados qualitativamente consistentes (mas IV maiores) fornece confiança razoável na direção dos efeitos. A decomposição por coorte etária é o achado mais generalizável e teoricamente coerente: baseia-se em mecanismo plausível (diferenças de custo de oportunidade de tempo para presencial por idade). Os testes de Rotemberg e a análise split-sample (2010–2014 vs. 2015–2019) fortalecem a validade do SSIV.<br/><br/>
+      <strong>Pontos mais vulneráveis:</strong><br/>
+      (1) <em>Exogeneidade dos shares:</em> A localização das sedes pode ser correlacionada com polos de crescimento regional em campos específicos — o argumento de que as sedes foram estabelecidas antes do período de análise (média 1994) é necessário, mas não suficiente.<br/>
+      (2) <em>Preferência revelada como bem-estar:</em> A queda de 14% no excedente do consumidor sem EaD presume que escolhas refletem utilidade verdadeira. Em contexto de informação imperfeita sobre qualidade de cursos online (correlação baixa entre preferências e VA para online, Figura C.2), isso é implausível — viola a premissa central do próprio artigo.<br/>
+      (3) <em>VA restrito ao mercado formal:</em> A RAIS omite trabalhadores informais, que são desproporcionalmente de menor escolaridade. Se a EaD tem efeitos positivos sobre a formalização do trabalho, o VA estimado subestima os retornos online — e vice-versa.<br/>
+      (4) <em>Período pós-2019:</em> O artigo para em 2019; os efeitos pós-pandemia (65% de matrícula online) poderiam alterar substancialmente os parâmetros estruturais.
+    </td>
+  </tr>
+  <tr>
+    <th>Limitações</th>
+    <td>
+      <em>A distinção entre limitações reconhecidas e não reconhecidas é crucial para avaliar a honestidade intelectual do artigo e identificar agendas de pesquisa futuras.</em>
+      <hr/>
+      <strong>(a) Reconhecidas pelos autores:</strong><br/>
+      — VA estimado apenas para os 35% de matriculados que prestaram o ENEM (pode não ser representativo).<br/>
+      — RAIS exclui trabalhadores informais, comprometendo a representatividade do VA para grupos de menor escolaridade.<br/>
+      — Modelo linear viola SUTVA quando campos são substitutos — justificativa para o modelo estrutural.<br/>
+      — Ausência de pré-tendências verificáveis (EaD já era crescente em 2010).<br/><br/>
+      <strong>(b) Não reconhecidas ou subestimadas:</strong><br/>
+      — A premissa de racionalidade plena para calcular excedente do consumidor é contraditória com a evidência interna do artigo (correlação fraca preferência-VA para online).<br/>
+      — O modelo de bem-estar usa VA de mercado formal como proxy de bem-estar social — ignora externalidades (capital humano cívico, saúde, mobilidade intergeracional).<br/>
+      — Abstração do setor público: o artigo analisa apenas o setor privado (82% das matrículas), mas não discute como a expansão online privada poderia interagir com vagas públicas — relevante especialmente para campos com restrição online (Medicina).<br/>
+      — Concentração de mercado: sete firmas respondem por 73% das matrículas online; os resultados podem ser driven por oligopólio dinâmico, não por competição, como assume o modelo Bertrand.<br/>
+      — Efeitos externos de rede e spillovers de aprendizado entre modalidades não são modelados.
+    </td>
+  </tr>
+  <tr>
+    <th>Perspectiva Teórica</th>
+    <td>
+      <em>O artigo se situa primariamente na tradição de IO aplicada à educação (BLP, entrada-saída, modelos de portfólio). A moldura de bem-estar é utilitarista e baseada em preferências reveladas — coerente com IO, mas limitante para questões distributivas mais amplas.</em>
+      <hr/>
+      <strong>Tradições mobilizadas:</strong><br/>
+      — Organização Industrial (modelos de demanda diferenciada, BLP, Bertrand, modelos de entrada Seim/Sweeting);<br/>
+      — Economia da Educação (retornos à educação, modelos de demanda por escolaridade, community colleges);<br/>
+      — Inferência causal em diferenças-em-diferenças e IV (SSIV, Goldsmith-Pinkham et al., 2020; Borusyak et al., 2021).<br/><br/>
+      <strong>Adequação da moldura:</strong> A IO com equilíbrio parcial é adequada para capturar a estrutura de mercado, mas não incorpora externalidades de informação (seleção adversa de qualidade) nem dinâmicas de acumulação de capital humano no longo prazo. Uma perspectiva institucional complementar poderia examinar como regulação de credenciamento e financiamento público (PROUNI, FIES) afetam os incentivos das firmas de forma endógena — o que o artigo trata apenas de forma subsidiária.
+    </td>
+  </tr>
+  <tr>
+    <th>Principais Referências</th>
+    <td>
+      <em>O diálogo com a literatura é sólido dentro da IO aplicada à educação, mas thin em relação à sociologia da educação e à literatura de desigualdade de retornos educacionais por raça/classe.</em>
+      <hr/>
+      <strong>Centrais ao argumento:</strong> Berry, Levinsohn e Pakes (1995) — estimação de demanda com produtos diferenciados; Goldsmith-Pinkham, Sorkin e Swift (2020) — SSIV com shares exógenos; Deming et al. (2012, 2015, 2016) — efeitos da EaD sobre acesso, preços e mercado de trabalho; Goodman, Melkers e Pallais (2019) — EaD e acesso; Mountjoy (2022) — community colleges e mobilidade; Barahona, Dobbin e Otero (2025) — modelo de equilíbrio para política de auxílio estudantil (artigo relacionado dos próprios autores).<br/><br/>
+      <strong>Lacunas bibliográficas:</strong> O diálogo com a literatura de sociologia da educação brasileira (sobre estratificação do ensino superior por raça e classe) é ausente. A literatura sobre desinformação e escolha educacional (Hastings et al., 2015 é citada, mas não aprofundada) merecia maior atenção dado que a premissa de racionalidade plena é central. A literatura de regulação de mercados educacionais em contextos de baixa renda (Sanchez, 2023 é citado superficialmente) também poderia ser mais mobilizada.
+    </td>
+  </tr>
+  <tr>
+    <th>Observações</th>
+    <td>
+      <em>Avalio aqui vulnerabilidades adicionais, lacunas e a relevância do artigo para a agenda de pesquisa do leitor em economia política da educação e desigualdade.</em>
+      <hr/>
+      <strong>Vulnerabilidades adicionais:</strong><br/>
+      — A política de restrição etária (online apenas para >25 anos) é apresentada como Pareto-melhorante, mas a simulação não considera efeitos dinâmicos: se as firmas antecipassem a restrição, poderiam ajustar portfólio ou preços de formas não capturadas pelo modelo estático.<br/>
+      — A concentração de mercado (7 firmas = 73% da matrícula online) levanta a questão de poder de mercado: as elasticidades estimadas (−1,3 para online) sugerem mark-ups significativos. Uma análise de bem-estar que não decompõe excedente do produtor vs. consumidor é incompleta.<br/><br/>
+      <strong>Relevância para a pesquisa sobre políticas educacionais e desigualdade no Brasil:</strong><br/>
+      — O artigo fornece parâmetros estruturais (elasticidades de demanda, padrões de substituição, custos de entrada) diretamente utilizáveis em simulações de reformas de financiamento estudantil (PROUNI/FIES) e de credenciamento de novos cursos.<br/>
+      — A heterogeneidade etária documentada tem implicações diretas para o desenho de políticas de educação de adul
