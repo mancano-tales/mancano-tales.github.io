@@ -6,20 +6,7 @@ categories: [Literature Notes, Education Economics, Affirmative Action, Brazil, 
 citation-key: Mello2022
 ---
 
-```{=html}
-<!-- Gerado em: 2026-03-17 | Modelo: Claude Sonnet 4.6 Thinking -->
-```
-
-## Metadados
-
-| Campo | Informação |
-|---|---|
-| **Citation key** | `Mello2022` |
-| **Autor(es)** | Mello, Ursula |
-| **Título** | Centralized Admissions, Affirmative Action and Access of Low-Income Students to Higher Education |
-| **Periódico** | *American Economic Journal: Economic Policy*, v. 14, n. 3, 2022, pp. 166–197 |
-| **Tipo** | Artigo em periódico |
-| **Instituição** | IAE-CSIC / Barcelona Graduate School of Economics |
+*Gerado em: 2026-03-17 | Modelo: Claude Sonnet 4.6 Thinking*
 
 ::: {.callout-note collapse="true"}
 ## BibTeX
