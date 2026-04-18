@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
   doi       = {10.1017/9781009428682.001}
 }
 ```
----
+:::
 
 ## Introdução (pp. 1–4)
 
