@@ -1,0 +1,177 @@
+---
+title: "Mello (2022) — Centralized Admissions, Affirmative Action and Access of Low-Income Students to Higher Education"
+description: "Anotação de literatura: avaliação causal do SISU e da Lei de Cotas sobre a composição socioeconômica do ensino superior público brasileiro."
+date: "2026-03-17"
+categories: [Literature Notes, Education Economics, Affirmative Action, Brazil, Causal-Inf]
+citation-key: Mello2022
+author-paper: "Mello, Ursula"
+year: 2022
+journal: "American Economic Journal: Economic Policy"
+vol-issue: "v. 14, n. 3, pp. 166–197"
+bibliography: references.bib
+---
+
+```{=html}
+<!-- Gerado em: 2026-03-17 | Modelo: Claude Sonnet 4.6 Thinking -->
+```
+
+## Metadados
+
+| Campo | Informação |
+|---|---|
+| **Citation key** | `Mello2022` |
+| **Autor(es)** | Mello, Ursula |
+| **Título** | Centralized Admissions, Affirmative Action and Access of Low-Income Students to Higher Education |
+| **Periódico** | *American Economic Journal: Economic Policy*, v. 14, n. 3, 2022, pp. 166–197 |
+| **Tipo** | Artigo em periódico |
+| **Instituição** | IAE-CSIC / Barcelona Graduate School of Economics |
+
+::: {.callout-note collapse="true"}
+## BibTeX
+
+```bibtex
+@article{Mello2022,
+  author  = {Mello, Ursula},
+  title   = {Centralized Admissions, Affirmative Action and Access of Low-Income Students to Higher Education},
+  journal = {American Economic Journal: Economic Policy},
+  year    = {2022},
+  volume  = {14},
+  number  = {3},
+  pages   = {166--197}
+}
+```
+:::
+
+---
+
+## Questão de Pesquisa
+
+**Principal:** Como a centralização das inscrições via SISU e a expansão das cotas (Lei 12.711/2012) impactaram as matrículas de estudantes de baixo nível socioeconômico no ensino superior público brasileiro? *(Natureza: causal-avaliativa)*
+
+**Questões secundárias:**
+
+1. Por que o SISU desloca estudantes *low-SES* das vagas menos competitivas? *(explicativa-mecanística)*
+2. O efeito da AA sobre matrículas é puramente mecânico ou há respostas comportamentais dos candidatos? *(descritiva-mecanística)*
+3. A adoção simultânea de SISU e AA gera efeitos de interação distintos da adoção isolada de cada política? *(causal-avaliativa)*
+
+---
+
+## Puzzle
+
+::: {.callout-tip icon="false"}
+## 🧩 Tipo: explicativo com componente de avaliação de política pública
+
+O paradoxo central é genuíno: uma política de redução de custos de candidatura (SISU), implementada para ampliar o acesso de grupos vulneráveis, **produz efeito distributivo adverso** ao criar um mercado mais competitivo e integrado. O puzzle tem validade além do caso brasileiro — qualquer transição de sistema descentralizado para centralizado em mercados educacionais enfrenta o dilema entre eficiência alocativa e equidade distributiva.
+:::
+
+---
+
+## Conclusão / Argumento Central
+
+Tese tripla com ambição causal moderada via quasi-experimento:
+
+1. **SISU** cria um mercado mais integrado e — contraintuitivamente — **desloca estudantes *low-SES*** das vagas menos competitivas, porque estudantes de escola privada local passam a usar informação de *cutoffs* para competir por vagas antes não disputadas.
+2. **AA** aumenta matrículas de grupos vulneráveis tanto mecanicamente (reserva de vagas) quanto via respostas comportamentais (mais candidaturas de estudantes PS).
+3. **Interação SISU × AA** é complementar: a AA protege os grupos vulneráveis do efeito de deslocamento gerado pelo SISU.
+
+---
+
+## Métodos
+
+- **Design:** quasi-experimento com painel (2010–2015)
+- **Identificação:** variação *cross-sectional* e temporal na adoção progressiva do SISU e da AA por programa-instituição
+- **Modelo:** regressão linear de probabilidade ao nível do estudante (N ≈ 2,28M), com efeitos fixos de programa-instituição e de tempo, controle de vagas e tendência linear municipal
+- **Tratamento:** contínuo (% de vagas no SISU; % em AA) com variável de interação
+- **Robustez:** placebos com variáveis *lead* (1 e 2 períodos), heterogeneidade por quartil de competitividade, especificações alternativas
+
+---
+
+## Data Generation Process (DGP)
+
+- **Fonte:** Censo da Educação Superior (CES) 2010–2015 + microdados do ENEM 2009–2014, acessados via INEP/MEC e vinculados por CPF
+- **Unidade de análise:** estudante ingressante em programas presenciais de IES públicas federais e estaduais
+- **Variáveis de resultado:** binárias de perfil (PS = escola pública; PSNW = escola pública + não-branco; PSLI = escola pública + renda familiar total < 1 SM)
+- **Variáveis de tratamento:** contínuas ao nível do programa-instituição-ano; dados de SISU fornecidos pelo MEC; dados de AA coletados manualmente pela autora
+
+---
+
+## Achados e Contribuições
+
+| Política | Grupo | Efeito (p.p.) | Variação relativa |
+|---|---|---|---|
+| AA (+50% vagas) | PS | +9,9 | +18% |
+| AA (+50% vagas) | PSNW | +7,0 | +29% |
+| AA (+50% vagas) | PSLI | +2,4 | +34% |
+| SISU (adoção plena) | PS | −3,8 | −7% |
+| SISU (adoção plena) | PSNW | −2,8 | −12% |
+| SISU (adoção plena) | PSLI | −4,1 | −59% |
+
+**Interação SISU × AA:** positiva e complementar para todos os grupos — no nível pleno de AA, o efeito negativo do SISU sobre PS desaparece.
+
+**Mecanismo (evidência sugestiva):** em programas do 1º quartil de competitividade, o SISU reduz matrículas de estudantes locais de escola pública em 10,5 p.p., com 71% desse deslocamento atribuído ao aumento de 5,5 p.p. de estudantes de escola privada local.
+
+**Contribuições:**
+1. Primeira avaliação causal de política nacional de AA em larga escala no Brasil
+2. Evidência de que centralização de admissões pode *aumentar* desigualdade de acesso
+3. Complementaridade entre os dois tipos de política como achado inédito
+
+---
+
+## Análise Crítica
+
+::: {.callout-warning collapse="true"}
+## Ameaças à identificação
+
+- **Tendências paralelas:** testadas com apenas 1–2 pré-períodos (dados disponíveis só de 2010) — insuficientes para descartar tendências diferenciais de longo prazo
+- **SUTVA:** tratado no Apêndice G.1; spillovers da AA encontrados no mercado local, mas coeficientes diretos permanecem estáveis — evidência tranquilizadora, não prova formal
+- **Endogeneidade da adoção:** a autora reconhece e argumenta que exigência é apenas de exogeneidade condicional das *tendências*
+- **Seleção de outcomes:** ausência de dados PS/PSLI para parte da amostra em 2010–2012, com disponibilidade correlacionada com adoção do SISU
+- **Mecanismo:** o argumento sobre estudantes privados locais "aprendendo seu desempenho relativo" via *cutoffs* não é identificado com dados de candidatura individual — permanece inferência por eliminação
+- **Consistência ontológica:** variável PSLI usa renda familiar total < 1 SM (≠ renda per capita < 1,5 SM da lei de AA), criando grupo mais restrito que não é o alvo direto da política
+:::
+
+---
+
+## Limitações
+
+**Reconhecidas pelos autores:**
+- Impossibilidade de testar tendências paralelas com múltiplos pré-períodos
+- Ausência de dados de candidatura individual
+- Renda total em vez de per capita (incomparável com critério legal)
+- Impossibilidade de generalizar mecanismos além do contexto brasileiro
+
+**Não reconhecidas:**
+- Assume linearidade dos efeitos das variáveis de tratamento contínuas — não testado nos extremos
+- Efeito de −59% no grupo PSLI pode refletir parcialmente a definição muito restrita da variável, não só o efeito do SISU
+- Ausência de *outcomes* downstream (conclusão do curso, mercado de trabalho)
+- Análise restrita a IES públicas — excluindo a maioria dos estudantes brasileiros
+
+---
+
+## Perspectiva Teórica
+
+Economia aplicada da educação (*education economics*), com interface em *market design* e teoria de correspondência (*matching theory*). O modelo implícito é de agente racional com restrições de custo e informação. Ausência notável de diálogo com sociologia da educação, ciência política comparada ou literatura institucional sobre cotas — o que empobrece a discussão normativa e comparativa.
+
+---
+
+## Principais Referências
+
+- Machado e Szerman (2018) — efeitos do SISU sobre mobilidade e *matching*
+- Francis e Tannuri-Pianto (2012); Estevan, Gall e Morin (2019) — AA no Brasil
+- Hinrichs (2012); Backes (2012) — *bans* de AA nos EUA
+- Bertrand, Hanna e Mullainathan (2010); Bagde, Epple e Taylor (2016) — cotas de casta na Índia
+- Hoxby e Turner (2015); Bettinger et al. (2012); Pallais (2015) — custos de candidatura
+- Knight e Schiff (2020) — *Common Application*; Chetty et al. (2017) — mobilidade intergeracional
+- Johnson e Jackson (2019) — identificação de interações
+
+> Referências concentradas exclusivamente na economia da educação anglófona. Pouca interlocução com literatura brasileira de ciência política, sociologia da educação ou estudos sobre raça e desigualdade.
+
+---
+
+## Observações
+
+1. **Vulnerabilidade central:** o mecanismo de deslocamento por estudantes privados locais é reconstruído por eliminação — sem dados de candidatura individual, não é diretamente testável. Hipótese alternativa não descartada: interação com REUNI.
+2. **Interação SISU × AA:** achado mais inovador, mas mais dependente de suposições funcionais. A decomposição mecanística permanece sem identificação direta.
+3. **Lacuna normativa:** o paper não discute se o design SISU+AA é ótimo ou se arranjos alternativos dominariam o status quo.
+4. **Validade externa:** aplicável a contextos de sistemas centralizados com cotas em países de alta desigualdade com exame nacional único. Generalização para o *Common Application* ou vestibulares estaduais é problemática.
+5. **Relevância comparada:** o resultado contra-intuitivo de que centralização sozinha pode aumentar desigualdade de acesso é politicamente relevante e empiricamente robusto nos *checks* apresentados.

@@ -1,6 +1,6 @@
 ---
 title: "What’s New & Updated"
-subtitle: "Posts about ideas, news, and more"
+subtitle: "Posts about ideas, academic notes of events, text and classes, and more"
 description-meta: "Posts about papers, events, news, and more"
 listing: 
   sort: "date desc"
