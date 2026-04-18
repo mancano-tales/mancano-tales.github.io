@@ -4,11 +4,6 @@ description: "Anotação de literatura: avaliação causal do SISU e da Lei de C
 date: "2026-03-17"
 categories: [Literature Notes, Education Economics, Affirmative Action, Brazil, Causal-Inf]
 citation-key: Mello2022
-author-paper: "Mello, Ursula"
-year: 2022
-journal: "American Economic Journal: Economic Policy"
-vol-issue: "v. 14, n. 3, pp. 166–197"
-bibliography: references.bib
 ---
 
 ```{=html}

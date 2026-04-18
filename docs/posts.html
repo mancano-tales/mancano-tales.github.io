@@ -82,9 +82,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -285,7 +285,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QWZmaXJtYXRpdmUlMjBBY3Rpb24=">Affirmative Action <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QnJhemls">Brazil <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2F1c2FsLUluZg==">Causal-Inf <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWR1Y2F0aW9uJTIwRWNvbm9taWNz">Education Economics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGl0ZXJhdHVyZSUyME5vdGVz">Literature Notes <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -345,13 +345,66 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="TGl0ZXJhdHVyZSUyME5vdGVzJTJDRWR1Y2F0aW9uJTIwRWNvbm9taWNzJTJDQWZmaXJtYXRpdmUlMjBBY3Rpb24lMkNCcmF6aWwlMkNDYXVzYWwtSW5m" data-listing-date-sort="1773716400000" data-listing-file-modified-sort="1776518210038" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1237">
+<div class="thumbnail"><a href="./posts/Descriptive-Notes/Mello2022.html" class="no-external">
 
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Descriptive-Notes/Mello2022.html" class="no-external">Mello (2022) — Centralized Admissions, Affirmative Action and Access of Low-Income Students to Higher Education</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGl0ZXJhdHVyZSUyME5vdGVz'); return false;">Literature Notes</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWR1Y2F0aW9uJTIwRWNvbm9taWNz'); return false;">Education Economics</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QWZmaXJtYXRpdmUlMjBBY3Rpb24='); return false;">Affirmative Action</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QnJhemls'); return false;">Brazil</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q2F1c2FsLUluZg=='); return false;">Causal-Inf</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/Descriptive-Notes/Mello2022.html" class="no-external">
+<p>Anotação de literatura: avaliação causal do SISU e da Lei de Cotas sobre a composição socioeconômica do ensino superior público brasileiro.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Descriptive-Notes/Mello2022.html" class="no-external">
+<div class="listing-date">
+Mar 17, 2026
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
