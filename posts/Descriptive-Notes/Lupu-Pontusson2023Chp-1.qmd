@@ -1,0 +1,233 @@
+---
+title: "Fichamento: The Political Puzzle of Rising Inequality"
+subtitle: "Lupu, N. & Pontusson, J. (2023)"
+author: "Tales Mançano"
+date: "2026-04-17"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: "Sumário"
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    code-fold: false
+    self-contained: true
+    lang: pt
+---
+
+## Referência Completa
+
+> Lupu, Noam e Jonas Pontusson. "The Political Puzzle of Rising Inequality." In: Lupu & Pontusson (eds.), *The Politics of Inequality in Advanced Democracies*. Cambridge University Press, 2023.
+
+---
+
+## Introdução (pp. 1–4)
+
+### Teoria canônica e contradição empírica
+
+O capítulo parte da lógica do modelo dominante de **Meltzer e Richard (1981)**: como a maioria dos cidadãos ganha menos que a média, o eleitor mediano prefere redistribuição. Quanto maior a desigualdade, maior o incentivo eleitoral para políticas redistributivas — à medida que o eleitor mediano se distancia da renda média, ele deveria exigir políticas compensatórias mais robustas.
+
+Os dados cross-nacionais, porém, contradizem essa lógica. Países mais desiguais tendem a redistribuir *menos*, o que Lindert (2004) e Iversen e Soskice (2009) chamaram de **Paradoxo de Robin Hood**. Os defensores da teoria retorquem que o Gini pode não capturar a distância mediana–média e que o teste correto seria longitudinal — de fato, Kenworthy e Pontusson (2005) encontraram correlação positiva entre desigualdade de mercado e redistribuição em 9 de 10 países OCDE para o período 1979–2000, com os EUA como exceção notável.
+
+::: {.callout-note icon=false}
+**Paradoxo de Robin Hood (Lindert 2004)**
+
+"Robin Hood sai da floresta para roubar dos ricos e dar aos pobres somente quando é menos necessário."
+:::
+
+A resposta da literatura recente reformula o problema em termos dinâmicos: a desigualdade subiu agudamente nas últimas décadas e os governos eleitos não compensaram as classes médias e baixas. O **puzzle central** é, portanto:
+
+> **Por que o aumento da desigualdade de renda não se traduziu nem em maior demanda por redistribuição entre o público, nem em maior oferta de políticas redistributivas pelos governos eleitos?**
+
+### Duas qualificações ao enquadramento convencional
+
+Os autores argumentam que a narrativa padrão precisa de dois ajustes importantes antes de o puzzle poder ser investigado adequadamente.
+
+**Primeira qualificação — Temporalidade:** A desigualdade subiu agudamente nos *quinze anos anteriores* à crise financeira de 2007–2008, mas não há tendência uniforme de alta contínua no período posterior. A afirmação de que a desigualdade cresceu de forma consistente por três décadas é, portanto, parcialmente equivocada.
+
+**Segunda qualificação — Papel ativo das políticas públicas:** A desigualdade crescente não foi apenas produto de forças de mercado ignoradas pelo Estado. Os próprios governos, de todos os espectros ideológicos, tornaram seus sistemas tributários e de transferências menos redistributivos. Mudanças no mercado de trabalho — expansão de contratos temporários e part-time — também reduziram o efeito redistributivo do seguro-desemprego *sem mudanças formais de política*.
+
+::: {.callout-important}
+O puzzle não está apenas na *falha em responder* às forças de mercado, mas também nas *escolhas políticas ativas* de abandonar políticas redistributivas.
+:::
+
+Apesar das qualificações, os autores concluem que as democracias avançadas são hoje mais desiguais do que no início dos anos 1990 e seus sistemas redistributivos são menos robustos. A narrativa padrão é imprecisa, mas não totalmente errada.
+
+### Os dois eixos explicativos e a estrutura do volume
+
+Diante do puzzle, a literatura se bifurca em duas agendas de pesquisa que o volume busca colocar em diálogo.
+
+O **primeiro eixo** foca o lado das elites: governos podem simplesmente não escutar a maioria — por viés pró-ricos dos próprios parlamentares, por financiamento de campanhas pelos ricos ou por menor participação eleitoral dos pobres. O **segundo eixo** examina o lado dos eleitores: talvez a premissa do modelo esteja errada e eleitores não demandem mais redistribuição mesmo com desigualdade crescente — por desinformação, por priorizar outras dimensões (imigração, identidade) ou por não converterem preferências em votos.
+
+Uma limitação central da literatura é o **isolamento analítico**: estudos sobre preferências são quase todos europeus; estudos sobre representação desigual foram fundados nos EUA. No entanto, o puzzle aplica-se igualmente nos dois contextos. Trazer os EUA para perspectiva comparada é produtivo: ou as explicações americanas generalizam-se, ou a comparação revela o que é de fato excepcional nos EUA — em qualquer caso, o empreendimento requer que estudiosos de política americana dialoguem diretamente com especialistas em política comparada.
+
+---
+
+## Mudanças na Desigualdade e Redistribuição (pp. 4–12)
+
+### Dados, cobertura e escolhas de medição
+
+A narrativa padrão da literatura parte do pressuposto de que a desigualdade sobe por força do mercado e pergunta por que os governos não responderam. Os autores argumentam que essa narrativa deixa escapar dois elementos essenciais: o papel das *mudanças de política* no aumento da desigualdade e as diferenças marcantes entre o período pré e pós-crise.
+
+Para documentar essas nuances, os autores combinam três fontes para o período **1995–2019**, cobrindo 12 países (EUA, Austrália, Reino Unido, 4 países nórdicos e 5 da Europa continental):
+
+| Fonte | Medida | Vantagem |
+|:------|:-------|:---------|
+| **LIS / EU-SILC** | Gini para domicílios em idade ativa (renda de mercado e disponível) | Permite medir redistribuição via impostos e transferências |
+| **WID** | Parcela de renda dos top 10% | Corrige sub-representação dos muito ricos em surveys |
+
+O **WID** tem a vantagem de incorporar dados tributários administrativos e corrigir a sub-representação dos mais ricos em surveys domiciliares, mas não distingue aposentados de ativos e só mede redistribuição via impostos e transferências que não sejam pensões ou seguro-desemprego. Por isso, os autores usam as duas fontes de forma complementar, definindo a **medida de redistribuição** como a redução percentual do coeficiente Gini entre renda de mercado e renda disponível.
+
+Os países europeus da amostra servem como benchmarks naturais para os EUA: são mais igualitários e frequentemente citados como exemplos de maior resposta política à desigualdade de mercado — o que torna ainda mais revelador quando os dados mostram padrões semelhantes aos americanos.
+
+### Resultados: panorama geral (Figura 1.1)
+
+Tanto o Gini de renda disponível quanto a parcela dos top 10% subiram entre 1995 e fins dos anos 2010. Em média, o Gini para domicílios em idade ativa aumentou **10,6%** e a parcela dos top 10% aumentou **7,2%** — indicando que a desigualdade crescente não pode ser atribuída apenas às rendas do topo. Mais revelador ainda: países nórdicos (Dinamarca, Finlândia, Alemanha, Noruega e Suécia) tiveram altas de desigualdade disponível maiores do que os EUA, desafiando o mito do excepcionalismo americano. Os países nórdicos permanecem menos desiguais que os EUA em termos absolutos, mas convergiram consideravelmente desde meados dos anos 1990.
+
+A maioria dos observadores interpreta essas tendências como resultado de forças de mercado não compensadas pela política. As Tabelas 1.1–1.4, porém, revelam que essa leitura ignora dois elementos cruciais: o papel das mudanças de política no aumento da desigualdade disponível e as diferenças nítidas entre os períodos pré e pós-crise.
+
+### Período Pré-Crise: 1995–2007
+
+A evidência mais marcante do período pré-crise é que a desigualdade de renda disponível aumentou *mais* do que a desigualdade de renda de mercado em **10 dos 12 países** — configurando uma **virada regressiva** da política redistributiva. Na Finlândia e na Suécia, a desigualdade de mercado chegou a *cair*, mas a disponível subiu (+19,4% e +3,7%, respectivamente). A Bélgica foi o único país em que o sistema tributário e de transferências claramente se tornou mais redistributivo no período.
+
+Medido pelas parcelas dos top 10% (dados WID), o padrão é de alta universal da desigualdade de mercado — de 2,5% na Bélgica a 31,8% na Alemanha. França e Suécia conseguiram compensar a alta com tributação progressiva; em outros 5 países (Bélgica, Finlândia, Holanda, Suíça e Reino Unido), as mudanças redistributivas reforçaram, em vez de atenuar, o crescimento das parcelas do topo.
+
+### Período Pós-Crise: 2007–2018
+
+O padrão muda após 2007. Em média, a desigualdade de mercado entre domicílios em idade ativa continuou subindo, mas a disponível cresceu *muito menos* do que no período anterior. França, Suíça, Bélgica e Austrália passaram a compensar parcialmente as forças de mercado. Dinamarca, Finlândia, Noruega, Suécia e EUA, porém, continuaram com sistemas redistributivos tornando-se menos eficazes, mesmo com aumento da desigualdade de mercado.
+
+Usando os dados WID, o quadro pós-crise é ainda mais ambíguo: as parcelas de renda de mercado dos top 10% *caíram* acentuadamente durante a crise financeira e, em fins dos anos 2010, ainda estavam abaixo dos níveis de 2007 na maioria dos países. Isso torna difícil sustentar que o período pós-crise representa simplesmente uma continuação da tendência anterior de alta da desigualdade no topo.
+
+### Síntese dos Casos e Debate Metodológico
+
+Tratando cada observação país-período como caso separado e olhando os efeitos redistributivos da política:
+
+- **21 casos (maioria):** mudanças nas transferências e impostos contribuíram para *aumentar* a desigualdade disponível
+- **6 casos adicionais:** reduções na desigualdade de mercado não se transmitiram integralmente à desigualdade disponível
+- **13 casos:** aumentos na desigualdade de mercado foram plenamente compensados, ou quedas de mercado passaram integralmente à renda disponível
+- **10 casos:** compensação parcial ou estagnação
+
+::: {.callout-tip}
+**Implicação:** A dinâmica convencional — mercados favorecem os ricos, democracia favorece os pobres (*Politics against Markets*, Esping-Andersen 1985) — não descreve adequadamente a realidade empírica das últimas três décadas.
+:::
+
+Esses resultados entram em tensão com outro capítulo do volume, de **Elkjær e Iversen**, que conclui que governos compensaram sim os cidadãos de média e baixa renda. As diferenças metodológicas são múltiplas: inclusão de aposentados, benefícios in-kind (saúde, educação, creche), período coberto e número de países. A divergência mais profunda, porém, é conceitual: Elkjær e Iversen usam **taxas de transferência** (quanto % da renda dos ricos vai aos pobres), enquanto Lupu e Pontusson usam o **efeito redistributivo** (quanto a distribuição de fato muda).
+
+O problema com taxas de transferência pode ser ilustrado com um exemplo:
+
+> Considere duas sociedades em que um domicílio de baixa renda e um de alta renda ganham a mesma renda total. Na sociedade mais igualitária, o domicílio pobre ganha 150 e o rico ganha 250; na menos igualitária, o pobre ganha 100 e o rico ganha 300. Se o governo transfere 10% da renda do domicílio rico em ambos os casos, a *taxa de transferência* é idêntica — mas o domicílio pobre recebe 25 na sociedade igualitária e apenas 30 na desigual, ficando em situação pior em termos absolutos (130 vs. 175 de renda disponível) e em participação na renda total (33% vs. 44%).
+
+Não aumentar a taxa de transferência quando a desigualdade de mercado sobe deve ser considerado, portanto, uma vitória política dos ricos. A análise de Lupu e Pontusson sugere que, em geral, dinâmicas de mercado e escolhas políticas tornaram-se mais favoráveis aos ricos ao longo do tempo.
+
+---
+
+## Desigualdade Política e Representação (pp. 12–17)
+
+### O pressuposto democrático e sua falha
+
+Se as políticas tornaram-se menos redistributivas, elas também se alinharam mais às preferências dos ricos — que sistematicamente apoiam menos redistribuição em praticamente todas as democracias pesquisadas. A premissa canônica da teoria democrática é que governos eleitos respondem à maioria; o problema é que os cidadãos mais ricos parecem estar sistematicamente ganhando no campo redistributivo.
+
+Uma parte crescente da literatura atribui isso a **desigualdades políticas no próprio processo de representação**. A representação tem duas dimensões clássicas (Achen 1978; Miller e Stokes 1963): (1) se eleições produzem corpos representativos que refletem as preferências dos cidadãos (*congruência descritiva* ou *de opinião*) e (2) se esses corpos produzem legislação que responde aos desejos dos cidadãos. Estudos recentes documentam viés pró-ricos em ambas as dimensões — as preferências dos parlamentares estão mais alinhadas com as dos ricos (Giger et al. 2012; Lupu e Warner 2017, 2022a) e as políticas respondem desproporcionalmente às preferências dos mais abastados.
+
+### Responsividade desigual: Mathisen et al. e o design de Gilens
+
+Inspirados no trabalho pioneiro de **Gilens (2012)** sobre os EUA, vários estudos documentaram responsividade desigual em democracias afluentes (Bartels 2017; Elkjær 2020; Elsässer et al. 2021; Lupu e Tirado Castro 2023; Mathisen 2023; Rosset et al. 2013; Schakel 2021; Wagner 2021). O capítulo de **Mathisen, Schakel, Hense, Elsässer, Persson e Pontusson** aplica o design de Gilens a quatro países do Norte Europeu (Alemanha, Holanda, Noruega e Suécia), confirmando que governos em todos os quatro são mais responsivos às preferências de cidadãos de alta renda.
+
+Os autores também investigam se o **partidarismo do governo** modera a desigualdade de responsividade. O resultado é que governos de esquerda são *menos* desiguais na responsividade em Alemanha, Holanda e Suécia — mas ainda muito mais responsivos aos ricos do que aos pobres. A Noruega é um caso enigmático, possivelmente por diferenças de responsividade entre tipos de política. Mais importante: após 1998, governos de esquerda e direita convergiram em seu viés pró-ricos em questões econômicas e de welfare — o que sugere que a esquerda pode estar tentando compensar usando responsividade em políticas não-econômicas.
+
+### Debate metodológico: Bartels e os céticos
+
+**Bartels** oferece uma revisão crítica de como a literatura define e mede representação desigual, apontando dificuldades inferenciais sérias. Apesar disso, defende que o esforço de mensuração deve continuar, incorporando influência indireta via partidos e grupos de interesse — canais que o design padrão de Gilens pode subestimar.
+
+**Elkjær e Iversen**, por outro lado, adotam posição cética: se olharmos para interesses objetivos (não preferências subjetivas), governos compensaram os cidadãos de média e baixa renda. Para eles, o puzzle pode ser menos sério do que parece — posição que os autores do capítulo introdutório contestam com base nas diferenças metodológicas já discutidas.
+
+### Filtros institucionais e grupos de interesse
+
+**Hacker, Pierson e Zacher** argumentam que o sistema político americano opera por meio de *filtros* que distorcem quais interesses chegam à competição política nacional. O Colégio Eleitoral, o Senado de representação territorial, a polarização partidária e a descentralização fazem com que ambos os partidos falhem em representar suas próprias bases de eleitores de baixa renda — um argumento que situa o puzzle americano em suas estruturas institucionais específicas.
+
+**Becher e Stegmueller** modelam teoricamente como grupos de interesse influenciam tanto a *seleção de candidatos* quanto o *processo legislativo* — dois canais complementares cujos efeitos combinados podem ser maiores do que cada um isoladamente. Esse mecanismo é subteorizado na literatura sobre responsividade desigual, que tende a focar apenas no produto legislativo final.
+
+### Representação descritiva e seleção de candidatos
+
+Dois capítulos sobre **representação descritiva** mostram que a origem socioeconômica dos representantes importa diretamente para o conteúdo das políticas. **Curto-Grau e Gallego** demonstram que prefeitos com diploma universitário adotam políticas fiscais mais conservadoras. **Carnes e Lupu** documentam que legisladores de classe trabalhadora são sistematicamente sub-representados em todo o mundo OCDE, e que esse padrão não é explicado apenas por fatores estruturais como riqueza, desigualdade ou sindicalização — a variação intra-país entre partidos sugere que o papel dos *gatekeepers* partidários é mais determinante do que condições econômicas agregadas.
+
+Isso levanta um problema temporal importante: se a desigualdade de representação foi relativamente estável nas últimas décadas, como essas explicações dão conta do *aumento* da desigualdade de renda? A pergunta convida a pesquisas mais diacrônicas sobre como variações na composição de classe das legislaturas afetam trajetórias redistributivas no longo prazo.
+
+### Participação política desigual e o ciclo vicioso
+
+**Mathisen e Peters** documentam, a partir de 29 democracias europeias, que cidadãos menos ricos participam menos não apenas em termos de voto, mas também em petições, contato com políticos e organizações cívicas. Parte relevante dessa lacuna é explicada não por falta de recursos, mas por **desconfiança no sistema político** — o que configura um ciclo vicioso: quanto menos o governo responde às preferências da maioria, menos os cidadãos se engajam, o que reduz ainda mais a pressão para que governos respondam.
+
+---
+
+## Eleitores e Demanda por Redistribuição (pp. 17–24)
+
+### A estabilidade surpreendente das preferências
+
+Pesquisas mostram que o apoio à redistribuição quase não mudou nas últimas décadas, apesar do aumento expressivo da desigualdade (Kenworthy e McCall 2007). Os dados do **European Social Survey (ESS)** entre 2002 e 2018 confirmam essa estabilidade na maioria dos países europeus. O dado adicional de Gonthier (2017) aprofunda o enigma: as preferências de diferentes grupos de renda se movem *juntas*, não em sentidos opostos — quando a desigualdade sobe, não há polarização de preferências redistributivas entre ricos e pobres, mas variação paralela.
+
+Uma explicação recorrente é que cidadãos **subestimam a desigualdade** e acreditam estar mais próximos da mediana do que realmente estão — vieses cognitivos que reduziriam a demanda por redistribuição. Mas esse argumento tem limites: se as pessoas fossem completamente confusas sobre sua posição, não observaríamos a relação negativa estável entre renda relativa e apoio à redistribuição. Além disso, a desigualdade deveria ser relevante mesmo sem percepção precisa, pois afeta diretamente a renda disponível e as oportunidades.
+
+### Crítica metodológica ao item de survey padrão
+
+A maioria dos estudos sobre preferências redistributivas usa uma única pergunta de survey — algo como *"O governo deveria reduzir as diferenças de renda entre ricos e pobres?"* — com o pressuposto implícito de que redistribuição é um objeto único e unidimensional. Mas esse item é vago, normativo e captura disposições gerais, não preferências por políticas específicas. O **efeito teto** é outra limitação: com 60–70% já apoiando redistribuição em 2002, há pouco espaço para detectar aumentos adicionais mesmo que eles ocorressem.
+
+**Charlotte Cavaillé** demonstra que esse pressuposto é fundamentalmente errado. A redistribuição tem pelo menos duas dimensões com determinantes individuais muito distintos:
+
+| Dimensão | Norma subjacente | Pergunta implícita |
+|:---------|:----------------|:-------------------|
+| **Redistribuição dos ricos** | *Proporcionalidade*: a renda reflete esforço legítimo? | É justo que os ricos ganhem tanto? |
+| **Redistribuição para os pobres** | *Reciprocidade*: os pobres merecem ajuda? | Os pobres são merecedores de suporte público? |
+
+As duas normas são ortogonais e relativamente estáveis, e sua distribuição varia sistematicamente entre países. Cavaillé identifica uma tipologia: (1) renda percebida como justa *e* pobres como não-merecedores (EUA e Reino Unido); (2) renda percebida como injusta *mas* pobres também como não-merecedores (Europa do Sul); (3) renda percebida como justa *mas* pobres como merecedores (países nórdicos). Onde a norma de proporcionalidade é forte (desigualdade vista como reflexo de esforço), a demanda por tributar os ricos cai — o que oferece uma solução parcial ao puzzle nórdico: foram justamente os países com normas de proporcionalidade mais fortes que mais reduziram a redistribuição.
+
+### Comportamento eleitoral paradoxal e o papel da mídia
+
+O achado mais contraintuitivo da seção vem de **Matthews, Hicks e Jacobs**: eleitores de baixa e média renda *premiam* incumbentes quando a renda dos ricos cresce, em vez de puni-los. Isso é o oposto do que a teoria redistributiva padrão prediz.
+
+O mecanismo proposto pelos autores envolve a **cobertura econômica da mídia**: jornalistas cobrem agregados (PIB, desemprego, índices bolsistas) que são correlacionados com a renda do topo. Quando o topo vai bem, as notícias econômicas ficam positivas, e eleitores interpretam isso como bom desempenho do governo — independentemente da orientação ideológica do veículo de mídia. Isso quebra o vínculo que deveria existir entre desigualdade crescente e punição eleitoral dos incumbentes.
+
+A implicação política é direta: se a mídia cobrisse mais distribuição de renda e menos agregados, políticos teriam mais incentivo para responder às preferências distributivas da maioria. Fica em aberto se a **concentração de propriedade midiática** pode explicar variação cross-nacional nesses padrões — uma agenda de pesquisa promissora mas ainda pouco explorada.
+
+### Raça e redistribuição nos EUA
+
+O capítulo qualitativo de **Katherine Cramer** sobre rádio-talk americana documenta como narrativas de direita entrelaçam aversão à redistribuição com ressentimento racial, inviabilizando coalizões multirraciais de classe. Os apresentadores enquadram acusações de racismo como instrumentos democratas para expandir o governo, e trabalhadores rurais brancos passam a ver políticas redistributivas como um jogo de soma zero em que pessoas de cor ganham às suas custas. Essa dinâmica é específica ao contexto americano, mas levanta questões sobre como clivagens étnicas e raciais modulam o efeito da desigualdade sobre a demanda redistributiva em outros contextos também.
+
+### Percepção de representação partidária: Ares e Häusermann
+
+**Ares e Häusermann** introduzem um elo importante entre os dois eixos explicativos do volume: medem se cidadãos de diferentes classes percebem ser bem representados por seus próprios partidos em questões de welfare. Trabalhadores percebem representação pior do que as classes médias e superiores — e essa percepção de má representação gera menor confiança no governo, que por sua vez gera menor apoio à redistribuição. Esse mecanismo conecta o lado das elites (representação desigual) ao lado dos eleitores (demanda redistributiva): quando os trabalhadores percebem que seu partido não os representa bem, eles se retiram da política redistributiva como demandantes. O ciclo se fecha: elites não escutam → trabalhadores desconfiam → trabalhadores não demandam → elites têm menos incentivo para redistribuir.
+
+---
+
+## Perspectivas e Lacunas do Volume (pp. 24–25)
+
+### Estrutura do volume
+
+O volume está organizado em três blocos temáticos. O primeiro reúne quatro capítulos sobre representação e debate metodológico (incluindo o capítulo de Bartels, o de Elkjær e Iversen e o de Mathisen et al.); os dois blocos seguintes espelham os dois eixos explicativos — elite/representação e demanda eleitoral — com estudos de caso americanos e europeus dialogando explicitamente com teorias do outro contexto.
+
+### Lacunas reconhecidas
+
+Os autores são explícitos sobre o que o volume não cobre:
+
+- O papel da **imigração** sobre a demanda por redistribuição — reconhecidamente relevante, mas ausente
+- **Misperception** das preferências dos eleitores pelos próprios políticos
+- Papel de **grupos de interesse** e constrangimentos externos (globalização, integração europeia) de forma mais sistemática
+- A distinção operacional entre grupos de **renda**, **educação** e **classe social**, usada de formas não-padronizadas pelos diferentes capítulos — o que convoca a disciplina a retomar a análise de classe social de modo mais sistemático
+
+### A heterogeneidade cross-nacional não explicada
+
+A limitação mais incômoda, admitida pelos autores, é que nenhum capítulo consegue explicar por que os países nórdicos tornaram-se *menos* redistributivos enquanto a França ficou *mais* progressiva, ou por que alguns países reverteram a tendência após a crise financeira. A resposta diferenciada à crise permanece sub-explicada — o que aponta para a necessidade de teorias que integrem variação institucional, estrutura do mercado de trabalho e composição de coalizões políticas em perspectiva comparada.
+
+### EUA como caso entre muitos
+
+O volume reafirma sua opção metodológica de tratar os EUA como um caso comparável, não como exceção incomensurável. A experiência americana desde meados dos anos 1990 não difere radicalmente dos demais países ricos em termos de trajetória de desigualdade — o que justifica a estratégia de trazer estudiosos de política americana para diálogo direto com comparativistas.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central do capítulo**
+
+A desigualdade não subiu de forma linear e não foi apenas produto de forças de mercado — parte é responsabilidade política direta. O puzzle não é só *"por que governos não compensam?"*, mas também *"por que eleitores não demandam compensação?"*. A resposta envolve simultaneamente **falhas de representação** (elites não escutam a maioria) **e falhas de formação de preferências** (cidadãos menos ricos não mobilizam demanda redistributiva consistente, por desinformação, desconfiança, normas culturais ou cobertura midiática). Ambos os lados se retroalimentam em um ciclo que perpetua a desigualdade: riqueza desigual gera influência política desigual, que gera mais riqueza desigual.
+:::
