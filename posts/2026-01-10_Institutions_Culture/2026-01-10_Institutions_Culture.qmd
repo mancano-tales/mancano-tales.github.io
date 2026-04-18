@@ -1,22 +1,48 @@
+---
+title: "Instituições, Racionalidade e Como as Pessoas Pensam"
+author: "Tales Mançano"
+date: "2026-01-11"
+categories: [political economy, institutions, rationality, development]
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    theme: cosmo
+    highlight-style: github
+lang: pt
+---
 
-2026-11-01_Institutions_Culture_Rationality_Mechanisms_Causality
-Instituições, Racionalidade e como as pessoas pensam
+## Explicações Institucionais e Não Institucionais
 
+Sokoloff escreveu um paper que considero central para a discussão sobre desenvolvimento comparativo: a divisão entre explicações institucionais e não institucionais. Essa distinção é poderosa, mas tem seus limites. Quando chegamos nas causas primeiras — como diria Haber — as coisas ficam turvas.
 
+Algumas explicações buscam dar conta de grandes diferenças entre populações, povos e nações por meio de fatores exógenos ao comportamento e às decisões humanas: o clima, a dotação de recursos naturais, ou mesmo o DNA, no caso das (infames) teorias racistas. Outras caminham na direção oposta. Acemoglu, Johnson e Robinson, por exemplo, argumentam que esses fatores supostamente exógenos não afetam diretamente a riqueza e a prosperidade dos países — eles afetam a *formação das instituições*, que por sua vez afetam o desenvolvimento.
 
+O que me parece subdesenvolvido nessa discussão são dois pontos: a conceituação ainda restrita do que são instituições, e a subestimação das incontáveis possibilidades de interação entre esses fatores. O que quero dizer é que fatores exógenos e institucionais interagem de forma complexa: os institucionais são muito mais importantes em termos de efeito geral, mas os exógenos não deixam de ser substantivos.
 
+## O Que São Instituições, de Fato?
 
-2026-01-11
+Grande parte da literatura trata instituições como a constituição, a existência de propriedade privada, o rule of law. Mas instituições são muito mais do que isso.
 
-Sokoloff escreveu um paper que considero muito interessante, ele divide as explicações entre aquelasz institucionais e as não institucionais. Essa diferenciacão é mesmo cecntral. Algumas explicações tentam explcar grandes diferenças entre populações povos pessoas nações, países etc, por razões exógenas ao comportamento e as decisões e ações das pessoas. O clima, a quantidade de recursos naturais ou mesmo o DNA em grande parte de teorias racistas e tudo mais. Outras explicações vão para outro lado. Acemoglu James e Robinson vão para o lado das instituições. Esses fatores suporstamente exogenos não afetam diretaamente o desenvolvimento a riqueza e a prospferidade dos países, eles sfetam a formação das instituições que por sua vez afetam o desenvolvimento e a propsperidade dos países.
+Na minha conceituação — que busca ser coerente com cada um dos três principais institucionalismos — argumento que **instituições são modelos mentais de ação que são regulares entre as pessoas**, podendo ser expressos formalmente ou não. A democracia e o Estado de Direito são casos de instituições formalizadas, mas grande parte das instituições não o é.
 
-o que eu acho que está sibdesenvolvidonessa discussão são a connceituação, ainda um tanto restrita, quanto as incontaveis possibilidaes de interação entre esses fatores. O que quero dizer com isso é que tanto os fatores exógenos quanto os institucionais interagem, de forma que os institucionais são muito mais importantes em termos do efeito geral mas os exógenos não deixam de ser substantivos. EM relação as institucições sminha adição seria que as instituiçõe são coisas muito mais amplas do que geralmente consideradas. Em grand eparte da literatura se pensam institucições omo a constituição a existencia de prpriedade privada, mas instituições são muito mais que isso, na minha conceituação que busca ser coerente com cada um dos 3 principais institucionalismos eu argumento que instituições são modelos mentais de ação que são regulares entre as pessoas e podem ser expressos formalmente, como é o caso da democracia e usais instituições, mas grande parte das instituições não o são. QUando alguns teóricos da crize da democracia enfatizam que grande parte do ataque à instituições democráticas não acontece nesseceariamente pelo ataque das regras formais mas também por deixar de se cumprir as regras informais, como o respeito à oposição e uma série de premissas e prerrogativas informais que era cumpridas sem formlizações cuja importância só é melhor apreciada quando ela está sobre ataque.
+Quando teóricos da crise da democracia enfatizam que os ataques às instituições democráticas não ocorrem necessariamente pelo rompimento das regras formais, estão apontando exatamente para isso. O desmonte pode acontecer pelo abandono das **regras informais**: o respeito à oposição, a deferência a prerrogativas não escritas, o cumprimento de normas de reciprocidade que nunca precisaram ser codificadas. A importância dessas regras só é plenamente apreciada quando elas estão sob ataque.
 
+## Sanções e a Defesa das Instituições Democráticas
 
+Se as instituições democráticas dependem tanto de normas informais quanto formais, sua defesa também precisa operar nesses dois registros. Partidos e atores que atacam a democracia precisam ser completamente ostracizados e sancionados — não apenas juridicamente, mas socialmente — para desincentivar fortemente esses comportamentos e relegar à margem aqueles que insistirem neles.
 
+O ideal, claro, seria que os defensores das instituições democráticas fossem capazes de *convencer* os atores antidemocráticos a abandonarem suas convicções. Mas, na ausência disso, a sanção coordenada é o mecanismo mais robusto disponível.
 
+## Não Existe Tal Coisa Chamada Racionalidade
 
-Sanções pesadas a quem não segue as instituições acordadas, os partidos que atacam a democracia tem que ser completamente ostracizados e sancionados para desencentivar fortemente o comportamento e relegar a miséria social aqueles que insistirem nisso, sendo preferivel uma opçõe em que os defensores das instituiçÕes democráticas sejam cocnvencidos a abandonar suas convicçÕes anti democráticas
+Como argumento em *"There Is No Such a Thing as Rationality"*, não faz sentido pensar em racionalidade como um critério universal — seja para avaliar instituições, seja para definir o que deve ser feito para maximizar alguma função econômica, de riqueza ou qualquer coisa assim.
 
+Já diria Weber: a racionalidade pode ser em relação a valores (*Wertrationalität*) ou a fins (*Zweckrationalität*). Mas o que decide se o próprio fim é racional? Não há resposta para isso. O critério escapa à própria lógica que pretende aplicar.
 
-como eu argumento em "There is no such a thing as rationality", não acho que faça sentdo pensar em racionalidade, porque racionalidade pressupõe uam seeria de instituições que não são universais, mais contingentes historicamente e foprmadas na europa nos ultimos séculos que, se ela de fato levou a inovações tecnológicas e crescimento eocnomico e instituições consideradas "boas" elas só podem ser assim consideradas a partir de um conjunto de valores muito siubjetivos e criados por essa mesma racionalidade, ou seja é apenas um auto elogio. A mesma racionalidade que criou a democracia e o desenvolvimento economico também criou enormes catastrofes ambientais, os maiores massacres e fenômenos imorais da história como o colonialismo a escravização em massa e o genocídio em escala industrial. Não existe racionalidade pensada de forma ordinal, apenas instituiçÕes pensadas de forma categórica. Não existem instituições melhores e piores pensadas de forma linear, mas existem instituições diferentes, com impactos distintos em termos de crescimento economico, bem estar social, entre outras
+Se ainda assim se decidir tomar o desenvolvimento econômico como algo racional *per se*, já está bastante claro que existem muitos caminhos para se chegar lá — e faz pouco sentido chamar qualquer um deles de mais racional que outro. Cada modelo carrega seus próprios *tradeoffs*: um pode ser mais ou menos adaptado a continuar crescendo sob determinadas condições exógenas. Em outras palavras, um ou outro modelo de desenvolvimento pode ser *better fitted* para sobreviver a uma dada situação — uma linguagem, aliás, muito mais honesta do que a de racionalidade.
+
+A mesma racionalidade que criou a democracia liberal e o desenvolvimento econômico moderno também criou catástrofes ambientais sem precedentes, os maiores massacres da história e fenômenos profundamente imorais como o colonialismo, a escravização em massa e o genocídio industrial. Não existe racionalidade pensada de forma ordinal.
+
+O que existe são **instituições pensadas de forma categórica**: não há instituições melhores ou piores em sentido linear, mas instituições *diferentes*, com impactos distintos em termos de crescimento econômico, bem-estar social, distribuição de poder, e assim por diante. A comparação é sempre contingente aos valores e métricas que escolhemos aplicar — e essa escolha nunca é neutra.

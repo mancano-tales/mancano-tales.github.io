@@ -16,8 +16,6 @@ _Full citation:_ Albouy, David Y. (2012). The Colonial Origins of Comparative De
 
 In this critical comment, David Albouy re-examines the data used by Acemoglu, Johnson, and Robinson (AJR, 2001) in their seminal work on the colonial origins of development. AJR famously used **European settler mortality rates** as an instrumental variable (IV) to argue that historical institutions, rather than geography or culture, drive modern economic performance.
 
-
-
 Albouy’s critique focuses on three main empirical flaws:
 1. **Data Reliability:** He argues that of the 64 countries in the AJR sample, only 28 have mortality rates originating from within their own borders. The remaining 36 were assigned rates based on "conjectures" from neighboring countries, which Albouy finds dubious.
 2. **Inconsistent Sources:** Albouy points out that AJR mixed mortality data from different populations (soldiers at peace vs. soldiers on campaign, laborers, and bishops). He argues that "campaign" mortality is artificially high and unrepresentative of potential settler risk.
@@ -45,6 +43,3 @@ O documento é um comentário de David Y. Albouy sobre o artigo seminal de Acemo
 
   * A falta de uma relação robusta entre o risco de expropriação e as taxas de mortalidade introduz problemas de "instrumento fraco" na estimativa de variáveis instrumentais (VI) do AJR.
   * Os pontos de estimativa de VI tornam-se instáveis, e os intervalos de confiança corrigidos são frequentemente infinitos quando as fraquezas dos dados de mortalidade são consideradas.
-
-### _Perplexity with Claude Sonet 4.5_
-
