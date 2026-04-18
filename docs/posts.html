@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,14 +36,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6957ec2732917c3acd9217c3064faa9e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5e6bd0f431d9db1b2e65cd770f46ab1a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -164,7 +165,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -196,6 +197,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Tales Mançano</span>
     </a>
@@ -285,7 +288,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="QWZmaXJtYXRpdmUlMjBBY3Rpb24=">Affirmative Action <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QW5ub3RhdGVkJTIwQmlibGlvZ3JhcGh5">Annotated Bibliography <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QnJhemls">Brazil <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q2F1c2FsJTIwSW5mZXJlbmNl">Causal Inference <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2F1c2FsLUluZg==">Causal-Inf <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29tcGFyYXRpdmUlMjBQb2xpdGljcw==">Comparative Politics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RWNvbm9taWNzJTIwb2YlMjBFZHVjYXRpb24=">Economics of Education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWR1Y2F0aW9uJTIwRWNvbm9taWNz">Education Economics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SGlnaGVyJTIwRWR1Y2F0aW9uJTIwUG9saWN5">Higher Education Policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW5kdXN0cmlhbCUyME9yZ2FuaXphdGlvbg==">Industrial Organization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGl0ZXJhdHVyZSUyME5vdGVz">Literature Notes <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TWFuaWZlc3RvJTIwQW5hbHlzaXM=">Manifesto Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFydHklMjBQb2xpdGljcw==">Party Politics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG9saXRpY2FsJTIwRWNvbm9teQ==">Political Economy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG9saXRpY3MlMjBvZiUyMEVkdWNhdGlvbg==">Politics of Education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V2VsZmFyZSUyMFN0YXRl">Welfare State <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="QWZmaXJtYXRpdmUlMjBBY3Rpb24=">Affirmative Action <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QW5ub3RhdGVkJTIwQmlibGlvZ3JhcGh5">Annotated Bibliography <span class="quarto-category-count">(4)</span></div><div class="category" data-category="QnJhemls">Brazil <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q2F1c2FsJTIwSW5mZXJlbmNl">Causal Inference <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q2F1c2FsLUluZg==">Causal-Inf <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29tcGFyYXRpdmUlMjBQb2xpdGljcw==">Comparative Politics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RWNvbm9taWNzJTIwb2YlMjBFZHVjYXRpb24=">Economics of Education <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RWR1Y2F0aW9uJTIwRWNvbm9taWNz">Education Economics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SGlnaGVyJTIwRWR1Y2F0aW9uJTIwUG9saWN5">Higher Education Policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW5kdXN0cmlhbCUyME9yZ2FuaXphdGlvbg==">Industrial Organization <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SW5zdGl0dXRpb25hbCUyMFRoZW9yeQ==">Institutional Theory <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGl0ZXJhdHVyZSUyME5vdGVz">Literature Notes <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TWFuaWZlc3RvJTIwQW5hbHlzaXM=">Manifesto Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3JnYW5pemF0aW9uJTIwVGhlb3J5">Organization Theory <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFydHklMjBQb2xpdGljcw==">Party Politics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG9saWN5JTIwRXZhbHVhdGlvbg==">Policy Evaluation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG9saXRpY2FsJTIwRWNvbm9teQ==">Political Economy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG9saXRpY3MlMjBvZiUyMEVkdWNhdGlvbg==">Politics of Education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2NpZW5jZSUyMFN0dWRpZXM=">Science Studies <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U29jaW9sb2d5JTIwb2YlMjBLbm93bGVkZ2U=">Sociology of Knowledge <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U29jaW9sb2d5JTIwb2YlMjBPcmdhbml6YXRpb25z">Sociology of Organizations <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGF4JTIwSW5jaWRlbmNl">Tax Incidence <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V2VsZmFyZSUyMFN0YXRl">Welfare State <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -448,7 +451,97 @@ Tales Mançano
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="QW5ub3RhdGVkJTIwQmlibGlvZ3JhcGh5JTJDUG9saXRpY3MlMjBvZiUyMEVkdWNhdGlvbiUyQ1dlbGZhcmUlMjBTdGF0ZSUyQ1BhcnR5JTIwUG9saXRpY3MlMkNNYW5pZmVzdG8lMjBBbmFseXNpcyUyQ0NvbXBhcmF0aXZlJTIwUG9saXRpY3M=" data-listing-date-sort="1776481200000" data-listing-file-modified-sort="1776545566339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="21" data-listing-word-count-sort="4031">
+<div class="quarto-post image-right" data-index="2" data-categories="QW5ub3RhdGVkJTIwQmlibGlvZ3JhcGh5JTJDRWNvbm9taWNzJTIwb2YlMjBFZHVjYXRpb24lMkNJbmR1c3RyaWFsJTIwT3JnYW5pemF0aW9uJTJDVGF4JTIwSW5jaWRlbmNlJTJDQ2F1c2FsJTIwSW5mZXJlbmNlJTJDUG9saWN5JTIwRXZhbHVhdGlvbg==" data-listing-date-sort="1776481200000" data-listing-file-modified-sort="1776553073366" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="37" data-listing-word-count-sort="7354">
+<div class="thumbnail"><a href="./posts/Annotated-Bib/Barahona-etal2026.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Annotated-Bib/Barahona-etal2026.html" class="no-external">Fichamento: Equilibrium Price Responses to Targeted Student Financial Aid</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/Annotated-Bib/Barahona-etal2026.html" class="no-external">Barahona, Dobbin &amp; Otero (2026)</a>
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QW5ub3RhdGVkJTIwQmlibGlvZ3JhcGh5'); return false;">Annotated Bibliography</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWNvbm9taWNzJTIwb2YlMjBFZHVjYXRpb24='); return false;">Economics of Education</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SW5kdXN0cmlhbCUyME9yZ2FuaXphdGlvbg=='); return false;">Industrial Organization</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGF4JTIwSW5jaWRlbmNl'); return false;">Tax Incidence</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q2F1c2FsJTIwSW5mZXJlbmNl'); return false;">Causal Inference</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG9saWN5JTIwRXZhbHVhdGlvbg=='); return false;">Policy Evaluation</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/Annotated-Bib/Barahona-etal2026.html" class="no-external">
+Última atualização: 2026-04-18<br>
+Modelo: Perplexity — Claude Sonnet 4.6 Thinking<br>
+Gerado em: 2026-04-18T22:55:00-03:00
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Annotated-Bib/Barahona-etal2026.html" class="no-external">
+<div class="listing-date">
+Apr 18, 2026
+</div>
+<div class="listing-author">
+Tales Mançano
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="QW5ub3RhdGVkJTIwQmlibGlvZ3JhcGh5JTJDU29jaW9sb2d5JTIwb2YlMjBPcmdhbml6YXRpb25zJTJDSW5zdGl0dXRpb25hbCUyMFRoZW9yeSUyQ1NvY2lvbG9neSUyMG9mJTIwS25vd2xlZGdlJTJDT3JnYW5pemF0aW9uJTIwVGhlb3J5JTJDU2NpZW5jZSUyMFN0dWRpZXM=" data-listing-date-sort="1776481200000" data-listing-file-modified-sort="1776552606239" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="36" data-listing-word-count-sort="7138">
+<div class="thumbnail"><a href="./posts/Annotated-Bib/Dobbin-Schoonhoven2010.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Annotated-Bib/Dobbin-Schoonhoven2010.html" class="no-external">Fichamento: An Organizational Sociology of Stanford’s Organization Theory Renaissance</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/Annotated-Bib/Dobbin-Schoonhoven2010.html" class="no-external">Dobbin, F. &amp; Schoonhoven, C. B. (2010)</a>
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QW5ub3RhdGVkJTIwQmlibGlvZ3JhcGh5'); return false;">Annotated Bibliography</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U29jaW9sb2d5JTIwb2YlMjBPcmdhbml6YXRpb25z'); return false;">Sociology of Organizations</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('SW5zdGl0dXRpb25hbCUyMFRoZW9yeQ=='); return false;">Institutional Theory</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U29jaW9sb2d5JTIwb2YlMjBLbm93bGVkZ2U='); return false;">Sociology of Knowledge</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('T3JnYW5pemF0aW9uJTIwVGhlb3J5'); return false;">Organization Theory</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2NpZW5jZSUyMFN0dWRpZXM='); return false;">Science Studies</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/Annotated-Bib/Dobbin-Schoonhoven2010.html" class="no-external">
+Última atualização: 2026-04-18<br>
+Modelo: Perplexity, powered by Claude Sonnet 4.6 Thinking<br>
+Gerado em: 2026-04-18T19:38:00-03:00
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Annotated-Bib/Dobbin-Schoonhoven2010.html" class="no-external">
+<div class="listing-date">
+Apr 18, 2026
+</div>
+<div class="listing-author">
+Tales Mançano
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="QW5ub3RhdGVkJTIwQmlibGlvZ3JhcGh5JTJDUG9saXRpY3MlMjBvZiUyMEVkdWNhdGlvbiUyQ1dlbGZhcmUlMjBTdGF0ZSUyQ1BhcnR5JTIwUG9saXRpY3MlMkNNYW5pZmVzdG8lMjBBbmFseXNpcyUyQ0NvbXBhcmF0aXZlJTIwUG9saXRpY3M=" data-listing-date-sort="1776481200000" data-listing-file-modified-sort="1776545566339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="21" data-listing-word-count-sort="4031">
 <div class="thumbnail"><a href="./posts/Annotated-Bib/Gingrich-Giudici2023-2026-04-18.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -491,7 +584,7 @@ Tales Mançano
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="TGl0ZXJhdHVyZSUyME5vdGVzJTJDQ29tcGFyYXRpdmUlMjBQb2xpdGljcyUyQ1BvbGl0aWNhbCUyMEVjb25vbXklMkNXZWxmYXJlJTIwU3RhdGU=" data-listing-date-sort="1776394800000" data-listing-file-modified-sort="1776536269624" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="27" data-listing-word-count-sort="5250">
+<div class="quarto-post image-right" data-index="5" data-categories="TGl0ZXJhdHVyZSUyME5vdGVzJTJDQ29tcGFyYXRpdmUlMjBQb2xpdGljcyUyQ1BvbGl0aWNhbCUyMEVjb25vbXklMkNXZWxmYXJlJTIwU3RhdGU=" data-listing-date-sort="1776394800000" data-listing-file-modified-sort="1776536269624" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="27" data-listing-word-count-sort="5250">
 <div class="thumbnail"><a href="./posts/Annotated-Bib/v2-Lupu-Pontusson2023Chp-1.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -530,7 +623,7 @@ Tales Mançano
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1776394800000" data-listing-file-modified-sort="1776531355048" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3657">
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1776394800000" data-listing-file-modified-sort="1776531355048" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3657">
 <div class="thumbnail"><a href="./posts/Descriptive-Notes/Lupu-Pontusson2023Chp-1.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -558,7 +651,7 @@ Tales Mançano
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1776308400000" data-listing-file-modified-sort="1776531574300" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1664">
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1776308400000" data-listing-file-modified-sort="1776531574300" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1664">
 <div class="thumbnail"><a href="./posts/Annotated-Bib/Costa-etal2021.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -586,7 +679,7 @@ Tales Mançano
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="TGl0ZXJhdHVyZSUyME5vdGVzJTJDRWR1Y2F0aW9uJTIwRWNvbm9taWNzJTJDQWZmaXJtYXRpdmUlMjBBY3Rpb24lMkNCcmF6aWwlMkNDYXVzYWwtSW5m" data-listing-date-sort="1773716400000" data-listing-file-modified-sort="1776535915587" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1174">
+<div class="quarto-post image-right" data-index="8" data-categories="TGl0ZXJhdHVyZSUyME5vdGVzJTJDRWR1Y2F0aW9uJTIwRWNvbm9taWNzJTJDQWZmaXJtYXRpdmUlMjBBY3Rpb24lMkNCcmF6aWwlMkNDYXVzYWwtSW5m" data-listing-date-sort="1773716400000" data-listing-file-modified-sort="1776535915587" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1174">
 <div class="thumbnail"><a href="./posts/Annotated-Bib/Mello2022.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -678,13 +771,14 @@ Mar 17, 2026
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
