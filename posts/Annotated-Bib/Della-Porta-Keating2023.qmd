@@ -1,10 +1,10 @@
 ---
 title: "Fichamento: Methodological Pluralism in Political Science"
-subtitle: "della Porta, D., & Keating, M. (2023)"
+subtitle: "Della Porta, D., & Keating, M. (2023)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Metodologia, Pluralismo Metodológico, Epistemologia, Ciência Política, Filosofia da Ciência Social]
+categories: [Annotated Bibliography, Methodology, Methodological Pluralism, Epistemology, Philosophy of Social Sciences]
 format:
   html:
     toc: true
@@ -17,7 +17,7 @@ format:
 > Della Porta, D., & Keating, M. (2023). *Methodological pluralism in political science*. In J. M. Box-Steffensmeier et al. (Eds.), *Oxford handbook of engaged methodological pluralism in political science*. Oxford University Press. [https://doi.org/10.1093/oxfordhb/9780192868282.013.75](https://doi.org/10.1093/oxfordhb/9780192868282.013.75)
 
 ::: {.callout-note collapse="true" icon=false}
-## Entrada BibTeX → della-Porta-Keating2023
+## Entrada BibTeX → Della-Porta-Keating2023
 
 ```bibtex
 @incollection{Della-Porta-Keating2023,
@@ -52,11 +52,11 @@ Esse contexto local expressava, segundo os autores, uma visão maniqueísta das 
 
 Ao investigar mais a fundo, os autores constataram que as posições sobre os fins da pesquisa social eram muito mais variadas e nuançadas do que o esquema bipolar sugeria. Identificar campos claramente delimitados era difícil, e as clivagens cruzadas permitiam um grau de entendimento mútuo que contrariava a imagem de "guerra metodológica." Havia, na verdade, múltiplos debates sobre métodos, metodologias e epistemologia, com histórias independentes.
 
-Esses debates remetiam, em última instância, à questão sobre a existência ou não de um paradigma comum nas ciências sociais. Recuperando Kuhn (1962), os autores recordam que disciplinas maduras sustentam-se num paradigma que define o que estudar, por que estudar e como estudar. Kuhn já na década de 1960 apontava como questão aberta a existência desse paradigma nas ciências sociais — questão que, segundo della Porta e Keating, permanecia sem solução nos anos 2000. Alguns cientistas sociais insistem na existência de um paradigma único. King, Keohane e Verba (1994, p. 6), em obra seminal, sintetizaram o "ideal" de pesquisa científica em quatro critérios: (1) o objetivo é a inferência; (2) os procedimentos são públicos; (3) as conclusões são incertas; (4) o conteúdo é o método. Outros cientistas sociais, no entanto, não compartilham essas premissas e caracterizam a disciplina como **pré-paradigmática**, **pós-paradigmática**, **não-paradigmática** ou mesmo **multi-paradigmática**.
+Esses debates remetiam, em última instância, à questão sobre a existência ou não de um paradigma comum nas ciências sociais. Recuperando Kuhn (1962), os autores recordam que disciplinas maduras sustentam-se num paradigma que define o que estudar, por que estudar e como estudar. Kuhn já na década de 1960 apontava como questão aberta a existência desse paradigma nas ciências sociais — questão que, segundo Della Porta e Keating, permanecia sem solução nos anos 2000. Alguns cientistas sociais insistem na existência de um paradigma único. King, Keohane e Verba (1994, p. 6), em obra seminal, sintetizaram o "ideal" de pesquisa científica em quatro critérios: (1) o objetivo é a inferência; (2) os procedimentos são públicos; (3) as conclusões são incertas; (4) o conteúdo é o método. Outros cientistas sociais, no entanto, não compartilham essas premissas e caracterizam a disciplina como **pré-paradigmática**, **pós-paradigmática**, **não-paradigmática** ou mesmo **multi-paradigmática**.
 
 ### Os cinco níveis de investigação social e a tese pluralista [§8–§10]
 
-Em resposta a essa complexidade, della Porta e Keating (2008) haviam identificado cinco níveis nos quais as diferenças entre abordagens se manifestam: (1) **ontologias** — o que é o mundo social; (2) **epistemologias** — como podemos conhecê-lo; (3) **abordagens** — esquemas analíticos baseados em pressupostos sobre relações (escolha racional, culturalismo, sociobiologia etc.); (4) **metodologias** — formas de operacionalizar e analisar conceitos; (5) **métodos** — meios concretos de coletar informação. A visão dominante na ciência política pressupunha uma relação determinada entre esses níveis: ontologia → epistemologia → abordagem → metodologia → método. Os autores argumentam que essa visão maniqueísta é enganosa, pois as diferenças que emergem em cada nível distam de produzir pilares homogêneos e estáveis.
+Em resposta a essa complexidade, Della Porta e Keating (2008) haviam identificado cinco níveis nos quais as diferenças entre abordagens se manifestam: (1) **ontologias** — o que é o mundo social; (2) **epistemologias** — como podemos conhecê-lo; (3) **abordagens** — esquemas analíticos baseados em pressupostos sobre relações (escolha racional, culturalismo, sociobiologia etc.); (4) **metodologias** — formas de operacionalizar e analisar conceitos; (5) **métodos** — meios concretos de coletar informação. A visão dominante na ciência política pressupunha uma relação determinada entre esses níveis: ontologia → epistemologia → abordagem → metodologia → método. Os autores argumentam que essa visão maniqueísta é enganosa, pois as diferenças que emergem em cada nível distam de produzir pilares homogêneos e estáveis.
 
 A perspectiva pluralista dos autores se organiza em torno de quatro afirmações centrais: primeiro, rejeita a ideia de que as escolhas em cada nível são mutuamente exclusivas; segundo, contesta a analogia com as ciências naturais, tanto porque estas são mal-representadas quanto porque as ciências sociais são, de qualquer modo, distintas; terceiro, nega a existência de relação determinada que faça uma escola optar sistematicamente pelas mesmas posições do nível epistemológico ao metodológico; quarto, aponta que as suposições sobre como capturar a realidade variam de formas mais sutis do que o debate binário reconhece. O desafio, portanto, é maior do que simplesmente combinar fontes de dados ("métodos mistos"): trata-se de mostrar como abordagens podem ser combinadas ou sintetizadas ao longo de todo o contínuo.
 
@@ -184,7 +184,7 @@ Os debates sobre como implementar e desenvolver o pluralismo metodológico devem
 
 **O que fica como hipótese ou agenda:** A operacionalização concreta do pluralismo em projetos individuais permanece em aberto — os próprios autores reconhecem que não fornecem um "livro de receitas." A questão de como se produz síntese produtiva entre abordagens incomensuráveis sem incorrer em eclectismo ou autocontradição é agenda declarada do volume do qual este capítulo é introdução.
 
-**Contribuição para o debate mais amplo:** O capítulo retoma e atualiza o argumento de della Porta e Keating (2008) à luz de desenvolvimentos dos últimos quinze anos. Sua contribuição central ao debate em metodologia das ciências sociais é deslocar o pluralismo da posição defensiva ("tolerância necessária") para uma posição afirmativa ("valor positivo em si"), e demonstrar que essa posição não implica relativismo, mas exige rigor argumentativo e autocrítica constante.
+**Contribuição para o debate mais amplo:** O capítulo retoma e atualiza o argumento de Della Porta e Keating (2008) à luz de desenvolvimentos dos últimos quinze anos. Sua contribuição central ao debate em metodologia das ciências sociais é deslocar o pluralismo da posição defensiva ("tolerância necessária") para uma posição afirmativa ("valor positivo em si"), e demonstrar que essa posição não implica relativismo, mas exige rigor argumentativo e autocrítica constante.
 :::
 
 ---
@@ -297,7 +297,7 @@ Esta seção segue o formato *IA Planilhando Textos v11.0*. A análise é advers
         1. A taxonomia de cinco níveis (ontologia → epistemologia → abordagem → metodologia → método) e a demonstração de que a relação entre eles não é determinada constituem contribuição conceitual clara e bem estruturada.<br/>
         2. A mobilização da diversidade interna das ciências naturais para desconstruir a analogia positivista é argumentativamente eficaz.<br/>
         3. A distinção entre pluralismo como característica do sistema e pluralismo em projetos individuais é conceitualmente produtiva.<br/>
-        4. A formulação do pluralismo como posição normativa positiva — e não como mera tolerância passiva — é a contribuição central do capítulo, atualizando della Porta e Keating (2008) à luz dos "giros" recentes.
+        4. A formulação do pluralismo como posição normativa positiva — e não como mera tolerância passiva — é a contribuição central do capítulo, atualizando Della Porta e Keating (2008) à luz dos "giros" recentes.
       </td>
     </tr>
 
@@ -344,7 +344,7 @@ Esta seção segue o formato *IA Planilhando Textos v11.0*. A análise é advers
       <td>
         <em>A identificação de diálogos pobres ou desequilibrados é relevante para avaliar a amplitude do argumento.</em>
         <hr/>
-        <strong>Centrais:</strong> della Porta e Keating (2008) — obra-mãe revisitada; King, Keohane e Verba (1994) — posição criticada; Kuhn (1962) — estrutura paradigmática; Bhaskar (2002) — realismo crítico; Geertz (1973) — humanismo interpretativo; Giddens (1976) — dupla hermenêutica; Grossmann (2021) — diagnóstico do arrefecimento das guerras metodológicas; Bartolini (2022) — especificidade da política; Goodin e Tilly (2006) — giro contextual e relacional.<br/><br/>
+        <strong>Centrais:</strong> Della Porta e Keating (2008) — obra-mãe revisitada; King, Keohane e Verba (1994) — posição criticada; Kuhn (1962) — estrutura paradigmática; Bhaskar (2002) — realismo crítico; Geertz (1973) — humanismo interpretativo; Giddens (1976) — dupla hermenêutica; Grossmann (2021) — diagnóstico do arrefecimento das guerras metodológicas; Bartolini (2022) — especificidade da política; Goodin e Tilly (2006) — giro contextual e relacional.<br/><br/>
         <strong>Diálogos ausentes ou subrepresentados:</strong><br/>
         — A tradição de <em>philosophy of social science</em> analítica (Elster, Little, Mahoney) é pouco mobilizada, o que poderia enriquecer a discussão sobre mecanismos causais e explanation.<br/>
         — A literatura sobre <em>mixed methods</em> de modo mais técnico (Creswell, Tashakkori, Teddlie) é mencionada criticamente mas não desenvolvida.<br/>
