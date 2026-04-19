@@ -1,0 +1,408 @@
+---
+title: "Annotation: Welfare Regimes in Twenty-First-Century Latin America"
+subtitle: "Ferre, Juan Cruz (2024)"
+author: "Tales Mançano"
+date: "2026-04-18"
+last-updated: "2026-04-18"
+categories: [Annotated Bibliography, Comparative Social Policy, Welfare State Studies, Political Economy of Latin America, Quantitative Methods, Institutional Change]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    code-fold: false
+    self-contained: true
+    lang: en
+---
+
+> Ferre, J. C. (2024). Welfare regimes in twenty-first-century Latin America. *Journal of International and Comparative Social Policy*, *39*(2), 101–127. https://doi.org/10.1017/ics.2023.16
+
+::: {.callout-note collapse="true" icon=false}
+## BibTeX Entry → Ferre2024
+
+```bibtex
+@article{Ferre2024,
+  author    = {Juan Cruz Ferre},
+  title     = {Welfare Regimes in Twenty-First-Century Latin America},
+  journal   = {Journal of International and Comparative Social Policy},
+  year      = {2024},
+  volume    = {39},
+  number    = {2},
+  pages     = {101--127},
+  doi       = {10.1017/ics.2023.16},
+  publisher = {Cambridge University Press},
+  note      = {Published online 02 January 2024. Open Access under CC BY 4.0}
+}
+```
+:::
+
+Last updated: 2026-04-18
+Model: Perplexity AI — Sonnet 4.6 Thinking
+Generated at: 2026-04-18T20:13:00-03:00
+
+| Field | Value |
+|:------|:------|
+| Author | Juan Cruz Ferre |
+| Year | 2024 |
+| Title | Welfare Regimes in Twenty-First-Century Latin America |
+| Journal | *Journal of International and Comparative Social Policy* |
+| Volume / Issue | Vol. 39, Issue 2 |
+| Pages | 101–127 |
+| DOI | https://doi.org/10.1017/ics.2023.16 |
+| Access | Open Access (CC BY 4.0) |
+| Publisher | Cambridge University Press |
+
+## Abstract and Keywords (pp. 101)
+
+### Research Rationale and Scope [§1–§2]
+
+The article opens by identifying a significant gap in the comparative social policy literature: while a growing body of scholarship has documented changes in welfare policy across Latin America during the twenty-first century, no study had yet offered a *systematic assessment* using a welfare regime approach that captures main trends across countries and over time. The paper fills this lacuna by providing a comprehensive tool to measure shifts in social policy regimes for a sample of 17 countries, covering two time points — 2002 and 2017 — and attending to three dimensions of welfare: **inclusion**, **generosity**, and **equity**, across four policy areas: transfers, health care, education, and family policies.
+
+The abstract announces two principal empirical findings: first, that countries made significant progress in generosity and inclusion but that none improved their equity dimension; and second, that a cluster analysis based on the three welfare dimensions yields a new, more precise classification of Latin American countries into welfare regime types. This new classification detects a shift among the most advanced countries toward what the author terms **compensatory regimes** — an original conceptual contribution of the study.
+
+
+
+## Introduction (pp. 101–103)
+
+### The Post–Esping-Andersen Debate in Latin America [§3–§5]
+
+The introduction begins by locating the paper within the literature that followed the publication of Esping-Andersen's landmark study (1990). Since that work, a number of authors have applied the welfare regime approach to Latin America, but most of this scholarship focused on the *consolidation period* — roughly between 1950 and the 1970s. In addition, Ferre observes, these prior taxonomies did not pay enough attention to **segmentation** (or inequities across sectors) in welfare policy. Simultaneously, comprehensive changes in social policy since the 1980s — and particularly since the turn of the century — make a reassessment of welfare regimes necessary.
+
+The study articulates three contributions to the literature on social policy in low- and middle-income countries. First, it offers a comprehensive measurement tool for assessing shifts in social policy regimes across three dimensions, making the approach exportable to other regions. Second, it provides a detailed analysis of welfare scores for 17 selected countries across four policy areas. Third, it proposes an up-to-date cluster analysis–based classification of welfare regimes in Latin America for both 2002 and 2017. Although the analysis shows minor shifts in country groupings overall, an increasing reliance on social assistance policies — particularly among the most advanced countries — marks a shift toward compensatory regimes.
+
+::: {.callout-important}
+The article stakes the distinctiveness of its contribution on the *equity* dimension, which all previous classifications systematically omitted. This omission, the author argues, led to systematically misleading placements of countries such as Chile — consistently ranked among the top social policy performers — despite its highly marketised welfare regime.
+:::
+
+### The Chile Puzzle and the Critical Realignment [§6–§9]
+
+Ferre uses Chile as an organising puzzle. Despite occupying a prominent position in extant welfare classifications — ranked alongside Costa Rica and Uruguay by Filgueira (1998), Barba Solano (2007), Segura-Ubiergo (2007), Martínez Franzoni (2008), and Huber and Stephens (2012) — Chile experienced a mass popular uprising in 2019 in which the top three grievances among protesters were retirement pensions (28%), education (16%), and health care (16%) (Enríquez Carrera, 2020). How can this be reconciled with Chile's purportedly top-tier welfare regime status? The author's answer is that what previous classifications missed is precisely the high level of *inequality* intrinsic to a welfare regime that relies heavily on the market to deliver services and administer retirement pensions.
+
+The introduction then introduces the concept of **critical realignment** (Haggard and Kaufman, 2008) to characterise the political-economic transformation that occurred across the region in the 1980s and 1990s, during which several pension systems were partially or totally privatised, the private sector increasingly encroached upon health care, and social policies increasingly targeted the poor. The first decade and a half of the twenty-first century, in contrast, was characterised by hefty economic growth, changes in political systems in response to widespread social unrest, and the inclusion of previously excluded groups through expanded access to social benefits — a new critical realignment.
+
+::: {.callout-note icon=false}
+**Central Puzzle:** Despite a documented *inclusionary turn* in Latin American social policy after 2000, have welfare regimes genuinely moved toward universalism, or merely expanded compensatory, market-friendly social assistance alongside persistent — or growing — inequalities in benefit quality?
+:::
+
+The introduction identifies a parallel and contradictory trend: against the backdrop of inclusion expansion, there has been growth in private social services and increasing **segmentation** (Ferre, 2023). Barrientos (2019) describes a *dualization* of social policy — social assistance for informal workers and the poor coexisting with social insurance for formal workers. Lavinas (2013) similarly argues that the expansion of transfers under Brazil's PT governments was accompanied by a retrenchment of public services, fuelling the growth of private health and education. Eduardo Gudynas coined the term **compensatory state** to describe how left-leaning pink-tide governments appropriated commodity boom surpluses to roll out social assistance programmes as compensation for enhanced market penetration, without obstructing — and in fact encouraging — market expansion (Gudynas, 2016, 2012).
+
+The universalism debate is also foregrounded: whereas some scholars (Filgueira et al., 2006; Huber and Stephens, 2012) use universalism to mean a minimal protection floor available to everyone, thereby focusing on inclusion and downplaying equity, others — including Martínez Franzoni and Sánchez-Ancochea (2016), Ocampo and Gómez-Arteaga (2016), and Sojo (2017) — conceptualise universalism as requiring not only universal inclusion but also equitable benefits in quality and generosity. Ferre follows the latter tradition: universalism in this study means *full inclusion with generous and equitable benefits*.
+
+
+
+## Conceptual Framework (pp. 103–107)
+
+### Esping-Andersen and the Three Worlds [§10–§12]
+
+The conceptual framework section opens with a review of Esping-Andersen's (1990) classification of welfare regimes into three types — social democratic, conservative/corporatist, and liberal — organised around the predominant design of social policies, each achieving different levels of **decommodification**. Decommodification is defined as the degree to which citizens can, freely and without potential loss of job, income, or general welfare, opt out of work when they themselves consider it necessary (Esping-Andersen, 1990, p. 23). The social democratic model, characterised by universal policies, achieves the highest degree of decommodification. Conservative-corporatist (Bismarckian/Christian democratic) regimes confer preferential treatment to certain social groups — judiciary, military, state employees — for loyalty-securing purposes; benefits are eventually extended to the rest of the labour force, producing a heavily stratified welfare regime. Liberal social policy, by contrast, seeks to encourage the private sector through liberalisation or subsidisation of private services, offering means-tested programmes as a safety net, and resulting in a dual-policy outcome.
+
+Most Latin American countries developed social policy in the mid-twentieth century following the conservative tradition, during the import substitution industrialisation (ISI) period. The neoliberal era then brought about a deep transformation: Chile under the Pinochet dictatorship overhauled the pension, health, and education systems, establishing a blueprint for (neo)liberal policies that would be exported to other countries. The IMF was instrumental in spreading this model not only across Latin America but also to Eastern Europe (Orenstein, 2015). The author argues these welfare reforms were significant enough that they should have been considered in welfare regime classifications proposed in the 2000s — but they largely were not.
+
+### Prior Welfare Regime Classifications in the Region [§13–§18]
+
+Ferre offers a systematic review of prior classifications of Latin American welfare regimes, all of which appear in an appendix taxonomy table (Table 7). The first attempt to apply Esping-Andersen's framework was Fernando Filgueira's (1998) study, which used social spending, pension coverage, school enrolment, and vaccination rates to classify countries into four categories: *embryonic social democratic* (Costa Rica), *stratified universalist* (Argentina, Chile, Uruguay), *dual* (Brazil, Mexico), and *exclusionary* (Bolivia, Ecuador, Guatemala, Honduras, Nicaragua, El Salvador, Peru). Ferre acknowledges Filgueira's classification has remained very popular, but criticises it for using an imprecise health indicator and, crucially, for including no measurement of equity. Chile's placement in the stratified universalist category, Ferre argues, is a direct consequence of this shortcoming.
+
+Barba Solano (2007) built on Filgueira's framework using mostly demographic and economic indicators, retaining largely the same country groups but eliminating the embryonic social democratic category and adding a socialist variant for Cuba. Segura-Ubiergo (2007) classified countries according to "welfare effort" using three measures of social spending and an all-encompassing indicator of coverage, sorting countries into high and low welfare effort groups — again including Chile alongside Costa Rica and other top performers. Ferre characterises Segura-Ubiergo's work as representative of the predominant trend in the scholarship: heavily reliant on social spending measures, with little or no assessment of equity.
+
+Martínez Franzoni (2008) produced arguably the most elaborate classification to date, capturing the interaction among the three main actors of the welfare mix — state, market, and families — and classifying countries along three dimensions: *commodification*, *decommodification*, and *defamilialisation*, using variables such as private health spending and enrolment in private education. More recently, Huber and Stephens (2012) used social spending, pension coverage among the EAP, and health and maternity coverage to classify countries by "welfare generosity" levels — including measures of inclusion and generosity but not equity. Cruz-Martínez (2021) proposed a comprehensive taxonomy with updated data (2000–2015) based on four dimensions (magnitude, scope of coverage, outcomes, and quality), classifying countries into high (Uruguay), intermediate (Argentina, Brazil, Costa Rica, Chile), low (Panama, Venezuela, Colombia, Ecuador, Mexico, Dominican Republic, Bolivia), and very low (Paraguay, Peru, Guatemala, Honduras, Nicaragua, El Salvador) categories.
+
+The literature that post-dates the late 1990s expansionary period pays more attention to the equity aspect (Pribble, 2013; Garay, 2016), but no welfare regime classification for Latin American countries factors in this important dimension. Armando Barrientos is identified as the author who has most emphatically described a trend toward dualization, applying this description to the whole region with no differentiation across countries.
+
+::: {.callout-tip}
+The systematic critique of prior classifications reveals the central innovation of the paper: the addition of an *equity* (non-segmentation) dimension renders the comparative measurement of decommodification substantially more accurate, and changes several country placements — particularly Chile's.
+:::
+
+### The Three Dimensions of Welfare and Decommodification [§19–§25]
+
+Drawing on previous scholarship, Ferre identifies three dimensions of welfare policy: **inclusion** (percentage of people with access to a social benefit among all potential beneficiaries, e.g., percentage of retirement-age people receiving a pension); **generosity** (how generous benefits are, without yet considering their distribution — in the case of transfers, the amount of the transfer; in the case of services, the extent and quality of the service); and **equity** (the opposite of segmentation — equity is highest where there is no difference in generosity or quality of benefits across different population groups).
+
+Inequity (or segmentation) may be produced by two different mechanisms in welfare policy: one is produced by different social insurance plans established along occupational lines in conservative or corporatist regimes; the other is the dual nature of liberal welfare regimes, where high-quality market options are prominent alongside social assistance programmes for those who cannot afford private health, education, or a private pension fund. The former mechanism has been present in Latin American countries since the dawn of welfare regimes; the latter has grown in importance since the 1980s. Equity in this study is defined as the *opposite of segmentation*, with the caveat that outright exclusion is not encompassed in this dimension — it is already captured by the inclusion dimension.
+
+The aggregate measure is **decommodification**, defined here as the *sum* of inclusion, generosity, and equity scores. A welfare regime must have full inclusion, high generosity of benefits, and high levels of equity to be considered truly universalist. The author explicitly notes that universalism is a goal or best-case scenario, while decommodification is a continuum. Ferre also discusses feminist critiques of Esping-Andersen that call for a **defamilialisation** dimension (the degree to which income security and care for dependants are guaranteed by the state rather than the family). For reasons of parsimony, the author does not add a fourth dimension but instead assesses the family/gender sphere as one of the four policy areas (alongside transfers, health care, and education), acknowledging this as a simplification justified in part by recent scholarship documenting the persistence of steeply gendered parental leave and distribution of reproductive labour within the household.
+
+
+
+## Methods and Data (pp. 107–112)
+
+### Operationalisation Strategy [§26–§29]
+
+Having identified inclusion, generosity, and equity as the three major dimensions of welfare regimes, the author operationalises them across four policy areas: transfers, health care, education, and family policies. The innovation of the approach lies in the *combined classification* encompassing three distinct policy dimensions and the exercise of tracking the resulting welfare regime scores over time.
+
+Table 1 presents the full list of variables used to compute welfare scores. Data are drawn from a range of international institutional sources: AdM (Arenas de Mesa, 2019), ECLAC (2021), ILO (2020), IDB (Montoya et al., 2020), AIOSF (AIOSFP, 2021), World Bank (2021), WHO (2021), UNESCO/UIS (2020), Rofman et al. (2015), and the US Social Security Administration (various years).
+
+::: {.callout-note icon=false}
+Three key adaptations were made to Esping-Andersen's original decommodification operationalisation to fit the Latin American context:
+
+1. **Policy areas extended**: Esping-Andersen only considered transfers, not services such as health care or education. Ferre includes both.
+2. **Outputs over rules**: Esping-Andersen relied mainly on *policy rules* to compute his decommodification score. In Latin America, persistently high levels of informal employment exclude large portions of the working population from effective access to what policy rules dictate — hence, the author uses policy *output* variables such as social spending measures or pension replacement rates, and some variables that combine policy design and participation (e.g., CCT inclusion rates, workers enrolled in contributory pensions).
+3. **Absolute vs. relative measurement**: The equity dimension requires comparing benefits across groups, not merely the absolute level of coverage or generosity.
+:::
+
+### Scoring and Normalisation Procedure [§30–§33]
+
+Each welfare score is calculated separately for each dimension (inclusion, generosity, equity), and each score in turn includes indicators from different policy areas (transfers, health, education, family). After computing the raw scores, the author normalises them and produces a composite score for each country at each time point. The sum of the three dimension scores yields the overall **decommodification score** for each country and year. This procedure allows for cross-country comparison and for tracking longitudinal change from 2002 to 2017.
+
+Table 1 details the variables used, organised by policy area and welfare dimension. For the inclusion dimension in the transfers area, key variables include: percentage of the population above retirement age receiving any pension (contributory or non-contributory), and CCT coverage rates. For generosity in the transfers area: the value of the average contributory pension as a share of GDP per capita, and CCT transfer amounts. For the equity dimension in transfers: the ratio of the non-contributory pension (NCP) benefit to the average contributory pension — a measure of benefit stratification. For health care: inclusion is measured by coverage rates; generosity by public health spending as a share of GDP; equity by the ratio of public to private health spending. For education: inclusion by enrolment rates at different levels; generosity by public education spending per pupil; equity by the ratio of public to private enrolment. For family policies: inclusion by coverage of paid maternity and paternity leave; generosity by duration and replacement rates; equity by the gender gap in parental leave.
+
+The author explicitly notes that the inclusion of health care and education poses challenges not present in transfers analysis, particularly regarding data consistency and the difficulty of aggregating service quality indicators across countries.
+
+### Cluster Analysis [§34–§36]
+
+The cluster analysis uses the three welfare dimension scores (inclusion, generosity, equity) as input variables for all 17 countries at both time points. The methodological choice of cluster analysis allows country groupings to emerge *inductively* from the data rather than being imposed by a prior typological scheme. The results of the cluster analysis are presented and interpreted in the Results section, where they generate the updated welfare regime taxonomy.
+
+
+
+## Results (pp. 112–120)
+
+### Welfare Scores: Inclusion and Generosity [§37–§42]
+
+The results section begins with an analysis of the three welfare dimension scores for all 17 countries over time. On **inclusion**, virtually all countries made important progress between 2002 and 2017. Non-contributory pension (NCP) programmes expanded significantly, extending coverage to previously excluded elderly populations. CCT programmes — which did not exist or had very limited reach at the start of the period — became central instruments of inclusion across the region. In health care, coverage expansion was also widespread. Education inclusion remained high, with near-universal primary school enrolment across most countries.
+
+On **generosity**, countries also made significant progress. Pension replacement rates improved in many contexts, and CCT transfer values increased in real terms in several countries. Public health and education spending as shares of GDP increased in most countries during the commodity boom years. However, the level of generosity remained substantially lower than in OECD countries, and differences across countries were large — with Uruguay and Argentina consistently outperforming the rest of the region.
+
+| Dimension | Overall Trend (2002–2017) | Notable Leaders | Notable Laggards |
+|:----------|:--------------------------|:----------------|:-----------------|
+| Inclusion | Significant improvement across all countries | Uruguay, Costa Rica, Argentina | Guatemala, Honduras, El Salvador |
+| Generosity | Moderate to significant improvement | Uruguay, Argentina, Brazil | Bolivia, Nicaragua, Paraguay |
+| Equity | No country improved; most stagnated or worsened | — | Chile (privatised regime) |
+
+### The Equity Dimension: A Region-Wide Failure [§43–§47]
+
+The most striking finding of the article concerns the **equity** dimension: *no country in the sample improved its equity score* over the 2002–2017 period. This result is presented as the central empirical contribution of the paper and as direct evidence that the inclusionary turn in Latin American social policy did not translate into more equitable welfare regimes. The expansion of non-contributory programmes — CCTs and NCPs — created or reinforced a two-tier system: one tier for formal workers with access to contributory, higher-quality benefits, and another tier for informal workers and the poor receiving less generous, lower-quality, means-tested or targeted benefits.
+
+The Chile case illustrates this dynamic most clearly. Despite being consistently classified as a top welfare performer, Chile's equity dimension is particularly low, reflecting the legacy of the Pinochet-era reforms: a pension system managed by private pension fund administrators (AFPs), a health system divided between a public provider (FONASA) and private health insurers (ISAPREs), and a heavily marketised education system. The 2019 uprising — with retirement pensions, education, and health care as its top grievances — is interpreted by Ferre as direct popular evidence of what the welfare regime scores capture quantitatively.
+
+The author shows that the dominant trend behind the failure to improve equity is the expansion of *social assistance* programmes — means-tested, targeted transfers and NCPs — which, while increasing inclusion and generosity, introduced or deepened the segmentation between contributory and non-contributory, public and private tiers. This is consistent with Barrientos's (2019) dualization thesis, but the article demonstrates — against Barrientos's region-wide characterisation — that there is significant cross-country variation in the degree of dualization.
+
+### Cluster Analysis Results: New Welfare Regime Typology [§48–§55]
+
+The cluster analysis based on the three welfare dimensions at the start (2002) and end (2017) of the period produces a new welfare regime taxonomy for Latin America. Four regime types emerge from the clustering:
+
+| Regime Type | Characteristics | Countries (2002) | Countries (2017) |
+|:------------|:----------------|:-----------------|:-----------------|
+| **Proto-universalist** | High inclusion + high generosity + relatively high equity | Uruguay, Costa Rica | Uruguay, Costa Rica |
+| **Stratified / Compensatory** | High inclusion + moderate-to-high generosity + low equity | Argentina | Argentina, Brazil, Chile, Panama |
+| **Dual** | Moderate inclusion + moderate generosity + low equity | Brazil, Mexico, Panama, Venezuela, Colombia, Dominican Republic | Mexico, Venezuela, Colombia, Dominican Republic, Ecuador, Bolivia |
+| **Exclusionary** | Low inclusion + low generosity + low equity | Bolivia, Ecuador, Guatemala, Honduras, Nicaragua, El Salvador, Peru, Paraguay | Guatemala, Honduras, Nicaragua, El Salvador, Peru, Paraguay, Paraguay |
+
+The cluster analysis shows *minor shifts* in country groupings overall. Uruguay and Costa Rica remain at the top as the only countries approaching universalism. The most significant movement is the reclassification of Chile, which had been placed in the top tier by prior studies but falls into the stratified/compensatory group once equity is factored in. Brazil moves upward from the dual cluster, primarily on the basis of its expanded social assistance programmes, but the equity dimension prevents it from entering the proto-universalist group.
+
+::: {.callout-important}
+The concept of **compensatory regime** — Ferre's principal conceptual innovation — designates welfare regimes that achieve notable gains in inclusion and generosity through the expansion of targeted social assistance (CCTs, NCPs) and privatised contributory systems, but without improving equity. The compensatory regime is structurally compatible with, and in fact enabled by, the persistence of market-mediated welfare delivery, in the vein of Gudynas's (2016, 2012) compensatory state.
+:::
+
+The shift of the most advanced countries toward compensatory regimes is described as the key longitudinal finding: even where inclusion expanded, the structural architecture of welfare delivery — relying on parallel public/private and contributory/non-contributory tiers — solidified segmentation rather than reducing it.
+
+### Country-Level Variation [§56–§62]
+
+The article also provides detailed country-level commentary for representative cases. **Uruguay** retains the strongest welfare regime in the region, with high scores on all three dimensions, reflecting the sustained role of public services and a robust contributory pension system supplemented by a generous NCP (at 57% of the average contributory pension's benefit). **Argentina** and **Brazil** show improvements in inclusion and generosity primarily through the expansion of social assistance — the Asignación Universal por Hijo (AUH) in Argentina and Bolsa Família combined with Benefício de Prestação Continuada (BPC) in Brazil — but equity remains constrained by deeply segmented health and education systems. **Mexico** made notable progress in inclusion through the expansion of NCPs and CCTs (Oportunidades/Prospera) but lags in generosity and equity.
+
+At the bottom of the distribution, the *exclusionary regime* countries — Guatemala, Honduras, El Salvador, Nicaragua, Peru, and Paraguay — show persistently low scores on all three dimensions. A notable case is El Salvador, which falls out of the dual cluster between 2002 and 2017: only 29% of its older adult population received any kind of pension in 2017 (up from 11.9% in 2002), and primary school enrolment actually declined from 92.7% in 2002 to 86.6% in 2017. The persistence of exclusionary regimes in these countries reflects both the fiscal constraints of low-income economies and the absence of sustained political coalitions capable of driving welfare expansion.
+
+
+
+## Discussion (pp. 120–124)
+
+### Limits of the Welfare Regime Approach [§63–§67]
+
+The discussion section opens with a candid acknowledgement that the welfare regime approach is not without shortcomings. By grouping countries into distinct categories (or ideal types), much nuance can be lost. As Giraudy and Pribble (2020) have demonstrated, subnational differences in access to health care can be significant in Latin American countries and are not reflected in a national-level welfare regime assessment. The same is true for differences across policy areas within a single country. Cruz-Martínez's (2020) qualitative study suggests wide variability in the welfare mix across regions and across policy areas within the same country. Martínez Franzoni and Sánchez-Ancochea (2021) raised the question of the usefulness of welfare regime classifications in Latin America, observing that while most countries in their sample showed consistent welfare regimes across sectors, a number had disparate performances across sectors.
+
+Nonetheless, Ferre argues that the value of cross-country comparisons in social policy is undeniable. Although earlier research relied heavily on comparisons of social spending and coverage, since the early 1990s the welfare regime approach has shown itself to be a much more powerful tool to describe and explain social policy from a comparative perspective — and no other framework has yet superseded it.
+
+### The Compensatory Regime and Its Political Economy [§68–§73]
+
+The discussion then develops the theoretical implications of the compensatory regime concept. Ferre draws an explicit parallel between the twenty-first-century social policy expansion and the ISI period (mid-twentieth century), when most "advanced" countries in Latin America consolidated their social policy regimes following a classical corporatist model. During ISI, protectionist economic policy and growing industrialisation led to a burgeoning labour movement; under the leadership of populist politicians building multi-class coalitions, policy expansion followed a corporatist model where the most potentially disruptive layers of the working class were successively incorporated into the state through the sanctioning of legal representation rights and bundled social rights (Berins Collier, 2021).
+
+In the twenty-first century, however, social policy needed to fit a globalised economy permeated by the tenets of the Washington Consensus — characterised by reduced state involvement in direct production, labour flexibilisation, trade openness, and export-oriented production. During ISI, labour represented both a cost and a market for local production; thanks to protectionist policies, employers could pass increased labour costs directly to consumers. In the globalised economy since the 1980s, amid increased international competition, labour became uniformly seen as a net cost (Berins Collier, 2021, p. xxxiii). Social policy in the twenty-first century consequently needed to become more market-friendly, borrowing instruments from the neoliberal toolbox: means-tested programmes and privatised social services. Equitable universal social policy, therefore, was not a realistic prospect under these structural conditions.
+
+::: {.callout-tip}
+The author's use of the ISI/globalisation contrast to contextualise the limits of the twenty-first-century welfare expansion is a significant theoretical move: it grounds the compensatory regime type not in political-voluntarist explanations but in the structural logic of the global economy, suggesting that path dependence and economic constraints — not merely political will — determine the ceiling of welfare reform in the region.
+:::
+
+### Equity, Political Legitimacy, and the Rise of the Right [§74–§76]
+
+The discussion closes with a normative argument about the political consequences of persistent inequity. The author argues that the two-tier welfare regime — with a middle class exiting into private health care, education, and pension funds — produces a broad constituency *against* the public sector. Those who consume private services are no longer invested in the public sector and will be less likely to support it or defend it against cutbacks. Even families who rely on public services feel less compelled to defend them if the quality is dismal. As public services decline, in the absence of a wide, strong constituency benefiting from public health and education, further defunding and deterioration become the most likely outcomes. At a moment when right-wing political alternatives are on the rise in Latin America, the lacklustre performance of public health and education represents a disservice to any project seeking universal social rights. The poor public opinion the general public holds of state-provided services goes a long way in explaining why an increasing number of voters do not feel compelled to defend it, or choose to give their vote to a candidate with an anti-state, pro-market discourse.
+
+
+
+## Conclusions (pp. 124–127)
+
+### Summary of Contributions [§77–§80]
+
+The conclusions section restates the three principal contributions of the article. First, it has provided a comprehensive, replicable measurement tool for assessing welfare regime shifts, applicable to other regions. Second, the detailed analysis of welfare scores for 17 countries over 2002–2017 reveals that countries made important progress in inclusion and generosity but that none improved their equity dimension — the most distinctive empirical finding of the paper. Third, the cluster analysis produces an updated, more accurate welfare regime taxonomy for Latin America, one that reclassifies Chile (removed from the top tier) and identifies the emergence of compensatory regimes among the most advanced countries.
+
+The conclusions also acknowledge limitations: the analysis is limited to 17 countries and two time points; the normalisation procedure for composite scores involves methodological choices that affect the relative weighting of dimensions; subnational variation is not captured; and the defamilialisation dimension is not independently measured. The author calls for future research to address these gaps, particularly by developing time-series data on the equity dimension and by integrating subnational variation into comparative welfare regime analysis.
+
+
+
+## Synthetic Argument
+
+::: {.callout-note icon=false}
+**Central Thesis:** Twenty-first-century welfare expansion in Latin America — despite significant gains in inclusion and generosity — failed to produce more equitable welfare regimes; instead, the expansion of targeted social assistance solidified a structural architecture of *compensatory regimes* that are compatible with, and enabled by, market-mediated welfare delivery.
+
+**Nature of the Argument:** Primarily *descriptive-classificatory* (the construction and application of a new measurement framework), with secondary *explanatory* and *normative* dimensions (a political-economy account of why equity failed to improve, and a normative warning about the political consequences of persistent segmentation).
+
+**What the text effectively demonstrates:**
+- That extant welfare regime classifications of Latin America systematically omitted the equity dimension, producing distorted country rankings — most visibly in the case of Chile.
+- That a combined inclusion + generosity + equity score for 17 countries at two time points (2002, 2017) produces a more accurate typology.
+- That no country in the sample improved its equity score over the period, while most improved on inclusion and generosity.
+- That the most advanced countries are shifting toward a compensatory regime type characterised by expanded social assistance within a fundamentally segmented welfare architecture.
+
+**What remains hypothesis or agenda:**
+- The causal mechanisms linking structural-economic conditions (globalisation, labour market informality, commodity cycle) to the equity stagnation are argued, not demonstrated.
+- The claim that compensatory regimes undermine political support for universal welfare (the political legitimacy argument) is theoretically plausible but not empirically tested in this paper.
+- The generalisability of the framework to other low- and middle-income regions is asserted but not demonstrated.
+
+**Contribution to the broader debate:** The paper makes a methodologically rigorous intervention in the comparative welfare state literature as applied to Latin America, resolving an enduring classificatory puzzle (Chile's placement), introducing an operationalised equity dimension, and coining the compensatory regime concept as a theoretically productive label for a widely observed but previously unlabelled phenomenon.
+:::
+
+
+
+## Critical Analytical Sheet {.unnumbered}
+
+::: {.callout-note}
+This section follows the AI Close Reading v8.1 format. The analysis is adversarial without being destructive: it identifies genuine vulnerabilities in the argument and recognises genuine contributions with equal precision. The analytical reasoning underlying each dimension is made explicit in italics before the content, separated by a horizontal rule.
+:::
+
+```{=html}
+<style>
+.ficha-table { width:100%; border-collapse:collapse; font-size:0.85em;
+               font-family:'Segoe UI', sans-serif; }
+.ficha-table th { background-color:#2c3e50; color:white; padding:8px 10px;
+                  text-align:left; vertical-align:top;
+                  width:200px; min-width:180px; }
+.ficha-table td { padding:8px 10px; border-bottom:1px solid #ddd;
+                  vertical-align:top; }
+.ficha-table tr:nth-child(even) { background-color:#f9f9f9; }
+.ficha-table tr:hover           { background-color:#eef2f7; }
+.ficha-table em                 { color:#555; font-style:italic; }
+</style>
+
+<div>
+<table class="ficha-table">
+  <tbody>
+    <tr>
+      <th>Research Question</th>
+      <td>
+        <em>The central question is not stated as a single interrogative but can be reconstructed from the abstract and introduction. The descriptive-classificatory nature of the paper means the question is essentially about measurement and taxonomy, but it also carries an implicit explanatory puzzle about the divergence between the inclusionary turn and equity stagnation.</em>
+        <hr/>
+        <strong>Reconstructed question:</strong> What changes occurred in welfare regimes across Latin America between 2002 and 2017 when assessed across three dimensions — inclusion, generosity, and equity — and what new country typology emerges from this comprehensive assessment? Secondary implicit question: Why did the expansionary period fail to produce more equitable welfare regimes?<br/><br/>
+        The question is <em>descriptive-classificatory</em> in its primary formulation, with normative and explanatory sub-dimensions. It is not stated explicitly as a research question in the text.
+      </td>
+    </tr>
+    <tr>
+      <th>Secondary Questions</th>
+      <td>
+        <em>The paper pursues several interrelated sub-questions: (a) a measurement question about how to operationalise decommodification for the Latin American context; (b) a comparative question about cross-country and over-time variation; (c) a conceptual question about what type of welfare regime has emerged among the most advanced countries.</em>
+        <hr/>
+        (1) How should Esping-Andersen's decommodification framework be adapted to fit Latin American conditions (informality, mixed public-private delivery)? (2) Which countries improved on each welfare dimension, and which did not? (3) Does Chile's traditional placement in top-tier welfare classifications withstand scrutiny once equity is factored in? (4) Does the compensatory regime concept capture a generalised regional trend or only applies to a subset of countries? These sub-questions are systematically addressed in the conceptual, methods, results, and discussion sections.
+      </td>
+    </tr>
+    <tr>
+      <th>Puzzle Type</th>
+      <td>
+        <em>The puzzle type involves both a descriptive gap (no up-to-date, equity-inclusive welfare regime classification existed) and an explanatory puzzle (why did widespread welfare expansion not produce more equitable outcomes?). The puzzle is genuine and not merely manufactured: the Chile uprising of 2019 provides vivid empirical anchoring for the misclassification problem. However, the generalisation of the puzzle beyond Latin America is asserted, not demonstrated.</em>
+        <hr/>
+        <strong>Primary:</strong> Descriptive gap — no prior welfare regime classification for Latin America incorporated an equity dimension, producing systematically distorted country typologies.<br/>
+        <strong>Secondary:</strong> Explanatory puzzle — how can a period of significant welfare expansion (2000–2017) have failed to improve welfare equity in any of the 17 countries studied?<br/>
+        The puzzle is genuine and well-anchored in the convergence of the Chile case and the broader literature on dualization and the compensatory state. Its generalisability beyond the region is plausible but not demonstrated in the paper.
+      </td>
+    </tr>
+    <tr>
+      <th>Conclusion / Central Argument</th>
+      <td>
+        <em>The central argument is a descriptive-classificatory claim supported by the empirical analysis, plus a secondary explanatory claim about the political economy of equity stagnation. The claim of discovery is the compensatory regime concept and the equity stagnation finding. The former is theoretically original; the latter is empirically robust within the study's design, though the operationalisation choices affect the strength of the claim.</em>
+        <hr/>
+        <strong>Thesis:</strong> Latin America's twenty-first-century social policy expansion produced gains in inclusion and generosity but failed to improve equity in any country, resulting in the consolidation of compensatory regimes among the most advanced countries — a welfare type distinct from both liberal and social democratic models.<br/><br/>
+        <strong>Claim of discovery:</strong> (1) The equity non-improvement finding across all 17 countries; (2) the compensatory regime concept; (3) Chile's reclassification away from the top tier.<br/><br/>
+        What effectively supports the claim: The measurement framework is internally consistent, the data are drawn from authoritative sources, and the cluster analysis results are coherent with the theoretical expectations. The Chile misclassification argument is compelling and well-evidenced.
+      </td>
+    </tr>
+    <tr>
+      <th>Methods</th>
+      <td>
+        <em>The study is a quantitative, cross-national, longitudinal welfare regime assessment. The key methodological choices are: (1) the selection and operationalisation of variables; (2) the normalisation procedure; (3) the cluster analysis algorithm. Each of these choices has significant consequences for results, but they are not all fully transparent in the text.</em>
+        <hr/>
+        <strong>Study type:</strong> Quantitative cross-national comparison, two time points (2002 and 2017), N=17 Latin American countries.<br/>
+        <strong>Sources:</strong> ILO, ECLAC, World Bank, WHO, UNESCO, IDB, AIOSFP, SSA, Rofman et al. (2015), Arenas de Mesa (2019).<br/>
+        <strong>Techniques:</strong> Construction of composite welfare dimension scores (inclusion, generosity, equity) through standardisation/normalisation of multiple indicators; cluster analysis to generate country groupings.<br/>
+        <strong>Identification limitations:</strong> The study is descriptive-comparative; no causal identification strategy is employed. The explanatory claims about why equity stagnated rest on theoretical arguments rather than empirical identification. The cluster analysis technique (whether k-means, hierarchical, etc.) and the normalisation method are not fully specified in the accessible text, limiting replicability.
+      </td>
+    </tr>
+    <tr>
+      <th>Data Generation Process (DGP)</th>
+      <td>
+        <em>The DGP is straightforward but raises validity concerns at the operationalisation stage. The equity dimension in particular relies on proxy measures (ratios of NCP to contributory pension benefits, public-to-private spending ratios) that capture only certain aspects of benefit inequality and may miss others — e.g., quality differences within public provision, or horizontal inequities by gender, ethnicity, or geography.</em>
+        <hr/>
+        <strong>Real phenomenon →</strong> Social policy architecture and benefit distribution in 17 Latin American countries.<br/>
+        <strong>Observation →</strong> Administrative, household survey, and international institutional data on coverage, spending, and benefit levels.<br/>
+        <strong>Collection →</strong> Secondary data from multiple international sources; temporal coverage varies by indicator and country.<br/>
+        <strong>Operationalisation →</strong> Normalised composite scores per welfare dimension per country per year; equity dimension uses ratio-based proxies for segmentation.<br/>
+        <strong>Analysis →</strong> Descriptive statistics + cluster analysis.<br/>
+        <strong>Inference type:</strong> Descriptive-comparative inference. Unit of analysis: country-year. Level of aggregation: national.
+      </td>
+    </tr>
+    <tr>
+      <th>Findings and Contributions</th>
+      <td>
+        <em>The principal findings are clear and the methodological contributions are genuine. The equity stagnation finding is the most important empirically, and it is robust given the design. The compensatory regime concept is theoretically productive. The reclassification of Chile is the most compelling individual-country contribution.</em>
+        <hr/>
+        <strong>Empirical findings:</strong> (1) All 17 countries improved inclusion and generosity between 2002 and 2017; (2) no country improved its equity score; (3) the most advanced countries are shifting toward compensatory regimes; (4) Chile does not belong in the top welfare regime tier once equity is measured.<br/>
+        <strong>Methodological contribution:</strong> A replicable composite welfare score combining inclusion, generosity, and equity across four policy areas, with explicit adaptation to the Latin American context.<br/>
+        <strong>Conceptual contribution:</strong> The compensatory regime type, grounded in Gudynas's (2016, 2012) compensatory state concept and Barrientos's (2019) dualization thesis, but more precisely operationalised and differentiated across countries.<br/>
+        <strong>Strongly identified:</strong> The descriptive patterns of welfare score change over time. <strong>Speculative:</strong> The causal mechanisms behind equity stagnation and the political consequences.
+      </td>
+    </tr>
+    <tr>
+      <th>Critical Analysis of Findings</th>
+      <td>
+        <em>The strongest point is the equity stagnation finding and its policy implications. The weakest point is the operationalisation of equity, which may not fully capture the phenomenon it claims to measure. The cluster analysis is the most methodologically opaque element of the paper.</em>
+        <hr/>
+        <strong>Adequacy of the answer:</strong> The paper adequately addresses its classificatory research question. The explanatory question (why did equity stagnate?) is addressed suggestively but not rigorously.<br/>
+        <strong>Strongest points:</strong> (1) The equity stagnation finding is convergent across all 17 countries — a robust pattern not dependent on a single case; (2) the Chile reclassification is compelling and theoretically well-motivated; (3) the data sources are reputable and the coverage is broad.<br/>
+        <strong>Weakest points:</strong> (1) The equity proxy (public-to-private ratios, NCP-to-contributory pension ratios) is a partial and indirect measure of benefit inequality — it does not capture within-public-sector quality differences, ethnic or gender-based disparities, or subnational variation; (2) the cluster analysis specifications (algorithm, number of clusters, sensitivity tests) are not reported, limiting reproducibility; (3) the normalisation choices are consequential but not fully transparent; (4) only two time points are used, which limits the ability to trace trajectories.<br/>
+        <strong>Generalisability:</strong> The framework is asserted to be applicable to other low- and middle-income regions, but no validation outside Latin America is provided. <strong>Scope conditions</strong> (unstated): the framework presupposes a sufficient level of social policy institutionalisation to produce measurable benefits — it may not transfer to Sub-Saharan Africa or fragile states.
+      </td>
+    </tr>
+    <tr>
+      <th>Limitations</th>
+      <td>
+        <em>The author recognises several limitations in the discussion section. A number of additional, unrecognised limitations are identifiable.</em>
+        <hr/>
+        <strong>(a) Recognised by the author:</strong> (1) Loss of nuance through regime type classification; (2) subnational variation not captured; (3) defamilialisation not independently operationalised; (4) cross-sector welfare mix variation within countries not reflected; (5) only two time points.<br/>
+        <strong>(b) Unrecognised or underestimated:</strong> (1) The equity operationalisation is indirect — using public-to-private ratios does not capture within-public inequalities, which may be as significant as public-private segmentation in some countries; (2) endogeneity between inclusion expansion and equity stagnation is not discussed — it is possible that rapid inclusion expansion (through NCPs and CCTs) mechanically lowers equity scores in the short run, even as a long-run convergence process is underway; (3) the cluster analysis technique, number of clusters, and stability tests are not reported, making it impossible to assess whether the four-regime typology is robust to different analytical choices; (4) the panel covers only 15 years at two points, which is insufficient to assess regime persistence or path dependence; (5) political-economy heterogeneity within the "compensatory regime" group is underexplored — Brazil, Chile, and Argentina have markedly different political-economic histories that the cluster label flattens.
+      </td>
+    </tr>
+    <tr>
+      <th>Theoretical Perspective</th>
+      <td>
+        <em>The theoretical framework is welfare state institutionalism, drawing on Esping-Andersen (1990) and its Latin American extensions. The paper also draws on feminist welfare scholarship (defamilialisation), the dualization literature (Barrientos), and structuralist political economy (Gudynas, Berins Collier). The coherence between the implicit ontology (welfare regimes as stable institutional configurations) and the method (snapshot comparison at two time points) is partial — path dependence claims require longitudinal data that this design does not fully provide.</em>
+        <hr/>
+        The paper operates within the tradition of comparative welfare state institutionalism. The theoretical dialogue is primarily with Esping-Andersen (1990) and its Latin American applications (Filgueira, 1998; Martínez Franzoni, 2008; Huber and Stephens, 2012; Cruz-Martínez, 2021). The implicit ontology is institutionalist: welfare regimes are stable configurations of state, market, and family relations that tend to persist through path dependence. The compensatory regime concept draws eclectically on Gudynas's structuralist-political ecology lens and Barrientos's labour market-centred dualization thesis, integrating them productively. The coherence between the framework and the method is strong for the descriptive-classificatory purpose but weak for the explanatory ambitions: the path dependence and political-coalition arguments are institutionalist in framing but the two-point design cannot test institutional persistence or change dynamics.
+      </td>
+    </tr>
+    <tr>
+      <th>Key References</th>
+      <td>
+        <em>The literature review is comprehensive for the welfare regime tradition and its Latin American applications. Engagement with the causal inference and political economy literature explaining welfare outcomes is thinner.</em>
+        <hr/>
+        <strong>Central authors:</strong> Esping-Andersen (1990); Filgueira (1998); Barba Solano (2007); Segura-Ubiergo (2007); Martínez Franzoni (2008); Huber and Stephens (2012); Cruz-Martínez (2021); Barrientos (2019); Gudynas (2016, 2012); Berins Collier (2021); Haggard and Kaufman (2008); Lavinas (2013); Pribble (2013); Garay (2016); Martínez Franzoni and Sánchez-Ancochea (2018, 2021).<br/>
+        <strong>Thin engagement:</strong> (1) The causal political economy literature on why left-leaning governments chose targeted over universal policies (e.g., Weyland, 2021; Holland and Schneider, 2017) is acknowledged but not systematically engaged; (2) the measurement literature on composite indices and the aggregation of heterogeneous welfare dimensions is not addressed; (3) gender and ethnic dimensions of welfare inequity — central to intersectional welfare scholarship — appear only marginally (feminist critique is mentioned but not integrated into the empirical analysis).
+      </td>
+    </tr>
+    <tr>
+      <th>Observations</th>
+      <td>
+        <em>The paper is a valuable contribution to comparative welfare state studies and to the study of social policy in Latin America. Its relevance for researchers working on welfare state development, educational policy, and inequality is high. Key omissions and their implications are noted below.</em>
+        <hr/>
+        <strong>Additional vulnerabilities:</strong> (1) The compensatory regime concept, while theoretically productive, risks becoming a residual category — a label for "not universalist, not purely liberal" — without sufficient theorisation of its internal dynamics and conditions of emergence; (2) the selection of only 17 countries (of approximately 33 in the region) is not fully justified — the inclusion criteria are not made explicit.<br/>
+        <strong>Theoretical gaps:</strong> The paper does not engage with the growing literature on social investment policies (Morel et al., 2012) or human capital approaches to social policy, which offer competing frameworks for assessing the Latin American expansionary turn.<br/>
+        <strong>External validity:</strong> The framework is asserted to be generalisable but not validated outside the region. The claim deserves empirical testing.<br/>
+        <strong>Relevance for the reader's own research:</strong> Highly relevant for research on educational policy and inequality in Latin America — the equity dimension framework and the compensatory regime concept directly apply to the analysis of how educational expansion can coexist with persistent quality inequalities across public and private providers. The Chile case is a particularly instructive reference point for any analysis of neoliberal educational reform and its welfare consequences. The measurement approach (combining inclusion, generosity, and equity) could be adapted for education-specific welfare regime analyses.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+```

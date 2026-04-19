@@ -1,0 +1,346 @@
+---
+title: "Fichamento: Does more education lower the barriers to social mobility? An analysis of three birth cohorts during a period of educational expansion in Brazil"
+subtitle: "Salata, A. e Cheung, S. Y. (2025)"
+author: "Tales Mançano"
+date: "2026-04-18"
+last-updated: "2026-04-18"
+categories: [Annotated Bibliography, Social Stratification, Educational Expansion, Social Mobility, Positional Education, Brazil, Quantitative Methods]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    code-fold: false
+    self-contained: true
+    lang: pt
+---
+
+Última atualização: 2026-04-18
+Modelo: Perplexity — Claude Sonnet 4.6 Thinking
+Gerado em: 2026-04-18T21:24:00-03:00
+
+> Salata, A., & Cheung, S. Y. (2025). Does more education lower the barriers to social mobility? An analysis of three birth cohorts during a period of educational expansion in Brazil. *European Sociological Review*, Advance access. https://doi.org/10.1093/esr/jcaf049
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Salata-Cheung2025
+
+```bibtex
+@article{Salata-Cheung2025,
+  author    = {Salata, Andre and Cheung, Sin Yi},
+  title     = {Does more education lower the barriers to social mobility? An analysis of three birth cohorts during a period of educational expansion in Brazil},
+  journal   = {European Sociological Review},
+  year      = {2025},
+  pages     = {1--18},
+  doi       = {10.1093/esr/jcaf049},
+  note      = {Advance access publication 18 November 2025}
+}
+```
+:::
+
+| Campo | Valor |
+|:------|:------|
+| Título | Does more education lower the barriers to social mobility? An analysis of three birth cohorts during a period of educational expansion in Brazil |
+| Autores | Andre Salata; Sin Yi Cheung |
+| Ano | 2025 |
+| Periódico | European Sociological Review |
+| DOI | 10.1093/esr/jcaf049 |
+| Tipo | Artigo empírico original |
+| País/Caso | Brasil |
+| Dados | PNAD (1973, 1996, 2014) |
+| Método | Log-linear, Unidiff, OLS, Logit |
+
+---
+
+## Introdução (pp. 1–2)
+
+### O efeito composicional e seu estabelecimento na literatura [§1–§2]
+
+O artigo abre situando o debate fundador sobre a relação entre educação e mobilidade social a partir dos trabalhos seminais de Hout (1984, 1988), que demonstraram, com dados norte-americanos, que a obtenção de diploma universitário reduz significativamente a influência da origem social nos destinos ocupacionais. Essa descoberta — batizada de **efeito composicional** (*compositional effect*) — postula que, à medida que a população se torna mais escolarizada, o peso do background familiar sobre resultados como classe ocupacional, renda e status diminui. Evidências convergentes foram encontradas em países como Alemanha, Suécia, França e Reino Unido (Vallet, 2004; Breen e Jonsson, 2007; Breen e Luijkx, 2007; Breen, 2010).
+
+Os autores identificam dois mecanismos explicativos centrais para o efeito composicional: o ambiente universitário como espaço de homogeneização de conhecimentos, atitudes, redes sociais e estilos de vida independentemente da origem (Jackson, 2007; Torche, 2011); e o diploma universitário como sinal de *screening* no mercado de trabalho, capaz de tornar irrelevante a origem social de candidatos de baixo status para empregadores, além de uma estrutura mais burocrática e meritocratizada no segmento de trabalho qualificado (Baron et al., 2007; Breen e Jonsson, 2007). Esses mecanismos justificariam por que, na média das sociedades avançadas, há evidências substanciais sustentando a hipótese composicional, especialmente para portadores de ensino superior (Torche, 2014; Pfeffer e Hertel, 2015; Bernardi e Ballarino, 2016; Chetty et al., 2017; Karlson, 2019).
+
+### Evidências contestatórias e o problema da seletividade [§3–§5]
+
+O segundo parágrafo introduz o contraponto empírico ao otimismo composicional: há pelo menos três linhas de questionamento. Primeiro, Witteveen e Attewell (2017) demonstraram que desigualdades de renda entre diplomados universitários persistem e são atribuíveis ao background familiar, mesmo após controle de seletividade institucional, área de formação e desempenho acadêmico. Segundo, Zhou (2019) argumentou que a maior mobilidade observada entre graduados pode ser inteiramente explicada por seleção positiva — os universitários já seriam predispostos à mobilidade por competências cognitivas e não-cognitivas não observadas — e não por qualquer efeito causal da educação. Terceiro, Fiel (2020) encontrou evidências de efeito equalizador da educação, mas concentrado na conclusão do ensino médio, não no nível superior.
+
+O trabalho de Karlson (2019), por sua vez, contradiz Zhou ao aplicar *inverse probability weighting* (IPW) para corrigir a seleção e ainda assim encontrar que o ensino superior funciona como equalizador. Em síntese, os autores concluem que o debate empírico sobre a hipótese equalizadora permanece sem resolução (*unresolved*), uma vez que a plausibilidade da **hipótese de seletividade** (*selectivity hypothesis*) impede que se infira relação causal da educação sobre a mobilidade a partir de estudos observacionais convencionais.
+
+### O gap para países de industrialização tardia e o caso do Brasil [§6–§8]
+
+O terceiro parágrafo introdutório aponta o gap geográfico da literatura: a maioria dos estudos sobre o efeito composicional foi produzida em contextos de sociedades ocidentais avançadas, restando lacuna empírica para países de industrialização tardia, apesar da expressiva expansão educacional que muitos deles experimentaram (Torche e Ribeiro, 2010; Fachelli et al., 2021; Jorrat et al., 2024). No Brasil, o processo de industrialização e urbanização do século XX, combinado com políticas públicas de expansão do sistema educacional, tornou o acesso ao ensino superior significativamente mais amplo para gerações mais jovens. Contudo, pesquisas anteriores dos próprios autores indicam que, a despeito da expansão, os efeitos direto e indireto do background familiar sobre o status ocupacional permaneceram largamente inalterados (Salata e Cheung, 2022).
+
+::: {.callout-note icon=false}
+**Questão central do artigo:** Em que medida a expansão educacional no Brasil contribuiu para reduzir a rigidez social por meio do efeito composicional? Mais especificamente: os efeitos do background familiar sobre os destinos ocupacionais são mais fracos para os mais escolarizados, e esse padrão se mantém ou se altera ao longo das coortes?
+:::
+
+O artigo formula dois subproblemas não resolvidos na literatura brasileira. Primeiro: os efeitos do background familiar sobre os resultados ocupacionais são mais fracos para aqueles com graus educacionais mais elevados? Segundo: esse padrão é consistente ao longo do tempo, ou seja, a influência da origem social sobre os destinos ocupacionais declina entre coortes nascidas após a expansão educacional à medida que elas avançam na escolaridade? Caso a resposta seja afirmativa, a expansão educacional poderia, conforme Hout (1988), ser um mecanismo de promoção de mobilidade social no Brasil.
+
+### O argumento posicional e a hipótese central [§9–§10]
+
+O argumento central teórico do artigo é introduzido a partir da perspectiva da **educação posicional** (*positional education*), conforme Bills (2016) e Hirsch (1978): um diploma confere vantagens não pelo seu valor intrínseco, mas pela sua escassez relativa na sociedade. Nesse sentido, o impacto de um grau superior sobre a mobilidade é contingente ao número de pessoas que o detêm (Shavit e Park, 2016). Boudon (1974) já apontava que mesmo que a expansão educacional tornasse o acesso a um diploma menos desigual, ela solaparia a estrutura de oportunidades a ele associada. Aplicando esse argumento ao efeito composicional, os autores desenvolvem a hipótese de que, à medida que a expansão educacional avança, a seleção de habilidades socialmente valorizadas se enfraquece, assim como o poder de sinalização dos diplomas para os empregadores. Consequentemente, o efeito composicional deveria diminuir.
+
+::: {.callout-tip}
+A contribuição original teórica do artigo está em articular explicitamente o conceito de **posicionalidade da educação** ao debate sobre o efeito composicional — nexo que, segundo os autores, ainda não havia sido formalizado na literatura de mobilidade social.
+:::
+
+---
+
+## Expansão Educacional no Brasil (pp. 4–5)
+
+### Trajetória histórica da expansão do sistema educacional [§11–§14]
+
+Os autores fornecem um breve panorama histórico-institucional da expansão educacional brasileira. Até os anos 1930, quando o Ministério da Educação e Saúde Pública foi criado, o sistema educacional do país era subdesenvolvido. Reformas institucionais subsequentes produziram uma expansão rápida: a obrigatoriedade do ensino primário em 1942, a política de 1961 que permitiu repasse de fundos públicos a escolas privadas, e a lei de 1971 tornando obrigatória a educação para crianças de 7 a 14 anos. As eleições de 1982 e a criação do FUNDEF em 1996 para apoio ao ensino fundamental também são apontados como marcos.
+
+O desenvolvimento econômico, a urbanização e a crescente presença do Estado produziram uma expansão expressiva ao longo do século XX. As matrículas no ensino fundamental mais que dobraram nas últimas três décadas do século; a educação infantil cresceu mais de 13 vezes; o ensino médio saltou de pouco mais de 1 milhão de matrículas em 1970 para quase 7 milhões no final dos anos 1990; e o ensino superior expandiu quase 5 vezes (Castro, 1994; Silva, 2003). A proporção de pessoas com 25 anos ou mais com menos de quatro anos de escolaridade caiu de 75% para 42% entre 1960 e 1991, e a taxa de analfabetismo entre maiores de 15 anos reduziu-se de 34% em 1970 para 13% em 1999 (Silva e Hasenbalg, 2000).
+
+### O sistema educacional brasileiro e a estratificação horizontal [§15–§17]
+
+Os autores descrevem a estrutura do sistema educacional brasileiro, organizado em quatro níveis: pré-escola, ensino fundamental, ensino médio e ensino superior. A idade mínima de saída da escola é 17 anos, correspondendo à conclusão do ensino médio. Embora a educação vocacional exista, mais de 90% dos estudantes do ensino médio optam por cursos gerais não-vocacionais, tornando o sistema relativamente **não-estratificado**, com modelo universalista em vez de vocacional.
+
+Apesar do atraso relativo em relação a países desenvolvidos e a alguns países latino-americanos, a expansão na segunda metade do século XX foi significativa. Pesquisadores concordam que as oportunidades educacionais aumentaram, reduzindo desigualdades de classe nos limiares iniciais de escolarização (Silva, 2003; Ribeiro, 2009) e fazendo os retornos à educação no mercado de trabalho declinarem (Menezes-Filho et al., 2007; Ribeiro, 2012). Contudo, Salata e Cheung (2022) sugerem que a relação entre origem, educação e resultados no mercado de trabalho permanece estável quando se considera a natureza posicional da educação. Por fim, os autores situam o debate inconcluso sobre o efeito composicional no Brasil: de um lado, Torche e Ribeiro (2010) e Ribeiro (2012) argumentam que a expansão não gerou declínio no efeito direto das origens; de outro, Ribeiro (2023) afirma que o efeito composicional foi vital para aumentar a mobilidade nas coortes mais jovens.
+
+---
+
+## Hipóteses (pp. 5–6)
+
+### Formulação e fundamentação das hipóteses [§18–§20]
+
+Mobilizando a literatura revisada, os autores formulam duas hipóteses operacionais para o teste empírico, ancoradas simultaneamente na hipótese de seletividade e na perspectiva posicional da educação:
+
+1. **H1:** Para a coorte mais velha (pré-expansão), o efeito direto da origem social sobre o destino é significativamente mais fraco entre aqueles que alcançaram níveis mais elevados de educação.
+2. **H2:** Para as coortes mais jovens (pós-expansão), o efeito direto da origem social sobre o destino é similar em todos os níveis educacionais.
+
+A racionalidade das hipóteses apoia-se na ideia de que a educação superior não causa diretamente maior mobilidade, mas seleciona estudantes com habilidades e motivações que predispõem à mobilidade. Com a expansão, esse processo seletivo se enfraquece: os diplomados se tornam mais heterogêneos em características não observadas relevantes para a mobilidade, fazendo com que estudantes de origem humilde com diploma superior se assemelhem mais ao seu grupo de origem original. Esse raciocínio dialoga com a tradição iniciada por Mare (1981) sobre a influência de habilidades cognitivas e não-cognitivas não mensuradas nas transições educacionais.
+
+::: {.callout-important}
+Os autores conectam explicitamente a hipótese posicional ao debate sobre efeito composicional, argumentando que a expansão educacional pode, paradoxalmente, *anular* os benefícios igualadores que a escolarização superior poderia ter sobre a mobilidade social — pois dilui tanto a seleção de talentos quanto o poder de sinalização dos diplomas perante empregadores (Spence, 1973; Thurow, 1975).
+:::
+
+O argumento sobre posicionalidade é estendido: à medida que mais pessoas obtêm ensino superior, o poder dos diplomas para sinalizar habilidades cognitivas e não-cognitivas desejadas — ou "treinabilidade" (*trainability*) — aos empregadores diminui, esvaziando o efeito composicional. Isso implicaria que habilitar mais pessoas a alcançar o ensino superior pode não ser uma forma eficaz de promover mobilidade social, alinhando-se à visão de educação como **bem posicional** (Bills, 2016; Shavit e Park, 2016). A contribuição original reivindicada é precisamente articular essa perspectiva posicional ao mecanismo do efeito composicional, nexo não estabelecido anteriormente na literatura.
+
+---
+
+## Dados, Métodos e Contexto (pp. 5–8)
+
+### Fontes de dados e construção das coortes [§21–§23]
+
+Os dados provêm da **Pesquisa Nacional por Amostra de Domicílios (PNAD)**, pesquisa transversal de representatividade nacional conduzida anualmente pelo IBGE. Os autores selecionam dados de três anos: 1973, 1996 e 2014, que contêm módulos de mobilidade social permitindo mensurar a origem social com base na ocupação do pai do respondente quando este tinha 15 anos. Para construir três coortes de nascimento sem sobreposição, selecionaram indivíduos com 30 a 45 anos de idade em cada ponto de coleta — faixa etária que assegura que a maioria tenha concluído o ensino superior (tipicamente até os 24–25 anos no Brasil) e permite observar a inserção ocupacional em etapas iniciais a médias da carreira.
+
+| Coorte | Anos de nascimento | Ano de coleta (30–45 anos) |
+|:-------|:-------------------|:--------------------------|
+| Primeira (C1) | 1928–1943 | 1973 |
+| Segunda (C2) | 1951–1966 | 1996 |
+| Terceira (C3) | 1969–1984 | 2014 |
+
+A distribuição educacional mudou radicalmente entre as coortes: 84,5% da C1 completou apenas o ensino fundamental; esse percentual caiu para 47,1% na C2 e 18,7% na C3. A proporção com pelo menos 1 ano de ensino superior cresceu de 3% na C1 para 19,4% na C3. A classificação educacional usa quatro categorias baseadas nos anos de escolaridade: fundamental (0–4 anos), ensino fundamental II (5–8 anos), ensino médio (9–11 anos) e ensino superior completo ou incompleto (12 anos ou mais).
+
+### Mensuração de origens e destinos sociais [§24–§26]
+
+A mensuração de origens e destinos ocorre por dois caminhos complementares. O primeiro utiliza o **esquema de classes EGP** (Erikson et al., 1979) em versão de seis categorias: (1) profissionais e administradores; (2) trabalhadores não-manuais de rotina; (3) autônomos e pequenos empregadores; (4) trabalhadores manuais qualificados; (5) trabalhadores manuais não-qualificados; e (6) trabalhadores rurais. O segundo utiliza o **ISEI** (*International Socio-Economic Index of Occupational Status*), desenvolvido por Ganzeboom et al. (1992), que captura o quanto os atributos ocupacionais mediam a conversão de educação em renda e está fortemente correlacionado com a renda e a escolaridade médias das ocupações.
+
+O uso de múltiplas medidas de estratificação visa testar a robustez dos resultados a diferentes conceitualizações e operacionalizações da posição social, e demanda técnicas estatísticas distintas. Para classes sociais, são empregados modelos log-lineares e log-multiplicativos; para status ISEI, modelos de mínimos quadrados ordinários (MQO); para acesso a classes não-manuais, modelos logit. As análises são conduzidas separadamente para homens, mulheres e amostra combinada.
+
+### Estrutura ocupacional e estratificação de gênero [§27–§28]
+
+Os autores justificam a análise separada por gênero em função da profunda generização da estratificação social e da segregação — vertical e horizontal — do mercado de trabalho. A composição de gênero da população economicamente ativa mudou substancialmente entre as coortes: as mulheres representavam apenas 28% da força de trabalho em C1, chegando a 45% em C3, com taxas de participação feminina passando de 33,1% para 71,5%. Esse influxo de mulheres ao mercado de trabalho exige cautela interpretativa, pois as diferenças observadas podem refletir variações nas características não-observadas das mulheres nas amostras de diferentes coortes — ou seja, o perfil de seleção para o trabalho muda junto com a expansão da participação feminina.
+
+A estrutura ocupacional brasileira sofreu transformação radical no período analisado, com a urbanização e a industrialização reduzindo o emprego rural de 50% para 10% entre C1 e C3. Os trabalhadores manuais (qualificados e não-qualificados) passaram a representar quase 50% da força de trabalho em C3, enquanto as ocupações não-manuais (profissionais & administradores e não-manuais de rotina) correspondiam a cerca de um terço da força de trabalho na coorte mais jovem. O processo de industrialização tardia, típico de países latino-americanos (Solís e Boado, 2016), tende a gerar maior desigualdade social e barreiras mais altas à mobilidade (Ishida, 2005), contexto que os autores propõem testar empiricamente via o mecanismo composicional.
+
+---
+
+## Resultados Principais (pp. 8–13)
+
+### Modelos de mobilidade intergeracional: associações OED [§29–§33]
+
+Para cada coorte, os autores modelam a associação tríplice entre origem de classe (O), destino de classe (D) e educação (E). O Modelo 1 é o modelo de independência (destino independente de origem, dado o controle das distribuições marginais); o Modelo 2 é o modelo de **fluidez social constante** (*constant social fluidity*), que assume uma associação OD consistente em todos os níveis educacionais; o Modelo 3 é o **modelo de efeito de camada log-multiplicativo** (*Unidiff* ou *uniform difference model*), que permite à associação OD variar por nível educacional mediante um conjunto de parâmetros β — um por nível educacional.
+
+A Tabela 2, que reporta estatísticas de ajuste dos três modelos para as três coortes, revela um padrão consistente. Para os homens, o Modelo 2 melhora substancialmente o ajuste em relação ao Modelo 1 para todas as coortes (melhoria de 96,5% em C1, 95% em C2 e 84,1% em C3, medida pelo rG²). O Modelo 3 oferece melhoria adicional estatisticamente significativa apenas para C1 (p < 0,05), mas não para C2 ou C3. Para as mulheres, o Modelo 3 é significativo apenas para C2. Para a amostra combinada, o Modelo 3 melhora significativamente o ajuste apenas para C1.
+
+::: {.callout-note icon=false}
+**Interpretação central do Unidiff:** Os parâmetros do Modelo 3 medem a força da associação OD em cada nível educacional, normalizados pelo parâmetro do ensino fundamental (= 1). Um parâmetro abaixo de 1 indica que a associação OD é mais fraca naquele nível do que no fundamental; um parâmetro acima de 1 indica associação mais forte. Para os homens em C1, o parâmetro cai 22% do fundamental ao ensino fundamental II e 49% do fundamental ao terciário — indicando que, para a coorte mais velha, a mobilidade de classe era significativamente mais provável para os mais escolarizados.
+:::
+
+Para C2 e C3 (homens), os parâmetros Unidiff permanecem próximos entre si e não mostram tendência de declínio — ou seja, alcançar níveis mais elevados de educação não enfraqueceu a associação OD nessas coortes. Se há variação significativa para C2 e C3, ela é, na verdade, um ligeiro *aumento* do parâmetro entre o fundamental e os níveis seguintes. Para as mulheres, os resultados são menos claros: em C1, há uma tendência geral de declínio do Unidiff do fundamental ao terciário, com exceção de um aumento de 37% no nível fundamental II; em C2, a associação OD declina 29% do fundamental ao ensino médio, mas sobe abruptamente no terciário; em C3, os parâmetros são estáveis, com leve variação. Os autores atribuem as anomalias nas coortes de mulheres à amostra menor (menor participação feminina no mercado de trabalho nas primeiras coortes) e aos mecanismos mais seletivos de entrada feminina no mercado de trabalho nas coortes mais velhas.
+
+### Modelos de status ocupacional com ISEI [§34–§36]
+
+Os modelos MQO utilizando o ISEI como variável dependente revelam dois achados principais. Primeiro, a educação tem impacto forte e positivo sobre o ISEI — mas esse impacto *declina significativamente* de C1 para C3 tanto para homens quanto para mulheres e na amostra combinada, efeito que os autores ligam à expansão educacional das décadas de 1980 e 1990. Segundo, os **efeitos marginais médios (AME)** da origem social sobre o ISEI do respondente, calculados a partir dos termos de interação nos modelos, revelam o seguinte padrão (Tabela 3):
+
+| Coorte | Padrão do efeito da origem por nível educacional |
+|:-------|:------------------------------------------------|
+| C1 | Declínio substancial e estatisticamente significativo conforme a educação aumenta; efeito da origem próximo a zero no nível terciário para homens, zero para mulheres e amostra combinada |
+| C2 | Declínio moderado, menos pronunciado do que em C1; interações negativas mas menores |
+| C3 | Nenhum padrão claro ou declínio significativo; termos de interação não significativos |
+
+Para C1, o coeficiente de interação entre origem e ensino superior alcança −0,24 (homens), −0,23 (mulheres) e −0,24 (combinado), todos altamente significativos (p < 0,001). Para C3, os mesmos coeficientes são −0,05 (homens, n.s.), +0,07 (mulheres, n.s.) e −0,01 (combinado, n.s.), confirmando que o efeito composicional desapareceu para a coorte pós-expansão.
+
+### Acesso a classes ocupacionais não-manuais [§37–§40]
+
+Na terceira série de análises, os autores utilizam modelos logit para estimar as chances de acesso a classes não-manuais (EGP I+II combinados), que representavam 26,8% da força de trabalho masculina e 44,4% da feminina em C3. Esses modelos utilizam educação, origem social e seus termos de interação como variáveis independentes.
+
+Para homens e mulheres em C1, os AME da origem social sobre a probabilidade de entrar em classes não-manuais mostram declínio substancial conforme o nível educacional aumenta. Para homens em C1, o efeito da origem varia de 0,12 a 0,22 no nível fundamental, caindo para 0,013 a 0,10 nos níveis mais elevados; para mulheres em C1, de 0,16 a 0,34 no fundamental para -0,01 a 0,01 no nível terciário — ou seja, o efeito torna-se estatisticamente indistinguível de zero. Em C2, a tendência de declínio desaparece para os homens, e para as mulheres é muito mais fraca e não significativa. Em C3, os resultados para ambos os sexos e para a amostra combinada aproximam-se de uma **"flutuação sem tendência"** (*trendless fluctuation*), confirmando ambas as hipóteses do artigo.
+
+::: {.callout-tip}
+Em síntese, os três conjuntos de análises — modelos log-lineares/Unidiff para classes EGP, modelos MQO para ISEI e modelos logit para acesso a classes não-manuais — convergem consistentemente para o mesmo resultado: o efeito composicional existia para a coorte mais velha (C1), enfraqueceu para C2 e desapareceu para C3, independentemente da medida de estratificação ou da técnica utilizada.
+:::
+
+---
+
+## Discussão e Conclusão (pp. 13–16)
+
+### Localização dos achados no debate brasileiro e internacional [§41–§43]
+
+Os autores situam os achados no debate específico sobre o caso brasileiro. A literatura era dividida: Torche e Ribeiro (2010) e Ribeiro (2012) argumentavam que a expansão educacional não gerou declínio no efeito direto das origens sobre os destinos; já Ribeiro (2023) afirmava que o efeito composicional foi fundamental para aumentar a mobilidade nas coortes mais jovens. Os achados do artigo, ao documentar a presença do efeito composicional em C1 e seu desaparecimento em C2 e C3, alinham-se com a perspectiva mais pessimista — e mais próxima do padrão observado em Argentina e Uruguai (Boado e Fachelli, 2020; Jorrat et al., 2024) do que nos estudos de sociedades europeias e norte-americanas (Breen e Müller, 2020).
+
+Para as coortes mais jovens (C2 e especialmente C3), a educação superior deixou de ser um mecanismo eficaz para romper com origens humildes. Os autores oferecem uma explicação com base na **hipótese de seletividade**: a associação OD mais fraca observada entre os mais escolarizados em C1 provavelmente refletia seleção positiva — os 3% que ingressavam na universidade naquela coorte eram altamente selecionados para habilidades, competências e motivação que predispunham à mobilidade (Zhou, 2019). Com a expansão, esse processo seletivo tornou-se menos rigoroso e o conjunto de graduados mais heterogêneo nessas características não mensuradas, o que explica o enfraquecimento do efeito composicional.
+
+### Mecanismos adicionais e implicações de política [§44–§47]
+
+Os autores apontam dois mecanismos adicionais para explicar os resultados. Primeiro, a relativa estabilidade da estrutura ocupacional brasileira frente à expansão educacional alimentou a **sobrееducação** (*overeducation*): mais pessoas com diplomas superiores disputam um número limitado de vagas adequadas, reduzindo o poder de sinalização das credenciais (Ribeiro, 2017). Segundo, a expansão do ensino superior no Brasil foi acompanhada pela diversificação de áreas de estudo e pela crescente participação de instituições privadas de baixa qualidade (Carvalhaes e Ribeiro, 2019), de modo que não é apenas a seletividade enfraquecida e a sobrееducação que explicam o declínio composicional — a queda de qualidade e o crescimento de cursos menos prestigiados são ingredientes igualmente relevantes.
+
+Em termos de política pública, o artigo questiona a dependência do Brasil na expansão educacional como veículo de promoção de mobilidade social. Citando dados do PISA, os autores alertam que, mesmo com a quase universalização da matrícula de 7 a 14 anos, os estudantes brasileiros de 15 anos ainda estão muito abaixo da média da OCDE em Leitura, Matemática e Ciências, com flutuações não-significativas após 2009. A expansão sem qualidade e sem transformação da estrutura ocupacional distribui credenciais sem necessariamente melhorar a vida das pessoas. Os autores reconhecem, contudo, que a educação possui valor intrínseco como bem de consumo — melhorando pensamento crítico, realização pessoal e autonomia —, sendo o problema específico quando ela é tratada como investimento para resultados no mercado de trabalho (Bukodi e Goldthorpe, 2016; Brown et al., 2020).
+
+::: {.callout-important}
+O argumento normativo final do artigo é que a educação funciona como bem posicional também no que diz respeito ao efeito composicional: à medida que mais pessoas obtêm diplomas superiores, a capacidade das qualificações educacionais de reduzir a influência das origens sociais se enfraquece. Esforços de política voltados a construir uma sociedade mais equitativa no Brasil devem, portanto, ir além da simples expansão do acesso à educação, abordando sua qualidade, a estrutura do mercado de trabalho e os mecanismos de transmissão de desigualdade fora do sistema educacional.
+:::
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** A expansão educacional no Brasil não fortaleceu o efeito composicional ao longo das coortes; pelo contrário, o efeito equalizador da educação superior sobre as barreiras de origem social na determinação dos destinos ocupacionais existiu apenas para a coorte pré-expansão (nascidos 1928–1943) e desapareceu para as coortes pós-expansão (nascidos 1951–1984), independentemente da medida de estratificação utilizada.
+
+**Natureza do argumento:** Empírico-explicativo, com componente teórico original. Os autores combinam um argumento descritivo (documenta a variação da intensidade do efeito composicional ao longo de três coortes) com um argumento explicativo (atribui o declínio ao enfraquecimento da seleção positiva e ao poder posicional da educação).
+
+**O que o texto efetivamente demonstra:** Com três técnicas independentes (Unidiff, OLS/ISEI, Logit) e dados de representatividade nacional em três pontos no tempo, o artigo demonstra de forma robusta que o efeito composicional existia antes da expansão educacional e desapareceu após ela. Esse achado é consistente por gênero (com maior clareza para homens), por técnica e por medida de destino social.
+
+**O que fica como hipótese ou agenda:** A explicação pelo mecanismo de seletividade não é diretamente testada (não há medidas de habilidades cognitivas ou não-cognitivas nos dados da PNAD), permanecendo como interpretação plausível e não comprovada. A contribuição posicional para o declínio do efeito composicional também não é separada empiricamente da hipótese de seletividade. A relação com a qualidade diferenciada das instituições de ensino superior é apontada mas não modelada.
+
+**Contribuição para o debate mais amplo:** O artigo preenche lacuna empírica importante sobre o efeito composicional em países de industrialização tardia, contribui com a primeira articulação explícita entre posicionalidade da educação e efeito composicional, e oferece evidência robusta de que o modelo de mobilidade via expansão educacional — predominante na literatura de estratificação norte-americana e europeia — não se replica automaticamente em contextos de alta desigualdade e expansão tardia como o Brasil.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v8.1*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é explicitado em itálico antes do conteúdo, separado por linha horizontal.
+:::
+
+```{=html}
+<style>
+.ficha-table { width:100%; border-collapse:collapse; font-size:0.85em;
+               font-family:'Segoe UI', sans-serif; }
+.ficha-table th { background-color:#2c3e50; color:white; padding:8px 10px;
+                  text-align:left; vertical-align:top;
+                  width:200px; min-width:180px; }
+.ficha-table td { padding:8px 10px; border-bottom:1px solid #ddd;
+                  vertical-align:top; }
+.ficha-table tr:nth-child(even) { background-color:#f9f9f9; }
+.ficha-table tr:hover           { background-color:#eef2f7; }
+.ficha-table em                 { color:#555; font-style:italic; }
+</style>
+
+<div>
+<table class="ficha-table">
+  <tr>
+    <th>Questão de Pesquisa</th>
+    <td>
+      <em>A pergunta é explicitada, mas desdobra-se em dois níveis que merecem distinção: um cross-sectional (varia o efeito por nível educacional?) e um longitudinal (varia entre coortes?). É preciso verificar se o design observacional permite responder a ambos com igual força.</em>
+      <hr/>
+      A questão central é: em que medida a expansão educacional no Brasil reduziu a rigidez social por meio do efeito composicional? Operacionalizada em dois subproblemas: (1) os efeitos da origem familiar sobre os destinos ocupacionais são mais fracos para os mais escolarizados? (2) esse padrão muda entre as coortes nascidas antes e depois da expansão educacional? A pergunta é de natureza explicativa e causal implícita, embora o design seja observacional e a inferência causal não seja explicitamente reivindicada.
+    </td>
+  </tr>
+  <tr>
+    <th>Questões Secundárias</th>
+    <td>
+      <em>Questões secundárias emergem da comparação por gênero, do papel diferenciado dos mecanismos explicativos (seletividade vs. posicionalidade), e da distinção entre as medidas de estratificação utilizadas.</em>
+      <hr/>
+      (a) A relação entre efeito composicional e expansão educacional difere entre homens e mulheres? (b) O desaparecimento do efeito composicional em coortes mais jovens é explicado pela hipótese de seletividade (enfraquecimento da seleção positiva) ou pela hipótese posicional (inflação de credenciais e declínio do poder de sinalização)? (c) Os resultados são sensíveis às diferentes medidas de estratificação (EGP, ISEI, acesso a classes não-manuais)? As três questões secundárias são abordadas, ainda que a segunda permaneça sem teste direto.
+    </td>
+  </tr>
+  <tr>
+    <th>Puzzle-Type</th>
+    <td>
+      <em>O puzzle é genuíno: combina um gap empírico (poucos estudos sobre países de industrialização tardia) com uma contradição nos achados existentes para o Brasil (Torche e Ribeiro 2010 vs. Ribeiro 2023). A generalizabilidade além do caso deve ser avaliada com cuidado dado o design específico de caso único.</em>
+      <hr/>
+      Trata-se de um puzzle explicativo combinado com avaliação de política implícita. O puzzle é genuíno: a literatura diverge sobre se o efeito composicional opera no Brasil, e os mecanismos subjacentes (seletividade vs. posicionalidade) permanecem empiricamente não discriminados. O puzzle tem relevância para além do caso brasileiro — qualifica a generalização da hipótese composicional a contextos de industrialização tardia e alta desigualdade —, mas a generalização para outros países requer cuidado dado o design de caso único. As condições de escopo (*scope conditions*) do argumento posicional-composicional não são formalizadas pelos autores.
+    </td>
+  </tr>
+  <tr>
+    <th>Conclusão / Argumento Central</th>
+    <td>
+      <em>A tese central é clara e empiricamente sustentada. A distinção entre o que é demonstrado (padrão descritivo do efeito composicional ao longo das coortes) e o que é apenas interpretado (mecanismo via seletividade e posicionalidade) é crucial para avaliar a força do claim.</em>
+      <hr/>
+      A tese central é que a expansão educacional no Brasil não fortaleceu o efeito composicional; pelo contrário, à medida que mais pessoas atingiram o ensino superior nas coortes mais jovens, a educação perdeu a capacidade de enfraquecer o vínculo entre origem e destino social. O <em>claim of discovery</em> é duplo: (1) documentação robusta do padrão intertemporal do efeito composicional em três coortes brasileiras; (2) articulação teórica original entre posicionalidade da educação e efeito composicional. O que o design efetivamente sustenta é o padrão descritivo do claim (1). O claim (2) permanece ao nível de interpretação plausível, pois os mecanismos posicionais não são diretamente testados com variáveis medindo sinalização de credenciais ou heterogeneidade de habilidades.
+    </td>
+  </tr>
+  <tr>
+    <th>Métodos</th>
+    <td>
+      <em>A triangulação de três técnicas é ponto forte do design. A principal limitação de identificação é a ausência de controle para seleção — os próprios autores reconhecem que a hipótese de seletividade é plausível mas não testável com os dados disponíveis.</em>
+      <hr/>
+      Estudo observacional com dados secundários e transversais. Técnicas: (a) modelos log-lineares e log-multiplicativos (Unidiff) para associações OED de classe; (b) MQO com termos de interação origem × educação para ISEI; (c) modelos logit com termos de interação para acesso a classes não-manuais. Análises conduzidas separadamente para homens, mulheres e amostra combinada, em cada uma das três coortes. A robustez é testada com faixas etárias alternativas (35–50 e 40–55) e definições alternativas de ensino superior (frequência vs. conclusão), com resultados consistentes (Apêndice Suplementar). Limitação central de identificação: sem medidas de habilidades cognitivas e não-cognitivas, não é possível distinguir empiricamente seleção positiva de efeito causal da educação, problema reconhecido pelos autores mas não resolvido pelo design.
+    </td>
+  </tr>
+  <tr>
+    <th>Data Generation Process (DGP)</th>
+    <td>
+      <em>A natureza transversal dos dados e a dependência de retrospecto paterno introduzem limitações à validade interna. A sequência fenômeno → observação → análise deve ser mapeada para identificar onde o DGP pode introduzir viés sistemático.</em>
+      <hr/>
+      Fenômeno real: variação intertemporal do efeito composicional da educação sobre a associação OD em uma sociedade com expansão educacional acelerada. Observação: pesquisa domiciliar transversal (PNAD 1973, 1996, 2014). Coleta: respondentes de 30–45 anos reportam sua própria ocupação e a ocupação do pai aos 15 anos. Operacionalização: origem e destino como EGP e ISEI; educação em quatro categorias. Análise: modelos de regressão com termos de interação origem × educação, estimando variação do efeito OD por nível educacional e por coorte. Tipo de inferência: descritiva-explicativa observacional. Unidade de análise: indivíduo. Nível de agregação: nacional. Problemas do DGP: (a) viés de memória retrospectiva para ocupação paterna; (b) censura à esquerda — para C1, apenas os sobreviventes e participantes do mercado de trabalho em 1973 são observados; (c) seleção amostral das mulheres (especialmente em C1 e C2), com possível viés de participação não-aleatório.
+    </td>
+  </tr>
+  <tr>
+    <th>Achados e Contribuições</th>
+    <td>
+      <em>Os achados empíricos são robustos e consistentes. A contribuição teórica — articulação posicionalidade × efeito composicional — é original mas carece de teste direto.</em>
+      <hr/>
+      Achados empíricos principais: (1) Para homens em C1, o parâmetro Unidiff cai 49% do nível fundamental ao terciário, indicando associação OD significativamente mais fraca entre os mais escolarizados; para C2 e C3, não há declínio significativo. (2) Nos modelos MQO, o efeito AME da origem paterna sobre o ISEI do respondente é próximo de zero no nível terciário em C1 para ambos os sexos; em C3, os termos de interação origem × educação são não-significativos. (3) Nos modelos logit, para C1, o efeito da origem sobre a probabilidade de acesso a classes não-manuais torna-se estatisticamente nulo no ensino superior; para C3, observa-se flutuação sem tendência. Contribuições: (a) evidência empírica robusta sobre o efeito composicional em contexto de industrialização tardia e alta desigualdade; (b) primeiro tratamento teórico articulando posicionalidade da educação ao efeito composicional; (c) contribuição metodológica pela triangulação de três técnicas independentes; (d) implicações de política sobre os limites da expansão educacional como instrumento de equidade.
+    </td>
+  </tr>
+  <tr>
+    <th>Análise Crítica dos Achados</th>
+    <td>
+      <em>O argumento responde bem à pergunta descritiva, mas a explicação mecanismal permanece subespecificada. As ameaças à validade interna principais são a seleção amostral das mulheres, o viés retrospectivo e a incapacidade de distinguir seleção de efeito causal.</em>
+      <hr/>
+      <strong>Pontos fortes:</strong> Consistência dos achados em três técnicas independentes, dois sexos, três medidas de destino e análises de sensibilidade. A replicação por gênero e técnica fortalece a confiança descritiva nos resultados. <strong>Pontos vulneráveis:</strong> (a) <em>Viés de seleção amostral feminina</em>: os autores reconhecem que a seleção de mulheres para o mercado de trabalho em C1 e C2 era mais restrita e socialmente enviesada, comprometendo a comparabilidade direta das estimativas de gênero entre coortes — o que poderia, por si só, gerar parte das anomalias observadas nos parâmetros Unidiff femininos. (b) <em>Identificação da hipótese de seletividade</em>: a interpretação mais direta dos achados — que o efeito composicional decorreu de seleção positiva, e não de efeito causal da educação — não é testada empiricamente, pois a PNAD não contém medidas de habilidades cognitivas ou não-cognitivas. (c) <em>Confundidores não controlados entre coortes</em>: a transformação radical da estrutura ocupacional brasileira entre C1 e C3 (redução de empregos rurais, expansão manual urbana, crescimento do setor de serviços) pode, independentemente da expansão educacional, alterar as relações OD por razões estruturais não relacionadas à posicionalidade ou seletividade educacional. (d) <em>Qualidade heterogênea do ensino superior</em>: os autores mencionam a diversificação das instituições privadas de baixa qualidade, mas não modelam horizontalmente a estratificação do ensino superior, tratando-o como categoria homogênea.
+    </td>
+  </tr>
+  <tr>
+    <th>Limitações</th>
+    <td>
+      <em>A distinção entre limitações reconhecidas e não-reconhecidas é crucial para avaliar a honestidade epistêmica do trabalho e identificar agendas de pesquisa.</em>
+      <hr/>
+      <strong>(a) Reconhecidas pelos autores:</strong> impossibilidade de medir habilidades cognitivas/não-cognitivas com os dados disponíveis (impedindo teste direto da hipótese de seletividade); menor participação e seleção mais complexa das mulheres em C1 e C2 complicando a análise de gênero; dados transversais que capturam pontos específicos no tempo em vez de trajetórias longitudinais; qualidade heterogênea da expansão do ensino superior. <strong>(b) Não reconhecidas ou subestimadas:</strong> (i) viés retrospectivo na memória da ocupação paterna (especialmente para C1, cujos respondentes relatam a ocupação do pai de até 45 anos antes); (ii) ausência de controle para transformação estrutural da ocupação — o efeito composicional pode variar pela mudança da estrutura de classes, não apenas pela expansão educacional; (iii) a categorização educacional em quatro grupos pode obscurecer heterogeneidade relevante dentro do ensino superior (graduação em instituição pública de elite vs. faculdade privada de baixo prestígio); (iv) o corte de 30–45 anos, embora justificado pelos autores com análises de sensibilidade, exclui carreiras tardias e pode subestimar o efeito composicional em faixas etárias mais avançadas em que os efeitos de origem tendem a se manifestar mais claramente.
+    </td>
+  </tr>
+  <tr>
+    <th>Perspectiva Teórica</th>
+    <td>
+      <em>A moldura teórica é plural e bem articulada. A tensão entre ontologias estruturalista (efeito composicional como fenômeno estrutural) e individualista-metodológica (seletividade como processo de escolha individual) merece exame mais aprofundado do que o texto oferece.</em>
+      <hr/>
+      O artigo opera simultaneamente em três tradições: (1) sociologia da estratificação social neo-weberiana (esquema EGP/CASMIN), com ênfase em posições de mercado de trabalho como unidade de análise; (2) teoria da educação posicional (Hirsch, 1978; Bills, 2016; Shavit e Park, 2016), que trata os diplomas como bens posicionais cujo valor é relativo à distribuição social; (3) economia da educação e teoria do capital humano/sinalização (Spence, 1973; Thurow, 1975), mobilizada para discutir mecanismos de mercado de trabalho. A coerência entre as molduras é razoável, mas a articulação entre a ontologia posicional-relacional (valor relativo do diploma) e a hipótese individualista de seletividade (seleção de talentos) produz alguma tensão não resolvida: se o efeito composicional era produto da seleção positiva em C1, então a posicionalidade do diploma seria um mecanismo secundário — não primário — do enfraquecimento composicional nas coortes mais jovens. Os autores tratam os dois mecanismos como complementares, mas não hierarquizam sua importância relativa.
+    </td>
+  </tr>
+  <tr>
+    <th>Principais Referências</th>
+    <td>
+      <em>A revisão de literatura é ampla e honesta na apresentação de evidências contraditórias. O diálogo com a literatura brasileira poderia ser mais aprofundado, especialmente com trabalhos sobre estratificação horizontal.</em>
+      <hr/>
+      Referências centrais: Hout (1984, 1988) — hipótese equalizadora fundadora; Torche (2011, 2014) — extensão e qualificação da hipótese; Breen (2010); Pfeffer e Hertel (2015) — evidências europeias/norte-americanas do efeito composicional; Zhou (2019) e Karlson (2019) — debate sobre hipótese de seletividade; Fiel (2020) — questionamento da especificidade do ensino superior; Bills (2016) e Shavit e Park (2016) — teoria da educação posicional; Torche e Ribeiro (2010) e Ribeiro (2012, 2023) — literatura brasileira sobre mobilidade e efeito composicional; Salata e Cheung (2022) — trabalho anterior dos próprios autores. O diálogo com a literatura sobre estratificação horizontal do ensino superior no Brasil (Carvalhaes e Ribeiro, 2019, mencionado brevemente) poderia ser aprofundado, dado que a homogeneização do ensino superior é um dos mecanismos explicativos invocados mas não modelado. A ausência de diálogo com a literatura sobre desigualdades raciais na mobilidade social brasileira é uma lacuna notável.
+    </td>
+  </tr>
+  <tr>
+    <th>Observações</th>
+    <td>
+      <em>Vulnerabilidades adicionais importantes incluem a ausência de análise racial, a não-separação dos dois mecanismos explicativos principais e a validade externa limitada a contextos de industrialização tardia com expansão educacional heterogênea em qualidade.</em>
+      <hr/>
+      <strong>Validade externa:</strong> Os resultados são mais prontamente generalizáveis para países de industrialização tardia com expansão educacional marcada por heterogeneidade de qualidade e estrutura ocupacional pouco transformada — Argentina, Uruguai, México — do que para contextos europeus. A ausência de análise racial é uma limitação relevante para o contexto brasileiro, onde raça estrutura profundamente a mobilidade social e as oportunidades educacionais; é possível que o efeito composicional opere de forma diferenciada para brancos e não-brancos (hipótese não testada). <strong>Omissões com implicações para o argumento:</strong> a não-separação empírica dos dois mecanismos (seletividade vs. posicionalidade) deixa o argumento teórico original do artigo — a articulação entre posicionalidade e efeito composicional — em posição analiticamente vulnerável: é possível que o padrão observado seja explicado inteiramente pela seletividade, sem que a posicionalidade acrescente poder explicativo independente. <strong>Relevância para pesquisa sobre políticas educacionais:</strong> O artigo tem implicações diretas para debates sobre cotas raciais e de renda no ensino superior brasileiro — se o efeito composicional desapareceu, políticas de democratização do acesso terciário podem não produzir os efeitos de mobilidade esperados sem mudanças concomitantes na qualidade das instituições e na estrutura do mercado de trabalho.
+    </td>
+  </tr>
+</table>
+</div>
+```
