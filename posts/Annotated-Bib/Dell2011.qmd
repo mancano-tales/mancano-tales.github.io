@@ -270,13 +270,6 @@ O raciocínio analítico subjacente a cada dimensão é registrado no
 campo `_reasoning` de cada objeto JSON.
 :::
 
-::: {.callout-note collapse="true" icon=false}
-## Ficha Analítica — JSON
-
-::: {.callout-note collapse="true" icon=false}
-## Ficha Analítica — Tabela Interativa
-
-::: {.callout-note collapse="true" icon=false}
 ## Ficha Analítica
 
 | Dimensão | Análise |
@@ -294,7 +287,8 @@ campo `_reasoning` de cada objeto JSON.
 | **Principais Referências** | As referências centrais incluem Guerrero, Rios e Shirk no debate sobre a guerra às drogas no México; Imbens, Lemieux, Lee e coautores na base metodológica da regressão descontínua; Angrist e Kugler no diálogo sobre rendas ilícitas e violência; Beckmann, Wardrop, Dijkstra e Frank‑Wolfe na arquitetura formal da análise de rede e congestionamento; além de trabalhos sobre crime organizado como Gambetta, Levitt e Venkatesh, e Varese. O diálogo é sólido, mas relativamente mais forte em economia aplicada e métodos do que em teorias sociopolíticas da violência criminal. |
 | **Observações** | O artigo é especialmente relevante para pesquisas sobre efeitos subnacionais de políticas repressivas e sobre deslocamento espacial de atividades ilícitas em contextos de Estado fragmentado. Uma vulnerabilidade adicional pouco discutida é que o tratamento — vitória apertada do PAN — identifica o efeito em um subconjunto altamente específico de eleições competitivas; a validade externa para o efeito médio de política em municípios não competitivos é restrita e jamais discutida de forma sistemática. Também chama atenção a ausência de discussão sobre efeitos de antecipação: organizações criminosas podem reagir antes da posse do novo prefeito se perceberem o resultado eleitoral como sinal de mudança. Lacunas teóricas incluem uma teoria mais densa do processo de negociação e conflito inter-organizacional, e uma abordagem mais explícita do papel da corrupção como mediador dos efeitos observados. Para o pesquisador interessado em política educacional e desigualdade, a seção de spillovers econômicos é o ponto de maior relevância: ela demonstra que o tráfico afeta mercados de trabalho locais de maneira desigual, com impactos concentrados no setor informal e entre mulheres, sugerindo que o narcotráfico pode ser um fator não reconhecido de reprodução de desigualdade em análises institucionais de longo prazo. |
 
-:::
+
+
 <!-- 
 ```{r}
 #| echo: false
