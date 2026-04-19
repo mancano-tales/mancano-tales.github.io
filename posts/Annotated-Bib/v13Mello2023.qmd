@@ -1,0 +1,276 @@
+---
+title: "Fichamento: Affirmative Action and the Choice of Schools"
+subtitle: "Ursula Mello (2023)"
+author: "Tales Mançano"
+date: "2026-04-19"
+last-updated: "2026-04-19"
+categories: [Annotated Bibliography, Affirmative Action, School Choice, Higher Education, Causal Inference, Brazil]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+> Mello, U. (2023). *Affirmative action and the choice of schools*. BSE Working Paper 1285. Barcelona School of Economics. [https://bse.eu/research/working-papers/affirmative-action-and-choice-schools](https://bse.eu/research/working-papers/affirmative-action-and-choice-schools)
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Mello2023
+
+```bibtex
+@techreport{Mello2023,
+  author    = {Mello, Ursula},
+  title     = {Affirmative Action and the Choice of Schools},
+  year      = {2023},
+  institution = {Barcelona School of Economics},
+  type      = {BSE Working Paper},
+  number    = {1285},
+  month     = sep,
+  year      = {2021},
+  url       = {https://bse.eu/research/working-papers/affirmative-action-and-choice-schools},
+}
+```
+:::
+
+Última atualização: 2026-04-19
+Modelo: Claude 3.5 Sonnet
+Gerado em: 2026-04-19T13:30:00-03:00
+
+## Introdução (pp. 3–7)
+
+### Contexto das políticas de ação afirmativa e lacuna na literatura [§1–§3]
+
+O primeiro parágrafo situa o tema: políticas de ação afirmativa (AA) no ensino superior foram adotadas em diversos países para reduzir desigualdades de acesso, desempenho e conclusão. Elas se dividem em tipos raciais, neutros em raça ou mistos, e enfrentam graus variados de apoio e escrutínio conforme o contexto institucional e histórico. Nos EUA, por exemplo, políticas baseadas em raça sofreram disputas legais e foram banidas em oito estados nos anos 1990, levando à criação dos *Top N‑percent Plans*, que beneficiam alunos no topo de sua escola de ensino médio. O parágrafo termina indicando que, em outros países como Brasil, Israel, Chile, França e Reino Unido, políticas baseadas na escola de baixo nível socioeconômico também foram implementadas como alternativa ou complemento às AAs raciais.
+
+O segundo parágrafo introduz a consequência comportamental central do artigo: ao usar a escola como critério de elegibilidade, essas intervenções alteram os incentivos para a escolha do estabelecimento de ensino, pois os indivíduos buscam aumentar suas chances de admissão no ensino superior. A literatura, contudo, concentrou-se quase exclusivamente nos *Top Percent Plans* dos EUA, com evidências de que eles aumentam a mobilidade entre escolas e a integração escolar. Pouco se sabe sobre os efeitos em outros contextos e sobre os mecanismos que explicam essas mudanças. O artigo propõe preencher essa lacuna analisando como e por que a Lei de Cotas brasileira induz alterações na escolha da escola.
+
+### A Lei de Cotas (QL) e o desenho do experimento natural [§4–§6]
+
+O terceiro parágrafo descreve a Lei 12.711/2012, a "Lei de Cotas". A lei determinou que 50% das vagas em cada curso das instituições federais de ensino superior fossem reservadas para alunos que cursaram os três anos do ensino médio em escola pública, com subcotas para minorias raciais e de baixa renda. Como as universidades federais são gratuitas e de alta qualidade, a competição é acirrada, e a lei aumentou fortemente os incentivos para a matrícula em escolas públicas no ensino médio, especialmente para não‑brancos e alunos de baixa renda interessados no ensino superior.
+
+O quarto parágrafo explica a variação exógena gerada pela lei. Antes da reforma, as 94 instituições federais possuíam níveis muito heterogêneos de cotas para alunos de escola pública: algumas já reservavam 50% das vagas (ex.: UFJF), outras não tinham nenhuma cota (ex.: UFPE). A QL impôs que todas ajustassem suas cotas para 50%, criando uma variação *cross‑sectional* que serve como tratamento contínuo. O artigo foca nos alunos do 9º ano (último ano do ensino fundamental), pois a transição para o sistema público precisa ocorrer exatamente entre o 9º e o 10º ano para garantir a elegibilidade à AA. A amostra restringe‑se às 50 microrregiões brasileiras que possuem pelo menos uma universidade federal.
+
+O quinto parágrafo discute o desafio de mensurar a exposição ao tratamento dos alunos do 9º ano, uma vez que eles respondem a mudanças nas instituições de ensino superior. Para superar isso, a autora constrói uma medida de exposição baseada nas escolhas observadas das coortes pré‑reforma e em fatores que afetam a escolha da faculdade, como local de residência e tamanho das instituições.
+
+### Estratégia empírica e principais resultados [§7–§9]
+
+O sexto parágrafo apresenta o modelo de efeitos fixos bidirecionais (two‑way fixed effects), que compara mudanças nas taxas de transição do sistema privado para o público entre escolas de 9º ano dentro da mesma microrregião e escola ao longo do tempo. As unidades tratadas são as escolas localizadas em microrregiões cujo nível de exposição às cotas variou; as unidades de controle são aquelas onde esse nível permaneceu constante. A especificação dinâmica com períodos pré e pós‑reforma mostra que os coeficientes das tendências pré‑tratamento são próximos de zero e não significativos.
+
+O sétimo parágrafo sumariza os resultados principais. A exposição plena à QL aumenta em 4,7 pontos percentuais (p.p.) a probabilidade de um aluno do 9º ano de escola privada migrar para uma escola pública no 10º ano, o que representa um aumento de 31% considerando os anos de 2012 a 2016 conjuntamente. O efeito é maior para não‑brancos (que se beneficiam de subcotas adicionais) e para mulheres (que têm maior persistência no ensino superior). Os movimentos concentram‑se em alunos de escolas privadas de baixo nível socioeconômico, baixo desempenho e com baixa probabilidade de ingresso futuro em universidade federal, bem como em microrregiões com menor segregação no sistema de ensino médio. Isso sugere que os migrantes são aqueles que menos se beneficiam da educação privada e que enfrentam custos de transição mais baixos.
+
+### Mecanismos e contribuições do artigo [§10–§12]
+
+O oitavo parágrafo antecipa a investigação dos mecanismos. A autora mostra que a QL aumenta diretamente a probabilidade de ingresso no ensino superior federal para alunos de escola pública e a reduz para alunos de escola privada. Além disso, os alunos que migram do setor privado para o público devido à reforma de fato "trocam para baixo", matriculando‑se em escolas públicas de nível socioeconômico e desempenho inferiores aos das escolas privadas que seus pares que não migraram frequentam. Isso corrobora a previsão da teoria do capital humano de que a queda no retorno do investimento em escola privada empurra os indivíduos marginais para o sistema público.
+
+O nono parágrafo relata evidências de efeitos de *spillover*. A QL também aumenta a migração para escolas públicas entre alunos do 10º e 11º anos, que não são diretamente afetados pela mudança na probabilidade de ingresso no ensino superior. Isso sugere a existência de canais indiretos, como melhora na qualidade dos pares ou mudança nas expectativas em relação à qualidade do sistema público. Além disso, três anos após a implementação, a reforma leva ao fechamento de escolas privadas nas microrregiões afetadas, indicando efeitos de equilíbrio geral no sistema escolar.
+
+O décimo parágrafo posiciona o artigo na literatura sobre os efeitos da AA no ensino superior sobre resultados pré‑universitários. Uma vertente examina o investimento em capital humano: alguns trabalhos encontram efeitos positivos sobre o esforço e a acumulação de capital humano, enquanto outros não detectam efeitos comportamentais ou até mesmo efeitos negativos. O artigo se alinha mais diretamente a uma segunda vertente, que investiga como políticas que usam a escola como critério de elegibilidade afetam as escolhas dos alunos e o sistema escolar.
+
+### Comparação com os Top Percent Plans e contribuições específicas [§13–§17]
+
+O décimo primeiro parágrafo revisa os dois únicos trabalhos anteriores sobre o tema, ambos focados nos *Top N‑percent Plans* nos EUA. Cullen et al. (2013) mostram que, no Texas, entre os alunos com oportunidade de mudar estrategicamente de escola, apenas 1,3% o fazem, com uma taxa de adesão de 5,8% entre os interessados em universidades de ponta. Os autores argumentam que, no curto prazo, o impacto sobre a distribuição de pares é desprezível, mas reconhecem que mudanças de longo prazo podem se tornar sistêmicas. Estevan et al. (2019) oferecem um arcabouço teórico que racionaliza regularidades empíricas dos *Top Percent Plans* e mostram que, devido a efeitos de equilíbrio geral em cascata, os movimentos de alunos não se restringem aos próximos ao limiar de *N%*.
+
+O décimo segundo parágrafo delineia as duas principais contribuições do artigo. Primeiro, ele explora um experimento de política nacional e ricas bases de dados administrativas individuais e escolares, permitindo a identificação de mecanismos não evidenciados anteriormente. Enquanto os estudos sobre o Texas usam grupos de controle que podem ser indiretamente afetados por *spillovers* e efeitos de equilíbrio geral, a reforma nacional brasileira permite definir o grupo de controle como alunos da mesma série que vivem em regiões não expostas à política. A autora fornece evidência causal clara de efeitos indiretos sobre alunos do 10º e 11º ano e mostra que a QL leva ao fechamento de escolas em três anos, sugerindo que o potencial para efeitos de equilíbrio geral é maior e mais imediato do que se supunha.
+
+O décimo terceiro parágrafo explicita a segunda contribuição: fornecer evidência de mudanças na escolha escolar decorrentes de AA baseada em escola fora do contexto dos EUA. Essa lacuna é relevante dado o aumento global de intervenções de AA neutras em raça e o fato de que, em muitos contextos, AAs raciais não são legais ou politicamente viáveis. A autora contrasta a Lei de Cotas brasileira com os *Top Percent Plans*: a primeira é uma política nacional agressiva de cotas que afetou todas as instituições federais em um contexto de alta desigualdade e retornos substanciais ao ensino superior, enquanto os segundos são localizados ao nível estadual. Embora os incentivos para mudar de escola sejam elevados no Brasil, a alta segregação e a grande diferença público‑privada aumentam os custos de transição, de modo que não é claro *a priori* se os efeitos seriam similares.
+
+O décimo quarto parágrafo conecta o trabalho à literatura mais ampla sobre consequências não intencionais de políticas educacionais nas quais os indivíduos são avaliados em relação a um grupo de pares. Calsamiglia e Loviglio (2019) mostram que ter melhores pares piora as notas em avaliações internas, o que pode induzir migração para escolas com pares relativamente piores quando essas notas determinam o acesso a níveis educacionais subsequentes. Como notas internas são usadas em muitos sistemas de admissão, tais consequências não intencionais devem ser consideradas na avaliação da eficácia dessas políticas.
+
+O décimo quinto parágrafo encerra a introdução anunciando a estrutura do restante do artigo: Seção 2 (contexto institucional), Seção 3 (dados), Seção 4 (estratégia empírica), Seção 5 (resultados principais sobre escolha escolar), Seção 6 (mecanismos), Seção 7 (testes de robustez) e Seção 8 (conclusões e implicações de política).
+
+## Institutional Background (pp. 7–11)
+
+### O sistema educacional brasileiro [§1–§5]
+
+O primeiro parágrafo descreve a estrutura da educação básica obrigatória no Brasil: 12 anos, divididos em anos iniciais (1º ao 5º), anos finais do fundamental (6º ao 9º) e ensino médio (10º ao 12º). A idade de ingresso no 1º ano é 6 anos, e a conclusão do ensino médio ocorre por volta dos 17‑18 anos. Embora o acesso seja universal, coexistem sistemas público e privado.
+
+O segundo parágrafo fornece dados do Censo da Educação Básica de 2011: 151.544 escolas ativas, 82% oferecendo apenas ensino fundamental e 18% também ensino médio; 85% são públicas. Entre as 26.944 escolas de ensino médio, 71% são públicas. A qualidade das escolas privadas é, em média, superior: das 100 melhores escolas no ENEM 2011, 93 são privadas, e as 4.799 escolas privadas avaliadas têm desempenho consideravelmente melhor que as públicas. O nível socioeconômico das escolas privadas também é substancialmente mais alto.
+
+O terceiro parágrafo contrasta o cenário no ensino superior: as instituições públicas têm desempenho médio superior ao das privadas. Em 2012, o sistema de ensino superior brasileiro contava com 2.416 instituições (284 públicas e 2.132 privadas). As públicas subdividem‑se em federais (103), estaduais (116) e municipais (65), correspondendo respectivamente a 17%, 9% e 1% da matrícula total de aproximadamente 5,9 milhões de alunos de graduação. Instituições federais e estaduais são gratuitas por lei; as privadas cobram mensalidades que em 2017 giravam em torno de R$898 (95,8% do salário mínimo).
+
+O quarto parágrafo enfatiza a alta qualidade e a gratuidade das universidades públicas, especialmente as federais, que atraem grande número de candidatos. A nota média no Índice Geral de Cursos (IGC) 2012 era 3,2 para federais (escala 0‑5), 2,8 para estaduais e 2,4 para privadas. Entre as universidades, 23 das 25 melhores são públicas (18 federais e 5 estaduais). O Ranking Universitário Folha 2012 confirma esse padrão.
+
+### A Lei de Cotas no ensino superior [§6–§8]
+
+O quinto parágrafo descreve a alta competitividade do acesso ao ensino superior público. Em 2016, o SISU registrou 2.664.001 candidatos para 242.864 vagas federais (11 candidatos por vaga). Como consequência, o acesso é historicamente desigual: 85% dos alunos de 16‑18 anos estão em escolas públicas, mas apenas 51% dos ingressantes em instituições públicas de ensino superior vêm de escolas públicas; entre não‑brancos, a disparidade é ainda maior. Apenas 1,8% dos alunos do 9º ano público em 2008 ingressam em uma universidade federal em 2012, contra 12,8% dos alunos de escolas privadas.
+
+O sexto parágrafo detalha a Lei 12.711/2012. Ela reserva 50% das vagas de cada curso em cada instituição federal para alunos que cursaram integralmente o ensino médio em escola pública. Dentro desses 50%, há subcotas para critérios raciais e de renda. O exemplo da Bahia ilustra: de 100 vagas, 50 são para egressos de escola pública; dessas 50, 25 são para alunos com renda familiar per capita inferior a 1,5 salário mínimo e 38 são para não‑brancos (proporção variável por estado conforme o Censo).
+
+O sétimo parágrafo explica como a lei gera variação exógena. Ao impor um patamar nacional único de 50% de cotas, ela afetou diferentemente cada instituição, dependendo do nível pré‑reforma de adoção de cotas. A Figura 3 (Painel A) mostra a heterogeneidade dos percentuais de cotas para alunos de escola pública no processo seletivo do início de 2012. O Painel B mostra a distribuição de alunos de escola pública por curso em 2012 e 2016, evidenciando um deslocamento para a direita após a implementação completa da política.
+
+## Data Sources and Construction (pp. 11–16)
+
+### Censo da Educação Básica (CBE) [§1–§4]
+
+O primeiro parágrafo introduz as duas principais bases de dados. A primeira é o Censo da Educação Básica (CBE) de 2008 a 2017, um registro administrativo individual do universo de alunos da educação básica no Brasil, coletado anualmente pelo INEP e publicamente disponível. Ele contém características demográficas básicas (gênero, idade, etnia) e identificadores únicos de aluno e escola, permitindo a construção de painéis.
+
+O segundo parágrafo descreve a construção da amostra principal. A autora seleciona todos os alunos do 9º ano de 2008 a 2016 e os vincula com suas informações no ano seguinte (2009‑2017) usando o identificador individual. Isso permite identificar os alunos que avançaram para o 10º ano e, crucialmente, se mudaram de sistema de ensino (privado→público ou público→privado). A transição do 9º para o 10º ano é exatamente a necessária para elegibilidade à AA. Alunos que mudaram de microrregião entre *t* e *t+1* são excluídos para evitar efeitos de confusão.
+
+O terceiro parágrafo justifica a restrição da amostra às 50 microrregiões que possuem uma universidade federal. Como 84% dos indivíduos que frequentam o ensino superior o fazem no mesmo município onde residiam aos 14 anos (Censo 2010), focar nessas microrregiões (que contêm 45% da população nacional e todas as capitais) permite concentrar‑se nos alunos com maior probabilidade de frequentar o ensino superior federal e, portanto, mais expostos ao tratamento.
+
+O quarto parágrafo apresenta estatísticas descritivas da amostra (Tabela 1). Entre 2008 e 2016, a proporção de alunos do 9º ano na rede privada caiu de 83,5% para 79,1%, enquanto a migração do privado para o público entre 9º e 10º ano aumentou de 15,7% para 20,7%. A migração no sentido inverso permaneceu baixa e estável (1,8% para 1,4%). Alunos da rede privada têm menor probabilidade de serem não‑brancos ou do sexo feminino, maior probabilidade de viverem em áreas urbanas e são, em média, mais jovens.
+
+### Dados de tratamento e construção da variável de exposição [§5–§10]
+
+O quinto parágrafo descreve a segunda base de dados principal: o *Affirmative Action Quotas Data* (Mello, 2021), que contém informações detalhadas sobre o número de vagas destinadas a cada categoria de cotas em cada instituição pública de ensino superior de 2010 a 2015. Os dados foram coletados a partir de editais de processos seletivos e de solicitações via e‑SIC, complementados pelo Censo da Educação Superior de 2012.
+
+O sexto parágrafo explica a construção da variável de tratamento no nível da instituição. Mantendo apenas as instituições federais, calcula‑se *Qᵤ,₂₀₁₂*, o percentual de cotas para alunos de escola pública na instituição *u* em 2012. Define‑se então *Treatᵤ,ₘ = 2(0.5 − Qᵤ,₂₀₁₂)*, que varia de 0 (se *Q* = 50%) a 1 (se *Q* = 0). Essa variável mede o grau de exposição de cada instituição à QL, baseado no nível pré‑reforma de adoção de cotas. A imposição nacional de 50% gera um padrão de variação exógeno.
+
+O sétimo parágrafo introduz o problema de mapear o tratamento do nível superior para alunos do ensino fundamental/médio. A primeira etapa agrega *Treatᵤ,ₘ* por microrregião, ponderando pelo número de vagas oferecidas por cada instituição em 2012 (Equação 1). Se a microrregião tem apenas uma universidade federal, *Treat¹ₘ = Treatᵤ,ₘ*.
+
+O oitavo parágrafo constrói uma medida mais abrangente de exposição, *Treat²ₘ*, que incorpora a possibilidade de os alunos serem afetados por instituições fora de sua microrregião de residência. Usando o Censo 2010 para indivíduos com até 25 anos que frequentam o ensino superior, observa‑se o município de residência antes da faculdade. A Equação (2) pondera *Treat¹ₘ* pela proporção de indivíduos que permanecem na microrregião (*θₘ*) e soma os tratamentos de outras microrregiões ponderados pelas respectivas proporções de migração (*θᵣ*). O exemplo de Chapecó ilustra: 81,2% dos estudantes de Chapecó que frequentam uma universidade pública o fazem na própria microrregião, enquanto 14,7% vão para Florianópolis, etc. Como para a microrregião mediana *θₘ* = 96,8%, os resultados são muito similares usando *Treat¹ₘ* ou *Treat²ₘ*. A autora adota *Treat²ₘ* como *Treatₘ* no restante do artigo.
+
+O nono parágrafo comenta a Figura 4, que mapeia a distribuição de *Treatₘ* nas 50 microrregiões com universidade federal. Elas estão espalhadas pelo país e apresentam variação considerável na intensidade do tratamento.
+
+O décimo parágrafo lista as fontes de dados de apoio: IPEAdata para controles demográficos e de gasto público, IBGE para PIB per capita e valor adicionado por setor, RAIS para distribuição de renda do setor formal, e INEP para indicadores escolares como desempenho no ENEM e índice de nível socioeconômico (INSE).
+
+## Empirical Strategy (pp. 16–17)
+
+### Especificação do modelo dinâmico de diferenças‑em‑diferenças [§1–§3]
+
+O primeiro parágrafo apresenta a estratégia empírica central: um modelo dinâmico de diferenças‑em‑diferenças (Equação 3). A variável dependente *Yᵢₘₛₜ* é um indicador de migração do sistema privado para o público (ou vice‑versa) para o aluno *i* na microrregião *m*, escola *s* e coorte *t*. O tratamento *Treatₘ* é interagido com dummies para cada coorte de 2008 a 2016. A reforma foi anunciada em agosto de 2012, portanto a primeira coorte potencialmente afetada é a que concluiu o 9º ano em 2012. Os anos 2008‑2010 servem como períodos pré‑tratamento, 2011 é o ano base omitido e 2012‑2016 são os períodos tratados.
+
+O segundo parágrafo detalha os controles. *Xᵢₘₛₜ* inclui controles individuais (gênero, idade, etnia, status urbano). *Xₘₜ* contém um extenso vetor de controles variantes no tempo ao nível da microrregião: população, PIB per capita, valor adicionado setorial, gasto público total e em educação (nos níveis municipal e estadual) e vários momentos da distribuição de renda do trabalho formal. Incluem‑se efeitos fixos de escola (*αₛ*, que absorvem efeitos fixos de microrregião) e efeitos fixos de tempo (*αₜ*). Os erros‑padrão são clusterizados no nível da microrregião.
+
+O terceiro parágrafo explicita a hipótese de identificação: as trajetórias da variável de resultado para unidades tratadas e de controle teriam sido paralelas na ausência do tratamento. A inclusão de efeitos fixos de escola‑microrregião absorve características não observáveis fixas no tempo, mas confundidores variantes no tempo ainda poderiam ameaçar a identificação. Os períodos pré‑tratamento (2008‑2010) servem como teste: coeficientes próximos de zero e não significativos forneceriam evidência sugestiva de que as tendências teriam permanecido paralelas também após 2011. Os resultados são apresentados em gráficos de estudo de evento e em tabelas que agregam os períodos pré (Before) e pós (Post) na Equação (4).
+
+## High School Choice (pp. 17–22)
+
+### Resultados principais [§1–§4]
+
+O primeiro parágrafo descreve a Figura 5 (Painel A), que mostra os coeficientes da interação *Yearₜ × Treatₘ* para a migração de escola privada para pública. A adoção plena da QL aumenta a migração em 3,2 p.p. em 2012, 4,9 p.p. em 2013, 6,4 p.p. em 2014, 6,3 p.p. em 2015 e 3,4 p.p. em 2016. Todos os coeficientes são estatisticamente significativos (exceto 2016), e os coeficientes pré‑2011 são próximos de zero e não significativos, corroborando a hipótese de tendências paralelas.
+
+O segundo parágrafo interpreta a magnitude e a dinâmica temporal. A coorte de 2012 teve apenas dois meses para reagir à lei (setembro e outubro, pois as matrículas ocorrem em outubro do ano anterior), o que explica o efeito menor. Coortes posteriores tiveram mais de um ano para ajustar‑se, e o efeito pleno é observado em 2014‑2015. A redução em 2016 pode refletir que parte da migração passou a ocorrer em séries anteriores, reduzindo a transição no 9º ano.
+
+O terceiro parágrafo analisa a migração no sentido oposto (Painel B). A QL não afeta a migração de escola pública para privada, provavelmente porque essa taxa já era muito baixa antes da reforma (2,2% em 2011).
+
+O quarto parágrafo reporta a Tabela 2, que mostra a robustez dos resultados a diferentes especificações da Equação (4). A coluna (4), que inclui todos os controles, indica um aumento de 4,7 p.p. na migração privado→público nos períodos pós‑reforma (2012‑2016), representando um crescimento de 30,7% em relação à taxa de 15,3% de 2011.
+
+### Heterogeneidade por características individuais e escolares [§5–§10]
+
+O quinto parágrafo explora a heterogeneidade por etnia (Tabela 3, colunas 2‑3). Para não‑brancos, o efeito é de 7,1 p.p., contra 3,6 p.p. para brancos, diferença estatisticamente significativa a 1%. Isso reflete os incentivos adicionais das subcotas raciais. A Figura A.1 (apêndice) apresenta os estudos de evento correspondentes.
+
+O sexto parágrafo examina a heterogeneidade por gênero (Tabela 3, colunas 4‑5). O efeito é de 5,4 p.p. para mulheres e 3,9 p.p. para homens, diferença significativa a 10%. A autora atribui essa diferença ao fato de as mulheres terem maior probabilidade de concluir o ensino médio e ingressar no ensino superior, sendo, portanto, mais sensíveis a mudanças na política de acesso.
+
+O sétimo parágrafo analisa a heterogeneidade por características da escola de origem, começando pelo nível socioeconômico (Tabela 4, Painel A). Usando o INSE 2011‑2013, a migração induzida pela QL concentra‑se inteiramente entre alunos de escolas do quartil inferior de nível socioeconômico (efeito de 6,4 p.p.), enquanto para o quartil superior o efeito é próximo de zero e não significativo.
+
+O oitavo parágrafo utiliza a probabilidade pré‑reforma de ingresso em universidade federal (Painel B). Em escolas com probabilidade superior a 5%, o efeito é de apenas 1,8 p.p.; em escolas com probabilidade inferior ou igual a 5%, o efeito é de 10,8 p.p. A diferença é marcante e estatisticamente significativa.
+
+O nono parágrafo examina o desempenho no ENEM Escola 2011 (Painel C). A migração é muito maior (6,3 p.p.) entre alunos de escolas abaixo da mediana de desempenho, contra 3,0 p.p. para escolas acima da mediana.
+
+O décimo parágrafo analisa o nível de segregação do sistema de ensino médio na microrregião, medido pelo Índice de Duncan em 2011 (Painel D). O efeito é de 8,5 p.p. nas microrregiões com segregação abaixo da mediana e virtualmente zero nas microrregiões mais segregadas. A interpretação é que os custos de transição são menores em sistemas mais integrados.
+
+### Síntese da heterogeneidade [§11]
+
+O décimo primeiro parágrafo sintetiza os achados de heterogeneidade. Os migrantes induzidos pela QL são alunos de escolas privadas de nível socioeconômico mais baixo, com menor probabilidade prévia de ingresso no ensino superior federal e pior desempenho acadêmico. Isso sugere que a QL empurra para o sistema público alunos que, embora interessados no ensino superior público, beneficiam‑se menos do investimento em mensalidades escolares privadas. Em contraste, os que permanecem na rede privada são aqueles com preferência mais forte por esse tipo de instituição, provavelmente porque auferem maiores benefícios dela.
+
+## Mechanisms (pp. 22–28)
+
+### Efeitos diretos: mudança nos retornos ao investimento [§1–§7]
+
+O primeiro parágrafo introduz a seção de mecanismos, destacando que a teoria do capital humano (Becker, 1994) prevê que famílias não restritas por crédito investem em educação privada para maximizar a produtividade futura dos filhos, seja pelo valor agregado da escola privada em si, seja pelo acesso a uma universidade federal de maior qualidade.
+
+O segundo parágrafo apresenta a Tabela 5, que estima o efeito da QL sobre a probabilidade de ingresso no ensino superior federal para a coorte do 9º ano de 2012. Para alunos de escolas privadas, a probabilidade cai 4,9 p.p.; para alunos de escolas públicas, aumenta 1,2 p.p. Assim, se as famílias valorizam o ingresso na universidade federal, a QL reduz o valor do investimento em escola privada.
+
+O terceiro parágrafo argumenta que essa mudança nos retornos induz indivíduos marginais a migrar para o sistema público, trocando parte do valor agregado da escola privada por uma maior probabilidade de ingresso no ensino superior público.
+
+O quarto parágrafo introduz a análise da "escola de destino" para investigar se os migrantes de fato "trocam para baixo". A estratégia usa a introdução da QL como instrumento para a decisão de migrar (Equação 5), uma vez que a decisão de migrar é endógena. O instrumento é a interação *Treatₘ × Postₜ*.
+
+O quinto parágrafo descreve os resultados para o índice socioeconômico da escola de destino (Tabela 6, Painel A). A coluna (1) mostra o primeiro estágio: a QL aumenta a migração em 4,4 p.p. A coluna (2) (forma reduzida) mostra que a QL induz os alunos a frequentarem escolas de ensino médio com nível socioeconômico 0,04 desvios‑padrão mais baixo. A coluna (3) (IV) indica que a migração induzida pela QL leva a uma escola com nível socioeconômico 0,98 desvios‑padrão inferior ao que teriam caso não migrassem.
+
+O sexto parágrafo reporta resultados análogos para o desempenho no ENEM (Painel B). A migração induzida pela QL leva a uma escola com desempenho 0,82 desvios‑padrão inferior. Em suma, os *compliers* terminam em escolas públicas mais pobres e de pior desempenho do que as escolas privadas que frequentariam na ausência da reforma.
+
+O sétimo parágrafo conclui que esses resultados corroboram o mecanismo de mudança nos retornos: a QL aumenta a probabilidade de ingresso no ensino superior público para alunos de escola pública, induzindo indivíduos marginais a sacrificar a maior qualidade da escola privada em troca dessa maior probabilidade.
+
+### Efeitos indiretos: pares e expectativas [§8–§10]
+
+O oitavo parágrafo introduz a possibilidade de canais indiretos. A migração de alunos da rede privada pode elevar a qualidade dos pares nas escolas públicas, aumentando o valor percebido do sistema público além do efeito direto sobre a probabilidade de ingresso no ensino superior. Além disso, mesmo que a qualidade dos pares não mude imediatamente, as famílias podem antecipar melhorias futuras na rede de contatos e na qualidade do ambiente escolar.
+
+O nono parágrafo apresenta evidência sugestiva na Tabela 7. Embora o foco principal seja a transição do 9º para o 10º ano (necessária para elegibilidade), a QL também aumenta a migração para escolas públicas em outras séries. Para alunos do 6º ao 8º ano, o efeito é de cerca de 2 p.p. Isso poderia refletir tanto uma valorização generalizada das escolas públicas quanto um efeito de antecipação para economizar mensalidades.
+
+O décimo parágrafo destaca o resultado mais revelador: a QL aumenta a migração em 1,4 p.p. entre alunos do 10º e 11º anos. Como esses alunos não podem se tornar beneficiários da lei (a transição precisaria ter ocorrido no 9º ano ou antes), esses movimentos só podem ser explicados por incentivos indiretos, como melhora na qualidade dos pares ou mudança nas expectativas subjetivas sobre o sistema público.
+
+### Spillovers e efeitos de equilíbrio geral [§11–§13]
+
+O décimo primeiro parágrafo discute a possibilidade de efeitos de equilíbrio geral no sistema escolar, como mudanças no tamanho das escolas, no valor das mensalidades e no número de escolas ativas. Para investigar, a autora constrói um painel balanceado de escolas que ofereciam ensino médio em 2009 e as acompanha até 2017, estimando a Equação (6) com efeitos fixos de microrregião e ano.
+
+O décimo segundo parágrafo reporta a Tabela 8. A coluna (2) mostra que a QL reduz o número médio de alunos em escolas privadas em 19,4 alunos (6,7%) no período 2013‑2017. A Figura 6 (Painel A) mostra que o efeito começa já em 2013 e cresce ao longo do tempo. A coluna (4) indica que a QL aumenta a probabilidade de fechamento de escolas privadas em 1,6 p.p. (37%) nos períodos pós‑reforma. A Figura 6 (Painel B) revela que esse efeito só se torna significativo a partir do terceiro ano após a implementação (2015 em diante).
+
+O décimo terceiro parágrafo conclui que os movimentos induzidos pela QL se tornam suficientemente grandes para gerar efeitos de equilíbrio geral, os quais, por sua vez, podem se tornar um mecanismo adicional que induz mais migração (por exemplo, alunos que perdem a opção de escola privada são forçados a migrar para o sistema público).
+
+### Discussão integrada dos mecanismos [§14]
+
+O décimo quarto parágrafo sintetiza os três canais identificados. Primeiro, o efeito direto sobre os retornos ao investimento em escola privada induz a migração de alunos marginais de escolas privadas de baixo desempenho. Segundo, a existência de migração em séries não elegíveis (10º e 11º anos) sugere efeitos indiretos via qualidade dos pares ou expectativas. Terceiro, o fechamento de escolas privadas a partir do terceiro ano indica ajustes de equilíbrio geral que podem forçar migrações adicionais.
+
+## Robustness (pp. 29–30)
+
+### Definições alternativas da variável de tratamento [§1–§2]
+
+O primeiro parágrafo resume os testes de robustez da Tabela B.1. A coluna (1) replica o resultado baseline com *Treat²ₘ*. A coluna (2) usa *Treat¹ₘ* (exposição apenas à própria microrregião). A coluna (3) pondera as instituições não apenas pelo tamanho, mas também por um índice de qualidade. A coluna (4) usa fluxos migratórios pré‑reforma para todo o ensino superior (público e privado), em vez de apenas público. Em todas as especificações, os resultados são extremamente similares.
+
+O segundo parágrafo explora uma medida alternativa de tratamento baseada no *gap* entre a cota de 50% e a proporção efetiva de alunos de escola pública em cada curso antes da QL (*Treat⁵ᵤ,ₘ*). A Tabela B.1, coluna (5) mostra que essa definição produz um efeito de 9,6 p.p., quase o dobro do baseline. Quando ambas as medidas são incluídas simultaneamente (coluna 6), apenas o coeficiente de *Treatₘ* permanece significativo. A autora opta pela medida mais conservadora (*Treatₘ*), interpretando os resultados como um limite inferior.
+
+### Amostras alternativas de microrregiões [§3–§4]
+
+O terceiro parágrafo testa a sensibilidade dos resultados à exclusão de microrregiões cujas universidades locais alteraram suas políticas de AA nos anos anteriores à lei nacional (Tabela B.2). A autora exclui sequencialmente as microrregiões com mudanças mais recentes (2012, 2011, 2010, etc.), até chegar a uma amostra de apenas 17 microrregiões que não tiveram nenhuma alteração entre 2006 e 2012. Os resultados permanecem virtualmente idênticos em todas as subamostras, reforçando que o efeito não é impulsionado por mudanças específicas em determinadas localidades.
+
+O quarto parágrafo conclui que a variação exógena gerada pela diferença entre a cota nacional de 50% e as políticas locais pré‑reforma é o que permite a identificação causal dos efeitos da QL.
+
+### Abandono e repetência [§5]
+
+O quinto parágrafo reporta a Tabela A.1, que testa se a QL afeta taxas de abandono e repetência na transição do 9º para o 10º ano. A QL não afeta o abandono em nenhum dos sistemas. Há um efeito negativo moderado sobre a repetência de alunos de escolas privadas, que a autora atribui a uma consequência da mudança de escola: ao migrar para uma escola pública, o aluno pode ser reclassificado para a série seguinte em vez de repetir o ano na escola de origem.
+
+## Concluding Remarks (pp. 30–31)
+
+### Síntese dos achados e heterogeneidade [§1–§2]
+
+O primeiro parágrafo resume o objetivo do artigo: estudar como uma iniciativa nacional de ação afirmativa que reservou uma grande parcela de vagas nas universidades federais brasileiras para egressos de escolas públicas impactou as decisões de escolha escolar. Aproveitando a variação *cross‑sectional* gerada pela diferença entre a cota nacional de 50% e os níveis pré‑reforma locais, a autora constrói uma medida de exposição ao tratamento para alunos do 9º ano e utiliza um modelo dinâmico de efeitos fixos bidirecionais.
+
+O segundo parágrafo reporta os principais resultados quantitativos e a heterogeneidade. A adoção plena da QL aumenta a migração de escolas privadas para públicas em 31% nos períodos pós‑reforma. O efeito é maior para não‑brancos e mulheres, concentra‑se em alunos de escolas privadas de baixo nível socioeconômico e desempenho, com baixa probabilidade de ingresso futuro no ensino superior federal, e ocorre inteiramente em microrregiões com sistemas de ensino médio menos segregados.
+
+### Mecanismos e implicações de política [§3–§4]
+
+O terceiro parágrafo recapitula os três mecanismos identificados. Primeiro, a QL altera os retornos ao investimento em educação privada, levando alunos a trocar uma escola privada de melhor desempenho por uma maior probabilidade de ingresso no ensino superior público. Segundo, o efeito sobre coortes não elegíveis (10º e 11º anos) sugere *spillovers* via qualidade dos pares ou expectativas. Terceiro, o fechamento de escolas privadas a partir do terceiro ano indica que efeitos de equilíbrio geral amplificam as transições para o sistema público.
+
+O quarto parágrafo discute as implicações de política. Políticas de ação afirmativa que usam a escola como critério de elegibilidade são uma ferramenta útil para focalizar alunos de baixo nível socioeconômico sem exigir informações explícitas sobre renda ou etnia. No entanto, assim como outras políticas que avaliam indivíduos em relação a seus pares na escola, elas podem gerar consequências não intencionais, como mudanças nas decisões de escolha escolar. Compreender a extensão e os mecanismos desses efeitos não antecipados é crucial para um desenho eficiente de políticas. O artigo contribui nessa direção ao revelar diferentes canais pelos quais essas consequências operam, embora a abordagem de forma reduzida e a indisponibilidade de dados mais detalhados limitem uma quantificação precisa da importância relativa de cada mecanismo. À medida que essas políticas se tornam mais populares como alternativa ou complemento às ações afirmativas baseadas em raça, essa lacuna emerge como uma importante agenda de pesquisa futura.
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** A Lei de Cotas brasileira, ao reservar 50% das vagas em universidades federais para egressos de escolas públicas, aumentou significativamente a migração de alunos do 9º ano de escolas privadas para escolas públicas — especialmente entre alunos de escolas privadas de baixo desempenho e baixo nível socioeconômico — por meio de três canais: (i) redução direta dos retornos ao investimento em escola privada, (ii) efeitos indiretos via melhora percebida na qualidade dos pares e expectativas, e (iii) efeitos de equilíbrio geral que levam ao fechamento de escolas privadas.
+
+**Natureza do argumento:** Causal, baseado em um desenho quase‑experimental que explora variação exógena na intensidade do tratamento entre microrregiões com diferentes níveis pré‑reforma de cotas.
+
+**O que o texto demonstra:** A QL causa um aumento de 4,7 p.p. (31%) na transição privado→público no 9º ano, com padrões de heterogeneidade consistentes com a teoria do capital humano, e fornece evidência de efeitos indiretos e de equilíbrio geral não documentados anteriormente na literatura sobre *Top Percent Plans*.
+
+**O que fica como hipótese ou agenda:** A importância relativa de cada mecanismo não é quantificada separadamente, e a ausência de dados sobre desempenho individual e notas internas impede uma análise mais refinada dos canais de *peer effects* e expectativas.
+
+**Contribuição para o debate mais amplo:** O artigo expande a literatura sobre os efeitos não intencionais de políticas educacionais que avaliam alunos em relação a pares, fornecendo a primeira evidência causal robusta fora do contexto dos EUA e revelando que os efeitos de equilíbrio geral podem ser mais imediatos e significativos do que se supunha.
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v12.0*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é registrado no campo `Raciocínio analítico` da tabela.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta é claramente enunciada e dupla: *como* e *por que* uma política de cotas baseada na escola afeta as decisões de escolha escolar. A formulação é explícita e a natureza é explicativa/causal. A reconstrução não é necessária. | "How and why a large nationwide affirmative action targeted at public‑school students in Brazil induces changes in school choice decisions." Natureza: explicativa/causal. |
+| Questões Secundárias | As perguntas secundárias emergem da estrutura do artigo: (i) Quais subgrupos são mais afetados? (ii) A migração ocorre em direção a escolas de pior qualidade? (iii) Existem efeitos sobre coortes não elegíveis? (iv) Há consequências para o fechamento de escolas? Elas são funcionais para decompor os mecanismos e testar a plausibilidade da explicação causal. | (i) Heterogeneidade por etnia, gênero, características da escola de origem e segregação regional. (ii) Características da escola de destino (INSE, ENEM). (iii) Efeitos sobre transições em séries não elegíveis (10º e 11º anos). (iv) Efeitos sobre tamanho e fechamento de escolas privadas. |
+| Puzzle-Type | O puzzle é um *gap explicativo* na literatura sobre políticas de ação afirmativa baseadas na escola. Embora os *Top Percent Plans* dos EUA tenham sido estudados, pouco se sabia sobre os mecanismos subjacentes e sobre a generalizabilidade para outros contextos institucionais. O puzzle é genuíno, pois a variação no desenho da política (nacional vs. estadual, cota agressiva vs. percentual no topo) e no contexto (alta desigualdade, segregação escolar) poderia produzir efeitos qualitativamente distintos. | Gap explicativo sobre os mecanismos que ligam AA baseada na escola a mudanças na escolha escolar, especialmente fora dos EUA. A autora argumenta que as diferenças no desenho da política e no contexto brasileiro tornam incerto *a priori* se os efeitos seriam similares aos documentados no Texas. |
+| Conclusão / Argumento Central | A tese é multicanal: a QL aumenta a migração privado→público por meio de (1) mudança nos retornos ao investimento, (2) *spillovers* em coortes não elegíveis e (3) fechamento de escolas privadas. A natureza do argumento é causal e baseada em evidência empírica. O *claim of discovery* principal é a identificação de efeitos indiretos e de equilíbrio geral que não haviam sido claramente demonstrados nos estudos anteriores. O claim é sustentado por evidência de forma reduzida convincente, embora a quantificação precisa da contribuição de cada canal permaneça em aberto. | Tese: "A adoção da QL induz movimentos de escolas privadas para públicas por meio de três canais: efeito direto sobre os retornos, spillovers em coortes indiretamente expostas e fechamento de escolas privadas." Natureza: causal. Claim of discovery: demonstração de efeitos indiretos (10º/11º anos) e de fechamento de escolas em curto prazo, não documentados na literatura sobre *Top Percent Plans*. |
+| Métodos | Estudo observacional com desenho de diferenças‑em‑diferenças dinâmico (*event study*). Fonte principal: Censo da Educação Básica (dados individuais em painel). Tratamento contínuo construído a partir de dados administrativos sobre cotas pré‑reforma. Estratégia de identificação: exploração da variação exógena no *gap* entre a cota nacional de 50% e as cotas pré‑reforma das universidades federais. Análise de heterogeneidade e testes de mecanismos via variáveis instrumentais (IV) e modelos de painel de escolas. Limitações: a medida de exposição ao tratamento é uma *proxy* construída, não uma atribuição aleatória; a análise de mecanismos é sugestiva, não um teste estrutural completo. | Tipo: estudo observacional quase‑experimental. Fontes: Censo da Educação Básica (2008‑2017), dados de cotas (Mello, 2021), Censo da Educação Superior, Censo 2010, RAIS, IPEAdata, IBGE. Técnicas: diferenças‑em‑diferenças dinâmico com efeitos fixos de escola e ano, IV (migração instrumentada pela QL), painel de escolas. Limitações relevantes: tratamento contínuo baseado em *proxy*; impossibilidade de testar diretamente mudanças na qualidade dos pares ou expectativas. |
+| Data Generation Process (DGP) | Fenômeno real: implementação nacional da Lei de Cotas em 2012. Observação: dados administrativos do censo escolar (universo de alunos). Coleta: INEP (registros obrigatórios). Operacionalização: transição observada entre 9º e 10º ano; variável de tratamento agregada por microrregião com ponderação por fluxos migratórios pré‑reforma. Análise: comparação dentro de escolas ao longo do tempo, controlando por tendências temporais comuns e covariáveis regionais. Tipo de inferência: causal sob a hipótese de tendências paralelas. Unidade de análise: indivíduo (aluno do 9º ano). Nível de agregação do tratamento: microrregião. | Fenômeno → observação → coleta → operacionalização → análise → inferência causal. Unidade: aluno do 9º ano. Tratamento varia no nível da microrregião. Dados são censitários (não amostrais) para a população de alunos das microrregiões com universidade federal. |
+| Achados e Contribuições | Resultados empíricos robustos: aumento de 4,7 p.p. (31%) na migração privado→público; heterogeneidade alinhada com teoria do capital humano; evidência de que migrantes "trocam para baixo" em qualidade escolar; efeitos em séries não elegíveis; fechamento de escolas privadas após três anos. Contribuições: (i) primeira evidência causal de mudança na escolha escolar por AA baseada em escola fora dos EUA; (ii) identificação de canais indiretos e de equilíbrio geral; (iii) demonstração de que o potencial para efeitos sistêmicos é maior do que o sugerido por Cullen et al. (2013). O que é especulativo: a importância relativa dos canais de *peer effects* vs. expectativas não é quantificada. | Achados empíricos: efeito médio de 4,7 p.p.; heterogeneidade substancial; migrantes frequentam escolas de pior qualidade (IV); efeito sobre 10º/11º anos (1,4 p.p.); redução de 6,7% no tamanho de escolas privadas e aumento de 37% na probabilidade de fechamento. Contribuições: expansão geográfica e institucional da literatura; revelação de mecanismos não documentados. Especulativo: a quantificação precisa da contribuição de cada mecanismo permanece como agenda futura. |
+| Análise Crítica dos Achados | O artigo responde adequadamente à pergunta de pesquisa, fornecendo evidência convincente de que a QL causou um aumento na migração privado→público e de que os padrões observados são consistentes com a teoria do capital humano. Os pontos mais fortes são a robustez dos resultados principais a diferentes especificações e a clareza da estratégia de identificação (tendências paralelas nos períodos pré‑tratamento). Os pontos mais vulneráveis: (i) a medida de exposição *Treatₘ* é uma *proxy* construída que pode introduzir erro de mensuração; (ii) os efeitos sobre coortes não elegíveis, embora sugestivos, não constituem um teste direto de mecanismos de *peer effects* ou expectativas; (iii) o fechamento de escolas é documentado apenas a partir do terceiro ano, mas não se investiga se esses fechamentos são seletivos (ex.: escolas de menor qualidade). As *scope conditions* são razoavelmente declaradas: o contexto brasileiro de alta desigualdade e retornos elevados ao ensino superior pode amplificar os efeitos; a generalizabilidade para países com sistemas menos segregados ou com AA menos agressiva é incerta. | O artigo responde à pergunta de pesquisa. Pontos fortes: robustez a múltiplas especificações, evidência de tendências paralelas, riqueza de testes de heterogeneidade. Pontos vulneráveis: (i) a variável *Treatₘ* é uma construção *ad hoc* baseada em fluxos pré‑reforma que podem ser endógenos a expectativas sobre a política? (ii) A evidência de *spillovers* em 10º/11º ano é sugestiva, mas não permite distinguir entre canais (peer quality vs. expectativas); (iii) O efeito sobre fechamento de escolas é documentado, mas não se explora se escolas que fecham são sistematicamente diferentes (ex.: menores, de pior qualidade), o que poderia ter implicações para a interpretação do mecanismo. *Scope conditions* declaradas: alta desigualdade, retornos elevados ao ensino superior. Omissões: o papel do credenciamento de escolas públicas e da oferta de vagas no ensino médio público não é discutido. |
+| Limitações | **Reconhecidas pelos autores:** (i) A impossibilidade de quantificar a importância relativa de cada mecanismo separadamente (abordagem de forma reduzida); (ii) A indisponibilidade de dados sobre desempenho individual e notas internas, que limitam uma análise mais refinada dos canais de *peer effects*; (iii) A necessidade de construir uma *proxy* para a exposição ao tratamento no nível do aluno.<br> **Não reconhecidas ou subestimadas:** (i) A possibilidade de que a medida *Treatₘ* seja afetada por antecipação ou por mudanças nas políticas locais de AA nos anos imediatamente anteriores (embora testes de robustez mitiguem parcialmente essa preocupação); (ii) A ausência de uma discussão aprofundada sobre como a capacidade instalada das escolas públicas de ensino médio pode ter restringido ou facilitado a migração observada; (iii) A potencial endogeneidade dos fluxos migratórios usados para construir *Treat²ₘ* (alunos que migram para estudar podem ter características não observadas correlacionadas com a propensão a mudar de escola). | Reconhecidas: limitações da abordagem de forma reduzida para quantificar mecanismos; falta de dados sobre desempenho individual. Não reconhecidas/subestimadas: (i) possível viés de antecipação nas políticas locais de AA (testado apenas parcialmente); (ii) restrições de oferta no ensino médio público não modeladas; (iii) endogeneidade potencial dos fluxos migratórios usados na construção de *Treat²ₘ*. |
+| Perspectiva Teórica | O artigo ancora‑se na teoria do capital humano (Becker, 1994) para prever que a redução nos retornos ao investimento em escola privada induzirá migração para o setor público. A moldura teórica é adequada para explicar o efeito direto, mas menos desenvolvida para os canais indiretos (*peer effects*, expectativas, equilíbrio geral). A ontologia implícita é individualista e baseada em escolha racional, coerente com os métodos econométricos empregados. | Tradição: teoria do capital humano (Becker). Adequação: boa para o mecanismo de retornos, mas subdesenvolvida para canais de *spillover* e equilíbrio geral. Coerência ontológica: individualismo metodológico consistente com modelos de regressão com efeitos fixos. |
+| Principais Referências | As referências centrais são Cullen et al. (2013) e Estevan et al. (2019) sobre os *Top Percent Plans* no Texas. O diálogo com a literatura brasileira sobre ação afirmativa (Francis & Tannuri‑Pianto, 2012; Estevan, Gall & Morin, 2019; Assunção & Ferman, 2015) é adequado. A autora também dialoga com a literatura sobre consequências não intencionais de políticas de *grading on a curve* (Calsamiglia & Loviglio, 2019). O diálogo é equilibrado, mas poderia incorporar mais a literatura sociológica sobre segregação escolar e *school choice* em contextos de alta desigualdade. | Cullen et al. (2013), Estevan et al. (2019), Calsamiglia & Loviglio (2019), Akhtari et al. (2020). Diálogo adequado com a literatura de economia da educação sobre AA e *school choice*. Ausência notável: literatura sociológica sobre segregação escolar e dinâmicas de *white flight* / *cream skimming* em resposta a políticas de cotas. |
+| Observações | O artigo é uma contribuição sólida e bem executada. Vulnerabilidades adicionais incluem: (i) a análise de fechamento de escolas não distingue entre fechamento definitivo e conversão de escolas privadas em públicas (ex.: via *vouchers* ou contratos), o que poderia superestimar o efeito de equilíbrio geral; (ii) a validade externa para países com sistemas de ensino superior menos seletivos ou com menor *gap* público‑privado é limitada; (iii) a omissão de uma discussão sobre os efeitos da QL sobre a qualidade do ensino médio público (ex.: via *peer effects*) deixa uma lacuna importante para avaliar o *welfare* líquido da política. Para pesquisadores interessados em *school choice* e AA, o artigo oferece um modelo de como explorar variação institucional para identificar efeitos causais e sugere várias avenidas para pesquisa futura (ex.: medição direta de *peer effects*, análise estrutural dos canais). | Vulnerabilidades adicionais: (i) não distinção entre fechamento e conversão de escolas privadas; (ii) validade externa limitada a contextos de alta desigualdade e retornos elevados ao ensino superior; (iii) omissão de efeitos sobre a qualidade do ensino médio público. Lacuna teórica: ausência de um modelo formal que integre os três canais identificados. Relação com pesquisa do leitor: o artigo exemplifica o uso de quase‑experimentos naturais para estudar consequências não intencionais de políticas educacionais e oferece uma rica agenda de extensões (ex.: medir diretamente mudanças na composição de pares, estimar modelo estrutural de escolha escolar). |
+
+:::

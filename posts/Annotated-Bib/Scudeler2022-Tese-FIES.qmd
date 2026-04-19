@@ -1,0 +1,316 @@
+---
+title: "Fichamento: O FIES e as estratégias dos grupos empresariais da educação superior frente à redução dos contratos de financiamento público"
+subtitle: "Scudeler (2022)"
+author: "Tales Mançano"
+date: "2026-04-19"
+last-updated: "2026-04-19"
+categories: [Annotated Bibliography, Educação Superior, Políticas Públicas, Financiamento Estudantil, Sociologia da Educação]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+> Scudeler, M. A. (2022). *O FIES e as estratégias dos grupos empresariais da educação superior frente à redução dos contratos de financiamento público*. Tese de doutorado, Pontifícia Universidade Católica de Campinas.
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Scudeler2022
+
+```bibtex
+@phdthesis{Scudeler2022,
+  author    = {Scudeler, Marcelo Augusto},
+  title     = {O FIES e as estratégias dos grupos empresariais da educação superior frente à redução dos contratos de financiamento público},
+  year      = {2022},
+  school    = {Pontifícia Universidade Católica de Campinas},
+  type      = {Tese de Doutorado},
+  address   = {Campinas},
+}
+```
+
+:::
+
+Última atualização: 2026-04-19
+Modelo: Claude 3.5 Sonnet (2024-10-22)
+Gerado em: 2026-04-19T14:30:00-03:00
+
+---
+
+## Introdução (pp. 17–30)
+
+### Contexto e objeto de pesquisa [pp. 17–19]
+
+O autor descreve a transformação da educação superior privada brasileira nos últimos 25 anos, com ciclos distintos de demanda e público. A partir de 2005, o perfil do alunado mudou com o Prouni, que trouxe estudantes de famílias de baixa renda, e com o Fies, que ampliou o acesso na primeira metade da década de 2010. Nesse período, grandes grupos empresariais educacionais atuaram com foco na captação de alunos e política de preços, enquanto a EaD se fortalecia.
+
+A partir de 2015, com a crise econômica e a política de austeridade fiscal, o Fies começou a ser reduzido progressivamente. Grandes players adquiriram pequenas instituições, o financiamento público tornou-se escasso e as empresas passaram a oferecer financiamento próprio ou por intermédio de bancos. O ticket médio das mensalidades foi reduzido, muitas vezes sem reajuste pela inflação.
+
+O autor situa o contexto da pandemia da Covid-19 como acelerador das mudanças, com o ensino remoto fortalecendo a EaD. O Fies, que foi protagonista na ampliação e diversificação do acesso, também serviu como ferramenta de financeirização das IES privadas, beneficiadas pelo custeio estatal com pouco ônus ou compromisso com a qualidade.
+
+### Hipótese e objetivos [pp. 19–20]
+
+A tese tem como objetivo compreender as consequências do forte encolhimento do Fies a partir de 2015 para o segmento educacional, analisando as alternativas comerciais criadas por grandes grupos educacionais para minimizar a redução na captação de novos alunos.
+
+A hipótese central é que, com a míngua de fontes públicas de financiamento estudantil, a continuidade da expansão e a manutenção dos resultados financeiros das empresas educacionais foi viabilizada por duas estratégias comerciais: **(a)** oferta de fontes privadas de financiamento estudantil; **(b)** aumento da oferta de cursos na modalidade EaD, com mensalidades sensivelmente mais baratas. Essas estratégias visaram minimizar o impacto da redução do financiamento público na captação e permanência de alunos com perfil socioeconômico mais carente (até 3 salários mínimos per capita), não contemplados pelo Prouni.
+
+### Estado da arte: teses sobre o Fies [pp. 20–24]
+
+O autor realizou levantamento no Catálogo de Teses e Dissertações da Capes (setembro de 2021) com o descritor "Fies", encontrando 22 teses de doutoramento. Essas foram categorizadas em dois eixos:
+
+- **Primeiro eixo (12 teses)**: abordam o Fies lateralmente, usando-o para contextualizar outros objetos (ex.: Cruz 2013, Guimarães 2013, Sousa 2014, Reis 2015, Campos 2017, Maia 2017, Silva 2017, Souza 2017, Silva 2018, Wbatuba 2018, Nascimento 2018, Vituri 2019). Destaca-se a tese de Vituri (2019), que aponta que o Fies estimula o acesso de sujeitos historicamente excluídos, mas também promove endividamento.
+
+- **Segundo eixo (10 teses)**: colocam o Fies no centro da pesquisa, analisando seu papel na diversificação do acesso e na financeirização. Incluem Perdigão (2015), Jerônymo (2020), Lins (2018), Seki (2020), Miranda (2017), Rodrigues (2017), Santos (2018), Siqueira (2019), Tavares (2019) e Santos Filho (2016). Este último mostra que o Fies representou cerca de 40% da receita líquida de grandes grupos educacionais entre 2007 e 2015.
+
+O autor argumenta que sua pesquisa avança ao analisar as consequências do encolhimento do Fies e as estratégias comerciais adotadas pelas IES privadas para manter a expansão, tema não aprofundado nas teses anteriores.
+
+### Referencial metodológico [pp. 24–30]
+
+A pesquisa é **documental**, de caráter explicativo, com abordagem dialética para enfrentar as contradições do Fies como política pública. Foram utilizadas fontes diversas: reportagens jornalísticas, dados normativos, estatísticas do Censo da Educação Superior (Inep), documentos do MEC, do FNDE, do TCU, do Semesp, da Hoper Educação, da OCDE, além de relatórios de administração (2020 e 2021) das cinco companhias brasileiras de educação superior com ações negociadas na B3: Cogna Educacional, Yduqs Participações, Cruzeiro do Sul Educacional, Ser Educacional e Ânima Educação.
+
+A base teórica apoia-se em Bourdieu (reprodução cultural, capital social, habitus) e em autores que discutem políticas públicas educacionais (Prouni, Fies, ações afirmativas, permanência). A pesquisa articula técnicas quantitativas e qualitativas, interpretando dados contextuais. Assume a contradição e o conflito como inerentes ao objeto, seguindo uma perspectiva reflexiva e dialética.
+
+---
+
+## Capítulo 1. A idealização da educação superior (pp. 31–54)
+
+### Reprodução cultural segundo Bourdieu [pp. 32–41]
+
+O capítulo discute a percepção do senso comum de que a educação superior permite mobilidade social. O autor recorre a Bourdieu para questionar essa visão, mostrando que a escola é um fator de reprodução e legitimação das desigualdades sociais. A origem social é o determinante mais influente no desempenho escolar, e o capital cultural herdado da família condiciona as chances de sucesso.
+
+Bourdieu critica o "mito da escola libertadora", afirmando que ela fornece aparência de legitimidade às desigualdades, tratando o dom social como dom natural. O **habitus** – disposições duráveis incorporadas socialmente – perpetua a estratificação por violência simbólica. A escola, ao invés de promover igualdade, reproduz o arbítrio cultural das classes dominantes.
+
+> "O sistema de educação pode na verdade assegurar a perpetuação do privilégio unicamente pelo jogo de sua própria lógica; dito de outra forma, ele pode servir aos privilégios sem que os privilégios tenham que se servir dele." (Bourdieu e Passeron, 2018, p. 45, apud Scudeler, p. 39)
+
+No entanto, o autor reconhece que ações pedagógicas contínuas podem neutralizar as desigualdades culturais, ainda que não eliminem o determinismo estrutural. A mera ampliação do acesso não reduz desigualdades sem políticas complementares.
+
+### Contextualização no Brasil emergente [pp. 41–45]
+
+Dubet et al. (2012) mostram que a relação entre desigualdades sociais e escolares não é uniforme entre países. Quanto mais os diplomas determinam posições sociais e ganhos salariais, mais os pais investem para obter vantagens escolares. O Brasil enquadra-se no grupo em que o diploma de nível superior proporciona ganhos salariais muito superiores à média da OCDE (144% acima dos trabalhadores com ensino médio, contra 54% na média da OCDE).
+
+Apesar da crítica bourdieusiana, o autor aponta que a expansão e diversificação do acesso no Brasil, a partir dos anos 2000, contribuiu para reduzir desigualdades de oportunidades educacionais. O diploma ainda é um bem relativamente escasso e estruturante das desigualdades, de modo que ampliar o acesso pode reduzir desigualdades – ainda que limitado por fatores estruturais do mercado de trabalho.
+
+### Meritocracia em contexto de equidade [pp. 45–47]
+
+O autor distingue a meritocracia como discurso legitimador de desigualdades (crítica de Dubet) de sua validade quando analisada em contexto de equidade e isonomia. A meritocracia é legítima quando considerada de forma **relacional**, ou seja, comparando agentes com cargas equivalentes de capital cultural e social. Em sociedades com grandes desigualdades, os degraus sociais são mais altos e distantes, mas o esforço meritocrático dentro do mesmo ponto de partida tem valor.
+
+### Capital cultural institucionalizado e estratificação horizontal [pp. 47–52]
+
+O diploma é um exemplo de capital cultural institucionalizado, que confere valor convencional e juridicamente garantido. No Brasil, há uma **estratificação horizontal** da educação superior: estudantes de origem socioeconômica baixa tendem a acessar cursos de menor prestígio (pedagogia, letras, serviços sociais), enquanto os mais ricos concentram-se em cursos imperiais (direito, medicina, engenharias). Além disso, a modalidade EaD, em expansão, pode criar novas diferenciações.
+
+Apesar das críticas, o diploma superior ainda proporciona ganhos salariais significativos no Brasil. A OCDE (2020) registra que trabalhadores com curso superior ganham 144% mais que os demais. O autor conclui que a graduação agrega capital cultural e altera o habitus, melhorando as condições de disputa no campo social, ainda que não garanta mudança de estrato em uma única geração.
+
+### Síntese do capítulo [pp. 52–54]
+
+O diploma superior é idealizado como trampolim para melhores rendimentos, e há forte demanda por acesso. Bourdieu alerta que a educação por si só não promove mobilidade, mas ações pedagógicas contínuas podem neutralizar barreiras. No Brasil, o hiato salarial é imenso, e as políticas públicas de ampliação e diversificação do acesso a partir dos anos 2000 podem ser vistas como ações pedagógicas compensatórias. O capital social do jovem que ingressa na educação superior pela primeira vez na família é menor, mas ele proporciona melhores condições para as próximas gerações.
+
+---
+
+## Capítulo 2. A ampliação do acesso à educação superior e as causas de sua massificação e diversificação (pp. 55–90)
+
+### Ampliação do acesso: dados históricos [pp. 56–68]
+
+O autor analisa a expansão da educação superior brasileira a partir da LDB/1961 e da Reforma Universitária de 1968, que permitiram o crescimento do setor privado. A CF/1988 tratou a educação como direito social. A LDB/1996 e o Decreto n. 2.306/1997 permitiram a criação de IES privadas com finalidade lucrativa, o que acelerou a privatização.
+
+Tabela 1 (p. 60) mostra o crescimento das matrículas: de 1,38 milhão em 1980 para 8,98 milhões em 2021. O setor privado responde por cerca de 75% das matrículas. Tabela 2 (p. 61) mostra o número de IES: 2.574 em 2021, sendo 2.261 privadas.
+
+Apesar da expansão, o Brasil não atingirá a Meta 12 do PNE/2014 (50% de taxa bruta de matrícula e 33% de taxa líquida até 2024). Em 2021, a TBM era 39,3% e a TLE 24,0%. O autor classifica o sistema como de "massa" (Trow: 16-50% da faixa etária), mas ainda não democrático.
+
+### Políticas públicas de massificação e diversificação [pp. 69–79]
+
+O autor sistematiza as políticas em quatro grupos:
+
+1. **Ações afirmativas**: Lei de Cotas de 2012 (Lei 12.711) reserva 50% das vagas das federais para estudantes de escolas públicas, com subcotas para pretos, pardos e indígenas. O percentual de alunos pretos/pardos/indígenas nas IES públicas subiu de 39,1% (2010) para 49,7% (2020).
+
+2. **Concessão de bolsas (Prouni)**: Criado em 2004/2005, concede bolsas integrais (renda per capita ≤ 1,5 SM) e parciais (≤ 3 SM) em IES privadas. Em 2021, foram 296 mil bolsas. O programa tem baixo custo para o Estado (renúncia fiscal).
+
+3. **Empréstimo público (Fies)**: Criado em 1999, reformulado em 2010, teve auge em 2014 (733 mil novos contratos). Financia mensalidades de estudantes com renda per capita até 3 SM (modalidade sem juros) ou 5 SM (com juros). O autor aprofunda no capítulo 3.
+
+4. **Políticas de permanência**: Reuni (2007) expandiu vagas e reduziu evasão nas federais; Pnaes (2010) oferece assistência estudantil. No setor privado, as políticas de permanência são quase inexistentes, e os alunos "se viram".
+
+### Outros fatores contribuintes [pp. 79–88]
+
+- **Estabilidade econômica**: Plano Real (1994) reduziu a pobreza e a inflação, criando condições para o aumento da demanda por educação.
+- **Expansão da educação básica**: O número de concluintes do ensino médio estabilizou-se em cerca de 1,8 milhão por ano (2010-2020).
+- **Ganhos de remuneração**: O diploma superior proporciona ganhos 144% superiores aos do ensino médio (OCDE, 2020).
+- **Grupos econômicos**: A partir de 1997, a permissão para IES lucrativas, somada ao capital estrangeiro (a partir de 2001) e à abertura de capital na bolsa (a partir de 2007), criou grandes grupos empresariais educacionais. Exemplos: fusão Kroton-Anhanguera (2014) formou o maior conglomerado do mundo, com 1 milhão de alunos.
+
+### Síntese do capítulo [pp. 88–90]
+
+O Brasil migrou de um sistema de elite para um sistema de massa e diversificado, mas ainda não democrático. O processo foi viabilizado por políticas neoliberais que transferiram ao setor privado a responsabilidade pela expansão, com o Estado atuando como regulador e financiador indireto.
+
+---
+
+## Capítulo 3. Da privatização à financeirização da educação superior brasileira (pp. 91–132)
+
+### A transformação da educação superior em negócio lucrativo [pp. 93–97]
+
+O autor define **privatização** como o processo de ampliação do número de estudantes no setor privado em detrimento do público, e **financeirização** como a dinâmica em que a acumulação de capital ocorre no mercado financeiro (ações, rentismo) em vez da produção de serviços. A LDB/1996 e o Decreto 2.306/1997 permitiram a criação de IES com finalidade lucrativa, o que foi decisivo para a entrada de grandes grupos.
+
+O governo FHC (1995-2002) mais que dobrou o número de IES privadas (de 711 para 1.442). A criação dos centros universitários (autonomia sem obrigação de pesquisa) facilitou a expansão. Os novos players caracterizam-se por: crescimento rápido, padronização pedagógica e governança centralizada desvinculada do corpo acadêmico.
+
+### Prouni: trajetória histórica e legal [pp. 97–102]
+
+O Prouni foi criado em 2004/2005 como resposta ao lobby do setor privado para reduzir a ociosidade e a inadimplência. O programa concede bolsas em troca de isenções fiscais. O autor destaca que o Prouni tem dois lados: (a) forte impacto social, incluindo melhor desempenho dos prounistas no Enade; (b) ferramenta de financeirização, pois ocupou vagas ociosas e deu benefícios fiscais a IES lucrativas que antes não os tinham.
+
+Em 2021/2022, a MP 1.075 (convertida na Lei 14.350/2022) alterou o Prouni, permitindo que estudantes de escolas particulares (não apenas bolsistas) concorram às bolsas, e estabeleceu cotas para negros, indígenas e pessoas com deficiência.
+
+### Fies: trajetória histórica e legal [pp. 102–113]
+
+O autor organiza a história do Fies em quatro fases:
+
+| Fase | Período | Características principais |
+|------|---------|----------------------------|
+| 1ª | 1999-2009 | Criação, juros de 6,5% a.a., exigência de fiador, carência de 6 meses. |
+| 2ª | 2010-2014 | Reforma (Lei 12.202/2010): juros caem para 3,4% a.a., FGEDUC garante 80% do risco, dispensa fiador para baixa renda. Explosão de contratos: de 76 mil (2010) para 733 mil (2014). |
+| 3ª | 2015-2017 | Ajustes fiscais: redução drástica de novos contratos (287 mil em 2015, 168 mil em 2017), exigência de nota mínima no Enem (450 pontos), retorno do fiador. |
+| 4ª | 2018-2020 | Lei 13.530/2017: cria duas modalidades (juros zero para renda ≤ 3 SM; juros para renda 3-5 SM), aumenta contribuição das IES (13-16% da mensalidade). Novos contratos caem para 82 mil (2018), 85 mil (2019), 54 mil (2020), 47 mil (2021). |
+
+O investimento público no Fies atingiu pico de R$ 19,9 bilhões em 2017 (Tabela 8, p. 108), mesmo após a queda de novos contratos, devido à manutenção de contratos antigos. A inadimplência é alta: 48,8% dos contratos em fase de amortização estavam inadimplentes em 2019 (Tabela 10, p. 111). O autor destaca que a inadimplência é inversamente relacionada ao valor da dívida: contratos mais baixos (cursos baratos) têm maior inadimplência.
+
+### O Fies como programa de inclusão de sucesso [pp. 113–116]
+
+Apesar das críticas, o Fies promoveu forte inclusão de estudantes vulneráveis:
+
+- Renda per capita ≤ 1 SM: passou de 31,8% dos contratos (2010) para 74,7% (2017) (Tabela 11, p. 114).
+- Escola pública: passou de 62,6% (2010) para 77% (2017) (Tabela 12, p. 114).
+- Autodeclarados pretos, pardos ou indígenas: passou de 36,8% (2010) para 60,3% (2017) (Tabela 13, p. 115).
+
+### Prouni e Fies como ferramentas de financeirização [pp. 116–127]
+
+O autor argumenta que esses programas transferiram recursos públicos para o setor privado, fortalecendo grupos empresariais. A Tabela 15 (p. 118) mostra que as despesas da União com Fies e Prouni cresceram de 8% das despesas com universidades federais em 2003 para 32% em 2014. Em 2014, o conglomerado Kroton-Anhanguera foi a empresa privada que mais recebeu pagamentos do governo federal.
+
+O custo por aluno no Fies (R$ 11.413) é menos da metade do custo em universidade federal (R$ 23.697), e o Prouni custa apenas R$ 3.785 por aluno (Tabela 16, p. 122). No entanto, o autor ressalta que essa comparação é problemática porque as universidades federais incluem despesas com pesquisa, extensão e aposentadorias.
+
+> "Trata-se de um verdadeiro capitalismo sem risco, com cliente cativo, inadimplência zero e com setor privado impondo preços." (Napolitano, 2017, apud Scudeler, p. 120)
+
+O autor distingue os tipos de IES privadas:
+- **Com finalidade lucrativa**: sociedades de capital aberto ou fechado, distribuem lucros.
+- **Sem finalidade lucrativa**: associações ou fundações, não distribuem lucros, gozam de imunidade tributária (IRPJ, ISS, IPTU, CSLL, COFINS, PIS). As beneficentes (com Cebas) também têm imunidade das contribuições previdenciárias.
+
+O Prouni concedeu às IES lucrativas os mesmos benefícios fiscais que as sem fins lucrativos já tinham, além de ocupar vagas ociosas. Isso acelerou a expansão das IES lucrativas, que cresceram "28 vezes mais que as IES sem fins lucrativos" entre 2010 e 2016 (Tagliari, 2022, apud Scudeler, p. 126).
+
+### A política de austeridade fiscal e o encolhimento do Fies [pp. 127–130]
+
+A EC 95/2016 congelou os gastos primários por 20 anos, afetando programas sociais. O Fies sofreu cortes progressivos a partir de 2015, retornando em 2019 aos patamares de 2010. A crise econômica aumentou o desemprego e reduziu a capacidade das famílias de investir em educação.
+
+### Síntese do capítulo [pp. 130–132]
+
+O poder público pagou um preço alto pela massificação e diversificação: privatização e financeirização do setor. Os mesmos programas que incluíram alunos vulneráveis também financiaram a formação de grandes grupos empresariais educacionais.
+
+---
+
+## Capítulo 4. Não há espaço vazio no capitalismo: a ampliação da oferta da EaD e das fontes de financiamento privado (pp. 133–197)
+
+### Primeira reação do mercado: redução do preço médio das mensalidades presenciais [pp. 135–139]
+
+O autor identifica três fases na evolução do preço médio das mensalidades presenciais (Tabela 17, p. 136):
+
+- **2005-2010**: queda de 26,5% (de R$ 932 para R$ 788) – formação dos primeiros grupos, marketing de precificação.
+- **2011-2015**: aumento de 21,8% (de R$ 788 para R$ 960) – auge do Fies, governo como "cliente" cativo.
+- **2016-2021**: nova queda de 21% (de R$ 960 para R$ 758) – encolhimento do Fies e crise econômica.
+
+### Primeira estratégia: expansão da EaD [pp. 139–164]
+
+O autor traça os marcos legais da EaD, destacando o Decreto 9.057/2017 e a Portaria 11/2017, que permitiram a criação de polos sem autorização prévia do MEC e o credenciamento de IES exclusivamente para EaD. A Portaria 1.428/2018 autorizou até 40% da carga horária de cursos presenciais na modalidade a distância (hibridização).
+
+A expansão foi rápida:
+
+- **Matrículas EaD no setor privado**: 1,20 milhão em 2014 (17,1% do total) → 3,54 milhões em 2021 (39,4%) (Tabela 18, p. 147).
+- **Ingressantes EaD no setor privado**: ultrapassaram os presenciais em 2019; em 2021, 70,5% dos ingressantes optaram por EaD (Tabela 21, p. 150).
+- **Cursos EaD**: 1.476 em 2015 → 7.620 em 2021 (Tabela 22, p. 150).
+- **Polos EaD**: 4.913 em 2014 → 31.497 em 2021, com salto de 7.052 para 15.452 entre 2017 e 2018 (Tabela 23, p. 152).
+
+O autor analisa materiais comerciais de grupos como Cogna (Anhanguera) e Multivix, mostrando que os polos são tratados como negócios de franquia, com investimento inicial baixo (a partir de R$ 15 mil) e repasse de 30-40% do faturamento para o parceiro local. A principal atividade dos polos é a captação de alunos (60,9% das respostas na pesquisa da ABED, Tabela 24, p. 153).
+
+**Diferencial de preço**: a mensalidade média da EaD caiu de R$ 405 (2012) para R$ 249 (2021), representando 32,8% do valor do presencial em 2021 (Tabela 27, p. 163). Essa redução é viabilizada por ganhos de escala: o aumento de alunos não implica aumento proporcional de custos com infraestrutura e docentes.
+
+### Segunda estratégia: financiamento estudantil privado [pp. 164–169]
+
+O autor distingue três modalidades de financiamento privado:
+
+1. **Reembolsável concedido pela própria IES**: cresceu de 0,4% dos alunos em 2014 para 3,2% em 2019, mas caiu para 1,2% em 2020 (Tabela 28, p. 166).
+2. **Reembolsável por entidade externa (ex.: Pravaler)**: manteve-se estável em torno de 0,6-0,8% dos alunos.
+3. **Não reembolsável (descontos comerciais)**: disparou de 13,4% dos alunos em 2014 para 30,6% em 2020 (Tabela 29, p. 168). Essa é a principal estratégia de precificação, atrelada ao pagamento pontual.
+
+> "A Yduqs compensa queda no Fies com cursos EAD e de Medicina. [...] a empresa já fatura com o ensino a distância (EAD) o mesmo patamar do antigo Fies." (O Estado de São Paulo, 18/03/2022, apud Scudeler, p. 190)
+
+### Análise dos relatórios de administração das cinco maiores empresas de capital aberto [pp. 173–187]
+
+O autor analisa os relatórios de 2020 e 2021 da Cogna, Yduqs, Cruzeiro do Sul, Ser Educacional e Ânima. Principais achados:
+
+- **Cogna**: teve prejuízos em 2020 e 2021, realizou "maior reestruturação da história", fechou campi, demitiu docentes, expandiu polos para 2.517 unidades. O EaD cresceu 32% ao ano desde 2019.
+- **Yduqs**: manteve lucros, com receita do EaD atingindo R$ 1,3 bilhão em 2021 (mesmo patamar do auge do Fies). Expandiu polos em 34% em 2021, visando 2.500 até 2022. O CEO afirmou que o foco está nas classes C e D.
+- **Cruzeiro do Sul**: fez IPO em 2021, captou R$ 1,2 bilhão. A base de alunos EaD cresceu 21,2% em 2020 e 12,5% em 2021, compensando a queda no presencial. Reduziu despesas com pessoal e infraestrutura.
+- **Ser Educacional**: receita bruta de R$ 2,8 bilhões em 2021, com crescimento de 15%. Criou uma *fintech* (Educred) para oferecer crédito a alunos.
+- **Ânima**: tradicionalmente focada em presenciais, anunciou em 2021 que o EaD seria prioridade. Em 2021, já tinha 114 mil alunos na modalidade, com receita de R$ 106,8 milhões.
+
+Todos os relatórios mencionam a redução drástica da base de alunos financiados pelo Fies (Cogna: 2,6% da base total em 2021; Ânima: 7,3%) e a estratégia de expansão de polos EaD como compensação.
+
+### Concentração de mercado na EaD [pp. 191–194]
+
+A Tabela 31 (p. 193) mostra que 70,2% dos alunos de EaD estão concentrados em apenas 10 IES privadas, pertencentes a 7 grupos empresariais. O autor destaca aquisições recentes: Ser Educacional comprou a FAEL (EaD) por R$ 280 milhões; Vitru Educação comprou a Unicesumar por R$ 3,2 bilhões, gerando sinergias de R$ 1-2,8 bilhões em redução de custos.
+
+### Síntese do capítulo [pp. 195–197]
+
+O mercado educacional reagiu ao encolhimento do Fies com duas estratégias principais: (1) expansão da EaD, com preços muito mais baixos e ganhos de escala; (2) oferta de financiamento privado, especialmente descontos comerciais (não reembolsável). Essas estratégias permitiram manter o crescimento do número de alunos e a rentabilidade, mesmo sem o protagonismo do Fies. O autor conclui que a EaD se tornou a principal via de acesso para alunos das classes C, D e E, mas com sérias implicações para a qualidade e a estratificação horizontal.
+
+---
+
+## Conclusão (pp. 198–212)
+
+O autor sintetiza os principais argumentos:
+
+- O diploma superior é altamente valorizado no Brasil devido aos ganhos salariais (144% acima do ensino médio) e ao histórico de acesso elitista.
+- As políticas públicas de expansão e diversificação (Prouni, Fies, cotas) produziram inegáveis benefícios sociais, mas também serviram como financiamento indireto para a formação de grandes grupos empresariais educacionais.
+- A crise econômica de 2015 e a política de austeridade fiscal (EC 95/2016) levaram ao encolhimento do Fies, ameaçando o acesso de alunos das classes C, D e E.
+- O mercado reagiu com duas estratégias: **(a)** expansão massiva da EaD, com mensalidades baixas (cerca de 1/3 do valor do presencial) e ganhos de escala; **(b)** financiamento privado, especialmente descontos comerciais (30,6% dos alunos em 2020).
+- Essas estratégias mantiveram a expansão do número de matrículas, mas aprofundaram a estratificação horizontal: alunos de baixa renda são direcionados para cursos EaD de baixo custo, enquanto alunos de alta renda permanecem nos presenciais de prestígio.
+- O autor critica o modelo do Fies, que deixou o preço da mensalidade a cargo das IES, gerando endividamento excessivo e financeirização. Propõe que o Estado retome o protagonismo, definindo áreas prioritárias, modalidades de formação e, principalmente, **quanto o Estado quer pagar** para que o setor privado forme o estudante.
+
+> "O Estado precisa voltar a ser o protagonista deste cenário, a partir de uma forte revisão do modelo jurídico do Fies, em que o Estado deve definir quais áreas do conhecimento são prioritárias para a formação de profissionais para o futuro, a modalidade de formação e, em especial, o quanto o Estado quer pagar para que o segmento privado forme este estudante." (p. 212)
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+
+**Tese central**: A partir de 2015, com o encolhimento do Fies devido à política de austeridade fiscal, os grupos empresariais da educação superior privada brasileira mantiveram a expansão do número de matrículas e a rentabilidade financeira por meio de duas estratégias comerciais: (1) expansão massiva da oferta de cursos na modalidade a distância (EaD), com mensalidades sensivelmente mais baixas (cerca de 1/3 do valor do presencial) e ganhos de escala; (2) oferta de fontes privadas de financiamento estudantil, especialmente descontos comerciais (financiamento não reembolsável), que atingiram 30,6% dos alunos em 2020.
+
+**Natureza do argumento**: Explicativo-causal, combinando análise documental, análise de dados quantitativos (Censo da Educação Superior, relatórios financeiros) e interpretação sociológica (Bourdieu, financeirização). O autor demonstra uma relação de substituição: a redução de uma política pública (Fies) foi compensada por estratégias de mercado, com o apoio de um novo arcabouço normativo que facilitou a expansão da EaD (Decreto 9.057/2017, Portaria 11/2017, Portaria 1.428/2018).
+
+**O que o texto demonstra**: (a) A correlação temporal entre o encolhimento do Fies (2015-2021) e a aceleração da EaD (matrículas EaD no setor privado saltaram de 17,1% em 2014 para 39,4% em 2021; ingressantes EaD ultrapassaram os presenciais em 2019). (b) O diferencial de preço como mecanismo de atração de alunos de baixa renda (mensalidade EaD média de R$ 249 em 2021, contra R$ 758 no presencial). (c) A concentração de mercado na EaD (70,2% das matrículas em 10 IES, pertencentes a 7 grupos). (d) A partir dos relatórios de administração, como as empresas educacionais explicitamente adotaram a EaD como estratégia para compensar a perda do Fies.
+
+**O que fica como hipótese ou agenda**: O autor não demonstra causalidade estrita (não há modelo contrafactual), mas estabelece uma forte correlação e plausibilidade teórica. A análise do financiamento privado é menos robusta que a da EaD, pois o autor mostra que os descontos comerciais cresceram, mas não consegue isolar o efeito causal do encolhimento do Fies nesse crescimento (pode ser também uma tendência secular). Além disso, a tese não avalia o impacto na qualidade da educação (apenas menciona a questão da estratificação horizontal).
+
+**Contribuição para o debate**: A tese avança em relação à literatura anterior ao focar nas **consequências** do encolhimento do Fies e nas **estratégias empresariais** de resposta, em vez de apenas descrever a expansão ou a financeirização. Ela também fornece evidência empírica detalhada (dados do Inep, relatórios financeiros) sobre a rápida transformação do setor em direção à EaD, com implicações para as políticas públicas de acesso e equidade. O argumento de que o mercado "ocupou o espaço vazio" deixado pelo Estado é relevante para o debate sobre a mercantilização da educação e os limites da austeridade fiscal.
+
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v12.0*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é registrado no campo `Raciocínio analítico` da tabela.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | O autor explicita a pergunta na introdução (p. 20). A pergunta é causal-explicativa: busca identificar as estratégias comerciais que permitiram a manutenção da expansão e rentabilidade após o encolhimento do Fies. A pergunta é relevante porque conecta política pública (austeridade fiscal) com comportamento empresarial e consequências para o acesso. A principal vulnerabilidade é que a pergunta assume que o mercado "respondeu" ao encolhimento, mas poderia haver outros fatores (ex.: mudanças tecnológicas, demanda dos alunos) não controlados. | **Pergunta central (explícita)**: "Quais as consequências do forte encolhimento do Fies para o segmento educacional, especialmente a partir de 2015, e quais as alternativas comerciais criadas por grandes grupos educacionais visando minimizar ou evitar a redução do processo de captação de novos alunos para o setor?" (p. 20). Natureza: explicativa-causal. |
+| Questões Secundárias | O autor desdobra a pergunta central em questões operacionais: (1) Como evoluiu o preço médio das mensalidades? (2) Qual foi o crescimento da EaD em matrículas, cursos e polos? (3) Quais marcos legais viabilizaram essa expansão? (4) Como se comportaram as fontes de financiamento privado? (5) O que mostram os relatórios das empresas de capital aberto? Essas questões são bem alinhadas com a pergunta central, mas a relação entre elas não é explicitamente modelada. | Perguntas secundárias implícitas: (i) Qual foi a trajetória do valor das mensalidades presenciais entre 2005 e 2021? (ii) Como se deu a expansão da EaD em termos de marcos legais, matrículas, ingressantes, cursos e polos? (iii) Qual o diferencial de preço entre EaD e presencial? (iv) Como evoluíram as fontes de financiamento privado reembolsável e não reembolsável? (v) Quais estratégias as cinco maiores empresas de capital aberto declararam em seus relatórios de administração? |
+| Puzzle-Type | O autor identifica um puzzle empírico: o Fies encolheu drasticamente após 2015, mas o número de matrículas na educação superior continuou crescendo (ainda que mais lentamente). Como isso foi possível? A resposta proposta é que o mercado desenvolveu estratégias substitutivas. O puzzle é genuíno e generalizável para outros contextos de corte de financiamento público em serviços sociais (saúde, habitação). No entanto, o autor não testa hipóteses alternativas (ex.: aumento da demanda autônoma por educação devido à crise do emprego). | **Puzzle explicativo**: Se o Fies (principal política de financiamento estudantil) foi drasticamente reduzido a partir de 2015, como o setor privado da educação superior manteve a expansão do número de matrículas e a rentabilidade financeira? O puzzle é genuíno, pois a correlação negativa entre Fies e matrículas não é óbvia (esperar-se-ia queda nas matrículas). A generalizabilidade é média: aplica-se a contextos de mercantilização de serviços sociais com financiamento público substitutivo. |
+| Conclusão / Argumento Central | O argumento central é causal: o encolhimento do Fies *causou* (via necessidade de manter rentabilidade) a adoção de duas estratégias empresariais (EaD e financiamento privado). O autor demonstra forte correlação temporal e plausibilidade teórica, mas não estabelece contrafactual. O *claim of discovery* é que a EaD se tornou a principal via de acesso para alunos de baixa renda na ausência do Fies, e que isso aprofunda a estratificação horizontal. O autor sustenta esse claim com dados de matrículas, preços e relatórios empresariais. | Tese: "na míngua de fontes públicas estatais de financiamento estudantil, a continuidade do processo de expansão e a manutenção dos resultados financeiros das empresas educacionais foi viabilizada por duas estratégias comerciais centrais, quais sejam, o aumento da oferta de cursos na modalidade de ensino a distância, com mensalidades sensivelmente mais baratas, e a oferta de fontes privadas de financiamento estudantil pelas empresas educacionais" (p. 6). Natureza: causal (substituição de política pública por estratégias de mercado). |
+| Métodos | O autor combina pesquisa documental (leis, decretos, portarias), análise de dados quantitativos secundários (Censo Inep, Hoper Educação, Semesp) e análise qualitativa de relatórios de administração de empresas. A triangulação é adequada ao objetivo. A principal limitação é a ausência de análise estatística inferencial (regressões, séries temporais) que permitisse controlar fatores de confusão (ex.: crescimento natural da demanda por EaD devido à digitalização). A estratégia argumentativa é predominantemente descritivo-correlacional. | Tipo de estudo: pesquisa documental explicativa, com abordagem dialética. Fontes: Censo da Educação Superior (Inep), dados do FNDE, relatórios do TCU, publicações do Semesp, Hoper Educação, OCDE, relatórios de administração (2020-2021) de cinco empresas (Cogna, Yduqs, Cruzeiro do Sul, Ser Educacional, Ânima), reportagens jornalísticas. Técnicas: sistematização de dados quantitativos (tabelas), análise de conteúdo de relatórios, interpretação sociológica. Limitação: não utiliza modelos estatísticos para controle de variáveis de confusão. |
+| Data Generation Process (DGP) | O fenômeno real é a dinâmica do mercado educacional superior privado brasileiro entre 2010 e 2021. A observação é indireta, via estatísticas oficiais (Inep) e relatórios empresariais. A coleta é feita por terceiros (Inep, Hoper, Semesp) e pelo autor (relatórios das empresas). A operacionalização: matrículas, ingressantes, número de cursos, número de polos, valor médio de mensalidades, número de contratos do Fies, percentuais de financiamento privado. A análise é predominantemente descritiva (evolução temporal, comparações de proporções). A inferência é correlacional, não causal. A unidade de análise é o agregado nacional (setor educacional) e, nos relatórios, a empresa. O nível de agregação é alto, o que limita a identificação de mecanismos causais no nível do aluno ou da IES individual. | Fenômeno real: expansão da educação superior privada e encolhimento do Fies. Observação: via estatísticas agregadas e relatórios financeiros. Coleta: bases de dados públicas (Inep, FNDE) e privadas (Hoper, Semesp). Operacionalização: indicadores como TBM, TLE, número de matrículas (presencial/EaD), número de ingressantes, número de contratos do Fies, valor médio de mensalidades, percentual de alunos com financiamento privado. Análise: tabelas descritivas e comparações temporais. Inferência: correlacional, com plausibilidade teórica mas sem controle de confundidores. Unidade de análise: setor educacional agregado e empresas individuais. |
+| Achados e Contribuições | Os principais achados empíricos: (a) o preço médio das mensalidades presenciais caiu 21% entre 2015 e 2021 após ter subido 21,8% entre 2011 e 2015; (b) as matrículas EaD no setor privado saltaram de 17,1% (2014) para 39,4% (2021); (c) os ingressantes EaD superaram os presenciais em 2019, chegando a 70,5% em 2021; (d) os polos EaD cresceram de 4.913 (2014) para 31.497 (2021); (e) o financiamento privado não reembolsável (descontos) atingiu 30,6% dos alunos em 2020; (f) as cinco maiores empresas de capital aberto declararam explicitamente que a EaD compensou a perda do Fies. Contribuições teóricas: aplicação do conceito de financeirização à educação superior, mostrando como o Estado fomentou o capitalismo acadêmico. Contribuição metodológica: uso de relatórios de administração como fonte para entender estratégias empresariais. | **Achados empíricos**: (1) Três fases na política de preços das mensalidades presenciais (2005-2010 queda, 2011-2015 alta, 2016-2021 queda). (2) Expansão explosiva da EaD a partir de 2017, viabilizada por novos marcos legais (Decreto 9.057/2017, Portaria 11/2017, Portaria 1.428/2018). (3) Diferencial de preço EaD/presencial: 32,8% em 2021. (4) Concentração de 70,2% das matrículas EaD em 10 IES privadas. (5) Crescimento do financiamento privado não reembolsável (descontos) de 13,4% (2014) para 30,6% (2020). (6) Todos os relatórios das cinco empresas de capital aberto apontam a EaD como estratégia central para compensar a perda do Fies. **Contribuições teóricas**: aplicação da noção de financeirização à educação superior; crítica à austeridade fiscal como impulsionadora da mercantilização. **Contribuição metodológica**: análise sistemática de relatórios de administração como fonte para estudo de estratégias empresariais. |
+| Análise Crítica dos Achados | O autor responde adequadamente à pergunta central, mostrando que a EaD e os descontos comerciais cresceram no período de encolhimento do Fies. No entanto, a relação causal é inferida por correlação temporal e plausibilidade, não por design que isole o efeito. Vulnerabilidades: (a) a expansão da EaD também pode ser explicada por avanços tecnológicos e mudanças nas preferências dos alunos (efeito pandemia), não apenas pela substituição do Fies; (b) o autor não compara o comportamento de IES que dependiam muito do Fies com as que dependiam pouco, o que seria um teste mais forte; (c) a análise do financiamento privado mostra crescimento dos descontos, mas não demonstra que esse crescimento foi *causado* pelo encolhimento do Fies (pode ser uma tendência secular de aumento de descontos no varejo). O DGP é adequado para descrever correlações, mas não para estabelecer causalidade. As scope conditions não são explicitadas: o argumento aplica-se a grandes grupos empresariais de capital aberto? A todas as IES privadas? Apenas ao período 2015-2021? | **Adequação da resposta**: Sim, o autor mostra correlações fortes e fornece evidência qualitativa (relatórios empresariais) de que as empresas adotaram a EaD como resposta à perda do Fies. **Pontos mais vulneráveis**: (i) Ausência de modelo contrafactual; (ii) Não controle de fatores de confusão (ex.: digitalização geral da economia, pandemia); (iii) A análise do financiamento privado é menos robusta – o autor não mostra que os descontos comerciais aumentaram *especificamente* para alunos que teriam usado o Fies. **Ameaças à identificação**: endogeneidade (a EaD poderia estar crescendo independentemente do Fies); omissão de variáveis (crescimento do ensino médio, demanda por reciclagem profissional). **Scope conditions omitidas**: O argumento se aplica a grandes grupos de capital aberto? A IES de pequeno e médio porte? A regiões específicas? O autor não delimita. |
+| Limitações | **Reconhecidas pelo autor**: O autor menciona que o estudo é documental e não utiliza modelos estatísticos inferenciais (p. 29-30). Ele também reconhece que a comparação entre custo por aluno no Fies e na universidade federal é problemática porque as federais incluem despesas com pesquisa e aposentadorias (p. 119). **Não reconhecidas ou subestimadas**: (i) O autor não discute a possibilidade de que a expansão da EaD seja um fenômeno global independente do Fies (ex.: nos EUA, a EaD também cresceu no mesmo período sem um programa similar). (ii) A análise dos relatórios de administração é tratada como evidência de intencionalidade ("as empresas adotaram a estratégia"), mas relatórios são documentos de *accountability* que podem superenfatizar o planejamento em detrimento de contingências. (iii) O autor não avalia a qualidade dos cursos EaD (apenas menciona a estratificação horizontal), o que seria relevante para o debate sobre equidade. (iv) A tese não discute o papel do Prouni como possível substituto do Fies para a faixa de renda mais baixa (até 1,5 SM). | **Reconhecidas**: (a) Natureza documental, sem inferência estatística causal; (b) Dificuldade de comparação de custos entre Fies e universidades federais. **Não reconhecidas**: (c) Possível viés de seleção na análise dos relatórios (apenas cinco empresas, todas de capital aberto, que podem não representar o setor como um todo); (d) Ausência de discussão sobre a qualidade da EaD e seus impactos na empregabilidade e nos ganhos salariais; (e) Não controle do efeito pandemia (2020-2021) que acelerou a adoção do ensino remoto; (f) Subestimação do papel do Prouni como alternativa para a faixa de renda mais baixa. |
+| Perspectiva Teórica | O autor combina a sociologia da reprodução de Bourdieu (capítulo 1) com a teoria da financeirização (capítulo 3) e a análise de políticas públicas neoliberais. Essa combinação é coerente: Bourdieu explica a demanda por diploma (capital cultural) e a estratificação horizontal; a financeirização explica o comportamento das empresas educacionais. No entanto, há uma tensão não resolvida: Bourdieu vê a escola como reprodutora de desigualdades, enquanto o autor parece acreditar que políticas públicas (cotas, Prouni, Fies) podem mitigar essas desigualdades – mas a evidência que ele mesmo apresenta mostra que a substituição do Fies pela EaD pode estar aprofundando a estratificação. A ontologia implícita é materialista (o mercado responde a incentivos econômicos), mas o autor também incorpora elementos simbólicos (idealização do diploma). A adequação da moldura teórica ao método é razoável, mas faltou uma operacionalização mais clara dos conceitos bourdieusianos (habitus, campo) nos dados empíricos. | Tradição(ões) teórica(s): (a) Sociologia da educação de Pierre Bourdieu (reprodução cultural, capital cultural, habitus, campo); (b) Teoria da financeirização (Lavinas & Gentil, Andrade); (c) Análise de políticas públicas neoliberais e austeridade fiscal (Rossi et al., Dweck et al.). **Adequação**: A moldura teórica é adequada para explicar tanto a demanda dos alunos (Bourdieu) quanto o comportamento das empresas (financeirização). **Coerência ontológica**: Há uma tensão entre o determinismo estrutural de Bourdieu e a agência do mercado na criação de estratégias. O autor não resolve essa tensão explicitamente. **Coerência método-teoria**: A abordagem dialética é compatível, mas os dados quantitativos descritivos são pouco explorados à luz dos conceitos bourdieusianos (não há análise de capitais, habitus ou campo). |
+| Principais Referências | O autor dialoga extensivamente com a literatura brasileira sobre Fies, Prouni, financeirização e EaD (ex.: Almeida, 2014, 2015; Santos Filho & Chaves, 2017; Tavares, 2019; Costa, 2018, 2019; Lavinas & Gentil, 2018). Também usa fontes internacionais (Bourdieu, Dubet, Trow, OCDE). No entanto, há pouca referência à literatura internacional sobre *academic capitalism* (Slaughter & Leslie, 1997) e sobre programas de financiamento estudantil em outros países (ex.: HECS australiano, income-contingent loans). A principal omissão é a falta de diálogo com estudos que avaliam o impacto da EaD na empregabilidade e nos ganhos salariais (ex.: estudos nos EUA sobre o *community college* online). | Autores/obras centrais: Bourdieu (reprodução cultural), Dubet et al. (2012) sobre desigualdades escolares, Trow (2005) sobre massificação, Sampaio (2014, 2015), Almeida (2014, 2015), Santos Filho & Chaves (2017), Tavares (2019), Costa (2018, 2019), Lavinas & Gentil (2018), Rossi et al. (2018, 2019). **Diálogo pobre ou desequilibrado**: O autor poderia ter se beneficiado da literatura internacional sobre *academic capitalism* (Slaughter & Leslie, 1997) e sobre *income-contingent loans* (ex.: Chapman, 2006). Também é escassa a referência a estudos sobre a qualidade e os retornos da EaD. |
+| Observações | **Vulnerabilidades adicionais**: (i) O autor não problematiza a noção de "qualidade" da educação – a tese critica a financeirização e a EaD como estratégia de baixo custo, mas não apresenta evidência de que a EaD produza piores resultados de aprendizagem (apenas menciona a estratificação horizontal). (ii) A análise dos relatórios de administração poderia ser aprofundada com análise de conteúdo sistemática (ex.: frequência de termos como "Fies", "EaD", "digitalização"). (iii) A tese não discute o papel dos investidores institucionais (fundos de private equity, IFC) no financiamento da expansão da EaD, mencionado apenas de passagem. **Lacunas teóricas**: Falta uma discussão sobre a relação entre austeridade fiscal e financeirização como fenômenos globais, não apenas brasileiros. **Relação com pesquisa do leitor**: Para pesquisadores de políticas educacionais, a tese oferece um rico conjunto de dados sobre a transformação do setor, mas deve ser complementada com análises causais mais rigorosas. Para pesquisadores de sociologia da educação, a tese aplica Bourdieu de forma útil, mas poderia explorar mais o conceito de *habitus* e *campo* nas estratégias empresariais. **Omissões**: O autor não menciona o Programa de Financiamento Estudantil (P-Fies) ou outras modalidades do Fies pós-2018. Também não discute o impacto da EaD na evasão (embora mencione que a EaD tem maior propensão à evasão). |
+
+:::

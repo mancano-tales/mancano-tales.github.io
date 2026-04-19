@@ -1,0 +1,232 @@
+---
+title: "Fichamento v13: Expansão da Educação Superior e Progressividade do Investimento Público"
+subtitle: "Costa, J. S., Silveira, F. G., Costa, R., & Waltenberg, F. D. (2021)"
+author: "Tales Mançano"
+date: "2026-04-19"
+last-updated: "2026-04-19"
+categories: [Annotated Bibliography, Economia da Educação, Políticas Públicas, Desigualdade, Análise Redistributiva, Brasil]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+> Costa, J. S., Silveira, F. G., Costa, R., & Waltenberg, F. D. (2021). *Expansão da educação superior e progressividade do investimento público*. Instituto de Pesquisa Econômica Aplicada (Ipea). [https://doi.org/10.38116/td2631](https://doi.org/10.38116/td2631)
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Costa-etal2021
+
+```bibtex
+@techreport{Costa-etal2021,
+  author    = {Costa, Joana Simões and Silveira, Fernando Gaiger and Costa, Roberta and Waltenberg, Fabio Domingues},
+  title     = {Expansão da educação superior e progressividade do investimento público},
+  year      = {2021},
+  institution = {Instituto de Pesquisa Econômica Aplicada (Ipea)},
+  type      = {Texto para Discussão},
+  number    = {2631},
+  address   = {Brasília},
+  doi       = {10.38116/td2631},
+}
+```
+
+:::
+
+Última atualização: 2026-04-19
+Modelo: Perplexity — Sonnet 4.6 Thinking
+Gerado em: 2026-04-19T15:14:00-03:00
+
+---
+
+## Introdução (pp. 7–8)
+
+### Problema, contexto e objetivos do estudo [§1–§5]
+
+O texto abre contestando uma ideia amplamente arraigada — tanto no imaginário popular quanto no acadêmico — de que a educação superior brasileira, e em especial sua vertente pública, seria estruturalmente elitista, regressiva e reprodutora de desigualdades. Os autores reconhecem que essa caracterização correspondia à realidade até o final do século XX (com apoio em McCowan, 2007), mas argumentam que, ao longo do início do século XXI, houve uma importante reversão de tendências — já parcialmente documentada, de forma esparsa e com ressalvas, pela literatura (IBGE, 2016; Oliveira, 2019; Salata, 2018; Caseiro, 2016; Carvalho e Waltenberg, 2015; Brito, 2014). O ponto de partida, portanto, é o diagnóstico de que o debate público ainda está emperrado em premissas datadas que não refletem as transformações ocorridas.
+
+O **objetivo principal** do trabalho é descrever sistematicamente as mudanças no acesso e no perfil dos estudantes universitários, além de mensurar a evolução do impacto redistributivo do investimento público em ensino superior ao longo do período 2001–2015. Para tanto, os autores utilizam dois conjuntos de dados complementares: (i) microdados da **Pesquisa Nacional por Amostra de Domicílios (PNAD/IBGE)**, que fornece informações sobre os universitários e seus domicílios; e (ii) estimativas de investimento público por aluno elaboradas pelo **Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep/MEC)**.
+
+Os resultados sumariados na Introdução indicam que, até 2005, a expansão do ensino superior beneficiou principalmente os dois quintos superiores da distribuição de renda; a partir de 2005, porém, os estratos de renda mais baixa passaram a ser beneficiados de forma considerável. Observou-se redução do hiato de frequência por área de residência, cor e escolaridade materna. Além disso, as universidades públicas passaram a acolher proporções crescentes de estudantes pobres, não metropolitanos e pretos e pardos. Apesar de todo esse avanço, os autores reconhecem que, em 2015, parcela ainda considerável do investimento público era apropriada pelos estratos superiores de renda.
+
+O estudo do impacto redistributivo revela dois movimentos paralelos: (i) entre 2001 e 2015, a razão entre o investimento por aluno no ensino superior e na educação básica caiu de 11,0 para 3,6, sinalizando maior progressividade no conjunto do investimento educacional; e (ii) em 2001, a curva de incidência do investimento em ensino superior público *cruzava* a curva de Lorenz da renda domiciliar per capita — indicando regressividade —, ao passo que em 2015 a curva de Lorenz passou a ser dominada pela curva de incidência, revelando regressividade em queda. O índice de Gini da renda era elevado em 0,0016 pelo investimento em 2001, mas em 2014–2015 a contribuição passou a ser de -0,0002 (leve redução do Gini).
+
+Os autores encerram a Introdução com um objetivo complementar explícito: contribuir para um **redirecionamento do debate** sobre a educação superior brasileira. Argumentam que persiste uma caracterização injusta e anacrônica do sistema (sintetizada na posição do Banco Mundial, 2017), e que a agenda de pesquisa e de política pública deve avançar em direção a novos desafios: garantir a permanência de estudantes de baixa renda, melhorar a qualidade com controle de custos e democratizar horizontalmente o acesso a cursos de elite (medicina, direito, engenharias).
+
+---
+
+## Expansão da Educação Superior no Século XXI: Antecedentes e Fatos Estilizados (pp. 9–19)
+
+### Contexto institucional e principais achados da literatura [§6–§14]
+
+A seção 2 inicia contextualizando o arcabouço de políticas que preparou o terreno para a expansão do ensino superior. Na década de 1990, a Constituição Federal de 1988 impulsionou um conjunto de políticas de educação e proteção social: obrigatoriedade escolar dos 7 aos 14 anos, SUS, BPC/Loas, Fundef e Programa Saúde da Família. Como resultado, a taxa de escolarização de 7 a 14 anos saltou de pouco mais de 80% em 1990 para 96,5% em 2001 (Carvalho, 2003). Ao mesmo tempo, a educação superior crescia, apoiada principalmente no setor privado.
+
+No início do século XXI, novas iniciativas ampliaram o alcance das políticas sociais e educacionais. Entre elas: Programa Bolsa Escola Federal (depois consolidado no Bolsa Família), Fundeb, e um conjunto de medidas voltadas especificamente à expansão do ensino superior — tanto no setor público (Reuni: de 45 para 63 universidades federais, de 148 para 321 campi, de 500.459 para 932.263 matrículas entre 2002 e 2014, segundo a CGU/2015) quanto no privado (ProUni, Fies). Somam-se a isso as **políticas de ações afirmativas**, culminando na Lei de Cotas de 2012, que colaboraram decisivamente para a entrada de novos públicos nas universidades. Em consequência, os gastos com educação em relação ao PIB saltaram de menos de 4,6% em 2000 para 6,2% em 2015.
+
+::: {.callout-note icon=false}
+O investimento por estudante na educação básica cresceu de R$ 807 (2000) para R$ 2.497 (2015); o da educação superior, de R$ 8.849 para R$ 9.084 no mesmo período. A razão entre os dois reduziu-se de 11,0 (2001) para 3,6 (2015), indicando crescimento relativo mais intenso na base do sistema.
+:::
+
+A literatura prévia já havia identificado uma democratização parcial do acesso à educação superior. Brito (2014), com dados dos Censos Demográficos de 1960 a 2010, registra que a ampliação do acesso ocorreu com persistência de desigualdades entre classes, grupos raciais e níveis socioeconômicos. Já estudos que incorporam dados da década de 2010 identificam uma ampliação proporcionalmente maior para grupos historicamente desfavorecidos: Caseiro (2016), para 2004–2014; Salata (2018), para 1995–2015.
+
+Salata (2018) destaca que parte da redução das desigualdades de acesso decorre do arrefecimento das iniquidades na conclusão do ensino médio — embora esta ainda constitua um gargalo importante para os 20% mais pobres (Senkevics e Carvalho, 2020; Simões, 2019). Considerando apenas os que haviam concluído o ensino médio, a redução das desigualdades de origem no acesso ao superior ocorreu essencialmente entre 2005 e 2015, não entre 1995 e 2005, período anterior às principais políticas inclusivas. Corroboram esse quadro: Carvalho e Waltenberg (2015), que identificam redução da desigualdade de oportunidades entre 2003 e 2013; e estudos sobre o efeito das cotas (Mendes Junior, Souza e Waltenberg, 2016; Francis e Tannuri-Pianto, 2012; Vilela, Menezes-Filho e Tachibana, 2016).
+
+Na comparação entre universidades públicas e privadas, Brito (2014) identifica que as desigualdades de acesso estão mais associadas a diferenciais nas instituições privadas ao longo dos anos 2000. O IBGE (2016) aponta maior diversidade no perfil dos estudantes de universidades públicas, com maior proporção de estratos de menor renda. A pesquisa da Andifes (Fonaprace, 2019) confirma essa tendência: cerca de 70% dos estudantes de instituições federais possuíam renda per capita de até 1,5 salário mínimo em 2018.
+
+Os autores ressaltam que, mesmo os estudos que identificam democratização, também advertem sobre a persistência de desigualdades. Daí a ênfase na importância da manutenção de políticas públicas que não apenas expandam, mas democratizem o acesso — incluindo seus efeitos positivos sobre renda, emprego e dinamismo econômico locais (Rocha et al., 2017; Niquito, Ribeiro e Portugal, 2018; De Faveri, Petterini e Barbosa, 2018).
+
+### Evolução do perfil dos estudantes universitários [§15–§24]
+
+Para observar a evolução do perfil dos estudantes, os autores recorrem às PNADs de 1995 a 2015, tomando como população-alvo os jovens de 18 a 24 anos sem ensino superior completo. Duas questões guiam a análise: (i) mudou a probabilidade de um jovem frequentar a universidade? (ii) essa mudança ocorreu no mesmo ritmo para diferentes grupos sociais? Ambas as respostas são afirmativas.
+
+::: {.callout-note icon=false}
+**Gráfico 1 — Taxa de frequência líquida por quintos de renda (18–24 anos):**
+
+| Quinto | 1995 | 2005 | 2015 |
+|:-------|-----:|-----:|-----:|
+| 1º (mais pobre) | 0% | 1% | 6% |
+| 2º | 1% | 2% | 12% |
+| 3º | 2% | 7% | 18% |
+| 4º | 6% | 16% | 29% |
+| 5º (mais rico) | 25% | 46% | 53% |
+
+Fonte: Microdados PNAD/IBGE.
+:::
+
+O **Gráfico 1** evidencia que a expansão entre 1995 e 2005 beneficiou sobretudo os dois quintos superiores da distribuição de renda. O crescimento entre 2005 e 2015, por sua vez, é notavelmente mais democrático: os estratos inferiores registram as maiores taxas de crescimento relativo, ainda que em termos absolutos o diferencial persista expressivamente. Entre os jovens dos 40% mais pobres (18–24 anos), a proporção que frequentava a universidade era inferior a 1% em 2001 e chegou a 9% em 2015.
+
+A análise desagregada por tipo de instituição (Gráfico 2) mostra que o diferencial entre ricos e pobres é *menor* nas universidades públicas do que nas privadas. Enquanto no setor privado a razão entre a frequência dos 20% mais ricos e dos 20% mais pobres era de 10,4 em 2015 (38,0% versus 3,6%), nas públicas era de 5,9 (14,8% versus 2,5%). Isso indica que, apesar de as universidades privadas absorverem mais alunos pobres em termos absolutos, as públicas apresentam perfil proporcionalmente mais igualitário.
+
+::: {.callout-important}
+As universidades privadas, embora atendam proporcionalmente mais estudantes de grupos menos privilegiados em termos absolutos (ex.: 9,3% dos negros de 18–24 anos nas privadas vs. 3,8% nas públicas em 2015), apresentam razão rico/pobre mais desigual. As públicas, por sua vez, têm menor diferencial absoluto por cor e por área de residência.
+:::
+
+A análise por área de residência (Gráfico 3) revela que o hiato entre jovens metropolitanos e não metropolitanos — já pequeno nas públicas em 2001 — praticamente desapareceu em 2015. Nas privadas, a convergência também ocorreu, mas de forma mais gradual. Por cor (Gráfico 4), observa-se crescimento da proporção de pretos e pardos em ambos os tipos de instituição, sendo o diferencial absoluto menor nas públicas: em 2015, 7,2% dos brancos versus 3,8% dos pretos ou pardos nas públicas, contra 19,4% versus 9,3% nas privadas.
+
+A análise por escolaridade materna (Gráfico 5) reforça o quadro: jovens cujas mães possuem ensino superior apresentam frequência universitária muito maior do que aqueles com mães de baixa escolaridade, em ambos os tipos de instituição. No entanto, entre 2001 e 2015, há crescimento consistente das taxas dos grupos com menor capital educacional familiar, especialmente nas públicas — onde jovens com mães de ensino fundamental incompleto passam de 0,9% para 2,2%.
+
+A composição dos estudantes universitários (Gráficos 6 e 7) também se alterou. O **Gráfico 6** mostra redução da participação dos 20% mais ricos desde 2001 e aumento considerável dos 40% mais pobres, especialmente a partir de 2005. O **Gráfico 7**, desagregado por tipo de instituição, evidencia que as universidades públicas apresentam maior proporção de estudantes de menor renda em sua composição: em 2015, os dois quintos inferiores representavam cerca de 31% dos universitários das públicas, contra proporções menores nas privadas.
+
+A composição por cor e área de residência (Gráficos 8 e 9) confirma aumento da proporção de pretos ou pardos e de residentes em áreas não metropolitanas entre os universitários ao longo do período. São as universidades públicas que apresentam maior proporção desses grupos em 2015.
+
+::: {.callout-tip}
+A seção 2 encerra com uma síntese: tanto os dados quanto a literatura indicam democratização do acesso ao ensino superior, especialmente no período 2005–2015 — período caracterizado pela combinação do ProUni, Fies, cotas e Reuni. As universidades públicas mostram-se mais diversas que as privadas. Essa inclusão social abre caminho para a pergunta central da seção 3: em que medida o investimento público em ensino superior ainda deve ser considerado regressivo?
+:::
+
+---
+
+## Investimento em Ensino Superior Público Beneficia Principalmente os Mais Ricos? (pp. 20–35)
+
+### Bases de dados e metodologia [§25–§30]
+
+A terceira seção descreve a estratégia para mensurar o impacto redistributivo do investimento público em ensino superior. O Inep estima anualmente o **investimento público por aluno** por nível de ensino nas instituições públicas, incluindo despesas com pessoal ativo, encargos sociais, outras despesas correntes e investimentos financeiros das três esferas de governo — excluindo aposentadorias, pensões, bolsas, Fies e encargos da dívida. Os dados cobrem o período 2000–2015.
+
+O procedimento metodológico consiste em: (i) dividir o investimento anual por aluno por doze, gerando o investimento mensal; (ii) atribuir esse valor a cada estudante de instituição pública identificado na PNAD; (iii) dividir pelo número de membros do domicílio, obtendo o **investimento mensal domiciliar per capita em educação superior pública**; (iv) somar esse valor à renda mensal domiciliar per capita original, gerando uma renda ampliada. Estudantes de pós-graduação foram excluídos da análise.
+
+Os autores reconhecem uma limitação importante: a **subenumeração** dos universitários na PNAD em relação ao Censo da Educação Superior do Inep. A partir de 2008, a subenumeração situa-se ao redor de 20%. Dado que o peso do investimento na renda potencializa a progressividade do benefício, essa subenumeração provavelmente leva à *subestimação* dos efeitos redistributivos estimados. Os autores ressalvam que, sem conhecer a distribuição da subenumeração por estrato, não é possível afirmar com certeza o sentido do viés — embora, se o perfil dos subenumerados for similar ao dos enumerados, a subestimação seja a hipótese mais plausível.
+
+A **Tabela 1** apresenta o investimento público mensal por aluno, a população universitária segundo PNAD e Inep, e o investimento total anual estimado e realizado (em R$ de dezembro de 2019). Dois fatos se destacam: o investimento por aluno preservou-se grosso modo em termos reais (com queda no biênio 2003–2004 e recuperação posterior, chegando a cerca de R$ 2.300 mensais em 2019), ao passo que o número de alunos nas públicas cresceu 73% pela PNAD e 108% pelo Inep entre 2001 e 2015. Logo, o investimento total cresceu de forma expressiva, proporcionalmente ao crescimento discente.
+
+A **Tabela 2** mostra que, ao incorporar o investimento em ensino superior, a renda mensal domiciliar per capita média aumenta cerca de 1,4% ao longo de todo o período — variação estável, dada que a renda média cresceu 43% em termos reais entre 2001 e 2015. Os autores notam que esse investimento supera individualmente programas como o Bolsa Família (0,6% da renda domiciliar per capita segundo a POF 2017/2018) e o BPC (0,7%), e é comparável à soma dos dois.
+
+Para avaliar os efeitos redistributivos, os autores utilizam quatro instrumentos analíticos:
+
+- **Curvas de concentração e de Lorenz**: a curva de concentração (*curva de incidência*) ordena a população pela renda original e acumula a parcela do investimento recebida; compara-se com a curva de Lorenz da renda.
+- **Índice de concentração**: análogo ao índice de Gini, mensura a desigualdade na distribuição do benefício.
+- **Razão de concentração**: participação do benefício recebida pelo quinto mais rico em relação ao mais pobre.
+- **Decomposição do índice de Gini**: avalia a contribuição do investimento em educação superior para o nível de desigualdade da renda ampliada.
+
+### Resultados: curvas de concentração e progressividade [§31–§40]
+
+::: {.callout-note icon=false}
+**Puzzle central do estudo:**
+
+> Em que medida o investimento público em ensino superior ainda deve ser considerado como um recurso destinado essencialmente aos indivíduos no topo da distribuição de renda?
+:::
+
+O **Gráfico 10** apresenta as curvas de Lorenz e de concentração do investimento em ensino superior público para os anos de 2001 e 2015. Em 2001, as duas curvas se cruzavam: para os percentis mais baixos da distribuição de renda, a curva de Lorenz estava abaixo da curva de concentração, indicando que os mais pobres recebiam uma fração do investimento superior à sua fração de renda — mas acima do ponto de cruzamento, os mais ricos passavam a receber uma parcela desproporcional. Em 2015, a curva de Lorenz passa a ser *dominada* pela curva de concentração do investimento em toda a sua extensão, indicando que, em qualquer ponto da distribuição, os mais pobres recebem proporcionalmente mais do investimento do que sua participação na renda — característica de um benefício progressivo.
+
+Esse movimento é robusto ao longo do período analisado. O **Gráfico 11** apresenta a evolução do índice de concentração do investimento em ensino superior público entre 2001 e 2015: o índice parte de valores positivos elevados (regressivos) e converge progressivamente para valores próximos ou abaixo de zero, com uma trajetória mais acelerada a partir de 2005–2006. Os autores interpretam essa trajetória como reflexo direto da democratização do perfil dos estudantes universitários documentada na seção 2.
+
+::: {.callout-note icon=false}
+**Tabela de indicadores redistributivos (síntese dos resultados):**
+
+| Indicador | 2001 | 2015 |
+|:----------|-----:|-----:|
+| Índice de concentração do investimento | Positivo/regressivo | Próximo de zero / progressivo |
+| Contribuição do investimento ao Gini | +0,0016 | -0,0002 |
+| Razão 5º quinto / 1º quinto (frequência pública) | ~18,0 | ~5,9 |
+| Razão investimento ES / EB por aluno | 11,0 | 3,6 |
+:::
+
+O **Gráfico 12** detalha a decomposição do índice de Gini da renda ampliada (original + investimento em educação superior). Em 2001, o investimento em educação superior contribuía positivamente para o Gini — isto é, elevava a desigualdade em 0,0016 ponto. Em 2014 e 2015, essa contribuição torna-se negativa (-0,0002), indicando que o investimento passou a contribuir marginalmente para a *redução* da desigualdade de renda. A magnitude é pequena, mas a inversão do sinal é analiticamente significativa.
+
+O **Gráfico 13** apresenta a razão entre a participação do quinto mais rico e do quinto mais pobre no investimento em ensino superior público ao longo do período. Em 2001, a razão era elevada, refletindo a concentração do benefício no topo da distribuição. Ao longo dos anos, essa razão cai consistentemente, com queda mais pronunciada a partir de 2005, em linha com a democratização do acesso documentada na seção 2.
+
+Os autores realizam análise de sensibilidade verificando se os resultados se alteram quando se considera o investimento segundo o Inep (que corrige a subenumeração da PNAD). Os resultados são qualitativamente robustos: a progressividade crescente do investimento se mantém, e os efeitos redistributivos são ligeiramente maiores, confirmando que a subenumeração leva à subestimação dos efeitos estimados com a PNAD.
+
+::: {.callout-tip}
+Os autores concluem a seção 3 estabelecendo que o investimento em ensino superior público deixou de ser inequivocamente regressivo no Brasil ao longo do período 2001–2015. A mudança no perfil dos estudantes — impulsionada pelas políticas de acesso — foi o principal mecanismo desse processo. No entanto, advertem que, ao final de 2015, parcela ainda considerável do investimento era apropriada pelos estratos superiores, reforçando a necessidade de continuidade e aprofundamento das políticas inclusivas.
+:::
+
+---
+
+## Considerações Finais (pp. 35–36)
+
+### Síntese dos resultados e agenda de política [§41–§44]
+
+A seção final retoma os principais resultados do estudo de forma articulada. Os autores confirmam que a expansão da educação superior caminhou rumo a uma maior democratização do acesso, especialmente nas universidades públicas e no período 2005–2015. Como resultado, uma proporção maior do investimento público passou a alcançar os estratos mais pobres da sociedade, e o investimento em nível superior deixou de contribuir para a concentração da renda — passando, marginalmente, a contribuir para sua redução.
+
+Os autores reafirmam que a persistência da narrativa elitista sobre a educação superior brasileira (exemplificada pelo Banco Mundial, 2017) não reflete adequadamente o momento atual do sistema. Isso não significa que as desigualdades foram eliminadas, mas que seu perfil mudou e que o debate deve ser atualizado. O argumento normativo central é que, enquanto o debate estiver preso em questões desatualizadas, os novos desafios para uma educação equitativa não receberão a atenção que merecem.
+
+::: {.callout-important}
+Os autores identificam explicitamente três novos desafios para a agenda de pesquisa e de política pública:
+
+1. **Permanência**: assegurar que estudantes de perfil socioeconômico desfavorecido consigam concluir o ensino superior;
+2. **Qualidade**: melhorar a qualidade da educação superior pública e privada com custos sob controle;
+3. **Democratização horizontal**: ampliar o acesso e a permanência de alunos desfavorecidos em cursos de elite (medicina, direito, engenharias).
+:::
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** O investimento público em ensino superior brasileiro deixou de ser inequivocamente regressivo ao longo do período 2001–2015, em decorrência da democratização do perfil dos estudantes universitários impulsionada por políticas públicas de acesso (Reuni, ProUni, Fies, Lei de Cotas).
+
+**Natureza do argumento:** Predominantemente descritivo-avaliativo, com elementos normativos na conclusão. O estudo não estabelece relações causais formais entre as políticas e os resultados redistributivos, mas documenta correlações temporais consistentes e constrói um argumento de plausibilidade baseado na coincidência entre a intensificação das políticas (pós-2005) e a aceleração da democratização.
+
+**O que o texto demonstra:** (i) a trajetória de democratização do perfil universitário entre 1995 e 2015, desagregada por renda, cor, área de residência e escolaridade materna; (ii) a evolução do índice de concentração do investimento em ensino superior público, que migrou de positivo (regressivo) para próximo de zero ou negativo (progressivo); (iii) a inversão do sinal da contribuição do investimento ao Gini (de +0,0016 em 2001 para -0,0002 em 2014–2015).
+
+**O que fica como hipótese ou agenda:** A eficácia causal de cada política específica (cotas, ProUni, Reuni, Fies) sobre a democratização do acesso permanece como questão em aberto — o estudo não separa os efeitos individuais dessas intervenções. A análise das desigualdades *horizontais* (acesso a cursos de elite) também é identificada como agenda futura.
+
+**Contribuição para o debate:** O texto oferece evidência sistemática e longitudinal que contesta o enquadramento dominante sobre o elitismo da educação superior pública brasileira, contribuindo para a literatura sobre progressividade do gasto social e desigualdade de oportunidades educacionais no Brasil.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v12.0*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é registrado no campo `Raciocínio analítico` da tabela.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta é parcialmente explícita: o título da seção 3 ("Investimento em ensino superior público beneficia principalmente os mais ricos?") funciona como questão retórica. A premissa vulnerável é que a mera mudança no perfil dos beneficiários seja suficiente para qualificar o investimento como progressivo, sem controlar por alternativas contrafactuais (ex.: o que ocorreria com o mesmo montante investido em outro nível de ensino). A interpretação alternativa — de que a regressividade persiste, apenas em menor grau — é reconhecida pelos próprios autores. | Descrever as mudanças no acesso e no perfil dos estudantes universitários e mensurar a evolução do impacto redistributivo do investimento público em ensino superior no Brasil entre 2001 e 2015. Natureza: descritiva-avaliativa. A pergunta redistributiva central ("o investimento ainda é regressivo?") é explícita; a dimensão causal (quais políticas produziram a mudança) permanece implícita. |
+| Questões Secundárias | As questões secundárias são tratadas como instrumentais à pergunta central. A distinção público/privado é analiticamente relevante e pouco explorada do ponto de vista teórico. | (1) Como variou a probabilidade de jovens de diferentes estratos frequentarem a universidade? (2) A democratização ocorreu no mesmo ritmo para grupos definidos por cor, área de residência e escolaridade materna? (3) Qual a evolução do investimento por aluno e do total do investimento em ensino superior público? Todas subordinadas à pergunta central sobre progressividade. |
+| Puzzle-Type | O puzzle é genuíno: há tensão entre uma narrativa dominante (ensino superior público = elitista) e evidências de mudança estrutural. A generalizabilidade é limitada ao caso brasileiro, mas a moldura analítica (curvas de concentração, índices de incidência) é exportável para outros contextos. A vulnerabilidade está em que o "puzzle" poderia ser resolvido com dados mais recentes ou com análise mais desagregada, sem alterar a moldura. | Gap descritivo combinado com avaliação de política. O puzzle é genuíno — a narrativa de regressividade persistente na literatura de referência contrasta com evidências de democratização documentadas em estudos parciais. O texto sistematiza e estende essas evidências com uma medida redistributiva direta. Generalizável como método para outros países em desenvolvimento com expansão recente do ensino superior. |
+| Conclusão / Argumento Central | O *claim of discovery* é a inversão do sinal redistributivo do investimento (de regressivo para marginalmente progressivo). O que sustenta esse claim é a combinação da análise de curvas de concentração e da decomposição do Gini. O ponto vulnerável é que a magnitude do efeito é muito pequena (-0,0002 no Gini), e a conclusão normativa de "redirecionamento do debate" extravasa o que os dados efetivamente demonstram. | O investimento público em ensino superior no Brasil tornou-se progressivo — ou ao menos deixou de ser regressivo — ao longo de 2001–2015, em decorrência da democratização do perfil dos estudantes. Argumento descritivo-avaliativo com conclusão normativa. O claim principal (inversão do sinal redistributivo) é sustentado pelos dados; o claim secundário (necessidade de redirecionar o debate de política) é normativo e depende de premissas adicionais não completamente desenvolvidas no texto. |
+| Métodos | O principal risco metodológico é a subenumeração da PNAD (≈20% a partir de 2008), que os autores reconhecem, mas cuja direção do viés não é determinada com precisão. A atribuição do investimento médio por aluno a todos os estudantes públicos — sem considerar variações por curso, instituição ou região — é simplificação relevante. O uso de curvas de concentração é padrão na literatura de incidência fiscal, mas não permite inferência causal. | Estudo descritivo-longitudinal com análise de incidência fiscal. Fontes: microdados PNAD/IBGE (1995–2015) e dados administrativos do Inep/MEC (2000–2015). Técnicas: curvas de concentração e de Lorenz, índices de concentração, razões de concentração por quintos e decomposição aditiva do índice de Gini. Limitações de identificação: ausência de design causal formal; atribuição do investimento médio nacional a todos os estudantes públicos; subenumeração sistemática da PNAD. |
+| Data Generation Process (DGP) | O DGP é bem descrito para padrões de um texto para discussão. A operacionalização — dividir o investimento mensal por membros do domicílio — implica uma hipótese de distribuição intradomiciliar uniforme que não é discutida. A unidade de análise muda entre seções (jovem de 18–24 anos na seção 2; domicílio na seção 3), o que é coerente com as questões, mas poderia ser mais explicitado. | Fenômeno: distribuição do investimento público em ensino superior entre estratos de renda. Observação: matrícula em instituição pública (PNAD) + investimento por aluno (Inep). Coleta: dados secundários (survey domiciliar + registro administrativo). Operacionalização: investimento mensal atribuído ao estudante e rateado por membros do domicílio → renda ampliada. Análise: comparação de distribuições via curvas e índices. Inferência: descritiva/distributiva, sem identificação causal. Unidade de análise: domicílio (seção 3); jovem de 18–24 anos (seção 2). Nível de agregação: nacional. |
+| Achados e Contribuições | O achado mais robusto — a inversão do sinal da contribuição do investimento ao Gini — é sustentado por duas fontes de dados convergentes (PNAD e Inep). A contribuição metodológica (articulação entre análise de perfil e análise de incidência) é genuína para o contexto brasileiro. O achado sobre a superioridade das públicas em diversidade de perfil é menos discutido teoricamente do que merece. | **Achados empíricos:** (1) A taxa de frequência líquida no ensino superior cresceu para todos os quintos, com crescimento proporcionalmente maior nos estratos inferiores após 2005; (2) a razão entre investimento por aluno no ensino superior e na educação básica caiu de 11,0 para 3,6; (3) a contribuição do investimento em ensino superior ao Gini inverteu de +0,0016 (2001) para -0,0002 (2014–2015); (4) as universidades públicas são mais diversas que as privadas. **Contribuição metodológica:** articulação sistemática entre análise de perfil dos estudantes e análise de incidência fiscal do investimento público, com decomposição do Gini — pouco explorada na literatura brasileira. |
+| Análise Crítica dos Achados | O ponto mais vulnerável é a ausência de identificação causal: a coincidência temporal entre políticas e mudanças é plausível, mas não suficiente para estabelecer nexo causal. O ponto mais sólido é o uso de duas fontes de dados convergentes para os resultados redistributivos. A *scope condition* não declarada é que os resultados valem para o período de expansão fiscal — não necessariamente para períodos de austeridade. | O estudo responde adequadamente à pergunta descritiva ("houve mudança redistributiva?"), mas não à pergunta explicativa subjacente ("o que causou essa mudança?"). Pontos vulneráveis: (1) atribuição do investimento médio sem variação por curso ou região; (2) ausência de análise de permanência — a progressividade medida é de acesso, não de conclusão; (3) magnitude muito pequena do efeito sobre o Gini, que pode sugerir que o fenômeno, embora real, tem impacto redistributivo limitado. Pontos sólidos: triangulação PNAD/Inep; série temporal longa; comparabilidade metodológica ao longo do tempo. |
+| Limitações | O reconhecimento da subenumeração é honesto, mas a discussão sobre seu impacto nos resultados é inconclusiva. A limitação mais relevante não reconhecida é a ausência de análise de permanência e conclusão — um investimento progressivo no acesso pode ser regressivo nos resultados se os mais pobres abandonarem antes de se formar. | **Reconhecidas pelos autores:** Subenumeração da PNAD (≈20% a partir de 2008); possível subestimação dos efeitos redistributivos; ausência de dados sobre pós-graduação. <br> **Não reconhecidas ou subestimadas:** (1) ausência de análise de permanência e conclusão do curso (a progressividade pode reverter-se ao considerar benefícios efetivos); (2) atribuição de investimento médio nacional ignora heterogeneidade por curso, instituição e região; (3) ausência de análise contrafactual (o que ocorreria sem as políticas?); (4) período analisado termina em 2015, antes dos cortes fiscais do ensino superior pós-2016, limitando a validade prospectiva das conclusões. |
+| Perspectiva Teórica | A moldura de incidência fiscal é tecnicamente adequada para a pergunta avaliativa. A ausência de uma teoria da mudança institucional é coerente com a ambição descritiva do texto, mas fragiliza as implicações normativas da conclusão. | Tradição da economia da educação e da análise de incidência fiscal do gasto público social (Lustig, 2017; Atkinson e Stiglitz implicitamente). O texto não se filia explicitamente a nenhuma teoria da desigualdade ou da política educacional — postura coerente com sua natureza de Texto para Discussão de caráter descritivo-diagnóstico. A ontologia implícita é distributivista: o critério de avaliação normativa é a progressividade do gasto, sem discussão de eficiência alocativa ou de qualidade do ensino. |
+| Principais Referências | O diálogo com a literatura internacional sobre incidência fiscal do gasto em educação superior (ex.: Vandenberghe, Lustig) é escasso. As referências nacionais são bem selecionadas e atualizadas para o período. | Salata (2018), Brito (2014), Carvalho e Waltenberg (2015), IBGE (2016), Caseiro (2016), Oliveira (2019), Senkevics e Carvalho (2020), Mendes Junior, Souza e Waltenberg (2016), Banco Mundial (2017). Diálogo equilibrado com a literatura nacional; diálogo limitado com a literatura internacional de incidência fiscal do gasto educacional (Lustig et al., Vandenberghe), o que é uma lacuna notável dado o método utilizado. |
+| Observações | Para pesquisadores interessados em cotas e políticas de acesso, o texto oferece o quadro distributivo mais sistemático disponível para o período 2001–2015, sendo referência incontornável. A ausência de dados sobre conclusão e mercado de trabalho limita as inferências sobre o retorno social do investimento. | O texto é particularmente relevante para pesquisas sobre reforma institucional no ensino superior e avaliação de políticas de ação afirmativa. A análise termina em 2015, e a trajetória de austeridade fiscal pós-2016 (EC 95) pode ter revertido parcialmente os ganhos documentados — lacuna importante para pesquisa futura. A ausência de análise de qualidade do ensino é uma omissão com implicações para o argumento normativo: um sistema mais inclusivo, mas de qualidade inferior, pode não produzir os efeitos redistributivos esperados no mercado de trabalho. |
+
+:::
