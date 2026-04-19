@@ -112,11 +112,10 @@ function switchLang(lang) {
 }
 
 // Carrega inglês por padrão ao iniciar
-window.onload = function() {
-  const savedLang = localStorage.getItem('preferredLang') || 'en';
-  console.log('Loading with language:', savedLang);
-  switchLang(savedLang);
-};
+// Remova a linha com localStorage.setItem
+// Remova a linha com localStorage.getItem
+// Substitua o window.onload por:
+window.onload = function() { switchLang('en'); };
 </script>
 ```
 
