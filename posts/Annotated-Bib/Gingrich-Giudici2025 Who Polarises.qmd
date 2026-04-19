@@ -1,5 +1,534 @@
 ---
-title: "Gingrich-Giudici2025 Who Polarises"
-format: html
+title: "Fichamento: Who polarises? Who targets? Parties' educational speech over the long run"
+subtitle: "Jane Gingrich & Anja Giudici (2025)"
+author: "Tales Mançano"
+date: "2026-04-19"
+last-updated: "2026-04-19"
+categories:
+  - Annotated Bibliography
+  - Party Politics
+  - Education Policy
+  - Political Communication
+  - Comparative Manifesto Analysis
+  - Content Analysis
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+    lang: pt
 ---
 
+> Gingrich, J., & Giudici, A. (2025). Who polarises? Who targets? Parties' educational speech over the long run. *European Journal of Political Research*, *64*(4), 1276–1303. https://doi.org/10.1111/1475-6765.12747
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Gingrich-Giudici2025
+
+```bibtex
+@article{Gingrich-Giudici2025,
+  author    = {Gingrich, Jane and Giudici, Anja},
+  title     = {Who polarises? Who targets? Parties' educational speech over the long run},
+  year      = {2025},
+  journal   = {European Journal of Political Research},
+  volume    = {64},
+  number    = {4},
+  pages     = {1276--1303},
+  doi       = {10.1111/1475-6765.12747},
+}
+```
+:::
+
+Última atualização: 2026-04-19
+Modelo: IA Planilhando Textos v11.0
+Gerado em: 2026-04-19T15:30:00-03:00
+
+## Introdução (pp. 1276–1277)
+
+### A pergunta histórica e o debate atual [§1–§2]
+
+O texto abre com uma interrogação direta: os partidos políticos adotam posturas públicas divergentes sobre educação? Historicamente, a resposta foi afirmativa. Durante os séculos XIX e início do XX, profundas divisões partidárias emergiram em torno do papel da Igreja na educação, da estratificação social entre alunos e do ensino de valores morais (Ansell & Lindvall, 2021; Morgan, 2002; Paglayan, 2021). Contudo, com o fim da era de *state‑building*, a natureza do conflito partidário sobre educação transformou‑se. Embora o nível educacional dos eleitores constitua uma clivagem política cada vez mais central (Attewell, 2021; Simon, 2022; Stubager, 2009), a literatura debate em que medida a política educacional permanece um domínio de conflito partidário.
+
+::: {.callout-note icon=false}
+**Puzzle central**: Apesar de a educação ser uma clivagem eleitoral crescente, os estudiosos divergem sobre se a política educacional ainda é arena de disputa partidária ou se houve convergência retórica entre partidos.
+:::
+
+### Duas perspectivas concorrentes [§3–§4]
+
+O segundo parágrafo apresenta duas correntes explicativas. De um lado, sociólogos que estudam a difusão de normas globais argumentam que a emergência, no pós‑guerra, de administrações públicas profissionalizadas e sua interação com organizações internacionais reduziram o espaço para o conflito doméstico sobre educação (Furuta, 2020; Lerch et al., 2017; Meyer et al., 1992). Essas transformações teriam produzido convergência tanto na ação quanto na retórica partidária, pois criaram incentivos comuns para que os partidos exibissem seu compromisso com reformas educacionais de alcance global (Jakobi, 2011).
+
+De outro lado, estudos focados em coalizões eleitorais e de grupos de interesse identificam diferenças partidárias persistentes no discurso e nas reformas educacionais, as quais refletiriam os interesses distintivos das bases partidárias (Ansell, 2010; Busemeyer, 2014; Castles, 1989; Osterman, 2017).
+
+### Limitações empíricas e teóricas existentes [§5–§6]
+
+O quarto parágrafo diagnostica as dificuldades de arbitrar entre essas abordagens. Empiricamente, os estudos cross‑nacionais existentes sobre discurso educacional limitam‑se, em grande medida, a examinar sua saliência geral (Busemeyer et al., 2013; Jakobi, 2011). Embora forneçam *insights* importantes sobre quando e onde os partidos falam de educação, essas pesquisas deixam em aberto questões cruciais sobre **sobre o quê** os partidos efetivamente falam.
+
+No plano teórico, permanecem lacunas quanto às condições sob as quais os partidos têm incentivos para adotar posturas públicas divergentes sobre educação. Trabalhos recentes avançaram no conhecimento sobre quando políticos atribuem maior saliência a diferentes domínios (Pinggera, 2021; Spoon & Klüver, 2014), quando expressam propostas mais específicas (Bräuninger & Giger, 2016) e quando adotam tons distintos (Bischof & Senninger, 2018). Entretanto, compreender como os formuladores de políticas falam sobre questões específicas requer teorizar simultaneamente seus objetivos subjacentes e seus incentivos para expressar publicamente tais posturas.
+
+### Contribuição do artigo e a nova base de dados [§7–§9]
+
+Os autores anunciam que seu artigo oferece o primeiro exame sistemático de como os principais partidos de direita e de esquerda abordaram retoricamente a educação no período pós‑guerra. Para tanto, constroem um novo conjunto de dados, o **Education Politics Dataset (EPD)**, baseado na codificação manual dos manifestos dos maiores partidos de esquerda e direita em 20 democracias ricas e consolidadas, desde os anos 1950 até 2020 (a partir dos anos 1970 para Grécia, Espanha e Portugal). A abordagem resulta em 786 manifestos codificados, categorizando a retórica política sobre educação em 34 indicadores de política.
+
+O EPD segue estudos recentes sobre migração (Dancygier & Margalit, 2020), habitação (Kohl, 2020), *welfare* (Giuliani, 2022) e política externa (Dietrich et al., 2020) ao focar nos manifestos partidários como indicador crítico da atenção partidária. Os autores reconhecem que o discurso político não se traduz diretamente em política pública: uma vez no poder, os partidos podem ingressar em coalizões de governo (Jungblut, 2017) ou enfrentar prioridades concorrentes (Jones & Baumgartner, 2005). No entanto, a pesquisa existente mostra que as promessas eleitorais são um determinante importante da política pública em geral (Klingemann et al., 1994; Thomson et al., 2017) e da política educacional em particular (Ansell, 2010), além de influenciarem as percepções do público (Schneider & Jacoby, 2005). Crucialmente, os manifestos são declarações oficiais da posição de um partido, elaboradas por meio de seus processos decisórios internos, condensando as posturas que os partidos desejam comunicar aos eleitores.
+
+### Variação nos padrões de politização [§10]
+
+O artigo demonstra que existe variação importante na extensão e no caráter da atenção partidária à educação: algumas questões são mais consensuais e convergentes, enquanto outras permanecem divisivas e divergentes. Para teorizar essa variação, os autores baseiam‑se no trabalho de Busemeyer et al. (2020) sobre a política doméstica da educação. Argumentam que os incentivos para o discurso dos partidos *mainstream* decorrem da interseção entre uma dada questão e (a) as clivagens partidárias existentes e (b) o apoio eleitoral difuso.
+
+Quando uma questão atravessa as clivagens políticas existentes e oferece ganhos eleitorais mais amplos, os partidos beneficiam‑se de dedicar atenção à questão e de adotar posturas comuns — um padrão descrito como **despolarizado**. No entanto, muitas questões oferecem ganhos ou perdas concentrados para a base de um partido. Quando uma questão se alinha às clivagens partidárias existentes, mas também possui apelo eleitoral mais universal, espera‑se um padrão de **saliência diferencial**: o partido cuja base se beneficia da questão enfatiza‑a mais, enquanto seu rival evita discuti‑la. Em contraste, quando uma questão divide o eleitorado, os partidos têm incentivo para adotar posturas contrastantes, levando à **polarização**. Os autores também recorrem ao trabalho de Garritzmann (2016) sobre *time‑sensitive partisanship* para teorizar como escolhas educacionais passadas moldam os incentivos discursivos.
+
+### Estrutura da análise [§11–§12]
+
+O artigo investiga essas afirmações examinando três áreas: a **distribuição** da educação (financiamento, acesso e *de‑streaming*); a **pluralidade da governança** educacional (participação, mercados e descentralização); e a **estrutura do conteúdo** educacional (qualidade, foco acadêmico e tradicionalismo). Os autores mostram que, no primeiro período pós‑guerra, a maior parte do debate político concentrou‑se na distribuição educacional e, em menor medida, na governança. Diante da necessidade de enfrentar lacunas no acesso ao ensino secundário, a discussão sobre expansão foi inicialmente despolarizada — todos os partidos a apoiavam. Contudo, à medida que os sistemas educacionais cresceram e a expansão passou a impor custos mais concentrados sobre a base de renda mais alta da direita, as menções a financiamento e acesso adquiriram um caráter de saliência mais diferencial. Dado o amplo apelo eleitoral dessas questões, os partidos de direita optaram por falar menos sobre elas, em vez de adotar um discurso negativo.
+
+Em contraste, questões como *de‑streaming* e governança de mercado exibem polarização mais aberta. No período pós‑1980, com a mudança parcial do foco da quantidade para a qualidade, novas questões emergiram. Esse desenvolvimento levou ao aumento da atenção despolarizada para políticas voltadas à melhoria da qualidade educacional e à governança participativa, mas também a uma nova polarização partidária em torno da transmissão de valores tradicionais.
+
+### Relevância mais ampla [§13]
+
+O artigo conclui a introdução afirmando que suas descobertas oferecem uma janela para o discurso político de modo mais geral e são crescentemente relevantes em um momento em que a educação emerge como nova fonte de conflito social — evidenciado por debates sobre religião, *critical race theory* e direitos LGBTQ+ nos Estados Unidos, França e Itália. Em vez de sugerir uma politização ou despolitização uniforme do discurso educacional, o artigo mostra que as questões interagem com a estrutura eleitoral e institucional de maneiras sistemáticas, promovendo padrões variados de politização.
+
+## Conceptualising education in political speech (pp. 1278–1280)
+
+### Discurso educacional como expressão de normas de modernidade [§14–§16]
+
+A seção inicia retomando a pergunta sobre o que explica a variação nas posições que os partidos assumem publicamente sobre educação. A primeira linha de trabalho concebe o discurso educacional sobretudo como expressão de **normas de modernidade**. Bromley et al. (2023), por exemplo, conceituam reformas como atos discursivos que indicam a intensidade da crença na educação como instituição central da sociedade. Nessa moldura, tanto a ação quanto o discurso servem a um propósito expressivo comum, que é global e compartilhado, e não local e divisivo.
+
+Essas normas globais compartilhadas emergiram da influência crescente de especialistas e organizações internacionais. No início do pós‑guerra, esses atores enfatizaram duas questões‑chave: expandir o acesso à educação (Jakobi, 2011; Meyer et al., 1992) e reformular o currículo para enfatizar direitos individuais (Lerch et al., 2017). Nos anos 1980, esses mesmos atores adotaram uma virada mais liberal de mercado, sobrepondo à retórica de acesso e direitos individuais a ênfase em *performance* e qualidade (Mehta, 2013; Verger et al., 2016). Os formuladores de políticas domésticas, por sua vez, deslocaram a atenção do acesso e do conteúdo educacional para a governança, produzindo abordagens convergentes entre partidos e países.
+
+### Educação como arena de conflito local [§17–§18]
+
+Uma segunda linha de trabalho inverte essa lógica, enfatizando a natureza local e conflituosa da educação. A maioria desses estudos foca na mudança de políticas — não no discurso —, mostrando que a variação institucional nos sistemas educacionais decorre de abordagens partidárias distintivas combinadas com constelações políticas domésticas (Busemeyer, 2014; Castles, 1989; Jungblut, 2015; Osterman, 2017). Quando essa literatura se volta para o discurso, trata‑o amplamente como expressão de interesses educacionais específicos dos grupos que compõem a base partidária. Por exemplo, Ansell (2010) argumenta que os partidos de esquerda enfatizam mais a expansão do acesso porque ela beneficia sua base eleitoral da classe trabalhadora.
+
+### A abordagem teórica dos autores [§19–§22]
+
+Para construir uma explicação integrada, os autores partem de três premissas sobre os objetivos dos partidos *mainstream*: (1) os partidos são *office‑seeking* (buscam cargos), (2) são *policy‑seeking* (buscam implementar políticas) e (3) são *vote‑seeking* (buscam votos) (Strøm & Müller, 1999). O discurso manifesto serve como uma ferramenta que os partidos usam para se comunicar tanto com suas bases específicas quanto com o eleitorado geral (Adams et al., 2006; Budge, 2001; Dassonneville, 2018; Pinggera, 2021; Spoon & Klüver, 2014). As questões educacionais diferem em seu apelo para as bases partidárias e para o eleitorado mais amplo (Busemeyer et al., 2020) — e ambos evoluem como resultado de clivagens mutáveis (Ford & Jennings, 2020) e de efeitos de *feedback* que moldam e constrangem escolhas futuras (Garritzmann, 2016; Pierson, 1993).
+
+Primeiro, os partidos possuem bases eleitorais e de grupos de interesse com diferentes interesses na educação. No pós‑guerra, os partidos de esquerda apoiavam‑se em uma base eleitoral mais operária (Bartolini, 2007; Kitschelt, 1994) e tendiam a ter laços mais fortes com grupos como professores do ensino primário, interessados na provisão estatal secular (Ansell & Lindvall, 2021; Wiborg, 2009). Em contraste, os partidos de direita tinham bases mais ricas e mais vínculos com provedores religiosos e de elite (Gidron & Ziblatt, 2019; Giudici et al., 2023; Layton‑Henry, 1980). Com o tempo, à medida que as clivagens tradicionais de classe e religião se atenuaram, novas divisões emergiram em torno de valores sociais (Häusermann et al., 2022; Inglehart, 1990). Os autores argumentam que algumas questões educacionais se alinham a essas clivagens partidárias mutáveis, proporcionando benefícios (ou custos) específicos para a base central de um partido, enquanto outras questões as atravessam. *Ceteris paribus*, espera‑se que os partidos dediquem mais atenção e adotem posturas mais positivas em relação a questões educacionais que beneficiam sua base — e vice‑versa.
+
+Segundo, o discurso também desempenha um papel crítico ao sinalizar as prioridades de um partido para o eleitorado mais amplo. Busemeyer et al. (2020) levantam a hipótese de que os partidos geralmente aderem às demandas eleitorais amplas quando os eleitores fornecem sinais “loud and clear” (altos e claros), ou seja, quando o público tem uma preferência forte e coerente sobre uma questão. Os autores baseiam‑se nessa afirmação para argumentar que certas questões têm maior probabilidade de provocar respostas públicas “loud and clear”. Quando uma questão educacional tem **apelo geral** — isto é, alcance universal e uma estrutura menos *zero‑sum* que divide o eleitorado — os partidos têm menos incentivos para adotar posições contrastantes do que quando uma questão tem uma estrutura **direcionada** ou *zero‑sum*.
+
+### Tabela 1: Modos previstos de conflito partidário [§23]
+
+A Tabela 1 (reproduzida abaixo) sintetiza o modo previsto de conflito partidário com base no alinhamento central e no apelo geral de uma questão. Os autores distinguem três configurações de competição interpartidária:
+
+|                     | Apelo geral: Direcionado (divide o eleitorado geral) | Apelo geral: Universal (não divide o eleitorado geral) |
+|:--------------------|:----------------------------------------------------|:------------------------------------------------------|
+| **Alinhamento congruente** (custos/benefícios específicos da base partidária) | **Polarização** | **Saliência diferencial** |
+| **Alinhamento transversal** (custos/benefícios cortam as bases partidárias) | **Despolarização** | **Despolarização** |
+
+Quando uma questão divide tanto as bases partidárias quanto o eleitorado, espera‑se **polarização** — níveis semelhantes de atenção partidária, mas posturas diferentes. Quando uma questão proporciona benefícios (ou custos) claros para a base de um partido, mas é menos divisiva eleitoralmente, espera‑se mais variação entre partidos na atenção do que na postura — **saliência diferencial**: os partidos menos positivos em relação à questão falam menos sobre ela, em vez de assumir uma postura negativa. Quando uma questão atravessa as clivagens existentes, é provável que os partidos assumam posições semelhantes tanto em atenção quanto em postura — **despolarização**.
+
+### O papel do contexto: base eleitoral e estrutura institucional [§24–§25]
+
+Os autores reconhecem que a pergunta óbvia é: o que molda o alinhamento e o apelo mais amplo de uma questão? Responder exige conceituar as questões educacionais em um contexto particular. Apontam dois componentes do contexto: a natureza da base eleitoral e a estrutura do sistema educacional. Em linha com a teoria exposta, à medida que as bases partidárias mudam, também mudam os incentivos dos partidos para politizar questões específicas. No entanto, as questões não existem no vácuo. Como argumenta Julian Garritzmann (2016), elas são *time‑sensitive* — escolhas passadas sobre estruturas institucionais moldam a política futura, tanto porque as preferências do público de massa são parcialmente endógenas às estruturas existentes quanto porque grupos de interesse e outros atores se mobilizam em torno delas.
+
+### Três áreas de análise [§26]
+
+Seguindo estudos recentes sobre política educacional (Berg et al., 2023; Jungblut, 2015), os autores aplicam esse raciocínio a três questões que dominaram os debates históricos sobre política educacional: **quem deve recebê‑la** (distribuição), **quem deve provê‑la** (governança) e **o que deve ser ensinado** (conteúdo). As subseções seguintes desenvolvem expectativas específicas para cada área e as questões mais concretas que elas abrangem.
+
+## Distributive issues (pp. 1280–1281)
+
+### Financiamento, acesso e *de‑streaming* [§27–§28]
+
+Historicamente, o acesso à educação era privilégio de uma pequena elite. Expandir o acesso e o financiamento foram questões centrais no desenvolvimento dos sistemas de educação de massa e suscitaram a questão adicional de igualar a expansão por meio do **de‑streaming** — ou seja, flexibilizar a diferenciação curricular, a separação por notas e as trajetórias de qualificação distintas. Uma longa tradição de trabalhos empíricos (e.g., Ansell, 2010; Busemeyer, 2014) e teóricos (Domina et al., 2017) entende essas três dimensões como tendo implicações distributivas fundamentais para os atores de classe.
+
+Os partidos de esquerda tradicionalmente representavam as classes com menor acesso a certificados acadêmicos prestigiosos — aqueles que mais se beneficiariam da expansão financiada publicamente e do *de‑streaming* (Ansell, 2010; Iversen & Stephens, 2008). Assim, no agregado, espera‑se que os partidos de esquerda tenham mais incentivos para enfatizar positivamente as questões distributivas do que a direita. Mesmo com o declínio do enraizamento da esquerda no voto da classe trabalhadora, sua nova base de eleitores de classe média e profissionais do serviço público continua a apoiar maior acesso e financiamento (Häusermann et al., 2022).
+
+### Variação nos incentivos da direita [§29–§31]
+
+Em contraste, os incentivos da direita para tornar públicas suas posturas distributivas variam sistematicamente entre questões e ao longo do tempo. Historicamente, as coalizões eleitorais de direita dependiam de eleitores mais velhos e ricos que já possuíam acesso a trajetórias educacionais prestigiosas e eram mais sensíveis aos custos do aumento do financiamento público (Ansell, 2010). Dependentes dessas coalizões de elite, os partidos conservadores do pré‑guerra frequentemente se opunham ao aumento do acesso e do financiamento educacional (Ansell & Lindvall, 2021). Contudo, à medida que a educação — e, mais tarde, os investimentos sociais — foi reconfigurada, a partir dos anos 1950, como uma alternativa meritocrática e favorável ao crescimento em relação às políticas de *welfare*, tal oposição explícita tornou‑se impopular (Garritzmann, Häusermann, & Palier, 2022; Jensen, 2011). Pressão adicional pela expansão veio da própria base da direita, com pais de classe média demandando mais oportunidades e empregadores requerendo mais habilidades (Busemeyer, 2014; Giudici et al., 2023).
+
+Essa dinâmica mudou a partir dos anos 1970. À medida que a expansão passou a visar as antigas trajetórias terciárias de elite, ela ameaçou as vantagens educacionais e laborais comparativas da base da direita (Ansell, 2010; Garritzmann, 2016; Jungblut, 2015). No entanto, ao criar novos beneficiários da expansão adicional, essas mesmas forças também limitaram a oposição explícita (Garritzmann, 2016; Jungblut, 2015; Pierson, 1993). Em outras palavras, embora a base da direita tivesse interesse em se opor a uma expansão maior, os efeitos de *feedback* de políticas passadas que expandiram os benefícios educacionais reduziram os incentivos para que os partidos de direita se opusessem abertamente à expansão.
+
+### Expectativas para financiamento e acesso [§32]
+
+Concretamente, os diferentes custos e benefícios para as bases partidárias de esquerda e direita e, ao longo do tempo, os efeitos de *feedback* relacionados à expansão levam os autores a esperar, em primeiro lugar, um padrão de **saliência diferencial** na atenção a financiamento e acesso: isto é, maiores diferenças na substância (atenção) do que em posturas distintas. Em segundo lugar, com base nessas afirmações, espera‑se que onde os partidos são menos divididos por linhas de classe, as diferenças em substância e postura possam se atenuar. Em terceiro lugar, à medida que os sistemas se expandem em matrículas, os efeitos de *feedback* reduzem os incentivos para oposição explícita, aumentando os incentivos para a saliência diferencial, já que novos avanços impõem custos mais altos à base central da direita.
+
+### Expectativas para *de‑streaming* [§33]
+
+Por contraste, o *de‑streaming* cria vencedores e perdedores muito mais específicos e direcionados. O *streaming*, assim como a privatização, pode fornecer um meio de manter trajetórias privilegiadas em situações de expansão do acesso (Gingrich, 2011; Jungblut, 2017). O movimento em direção a escolas mais abrangentes (*comprehensive schools*) assume, portanto, um caráter mais *zero‑sum* — a eliminação do *streaming* frequentemente leva ao fim (muitas vezes ao fechamento) de programas de elite privilegiados. Espera‑se que o *de‑streaming* seja mais abertamente **polarizado**, com a direita assumindo uma postura mais negativa. Novamente, porém, a política provavelmente muda ao longo do tempo. À medida que estruturas abrangentes ou estratificadas se consolidam e a matrícula se expande, os benefícios para os políticos de continuar a politizá‑las diminuem, pois mais eleitores se tornam investidos no *status quo*.
+
+## Governance (pp. 1281–1282)
+
+### Conflitos históricos sobre controle educacional [§34–§35]
+
+A construção do Estado no século XIX gerou tensões entre as autoridades estatais e aqueles que tradicionalmente controlavam a provisão da educação, a saber: autoridades locais, provedores privados (religiosos) e *stakeholders* como pais e professores (Ansell & Lindvall, 2021; Lipset & Rokkan, 1967; Morgan, 2002). O conflito subsequente na governança educacional centrou‑se, portanto, em **quem controla a educação**: se permitir atores privados (**mercados**), o equilíbrio entre controle central e local (**descentralização**) e a medida em que os *stakeholders* podem moldar a provisão (**participação**).
+
+### Mercados e clivagens religiosas [§36]
+
+Em muitos sistemas educacionais do início do pós‑guerra, os debates sobre mercados e atores privados na educação eram, na prática, debates sobre o papel dos provedores educacionais religiosos (Gingrich, 2024). Eles se alinhavam amplamente com as clivagens históricas esquerda‑direita. Nesse período, os partidos de direita apoiavam‑se em eleitores mais religiosos, rurais e de elite, com laços mais fortes com o ensino confessional (Knutsen, 2004), e tinham mais vínculos com provedores religiosos (Giudici et al., 2023). Em contraste, embora muitos partidos social‑democratas tivessem eleitores confessionais em sua base, eles estavam ideologicamente ligados a movimentos seculares e tendiam a enfatizar apelos materiais de classe em detrimento dos religiosos (Ansell & Lindvall, 2021). A constelação de clivagens de classe e religião significa, portanto, que, no início do pós‑guerra, as questões sobre mercados frequentemente se alinhavam aos eixos centrais do conflito político. Os mercados, assim como as escolas estratificadas, tendem a oferecer benefícios distintos a bases específicas, tornando‑os mais divisivos. Espera‑se, portanto, substancial **polarização** aberta em torno dos mercados nesse período.
+
+### Mudanças no debate sobre mercados [§37]
+
+Com o tempo, porém, a questão do financiamento de escolas privadas vinculou‑se a uma nova agenda liberal de mercado na educação, que enfatizava escolha e competição como benefícios para pais e alunos, e não para provedores religiosos (Gingrich, 2011; Verger et al., 2016). As questões de escolha escolar frequentemente uniram novas classes médias a eleitores de minorias que buscavam opções diversas. Essa mudança, combinada com o esmaecimento das bases eleitorais de classe e a ascensão de novos eleitores de classe média na esquerda que potencialmente poderiam se beneficiar da escolha, suavizou a oposição da esquerda aos mercados (Gingrich, 2011). Como esses novos debates sobre mercados estavam menos focados na religião, o espaço institucional em torno deles era mais aberto do que para a distribuição. Espera‑se, portanto, menos efeitos de *feedback* institucional decorrentes da expansão do sistema.
+
+### Participação e descentralização [§38–§39]
+
+Os pais podem influenciar a educação não apenas por meio da escolha, mas também pela **participação**. A participação dos *stakeholders* ganhou proeminência no pós‑guerra, com os protestos estudantis de 1968 focando a atenção política na participação de pais, alunos e professores. Diferentemente da escolha baseada no mercado, a participação não se alinha claramente com as clivagens esquerda‑direita existentes. Embora eleitores mais jovens e estudantes tendam a inclinar‑se para a esquerda, as questões participativas também se alimentam das demandas de pais mais ricos, um eleitorado central da direita (Brown, 1990; Nickerson, 2012).
+
+O mesmo vale para a **descentralização**. O crescimento do setor público colocou as questões de descentralização na agenda nos anos 1970 e 1980, mas os alinhamentos partidários em relação aos governos regionais diferem entre países. No Reino Unido, por exemplo, o governo *Thatcher* centralizou o poder para limitar o poder dos governos locais, enquanto nos países nórdicos a direita promoveu a descentralização como meio de limitar o crescimento da burocracia central (Gingrich, 2011).
+
+Assim, descentralização e participação estão menos claramente alinhadas com as divisões esquerda‑direita do que as reformas de mercado ou o *de‑streaming*. Em qualquer país específico, sua política pode ser altamente estruturada ao longo de linhas esquerda‑direita, mas espera‑se que sejam geralmente menos salientes e polarizadas do que outras dimensões no estudo cross‑nacional. Os autores preveem, portanto, **polarização em mercados**, com os partidos de direita expressando posturas mais positivas, e menos conflito nas outras questões de governança. Esperam ainda que esses conflitos sejam maiores onde as divisões religiosas entre os partidos são mais fortes, e que as diferenças diminuam ao longo do tempo à medida que a questão dos mercados se vincula a apelos seculares e mais amplos da classe média.
+
+## Content (pp. 1282–1283)
+
+### Conhecimento acadêmico, vocacional e moral [§40–§41]
+
+Historicamente, as escolas de elite enfatizavam conteúdos acadêmicos que preparavam os alunos mais ricos para os exames universitários, enquanto as escolas vocacionais ensinavam habilidades relacionadas ao trabalho e as escolas de massa visavam incutir valores morais na população geral (Young, 1971). O estabelecimento dos sistemas educacionais modernos integrou essas instituições, levantando questões sobre que tipo de conhecimento tais sistemas deveriam priorizar (**foco acadêmico**), como esse conhecimento deveria ser entregue (**qualidade**) e seu caráter normativo (**tradicionalismo**) (Gutmann, 1999; Kliebard, 1986). Como argumentam Berg et al. (2023), existe pouco trabalho comparativo sobre as abordagens partidárias ao conteúdo educacional. Os autores baseiam‑se, portanto, em *insights* de estudos sobre elaboração curricular e *standards* para desenvolver expectativas sobre diferentes padrões de politização para as três questões relacionadas ao conteúdo.
+
+### Qualidade e foco acadêmico como questões transversais [§42]
+
+As questões de **qualidade** e **foco acadêmico** cortam amplamente as bases centrais dos partidos. Melhorar a qualidade é considerada uma *valence issue* universal; Mehta (2013) argumenta que os *standards* são o “paradigma educacional” do segundo período pós‑guerra. Especialistas e organizações internacionais foram particularmente influentes ao impulsionar a necessidade de elevar os padrões por meio de instrumentos que vão desde a formação de professores baseada em pesquisa até novos regimes de inspeção (Lerch et al., 2017). As opiniões sobre os objetivos específicos e o desenho das reformas de qualidade podem variar, especialmente quando têm implicações distributivas para grupos como os professores. Mas os apelos por qualidade raramente dividem os eleitores.
+
+O foco no conhecimento acadêmico em detrimento do conhecimento prático e vocacional também corta as linhas partidárias. As bases da esquerda há muito se dividem entre aqueles que veem os currículos acadêmicos — tradicionalmente reservados aos ricos — como meio de empoderamento ou como ferramenta para desvalorizar o conhecimento prático e, por extensão, o trabalho (Martin, 2023). Dentro da base tradicional da direita, as empresas tendem a se interessar por currículos de orientação vocacional (Busemeyer, 2014). Em contraste, na medida em que os indivíduos valorizam os programas que eles próprios vivenciaram (Busemeyer et al., 2020), os eleitores mais ricos tendem a apoiar currículos acadêmicos de alto prestígio cultural (Young, 1971). Cada tipo de conhecimento está associado a interesses estabelecidos, que por sua vez têm diferentes vínculos com os partidos (Kliebard, 1986). Dada essa estrutura transversal, espera‑se que a discussão sobre acadêmicos e qualidade siga um padrão **despolarizado**.
+
+### Tradicionalismo e a clivagem cultural [§43]
+
+Espera‑se ver mais conflito sobre o caráter normativo dos currículos. As discussões sobre se os currículos devem transmitir compreensões conservadoras ou liberais de gênero, cultura e autoridade estão diretamente relacionadas aos conflitos sobre valores religiosos tradicionais e valores pós‑materialistas mais contemporâneos. Esses valores subjazem à clivagem cultural que tem definido cada vez mais as bases partidárias desde os anos 1970 (Inglehart, 1990). Os autores esperam, portanto, que a retórica em torno do conteúdo tradicional mostre um padrão crescentemente **polarizado**, e que a saliência geral das questões relacionadas ao conteúdo aumente ao longo do tempo. Não possuem expectativas fortes sobre como os efeitos de *feedback* institucional da expansão do sistema afetam esses resultados.
+
+## Summarising our expectations (pp. 1283–1284)
+
+### Tabela 2: Resumo das expectativas [§44–§45]
+
+A seção final da parte teórica resume as expectativas, argumentando que os incentivos retóricos dos partidos variam entre as questões, dependendo da interseção entre os benefícios específicos de enfatizar uma questão para sua base e para o eleitorado mais amplo. Esses benefícios e custos específicos são, por sua vez, produto do ambiente de clivagens e da estrutura das políticas existentes. A Tabela 2 (reproduzida abaixo) delineia essas afirmações.
+
+| Área | Saliência geral relativa | Issue | Tipo de política | Padrão | Variação cross‑nacional | Variação cross‑temporal |
+|:-----|:-------------------------|:------|:-----------------|:-------|:------------------------|:------------------------|
+| Distribuição | Alta e estável | Financiamento e Acesso | Congruente universal | Saliência diferencial | Maior onde há mais conflito de classe | Diferenças em atenção crescem com a expansão |
+| | | De‑streaming | Congruente direcionado | Polarizado | Maior onde há mais conflito de classe | Diferenças em atenção e postura reduzem com a expansão |
+| Governança | Baixa e estável | Mercados | Congruente direcionado | Polarizado | Maior onde há mais conflito religioso | Diferenças em postura caem com a expansão |
+| | | Participação e Descentralização | Transversal universal | Despolarizado | N/A | Atenção cresce com a expansão |
+| Conteúdo | Baixa e crescente | Tradicionalismo | Congruente direcionado | Polarizado | Maior onde há mais conflito religioso | Diferenças em atenção e postura crescem com a expansão |
+| | | Qualidade e Foco Acadêmico | Transversal universal | Despolarizado | N/A | Atenção aumenta com a expansão |
+
+Em geral, os partidos têm posturas mais distintas quando as questões se alinham às estruturas de clivagem política. Onde as questões se alinham menos — seja porque criam benefícios transversais ou porque a estrutura de clivagem é esmaecida — espera‑se posturas menos distintas. No entanto, os custos particulares de articular essas posturas são parcialmente função da estrutura institucional existente. Onde as instituições ganharam amplo apoio, os partidos que se opõem a elas têm maior probabilidade de mencioná‑las menos, talvez passando a politizar novas questões menos populares.
+
+Concretamente, os autores formulam a hipótese de que questões de **participação, descentralização, qualidade e foco acadêmico**, embora controversas em alguns contextos, não estão geralmente alinhadas com a competição partidária e, portanto, devem produzir discurso mais despolarizado, com atenção e posturas semelhantes. Em contraste, **mercados, de‑streaming e tradicionalismo** se encaixam em diferentes clivagens partidárias, mas carecem de apelo universal. Aqui se espera polarização, ainda que os incentivos para ela mudem ao longo do tempo. Questões de **financiamento e acesso** tornam‑se mais consolidadas à medida que os sistemas educacionais se expandem, reduzindo os incentivos dos partidos de direita para desafiá‑las abertamente, levando os autores a esperar **saliência diferencial**.
+
+## Research design (pp. 1284–1287)
+
+### Existing data e limitações do MARPOR [§46–§48]
+
+Os autores explicam a necessidade de uma nova base de dados. A principal fonte existente para analisar o discurso partidário é o *Comparative Manifesto Project* (MARPOR) (Volkens et al., 2020). O MARPOR apresenta duas limitações principais para testar as hipóteses formuladas.
+
+Primeiro, o MARPOR baseia‑se na **teoria da saliência** (*saliency theory*) (Budge, 2001). A abordagem de codificação pressupõe, portanto, que os partidos competem na ênfase de questões e não é projetada para analisar a competição em **posturas** (*stances*) (Gemenis, 2013). Embora os dois códigos relacionados à educação no codebook do MARPOR — 506 *Educational Expansion* e 507 *Education Limitation* — denotem posturas contrastantes, eles são demasiado amplos para capturar posturas sobre questões substantivas. Dados mais desagregados são necessários para examinar se posturas e atenção variam entre áreas e políticas, como hipotetizado.
+
+Segundo, como o MARPOR é projetado para caracterizar o discurso partidário em todos os campos de política e permite que os codificadores usem apenas um código por declaração (Volkens et al., 2020), ele subconta o texto relacionado à educação.
+
+### Definição de educação formal [§49]
+
+Para avaliar as hipóteses acima, os autores necessitam de dados novos que meçam como os partidos abordam diferentes questões relacionadas à **educação formal**. Seguindo o Conselho da Europa (2024), definem esta como “o sistema educacional estruturado”, abrangendo desde a pré‑escola institucionalizada, o ensino obrigatório e vocacional até o ensino superior e continuado, excluindo a aprendizagem informal e não formal.
+
+### A abordagem do Education Politics Dataset (EPD) [§50–§53]
+
+Para descrever com precisão a substância e as posturas da política educacional do pós‑guerra, os autores criaram um novo conjunto de dados. O **Education Politics Dataset (EPD)** codifica o texto relativo à educação formal nos manifestos de 20 democracias ricas e consolidadas, com populações superiores a 5 milhões: Austrália, Áustria, Bélgica/Flandres, Canadá, Dinamarca, Finlândia, França, Alemanha, Grécia, Irlanda, Itália, Países Baixos, Nova Zelândia, Noruega, Portugal, Espanha, Suécia, Suíça, Reino Unido e Estados Unidos. Seguindo Dancygier e Margalit (2020), os autores incluem, para cada eleição, os principais partidos concorrentes de esquerda e de direita (Apêndice A).
+
+A coleta de dados cobre todos os manifestos nacionais dos dois principais partidos emitidos em cada eleição de 1945 a 2020. Codificam‑se manifestos nacionais, exceto para a Bélgica, onde os partidos se dividiram em organizações independentes após 1968. Ali, codificam‑se os partidos flamengos, pois representam a maior comunidade em termos populacionais. Embora a atenção no nível nacional possa diferir em sistemas federais, os autores assumem que as organizações nacionais refletem princípios semelhantes aos das filiais subnacionais com responsabilidade política direta. A validação e robustez dessas premissas são discutidas posteriormente.
+
+Os manifestos possuem uma estrutura semelhante no tempo e no espaço, tornando‑os documentos adequados para procedimentos de codificação padronizados (Spoon & Klüver, 2014). No entanto, as escolas são rotuladas de forma diferente entre os países, e o discurso político frequentemente se baseia em sinais culturais difíceis de capturar com protocolos automatizados contemporâneos. Os autores, portanto, recorreram a codificadores humanos com conhecimento linguístico e específico de cada país, resultando em um processo de codificação altamente intensivo em tempo. Estima‑se que cada partido tenha exigido pelo menos 45–55 horas de trabalho de codificação, com tempo adicional necessário para preparar os manifestos e revisar a codificação. Essa abordagem confere maior precisão e profundidade na análise do discurso, mas significa que os autores foram limitados no número de partidos que puderam cobrir. Os dados fornecem, assim, um meio de explorar como os principais partidos, que desempenharam um papel fundamental na formação de governos no pós‑guerra, moldaram retoricamente a política educacional.
+
+### Procedimento de codificação em quatro etapas [§54–§57]
+
+Os autores aplicaram um procedimento de codificação em quatro etapas. Primeiro, reuniram todos os manifestos em formato digital. Estes são, em grande parte, os mesmos manifestos incluídos no MARPOR. No entanto, para aumentar a comparabilidade em alguns casos, como os primeiros manifestos dinamarqueses e suecos, coletaram novas fontes originais (Apêndice A.2).
+
+Segundo, identificaram o texto relacionado à educação. Definem texto relacionado à educação como seções do manifesto dedicadas à educação ou unidades de pelo menos duas frases dedicadas à educação formal. O texto não inglês foi traduzido automaticamente para o inglês e as traduções verificadas por falantes especialistas. Toda a codificação foi feita no idioma original por falantes nativos ou fluentes.
+
+Terceiro, desenvolveram um esquema de codificação (Apêndice B). Replicaram a abordagem do MARPOR (Volkens et al., 2020) e dividiram o texto em **quase‑sentenças**. Uma quase‑sentença inclui uma declaração (i.e., uma postura a favor ou contra uma política). Pode, portanto, ser uma sentença inteira ou parte de uma sentença. O esquema de codificação foi desenvolvido *ex ante*, com base na literatura existente, e depois refinado após uma codificação piloto (Apêndice C). Os autores classificaram as declarações em três tipos: **nível de educação**, **objetivo** e **política**. Cada declaração poderia receber no máximo um código de cada tipo. Os códigos de objetivo são atribuídos a declarações que vinculam a educação a valores, objetivos ou problemas gerais, enquanto os códigos de política são aplicados a sentenças que avaliam o desempenho passado ou contêm uma declaração acionável.
+
+Este artigo foca nos **códigos de política que contêm uma declaração acionável**. Os autores medem trinta e duas políticas, dividindo cada uma em valência positiva e negativa. Por exemplo, a declaração “Alianza Popular acepta la iniciativa privada en el funcionamiento de las universidades” (Alianza Popular, 1982) é codificada como uma declaração positiva sobre a política de **educação privada**, enquanto “potenciaremos y priorizaremos la escuela pública” (Partido Socialista Obrero Español, 2015) é codificada como uma declaração negativa sobre a política de educação privada (um dos componentes do índice de “mercado”). A codificação decompõe tanto a **substância** da retórica educacional (atenção às questões, medida pelo total de menções) quanto as **posturas** que os partidos assumem sobre uma dada questão.
+
+Quarto, os codificadores aplicaram esse esquema aos manifestos coletados seguindo um procedimento padronizado para maximizar a confiabilidade. Devido à especificidade linguística e à natureza de longo prazo da codificação, os autores não puderam confiar em testes de confiabilidade entre codificadores para maximizar a qualidade. Em vez disso, treinaram extensivamente seus 17 codificadores, codificaram duplamente parte da codificação de forma cega e revisaram toda a codificação. Também discutiram sistematicamente decisões ambíguas de codificação entre a equipe central e os codificadores para chegar a um consenso e garantir que os códigos fossem aplicados de forma confiável e consistente entre os países.
+
+### Validação com MARPOR e comparação subnacional [§58–§59]
+
+Para verificar ainda mais sua abordagem, os autores comparam seu número total de sentenças educacionais codificadas com o conteúdo educacional no MARPOR (Apêndice D). Usam a mesma abordagem do MARPOR para medir a saliência educacional, dividindo o número total de quase‑sentenças educacionais codificadas pelo número total de quase‑sentenças no manifesto. Sempre que possível, tomam este último do próprio MARPOR; em outros casos, geram a contagem total a partir dos manifestos originais. Reasseguradoramente, as duas medidas são altamente correlacionadas, com uma correlação geral de 0,64 entre a parcela de conteúdo educacional no MARPOR e no EPD. Dado que usam manifestos nacionais, inclusive em países federais, realizam uma validação adicional comparando os manifestos bávaro e federal na Alemanha, que mostra fortes semelhanças na estrutura básica do discurso (Apêndice E).
+
+### Agregação em nove áreas de política [§60]
+
+Para corresponder à sua atenção teórica à **distribuição** (financiamento, acesso e *de‑streaming*), **governança** (mercados, participação e descentralização) e **conteúdo** (tradicionalismo, foco acadêmico e qualidade), os autores alocam seus 32 códigos de política a essas nove áreas de política, cada uma escalada para expressar apoio à dimensão subjacente: distribuição igualitária e extensa, governança pluralista e um currículo tradicional de alta qualidade. Para cada área, medem dois resultados: **substância** — ou atenção — total de menções (a soma de declarações positivas e negativas) sobre uma dada questão como parcela de todo o conteúdo educacional; e **posturas** (*stances*), a parcela dessas declarações totais que são positivas. A Tabela 3 ilustra a estrutura conceitual, enquanto o Apêndice B fornece descrições detalhadas e exemplos para cada código.
+
+### Tabela 3: Estrutura conceitual e alocação de políticas [reprodução]
+
+| Dimensão | Issue | Políticas: valência positiva (negativa) |
+|:---------|:------|:----------------------------------------|
+| **Distribuição** | Financiamento | Aumentar (limitar) financiamento público; Redistribuir mais (menos); Socializar (privatizar) financiamento; Contratar mais (menos) professores; Aumentar (diminuir) salário docente; Aumentar (limitar) gastos com infraestrutura |
+| | Acesso | Expandir (limitar) ensino obrigatório; Expandir (limitar) acesso e conclusão |
+| | De‑streaming | Ampliar (limitar) ensino abrangente; Diminuir (aumentar) diferenciação; Limitar (ampliar) testes e notas |
+| **Governança** | Descentralização | Aumentar (diminuir) autonomia escolar; Aumentar (diminuir) descentralização territorial |
+| | Participação | Aumentar (diminuir) participação de minorias tradicionais; Aumentar (diminuir) participação de pais; Aumentar (diminuir) participação de professores; Aumentar (diminuir) participação de especialistas |
+| | Mercados | Aumentar (diminuir) papel de atores religiosos; Aumentar (diminuir) papel de atores de mercado; Aumentar (diminuir) participação de atores internacionais; Aumentar (diminuir) escolha escolar; Facilitar (limitar) *homeschooling*; Facilitar (limitar) ensino privado |
+| **Conteúdo** | Foco acadêmico | Aumentar (diminuir) conteúdo acadêmico; Diminuir (aumentar) habilidades vocacionais; Diminuir (aumentar) habilidades para a vida |
+| | Qualidade | Melhorar (limitar) formação e métodos docentes; Aumentar (limitar) monitoramento e inspeção; Regular (desregular) currículos |
+| | Tradicionalismo | Transmitir (menos) autoridade e valores morais; Transmitir cultura nacional unitária (plural); Transmitir normas de gênero tradicionais (progressistas) |
+
+### Abordagem analítica [§61–§63]
+
+Para testar as hipóteses de que os partidos abordam as questões de maneiras variadas, os autores procedem em duas etapas, analisando tanto a **atenção substantiva** às políticas quanto as **posturas**. Primeiro, regridem (a) substância (parcela das menções educacionais) e (b) postura (parcela das menções que são positivas) sobre o partidarismo, interagido com *dummies* de década. Como a atenção à educação provavelmente varia com base na estrutura do ciclo econômico e na saliência de questões econômicas imediatas, controlam em cada regressão pela taxa de emprego e pelo PIB per capita (Feenstra et al., 2015). Partidos no governo frequentemente falam de forma diferente sobre educação porque precisam defender seu histórico, de modo que controlam pela incumbência de um primeiro‑ministro de esquerda. Em cada regressão, empregam efeitos fixos de país, *dummies* de década e erros clusterizados por eleição. Comparam, assim, partidos de esquerda e direita ao longo do tempo, líquido das diferenças nacionais, para ver se os partidos falam sobre educação de forma diferente em uma dada década.
+
+Se uma questão é **despolarizada**, espera‑se nenhuma diferença significativa na parcela de substância geral (parcela de menções) ou nas posturas (parcela de menções positivas) entre os partidos. Se uma questão é **diferencialmente saliente**, esperam‑se maiores diferenças partidárias em substância do que em postura. Finalmente, questões **polarizadas** exibirão maiores diferenças em postura do que em substância. Essa primeira especificação permite examinar padrões ao longo do tempo. Para abordar sua previsão de segunda ordem — que esses padrões variarão entre bases partidárias e desenvolvimento institucional — os autores conduzem duas análises adicionais.
+
+### Análise das bases eleitorais com WPCID [§64–§66]
+
+Primeiro, vinculam os partidos às suas bases eleitorais usando o *World Political Cleavages and Inequality Database* (WPCID) (Gethin et al., 2021). O WPCID é um conjunto de dados de estudos eleitorais e de opinião pública que harmoniza uma série de variáveis demográficas, de renda e educacionais em nível individual, bem como as escolhas partidárias dos eleitores, ao longo do tempo. Para a maioria dos países, as informações sobre demografia dos eleitores estão disponíveis dos anos 1970 até o presente, um período mais estreito do que os dados do EPD. Os autores associam todos os partidos em seu conjunto de dados às características demográficas de seus eleitores, calculadas em média ao longo da década da eleição (Apêndice F).
+
+Devido à centralidade tanto dos interesses religiosos/culturais quanto dos distributivos para a política educacional, conforme delineado na seção teórica, os autores focam nessas características demográficas no eleitorado do partido. Medidas de classe de alta qualidade não estão disponíveis ao longo do tempo, de modo que usam uma medida de educação padronizada por coorte que analisa a base relativa do partido em coortes etárias de 10 anos. Essa medida correlaciona‑se a 0,51 com o *status* de classe média autorreportado e a 0,88 com uma medida de *status* de classe média relativo à média nacional (Apêndice F). Medem também a parcela da base que relata não frequentar a igreja (i.e., a parcela secular), medindo essa parcela em relação à média nacional.
+
+Os autores primeiro regridem tanto a substância quanto as posturas sobre a interação entre a medida de educação padronizada por coorte / parcela secular relativa da base e o tipo de partido. Incluem efeitos fixos de país e década em cada modelo. Esses modelos informam se existem diferenças esquerda‑direita líquidas das tendências gerais nacionais e temporais. Nos modelos que consideram bases religiosas, controlam pela educação da base e vice‑versa. Podem, assim, ver se partidos de esquerda e direita com uma base mais secular (menos formalmente educada) assumem posturas mais distintas sobre questões distributivas, de governança e de conteúdo do que partidos com uma base menos distinta.
+
+### Análise dos efeitos de *feedback* institucional [§67–§68]
+
+Como segunda etapa, examinam se o discurso partidário muda à medida que as instituições se expandem, potencialmente exercendo efeitos de *feedback* que tornam certas formas de discurso mais ou menos custosas. Para isso, relacionam o discurso em uma dada eleição às taxas de matrícula calculadas em média ao longo da década, usando os dados de Barro e Lee (2013) sobre matrícula no ensino secundário (Apêndice G). Os autores baseiam‑se em dados que medem a parcela da coorte jovem matriculada no ensino secundário, e não no terciário, por duas razões. Teoricamente, a expansão do ensino secundário é uma das mudanças educacionais centrais nas democracias pós‑1945; as taxas de matrícula variam de menos de 40% no início do pós‑guerra a quase 100% na maioria dos contextos atuais. Esse crescimento torna esses sistemas uma fonte provável de efeitos de *feedback* institucional. Segundo, a matrícula no secundário é empiricamente mais comparável. A falta de uma definição consensual de coorte terciária significa que as medidas comparativas são menos claramente consistentes na definição da matrícula da coorte (Barro & Lee, 2013).
+
+Essa abordagem é um teste menos denso das teorias de *feedback* de políticas do que as de Garritzmann (2016). No entanto, dada a heterogeneidade das instituições educacionais e seus efeitos de *feedback* diferenciais, a matrícula no sistema obrigatório central serve como *proxy* para o enraizamento institucional. O Apêndice H mostra a estrutura desses dados, com o Apêndice I apresentando as análises completas que acompanham as figuras subsequentes.
+
+### Testes de robustez [§69–§71]
+
+Os autores realizam uma série de testes de robustez. Replicam as análises centrais examinando cada área como parcela do discurso total do manifesto, não apenas do discurso educacional (Apêndice J). Realizam ainda uma análise *jackknife* e restringem a análise a estados unitários para avaliar se a composição da amostra está conduzindo os resultados (Apêndice K). O Apêndice L replica a análise que relaciona atenção e posturas à base educacional dos partidos (incluída na Figura 4, Figuras L1 e L2 do Apêndice) com a medida de classe relativa.
+
+Como a maior parte da retórica dos manifestos não é específica a um nível de ensino, os autores não podem analisar de forma confiável diferenças nos níveis educacionais aos quais as declarações se referem. Portanto, neste artigo, agrupam todos os níveis. No entanto, como verificação de robustez, reexecutam suas análises excluindo menções explícitas ao ensino não obrigatório (Apêndice M) e analisam o efeito condicionante da expansão terciária tanto sobre o discurso educacional total quanto sobre o discurso específico ao ensino não obrigatório (Apêndice N). O Apêndice O investiga mais a fundo a estrutura temporal de seus dados, replicando suas análises centrais usando uma medida da média defasada por década da saliência/postura de uma questão. Finalmente, o Apêndice P examina se os resultados são condicionais à estrutura da saliência geral. Coletivamente, os resultados centrais mostrados abaixo são robustos a essas especificações alternativas, e os autores discutem desvios em relação a eles quando relevante.
+
+## Results (pp. 1287–1299)
+
+### Tendências gerais de saliência [§72–§74]
+
+Os autores iniciam a seção de resultados descrevendo as tendências gerais de saliência da educação nos manifestos. A Figura 2 (não reproduzida aqui) mostra que a parcela do conteúdo do manifesto dedicada à educação aumentou acentuadamente ao longo do período pós‑guerra, passando de aproximadamente 3–4% nos anos 1950 para cerca de 8–10% nos anos 2000 e 2010. Esse aumento é impulsionado tanto pela esquerda quanto pela direita, embora a esquerda consistentemente dedique uma parcela ligeiramente maior de seu manifesto à educação do que a direita. A diferença é estatisticamente significativa, mas substantivamente modesta — cerca de 1–2 pontos percentuais na maioria das décadas.
+
+Por trás desses padrões agregados, no entanto, os autores hipotetizam diferenças críticas nas menções partidárias relativas e substantivas e nas posturas assumidas, conforme resumido na Tabela 2. Passam então a examinar essas diferenças por área.
+
+### Distribution [§75–§82]
+
+Os autores regridem tanto a substância (parcela das menções educacionais) quanto a postura (parcela positiva) sobre o partidarismo interagido com *dummies* de década. A Figura 3 (não reproduzida) apresenta os resultados dessa primeira análise.
+
+Em linha com as expectativas, a figura mostra que as questões distributivas são caracterizadas por diferenças partidárias consistentes, mas de caráter diferente dependendo da questão. Em toda a amostra, o partidarismo de esquerda tem um efeito positivo e estatisticamente significativo sobre as menções a **financiamento** e **acesso** (Apêndice I.1). No entanto, como mostra a Figura 3, essas diferenças concentram‑se nos anos 1980 e 1990 para financiamento e nos anos 1990 a 2010 para acesso. Nos anos 1950 e 1960, a direita dedicou uma quantidade semelhante de atenção a financiamento e acesso que a esquerda, mas nos anos 1970 surgiram diferenças em financiamento. Essas diferenças se estreitaram novamente nos anos 2000, mas emergiram para acesso, sugerindo que a atenção a essas dimensões pode ser substitutiva. Quando os autores examinam a parcela de menções a financiamento e acesso no texto completo do manifesto — não apenas nas seções de educação — observam padrões gerais semelhantes (Apêndice J.1), mas as diferenças esquerda‑direita nas menções são significativas apenas ao nível de 10% para financiamento dos anos 1980 aos 1990 e para acesso dos anos 1990 aos 2010.
+
+Embora a esquerda seja significativamente mais propensa a mencionar financiamento e acesso positivamente, mais de 85% das menções da direita a financiamento e acesso também são positivas. A diferença central é, portanto, de **saliência diferencial**: as discussões sobre financiamento são esmagadoramente positivas, mas a esquerda dedica entre 20% e 40% mais texto para discutir financiamento e acesso combinados do que a direita. Nos anos 2010, financiamento e acesso combinados representavam uma parcela prevista de 38,1% do discurso educacional da esquerda, em comparação com 28,7% do discurso educacional da direita. Dado que os partidos de esquerda geralmente dedicam mais atenção à educação, essas diferenças contribuem para uma atenção muito maior da esquerda: a esquerda dedica uma média prevista de 33,6 declarações a financiamento e acesso combinados, em comparação com 14,5 declarações da direita.
+
+As discussões sobre **de‑streaming**, em contraste, são mais polarizadas. O painel superior direito da Figura 3 mostra que a esquerda é apenas ligeiramente menos propensa a mencionar *de‑streaming*. Tanto a esquerda quanto a direita o mencionam com muito menos frequência do que financiamento e acesso, mas em igual medida. No entanto, os partidos são muito mais distintos em suas posturas. A direita é quase uniformemente negativa em relação ao *de‑streaming*, enquanto a esquerda é, em média, mais positiva. Essa constelação resulta em um padrão mais polarizado.
+
+### Variação por base partidária [§83–§85]
+
+A Figura 4 (não reproduzida) apresenta os resultados dos modelos que interagem a estrutura educacional da base de um partido tanto com menções quanto com posturas positivas. Se a estrutura de clivagem importa, esperar‑se‑iam diferenças menores onde a direita parece mais “de esquerda” em sua base (mais eleitores com menor educação formal) e vice‑versa.
+
+A Figura 4 fornece alguma evidência em apoio a essa afirmação, embora os termos de interação nem sempre sejam significativos nos modelos centrais (Apêndice I). A linha superior mostra que a propensão da direita a mencionar tanto financiamento quanto acesso diminui à medida que sua base se torna mais altamente educada, criando maiores lacunas na atenção. A esquerda, em contraste, é relativamente consistente em mencionar financiamento e acesso. Em outras palavras, as lacunas entre os partidos em substância (menções) tornam‑se maiores onde as bases são mais tradicionalmente segmentadas, e esses efeitos são amplamente impulsionados pela direita dedicando menos atenção a financiamento e acesso quando possui uma base mais educada. Por outro lado, não há diferenças significativas na atenção ao *de‑streaming*.
+
+Olhando para a postura, a linha inferior, vê‑se um padrão diferente. Aqui há poucas diferenças na atenção positiva a financiamento ou acesso. No entanto, observa‑se que a esquerda se torna menos positiva em relação ao *de‑streaming* à medida que sua base se torna mais educada, levando a um padrão mais despolarizado.
+
+### Governance [§86–§90]
+
+Voltando‑se para as questões de governança, novamente se observam padrões distintos. A linha superior dos painéis do meio e da direita da Figura 5 (não reproduzida) mostra, como previsto, padrões mais despolarizados de discurso sobre **descentralização** e **participação**. Há poucas diferenças partidárias na parcela de menções educacionais e nas posturas positivas (existem algumas pequenas diferenças quando se analisa a descentralização como parcela do texto completo do manifesto — Apêndice I.2). Partidos de esquerda e direita prestam atenção semelhante a essas questões e assumem posições semelhantes.
+
+A discussão sobre **mercados** é diferente. O lado esquerdo da Figura 5 mostra que a direita é mais propensa a mencionar mercados do que a esquerda (os resultados são semelhantes, embora ligeiramente menos pronunciados, se analisarmos mercados como parcela do texto completo do manifesto, Apêndice J.2). Mais importante, a direita menciona mercados quase exclusivamente em termos positivos. Aqui se vê um padrão de polarização aberta, que ao longo do tempo se transforma em uma estrutura mais diferencialmente saliente à medida que a esquerda adota posturas mais positivas. Nos anos 1960, a direita mencionava mercados mais do que a esquerda — 3,2% do texto educacional versus 1,3% — e era dramaticamente mais positiva sobre a questão: 88% das menções da direita a mercados são positivas versus 43% das menções da esquerda. Ao longo do tempo, a lacuna positiva se estreita, com 72% das menções da esquerda a mercados sendo positivas nos anos 2000, caindo ligeiramente nos anos 2010.
+
+### Variação por base religiosa [§91–§92]
+
+Os autores investigam mais a fundo esses achados sobre mercados, examinando se eles diferem onde os partidos têm bases religiosas mais distintas (o Apêndice I.2 apresenta resultados para bases educacionais variáveis). A Figura 6 (não reproduzida) mostra os resultados. Como um modelo linear fornece alguma predição fora da amostra — mais de 100% de parcelas positivas —, os autores usam um modelo de resposta fracionária, mas os resultados são substantivamente semelhantes com um modelo linear. O lado esquerdo mostra que há pouca diferença na propensão da direita a mencionar mercados ou assumir uma postura positiva à medida que sua base muda. O lado direito, no entanto, mostra que a esquerda é menos positiva em relação aos mercados à medida que sua base se torna mais secular, levando a uma polarização mais aberta. Em contraste, a direita permanece uniformemente positiva em relação aos mercados, independentemente das mudanças em sua base. Em outras palavras, onde os mercados se sobrepõem a clivagens religiosas, o discurso é mais polarizado.
+
+### Content [§93–§96]
+
+Voltando‑se para o conteúdo, os autores encontram dois padrões distintos. Os painéis do meio e da direita da Figura 7 (não reproduzida) mostram um padrão despolarizado para **qualidade** e **foco acadêmico**. A atenção aumenta ao longo do tempo, mas mostra poucas diferenças partidárias — exceto nos anos 1980, quando o conteúdo acadêmico está associado a mais atenção da direita. Durante todo o período, a esquerda é estatisticamente menos propensa a mencionar essas questões, e a mencioná‑las positivamente, mas o tamanho do efeito é muito pequeno. Os partidos ainda podem associar objetivos ou desenhos de política diferentes à qualidade e ao conteúdo acadêmico (Gingrich & Giudici, 2023). No entanto, seus manifestos expressam níveis semelhantes de atenção a essas questões, com a direita sendo um pouco menos uniformemente positiva do que a esquerda.
+
+Para o **tradicionalismo**, em contraste, observa‑se um padrão polarizado de discurso esquerda‑direita. A Figura 7 mostra que não há diferença estatisticamente significativa na probabilidade de a esquerda e a direita mencionarem o tradicionalismo (canto superior direito), mas há uma lacuna nas menções positivas (canto inferior direito). Durante todo o período, a direita é mais propensa a mencionar o tradicionalismo de forma positiva, mas essas diferenças concentram‑se no período pós‑1960. Desde os anos 1960 e 1970, a esquerda adotou uma retórica mais abertamente antitradicional, enquanto a direita não o fez. Nos anos 2000 e 2010, a parcela prevista de declarações positivas sobre conteúdo tradicional para a direita foi de 71%, em comparação com 14% para a esquerda, enquanto não houve diferenças significativas no número de menções.
+
+### Variação por base religiosa em tradicionalismo [§97–§98]
+
+Os autores analisam se as menções ao conteúdo tradicional variam entre os partidos de acordo com a religiosidade de sua base. A Figura 8 (não reproduzida) mostra um achado um tanto inesperado. A polarização em torno do tradicionalismo parece ser maior para partidos com uma base mais religiosa — o padrão oposto ao observado para mercados. Esses resultados sugerem, em linha com as expectativas, que a direita é mais tradicional quando tem uma base menos secular. No entanto, contrariamente às expectativas, indicam que a esquerda é menos positiva em relação ao tradicionalismo quando tem uma base menos secular. Se esses resultados sugerem uma propensão ao tradicionalismo não religioso (por exemplo, em relação à disciplina escolar ou identidades nacionais seculares) ou uma resposta competitiva em um contexto eleitoral cada vez mais moldado por questões culturais, no qual os partidos de esquerda enfatizam o conteúdo tradicional para atrair eleitores com valores tradicionais da direita (Norris & Inglehart, 2019), requer análise adicional.
+
+### Over time changes [§99–§102]
+
+A seção final dos resultados considera como esses padrões mudaram à medida que os sistemas educacionais se expandiram, potencialmente exercendo os efeitos de *feedback* identificados por Garritzmann (2016) e outros, que reduzem os incentivos para discutir questões mais enraizadas, aumentando assim a atenção a outras questões.
+
+Para realizar essa tarefa, os autores regridem a substância e as posturas sobre a interação entre partidarismo e a parcela de matrícula no ensino secundário, novamente com efeitos fixos de país e década e controles para emprego/população, PIB per capita e incumbência de esquerda. Esse modelo testa se o enraizamento de estruturas institucionais particulares, aproximado pela universalidade da matrícula no secundário, reduz os incentivos para os partidos mencionarem questões que são cada vez mais populares, mas pouco atraentes para sua base (financiamento e acesso para a direita) e aumenta os incentivos para avançar para novas áreas de debate (governança ou tradicionalismo). Recorde‑se que os autores hipotetizaram que as instituições retroalimentariam a dimensão da distribuição, reduzindo os incentivos da direita para falar negativamente sobre acesso, financiamento e *de‑streaming* ao longo do tempo, mas tinham expectativas menos claras sobre as outras dimensões.
+
+A Figura 9 (não reproduzida) mostra os resultados. À medida que o ensino secundário se torna mais universal, movendo‑se de 40% para 100% no eixo x, observam‑se diferenças na forma como os partidos se relacionam com o sistema. Começando pela distribuição. Para facilitar a apresentação, os autores combinam as dimensões de financiamento e acesso. O Apêndice I.3 mostra os resultados desagregados. Embora os termos de interação não sejam significativos, quando se plotam as interações, vê‑se que em níveis baixos de expansão não há fortes diferenças esquerda‑direita nas menções, mas as diferenças crescem com a expansão tanto para financiamento quanto para acesso. Esse achado é consistente com as hipóteses de Ansell (2010) e Garritzmann (2016) sobre efeitos temporais, sugerindo que as questões de acesso se tornam mais “de esquerda” à medida que os sistemas se expandem e a expansão beneficia cidadãos mais relativamente desfavorecidos. Embora as diferenças de postura também aumentem, são menos pronunciadas. Quando se analisa o *de‑streaming*, não se observam fortes mudanças temporais na substância, mas há uma redução das diferenças esquerda‑direita na postura.
+
+O terceiro painel mostra que, à medida que os sistemas escolares se tornam mais enraizados, as diferenças em mercados inicialmente crescem, mas depois se estreitam ligeiramente, tanto em termos de substância quanto de posturas. As diferenças de substância permanecem pequenas para o tradicionalismo, mas crescem em postura. Esses resultados sugerem que a politização das questões educacionais muda ao longo do tempo à medida que a cobertura institucional se expande e os custos da mudança recaem sobre diferentes grupos.
+
+## Discussion and conclusion (pp. 1299–1300)
+
+### Síntese dos achados [§103–§105]
+
+A análise acima mostrou que, embora a literatura existente esteja correta ao identificar um aumento na saliência política da educação ao longo do tempo, interpretar esse aumento como convergência é provavelmente enganoso. A quantidade de atenção absoluta dedicada à educação nos manifestos aumentou no período pós‑guerra, mas os partidos não usam o discurso educacional para expressar apenas normas globais e compartilhadas. Tampouco discordam sobre todos os aspectos da educação. Dentro de cada uma das dimensões fundamentais da educação — sua distribuição, governança e conteúdo — os partidos enfatizam algumas questões e posturas comuns, mas também expressam prioridades e posturas divergentes.
+
+Mapear e teorizar esses padrões exigiu inovação tanto teórica quanto empírica. Primeiro, os autores basearam‑se na literatura específica de políticas para desenvolver e aplicar uma nova codificação multidimensional do discurso educacional. Essa abordagem permitiu medir as menções e posturas dos partidos sobre questões educacionais fundamentais, fornecendo um quadro mais preciso de como os partidos abordam a educação do que as medições existentes de posições sobre gastos ou menções gerais à educação.
+
+### Implicações teóricas [§106–§107]
+
+Segundo, para teorizar os padrões resultantes de politização, os autores combinaram *insights* da literatura sobre congruência partidária com a literatura educacional que delineia as implicações distributivas e culturais de cada questão. A análise mostra que se podem antecipar padrões de politização considerando que os partidos não nicho usam o discurso político para apelar tanto às suas bases centrais quanto ao eleitorado geral. Os partidos são mais propensos a assumir posições divergentes sobre questões que são altamente salientes para sua base e sobre as quais enfrentam poucas penalidades eleitorais. No caso da educação, essas questões incluem tanto questões culturais (apoio ao conteúdo tradicional) quanto distributivas (*de‑streaming*), com a análise detalhada mostrando uma correlação entre as posturas que os partidos assumem e sua base eleitoral.
+
+Esses achados fornecem *insights* importantes sobre a natureza dos manifestos como fonte de discurso político. Eles acrescentam mais evidências de que os estudos agregados de manifestos existentes superestimam o grau de consenso interpartidário sobre prioridades e posturas específicas de questões (Gemenis, 2013). Os partidos podem concordar que a educação é importante, mas ainda assim sustentar visões diferentes sobre quais questões relacionadas à educação precisam ser abordadas e como resolvê‑las. Os achados apoiam pesquisas recentes que mostram que os partidos, incluindo os *mainstream*, consideram tanto o eleitorado geral quanto suas bases centrais ao ajustar e elaborar suas posições públicas (Dassonneville, 2018; Spoon & Klüver, 2014).
+
+### Limitações e agenda futura [§108–§112]
+
+A análise vincula o discurso educacional às clivagens eleitorais tanto teórica quanto empiricamente. No entanto, outros fatores influenciam como os partidos escolhem abordar a educação retoricamente, mais importante ainda, o contexto institucional ao qual se referem. Para comparar posturas no espaço e no tempo, a análise negligencia o fato de que declarações pró‑mercado em um país podem ser vistas como antimercado em outro, um “problema de *status quo*” que afeta a pesquisa comparativa de manifestos de modo mais geral (Dancygier & Margalit, 2020; Volkens et al., 2020). A análise também não pode capturar diretamente como o discurso partidário se relaciona com a mudança e variação institucional (Garritzmann, 2016; Jungblut, 2017). Parece plausível que a expansão bem‑sucedida do ensino secundário tenha deslocado a atenção dos partidos para as áreas de governança e conteúdo e que isso, juntamente com a crescente importância das clivagens culturais, esteja alimentando a saliência e polarização crescentes do conteúdo tradicional (ver também Berg et al., 2023).
+
+Com base em seus achados, pesquisas futuras podem querer explorar outros fatores que moldam o reposicionamento retórico dos partidos e a mudança de preferências de primeira para segunda ordem. Além da variação institucional e seus legados históricos, esses fatores podem incluir a influência de “líderes de opinião” (Adams & Ezrow, 2009), *stakeholders* alinhados (Giudici et al., 2023) e reações competitivas estratégicas. O EPD oferece uma nova fonte de dados empíricos para testar essas e outras hipóteses. Ele também poderia ser estendido para incluir partidos de nicho a fim de examinar em que medida uma orientação de política mais forte afeta a abordagem retórica dos partidos à educação (Berg et al., 2023).
+
+Os partidos tendem a implementar o que prometem em seus manifestos (Ansell, 2010; Klingemann et al., 1994; Thomson et al., 2017). No entanto, as instituições políticas e as maiorias podem mudar a medida em que eles podem se sentir compelidos a cumprir suas promessas (Jones & Baumgartner, 2005; Jungblut, 2017). Ao focar na relação entre composição eleitoral e retórica política, esta análise não vincula retórica a reforma. Pesquisas adicionais são, portanto, necessárias para identificar a medida em que as promessas eleitorais mudam à medida que se concretizam em apelos mais voltados para o público (e.g., na mídia) e em propostas e reformas de políticas, por exemplo, ao decidir se priorizar a educação ou outras áreas de financiamento. Comparar posições expressas em manifestos com aquelas contidas em acordos de coalizão e programas de governo seria uma maneira de aprender mais sobre como os partidos navegam *trade‑offs* e priorizam preferências educacionais.
+
+### Conclusão final [§113]
+
+Se vemos os manifestos como uma janela para as questões e posturas que os partidos desejam que o eleitorado associe a eles (Spoon & Klüver, 2014), nossa análise descobre que as posturas educacionais dos partidos sobre questões tanto culturais quanto redistributivas estão correlacionadas com divisões eleitorais mais amplas. Tais divisões estão atualmente mudando, com um corpo crescente de literatura identificando a educação como uma clivagem eleitoral cada vez mais saliente — moldada por atitudes econômicas e especialmente culturais (Attewell, 2021; Ford & Jennings, 2020; McArthur, 2023; Simon, 2022), bem como por identidades de grupo (Stubager, 2009). Esses desenvolvimentos levantam a questão de se, como na era da construção do Estado, veremos polarização em torno de uma gama crescente de questões educacionais — e questões culturais em particular, como visto recentemente na politização da educação pela extrema direita (Berg et al., 2023). Analisar como os partidos estruturam o debate educacional é crucial se quisermos entender as respostas retóricas e programáticas dos partidos a tais mudanças eleitorais e, portanto, a política da reforma das políticas públicas que estruturará os eleitorados futuros. Nosso banco de dados e abordagem teórica oferecem um meio novo e multidimensional para tal análise, que estudos futuros podem estender no tempo e no escopo.
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central**: Os partidos políticos de esquerda e direita não convergem nem divergem uniformemente em seu discurso sobre educação; em vez disso, o padrão de politização varia sistematicamente conforme a área da política educacional (distribuição, governança ou conteúdo) e sua interseção com clivagens partidárias e apelo eleitoral. O artigo demonstra empiricamente que financiamento e acesso exibem **saliência diferencial** (a direita fala menos, mas não se opõe abertamente), *de‑streaming* e mercados mostram **polarização** (posturas opostas), enquanto qualidade, participação e descentralização são **despolarizadas** (atenção e posturas semelhantes). A análise de 786 manifestos de 20 democracias entre 1950–2020 sustenta um argumento descritivo‑explanatório que combina teoria da competição partidária com a natureza *time‑sensitive* das políticas educacionais.
+
+**Natureza do argumento**: Descritivo‑causal, baseado em inferência estatística a partir de dados originais de conteúdo de manifestos. O artigo **demonstra** padrões sistemáticos de variação no discurso educacional e os correlaciona com características das bases eleitorais e com a expansão institucional. O que permanece como **hipótese ou agenda** é a ligação causal precisa entre esses padrões discursivos e mudanças efetivas de política (*policy outcomes*), bem como a dinâmica de *feedback* de segunda ordem para além da matrícula no secundário.
+
+**Contribuição para o debate mais amplo**: O artigo supera a dicotomia entre “convergência global de normas” e “conflito partidário persistente” ao mostrar que **ambos** os fenômenos coexistem em diferentes dimensões da educação. Oferece uma moldura teórica transferível (alinhamento da base × apelo eleitoral) e um novo recurso empírico (o *Education Politics Dataset*) que permite análises mais granulares do discurso político para além dos códigos agregados do MARPOR.
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v11.0*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é explicitado em itálico antes do conteúdo, separado por linha horizontal.
+:::
+
+```{=html}
+<style>
+.ficha-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85em;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+}
+.ficha-table th {
+  background-color: #2c3e50;
+  color: white;
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+  width: 200px;
+  min-width: 180px;
+}
+.ficha-table td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #ddd;
+  vertical-align: top;
+}
+.ficha-table tr:nth-child(even) { background-color: #f9f9f9; }
+.ficha-table tr:hover           { background-color: #eef2f7; }
+.ficha-table em                 { color: #555; font-style: italic; }
+</style>
+<div>
+<table class="ficha-table">
+<thead><tr><th>Dimensão</th><th>Análise</th></tr></thead>
+<tbody>
+
+<tr>
+<td><strong>Questão de Pesquisa</strong></td>
+<td>
+<em>A pergunta central é explicitamente declarada no título e no primeiro parágrafo: “Do political parties take differing public stances on education?”. Trata-se de uma pergunta descritiva (padrões de postura) que, ao ser desdobrada nas subquestões sobre “quem polariza” e “quem mira”, adquire caráter explicativo, pois o artigo visa não apenas mapear, mas teorizar as condições que produzem diferentes padrões de politização. A pergunta é clara e empiricamente tratável com os dados de manifesto.</em>
+<hr/>
+“Do political parties take differing public stances on education?” (p. 1276). A pergunta é apresentada como um puzzle que contrapõe duas literaturas: a da convergência de normas globais (que prediz posturas semelhantes) e a do conflito partidário persistente (que prediz divergência). A natureza da pergunta é fundamentalmente descritiva (qual é o padrão?), mas a teorização subsequente a transforma em uma pergunta explicativa condicional (sob quais condições emergem quais padrões?). A formulação é precisa e adequada ao desenho de pesquisa adotado.
+</td>
+</tr>
+
+<tr>
+<td><strong>Questões Secundárias</strong></td>
+<td>
+<em>O artigo não lista formalmente questões secundárias, mas o desenvolvimento teórico e a estrutura da análise implicam várias subperguntas interligadas. Elas são necessárias para operacionalizar a pergunta central e guiam a coleta e análise dos dados.</em>
+<hr/>
+<strong>Perguntas secundárias implícitas:</strong> (1) Como a atenção e as posturas partidárias variam entre as áreas de distribuição, governança e conteúdo educacional? (2) De que forma a composição da base eleitoral (classe/educação e religiosidade) condiciona essas variações? (3) Como a expansão institucional (matrícula no secundário) afeta os padrões de politização ao longo do tempo? (4) Em que medida os dados do MARPOR são insuficientes para capturar a multidimensionalidade do discurso educacional? Essas questões são respondidas de forma sequencial e integrada, com cada uma delas mapeada para uma parte específica da análise empírica.
+</td>
+</tr>
+
+<tr>
+<td><strong>Puzzle-Type</strong></td>
+<td>
+<em>O puzzle é claramente um “gap descritivo” que se torna um “puzzle explicativo”. O gap descritivo reside na ausência de dados desagregados sobre o conteúdo substantivo do discurso educacional para além da mera saliência. O puzzle explicativo emerge da contradição aparente entre duas literaturas influentes (convergência global vs. conflito doméstico). O artigo resolve essa contradição mostrando que ambas estão parcialmente corretas, mas aplicam-se a diferentes dimensões da política educacional. O puzzle é genuíno porque as teorias existentes fazem previsões opostas sobre o mesmo fenômeno (a politização da educação), e os dados agregados disponíveis não permitiam arbitrar entre elas.</em>
+<hr/>
+O artigo identifica um “gap descritivo” crucial: os estudos cross-nacionais existentes limitam-se a medir a saliência geral da educação, deixando em aberto “sobre o quê” os partidos efetivamente falam (p. 1277). A partir desse gap, constrói um puzzle explicativo: a sociologia das normas globais prediz convergência retórica, enquanto a literatura de economia política partidária prediz divergência. A classificação do puzzle como “explicativo condicional” é apropriada, pois o artigo não busca uma resposta única, mas sim especificar as condições (tipo de issue, alinhamento da base, apelo eleitoral) sob as quais cada padrão (despolarização, saliência diferencial, polarização) prevalece. A generalização para além dos 20 países estudados é plausível para democracias ricas consolidadas, mas as “scope conditions” para outras regiões (ex.: sistemas menos institucionalizados, partidos não programáticos) não são discutidas.
+</td>
+</tr>
+
+<tr>
+<td><strong>Conclusão / Argumento Central</strong></td>
+<td>
+<em>O argumento central é descritivo-causal e pode ser sintetizado como: “Padrões de politização do discurso educacional (polarização, saliência diferencial, despolarização) são função da interseção entre o alinhamento de uma issue com as clivagens partidárias e seu apelo eleitoral universal ou direcionado, sendo essa interseção moderada por efeitos de feedback institucional da expansão educacional.” O “claim of discovery” é duplo: (1) empírico — a demonstração de que o discurso educacional é multidimensional e varia sistematicamente; (2) teórico — a proposição de uma tipologia de padrões de politização (Tabela 1) que pode ser estendida a outras áreas de política. O que efetivamente sustenta esse claim é a consistência dos achados empíricos com as previsões teóricas, embora a evidência para os efeitos de feedback seja mais sugestiva do que conclusiva.</em>
+<hr/>
+O artigo conclui que “parties do not use education speech to express only global and shared norms. Nor do they disagree on all aspects of education” (p. 1299). A tese central é que existem três padrões distintos de politização — consensual (despolarizado), de saliência diferencial e polarizado — e que cada um predomina em diferentes áreas da política educacional conforme as expectativas teóricas (Tabela 2). O argumento é descritivo-causal porque identifica correlações sistemáticas entre tipo de issue e padrão de discurso, mas não estabelece causalidade forte (ex.: não há identificação exógena de variação na estrutura de clivagem ou nas instituições). O “claim of discovery” é robustamente sustentado pelos dados originais do EPD, que permitem desagregar o discurso de uma forma que o MARPOR não permite. A contribuição é tanto empírica (novo dataset) quanto teórica (framework que integra literaturas divergentes).
+</td>
+</tr>
+
+<tr>
+<td><strong>Métodos</strong></td>
+<td>
+<em>Trata-se de um estudo quantitativo de análise de conteúdo de manifestos, com um componente qualitativo na fase de desenvolvimento do esquema de codificação. A estratégia metodológica é adequada para responder à pergunta de pesquisa descritivo-explicativa. As principais limitações de identificação decorrem da natureza observacional dos dados: a correlação entre discurso e base eleitoral, por exemplo, não pode ser interpretada como causal sem instrumentos ou desenhos de diferenças-em-diferenças. Além disso, a decisão de não usar testes de confiabilidade entre codificadores, embora justificada pragmaticamente, introduz um risco de viés de codificação que os autores mitigam, mas não eliminam totalmente.</em>
+<hr/>
+<strong>Tipo de estudo:</strong> Análise de conteúdo quantitativa de manifestos partidários (786 manifestos, 20 países, 1950–2020). <strong>Fontes:</strong> Manifestos originais (majoritariamente do MARPOR, com coleta adicional para alguns países). <strong>Técnicas:</strong> Codificação manual por especialistas nativos/fluentes, com esquema de codificação ex ante refinado por piloto. Análise estatística: modelos de regressão com efeitos fixos de país e década, erros clusterizados por eleição, interações com características da base eleitoral (WPCID) e com taxa de matrícula no secundário (Barro & Lee). <strong>Limitações metodológicas reconhecidas:</strong> (a) ausência de testes de confiabilidade entre codificadores devido à complexidade linguística e temporal (p. 1286); (b) “problema de status quo” — a mesma declaração pode ter significados diferentes dependendo do ponto de partida institucional de cada país (p. 1299); (c) incapacidade de vincular diretamente discurso a reformas efetivas (p. 1300). <strong>Limitações não enfatizadas:</strong> A seleção de apenas os dois maiores partidos de esquerda e direita exclui partidos de nicho (ex.: verdes, extrema direita) que podem ter retórica educacional distintiva (embora os autores mencionem isso como agenda futura). Além disso, a análise agrega todos os níveis educacionais, o que pode obscurecer dinâmicas específicas do ensino superior vs. básico.
+</td>
+</tr>
+
+<tr>
+<td><strong>Data Generation Process (DGP)</strong></td>
+<td>
+<em>O DGP é transparente e bem documentado nos apêndices. O fenômeno real é o discurso público dos partidos sobre educação formal. A observação se dá via manifestos eleitorais, que são “declarações oficiais” das posições partidárias. A coleta envolveu a reunião de documentos digitais e sua segmentação em quase-sentenças. A operacionalização transforma essas quase-sentenças em 32 políticas com valência positiva/negativa, agregadas em 9 issues. A análise emprega regressões com efeitos fixos para isolar variação within-country e within-decade. O tipo de inferência é majoritariamente descritiva e correlacional, com pretensões causais modestas nas interações com expansão institucional. A unidade de análise é o manifesto-partido-eleição. O nível de agregação é o partido em uma dada eleição.</em>
+<hr/>
+<strong>Fenômeno real:</strong> Posições públicas dos partidos sobre política educacional. <strong>Observação:</strong> Texto dos manifestos eleitorais nacionais. <strong>Coleta:</strong> Compilação de manifestos digitais (principalmente MARPOR), identificação de seções/passagens sobre educação formal, tradução automática com verificação humana. <strong>Operacionalização:</strong> Segmentação em quase-sentenças; codificação de 32 políticas com valência (+/–); agregação em 9 issues agrupadas em 3 dimensões (distribuição, governança, conteúdo). As variáveis dependentes são “substância” (% das menções educacionais) e “postura” (% de menções positivas). <strong>Análise:</strong> Regressões lineares com efeitos fixos de país e década, erros clusterizados por eleição, controles econômicos e de incumbência. Interações com dados de base eleitoral (WPCID) e matrícula no secundário (Barro & Lee). <strong>Inferência:</strong> Predominantemente descritiva (padrões de politização) e correlacional (associação com bases e instituições). As afirmações causais sobre efeitos de feedback são apresentadas como consistentes com a teoria, mas não identificadas causalmente.
+</td>
+</tr>
+
+<tr>
+<td><strong>Achados e Contribuições</strong></td>
+<td>
+<em>Os achados empíricos são ricos e alinhados com as expectativas teóricas. A principal contribuição teórica é o framework que distingue três padrões de politização com base em duas dimensões (alinhamento da base e apelo eleitoral). A principal contribuição empírica é o EPD, que fornece uma medida multidimensional do discurso educacional. A principal contribuição metodológica é a demonstração de que análises agregadas de manifesto (como as do MARPOR) obscurecem variação substantiva importante. O design identifica com força os padrões de associação entre tipo de issue e padrão de politização, mas a evidência para os efeitos moderadores da base eleitoral e da expansão institucional é mais especulativa (termos de interação frequentemente não significativos).</em>
+<hr/>
+<strong>Achados empíricos principais:</strong> (1) Financiamento e acesso exibem “saliência diferencial” — a esquerda fala mais, mas ambos os lados são majoritariamente positivos; as diferenças crescem com a expansão do secundário. (2) De-streaming é polarizado — a direita é consistentemente negativa, a esquerda mais positiva; a polarização diminui com a expansão. (3) Mercados são polarizados, com a direita uniformemente positiva; a polarização é maior onde a esquerda tem base mais secular. (4) Participação, descentralização, qualidade e foco acadêmico são amplamente despolarizados. (5) Tradicionalismo é polarizado, com a direita positiva e a esquerda negativa, especialmente no período pós-1960. <strong>Contribuições teóricas:</strong> A tipologia da Tabela 1 (polarização, saliência diferencial, despolarização) baseada em “core alignment” e “general appeal” oferece uma moldura transferível para outras áreas de política. A integração das literaturas de normas globais e conflito partidário é uma contribuição sintética valiosa. <strong>Contribuições empíricas/metodológicas:</strong> O EPD é um novo recurso que permite análises mais granulares do discurso político. A validação contra o MARPOR (correlação 0,64) e a comparação subnacional (Baviera vs. Alemanha) aumentam a credibilidade dos dados.
+</td>
+</tr>
+
+<tr>
+<td><strong>Análise Crítica dos Achados</strong></td>
+<td>
+<em>O artigo responde adequadamente à pergunta de pesquisa, demonstrando que a politização do discurso educacional não é uniforme. O ponto mais forte é a consistência entre as previsões teóricas e os padrões empíricos observados para a maioria das issues. O ponto mais vulnerável é a inferência causal sobre os efeitos de feedback institucional e sobre o papel moderador das bases eleitorais. A análise usa interações em modelos de regressão, mas não há uma estratégia de identificação que isole variação exógena na composição da base ou na expansão institucional. Além disso, as “scope conditions” da teoria não são explicitadas: o framework funciona para democracias ricas com sistemas partidários programáticos, mas sua aplicabilidade a contextos de baixa institucionalização partidária ou sistemas educacionais incipientes é incerta. A generalização dos achados para além da amostra de 20 países é plausível para o universo de democracias consolidadas da OCDE, mas não testada.</em>
+<hr/>
+<strong>O autor responde à pergunta?</strong> Sim, de forma convincente. O artigo demonstra que não há uma resposta única (“sim” ou “não”) para a pergunta “Do political parties take differing public stances on education?”; a resposta depende da issue específica e do contexto. <strong>Pontos fortes:</strong> A análise empírica é cuidadosa, com múltiplos testes de robustez (Apêndices J–P) que corroboram os achados principais. A triangulação entre análise temporal, análise por base eleitoral e análise por expansão institucional fortalece a plausibilidade do mecanismo teórico. <strong>Pontos vulneráveis:</strong> (a) <em>Ameaças à identificação:</em> A relação entre discurso e base eleitoral pode ser endógena — partidos podem moldar as preferências de sua base, não apenas refleti-las. A expansão institucional (matrícula no secundário) é correlacionada com muitas outras mudanças sociais (ex.: terciarização da economia, mudança de valores) que poderiam explicar as mudanças discursivas. (b) <em>Adequação do DGP ao claim:</em> O DGP é excelente para descrever padrões de discurso, mas limitado para claims causais. Os autores reconhecem isso ao afirmar que “this approach is a thinner test of policy feedback effects than Garritzmann (2016) theorises” (p. 1288). (c) <em>Generalizabilidade:</em> A amostra é restrita a democracias ricas com sistemas partidários consolidados. A teoria provavelmente se aplica a outros contextos similares (ex.: Japão, Israel), mas sua extensão a democracias em desenvolvimento ou regimes híbridos exigiria adaptações (ex.: onde a clivagem religiosa/secular é mais saliente, ou onde o clientelismo domina a política educacional). <em>Scope conditions</em> não são explicitamente declaradas, o que é uma omissão notável em um artigo que propõe um framework teórico geral.
+</td>
+</tr>
+
+<tr>
+<td><strong>Limitações</strong></td>
+<td>
+<td>
+<em>Os autores são transparentes sobre várias limitações, mas algumas permanecem subestimadas ou não reconhecidas. A divisão entre limitações reconhecidas e não reconhecidas é útil para avaliar a autoconsciência metodológica do artigo.</em>
+<hr/>
+<strong>(a) Reconhecidas pelos autores:</strong> (i) Impossibilidade de realizar testes de confiabilidade entre codificadores, mitigada por treinamento extensivo, dupla codificação cega parcial e discussão de consenso (p. 1286). (ii) “Problema de status quo”: a mesma declaração pode ter significado diferente dependendo do ponto de partida institucional do país (p. 1299). (iii) Incapacidade de vincular diretamente discurso a reformas efetivas (p. 1300). (iv) A análise agrega todos os níveis educacionais devido à falta de especificidade nos manifestos, mas os autores realizam testes de robustez excluindo menções ao ensino não obrigatório (Apêndice M). <strong>(b) Não reconhecidas ou subestimadas:</strong> (i) <em>Endogeneidade da base eleitoral:</em> A correlação entre discurso e composição da base pode refletir tanto a influência da base sobre o partido quanto a capacidade do partido de atrair/selecionar eleitores com certas características por meio de seu discurso. (ii) <em>Validade de construto do “apelo geral”:</em> A classificação de uma issue como “universal” ou “direcionada” é feita com base em argumentos teóricos e conhecimento contextual, mas não é medida diretamente (ex.: pesquisas de opinião pública sobre o caráter zero-sum percebido de cada política). Isso introduz um elemento de circularidade: o padrão observado (ex.: despolarização) é usado para inferir que a issue tem “apelo universal”, e depois se afirma que o padrão é explicado por esse apelo. (iii) <em>Efeitos de composição partidária:</em> A seleção dos “dois maiores partidos” pode induzir viés se, em alguns países, o segundo maior partido de esquerda ou direita não for o principal competidor na dimensão educacional (ex.: sistemas multipartidários onde partidos menores têm posições mais extremas sobre educação). A exclusão de partidos de nicho é reconhecida como agenda futura, mas suas implicações para a generalização dos achados sobre “mainstream parties” não são plenamente discutidas.
+</td>
+</tr>
+
+<tr>
+<td><strong>Perspectiva Teórica</strong></td>
+<td>
+<td>
+<em>O artigo se insere na tradição da “política partidária comparada” e da “economia política da educação”. A moldura teórica é eclética, combinando elementos da teoria da competição espacial (partidos como atores vote/office/policy-seeking) com a sociologia institucionalista histórica (efeitos de feedback de políticas). A ontologia implícita é de atores partidários racionais que operam sob constrangimentos institucionais e eleitorais. Essa moldura é adequada ao tipo de pergunta (descritivo-explicativa) e ao tipo de evidência (dados observacionais de manifestos). A coerência entre ontologia e método é alta: a análise de regressão com efeitos fixos é uma forma padrão de testar hipóteses derivadas de teorias de escolha racional contextualizada.</em>
+<hr/>
+<strong>Tradições teóricas mobilizadas:</strong> (1) Teoria da competição partidária (*saliency theory* de Budge; modelos de *issue ownership* e *issue emphasis*). (2) Economia política da educação (Ansell, Busemeyer, Garritzmann). (3) Sociologia das normas globais/neoinstitucionalismo mundial (Meyer et al.). (4) Institucionalismo histórico (*policy feedback* de Pierson). A principal inovação teórica é a integração dessas perspectivas por meio da tipologia de “alinhamento da base” × “apelo eleitoral” (Tabela 1). <strong>Adequação da moldura:</strong> A moldura é bem adequada para gerar expectativas diferenciadas por issue, que são então testadas com dados desagregados. A combinação de análise da base eleitoral (WPCID) e análise institucional (matrícula no secundário) operacionaliza diretamente os dois principais componentes contextuais da teoria. <strong>Coerência ontologia-método:</strong> A ontologia implícita é de partidos como atores intencionais que respondem a incentivos eleitorais e institucionais. O método de análise de conteúdo de manifestos e regressão estatística é consistente com essa ontologia, pois trata o discurso como um output estratégico observável que varia sistematicamente com características do ambiente.
+</td>
+</tr>
+
+<tr>
+<td><strong>Principais Referências</strong></td>
+<td>
+<td>
+<em>O diálogo com a literatura é amplo e bem equilibrado, cobrindo tanto os clássicos da política educacional (Ansell, Busemeyer, Castles) quanto trabalhos recentes sobre discurso de manifesto (Dancygier & Margalit, Spoon & Klüver) e sobre clivagens eleitorais (Gethin et al., Häusermann et al.). Não há omissões gritantes. No entanto, a literatura sobre “issue competition” e “issue evolution” (ex.: Carmines & Stimson, Green-Pedersen) poderia ter sido mais mobilizada para teorizar a dinâmica temporal da saliência. O diálogo com a literatura de “party mandates” e “pledge fulfillment” (Thomson et al.) é apropriado para justificar o foco em manifestos.</em>
+<hr/>
+<strong>Referências centrais mobilizadas:</strong> Ansell (2010) e Busemeyer (2014) para a economia política da educação; Busemeyer et al. (2020) para a teoria de “loud but noisy signal”; Garritzmann (2016) para “time-sensitive partisanship”; Meyer et al. (1992) e Jakobi (2011) para a perspectiva de normas globais; Volkens et al. (2020) para o MARPOR; Gethin et al. (2021) para o WPCID; Barro & Lee (2013) para dados de matrícula. <strong>Diálogo com a literatura:</strong> O artigo posiciona-se explicitamente no debate entre a sociologia das normas globais e a economia política partidária, citando extensivamente ambos os lados. A inclusão de trabalhos recentes sobre migração, habitação e política externa que também usam codificação manual de manifestos (Dancygier & Margalit, 2020; Kohl, 2020; Dietrich et al., 2020) ancora metodologicamente o estudo. <strong>Diálogo pobre ou desequilibrado?</strong> Não há desequilíbrio significativo. Uma área que poderia ter sido mais explorada é a literatura de psicologia política sobre percepção de “zero-sumness” das políticas, que fundamenta a distinção entre apelo “universal” e “direcionado”.
+</td>
+</tr>
+
+<tr>
+<td><strong>Observações</strong></td>
+<td>
+<td>
+<em>O artigo é uma contribuição sólida e inovadora. As vulnerabilidades adicionais incluem: (1) A dependência de uma única medida de “apelo geral” (inferida, não medida) enfraquece a testabilidade da tipologia teórica. Futuras pesquisas poderiam triangular com dados de opinião pública sobre a percepção de “jogo de soma zero” em cada política. (2) A análise de feedback institucional usa apenas a matrícula no secundário como proxy; seria enriquecedor considerar também a expansão do ensino superior e a variação no grau de estratificação (tracking) dos sistemas, que Garritzmann (2016) mostra ser crucial. (3) A relação entre discurso de manifesto e comunicação em outras arenas (mídia, debates parlamentares) permanece uma caixa-preta. O EPD é um recurso valioso que pode ser estendido para incluir partidos de nicho e para análises diacrônicas mais finas dos mecanismos causais.</em>
+<hr/>
+<strong>Vulnerabilidades adicionais:</strong> (a) <em>Validade externa temporal:</em> O artigo cobre até 2020, mas os desenvolvimentos mais recentes (ex.: politização da “critical race theory” e direitos LGBTQ+ nas escolas) podem estar alterando os padrões identificados, especialmente para as issues de conteúdo. (b) <em>Lacunas teóricas:</em> A teoria assume que os partidos respondem à sua base eleitoral atual, mas não considera como os partidos podem tentar *mudar* sua base ao longo do tempo por meio do discurso (ex.: estratégias de “realinhamento”). (c) <em>Omissões e suas implicações:</em> A não discussão de “scope conditions” limita a generalização dos achados. A omissão de uma medida direta de “apelo geral” torna a teoria menos falseável. Apesar dessas limitações, o artigo oferece um avanço significativo na compreensão da politização da educação e um modelo de como análises granulares de manifesto podem iluminar dinâmicas partidárias que análises agregadas obscurecem.
+</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+```
