@@ -13,10 +13,12 @@ format:
     highlight-style: github
     code-fold: false
     self-contained: true
-    lang: pt
 ---
 
-Última atualização: 2026-04-18  
+> Barahona, N., Dobbin, C., & Otero, S. (2026, April 6). *Equilibrium price responses to targeted student financial aid* [Working paper]. University of California, Berkeley; Georgetown University; Columbia University.
+
+
+Última atualização: 2026-04-19 
 Modelo: Perplexity — Claude Sonnet 4.6 Thinking  
 Gerado em: 2026-04-18T22:55:00-03:00
 
@@ -33,7 +35,6 @@ Gerado em: 2026-04-18T22:55:00-03:00
 | Unidade de análise | Cursos (combinação de habilitação, IES e turno) × região × ano |
 | N observações | > 20 milhões de candidatos ao ENEM; 13.567 cursos em 695 IES |
 
-> Barahona, N., Dobbin, C., & Otero, S. (2026, April 6). *Equilibrium price responses to targeted student financial aid* [Working paper]. University of California, Berkeley; Georgetown University; Columbia University.
 
 ::: {.callout-note collapse="true" icon=false}
 ## Entrada BibTeX → Barahona-etal2026

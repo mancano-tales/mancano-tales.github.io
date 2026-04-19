@@ -15,7 +15,9 @@ format:
     self-contained: true
 ---
 
-Última atualização: 2026-04-18
+> Garritzmann, J. L., & Seng, K. (2026). The politics of mass higher education – what role have political parties played in the expansion of higher education enrolment? *Comparative Education*. Advance online publication. https://doi.org/10.1080/03050068.2026.2656040
+
+Última atualização: 2026-04-19
 Modelo: Claude Sonnet 4.6
 Gerado em: 2026-04-18T16:00:00-03:00
 
@@ -31,7 +33,6 @@ Gerado em: 2026-04-18T16:00:00-03:00
 | Período | 1960–2022 |
 | Unidade de análise | Gabinetes ministeriais (até 630); observações anuais aninhadas |
 
-> Garritzmann, J. L., & Seng, K. (2026). The politics of mass higher education – what role have political parties played in the expansion of higher education enrolment? *Comparative Education*. Advance online publication. https://doi.org/10.1080/03050068.2026.2656040
 
 ::: {.callout-note collapse="true" icon=false}
 ## Entrada BibTeX — Garritzmann-Seng2026

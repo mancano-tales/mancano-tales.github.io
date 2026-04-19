@@ -13,26 +13,13 @@ format:
     highlight-style: github
     code-fold: false
     self-contained: true
-    lang: pt
 ---
 
-Última atualização: 2026-04-18  
+> Dobbin, F., & Schoonhoven, C. B. (2010). An organizational sociology of Stanford's organization theory renaissance. In C. B. Schoonhoven & F. Dobbin (Eds.), *Stanford's organization theory renaissance, 1970–2000* (Research in the Sociology of Organizations, Vol. 28, pp. xvii–xli). Emerald Group Publishing.
+
+Última atualização: 2026-04-19  
 Modelo: Perplexity, powered by Claude Sonnet 4.6 Thinking  
 Gerado em: 2026-04-18T19:38:00-03:00
-
-| Campo | Valor |
-|:------|:------|
-| Tipo de documento | Capítulo introdutório em volume coletivo |
-| Título | An Organizational Sociology of Stanford's Organization Theory Renaissance |
-| Autores | Frank Dobbin; Claudia Bird Schoonhoven |
-| Ano | 2010 |
-| Publicação | *Research in the Sociology of Organizations*, v. 28 |
-| Editora | Emerald Group Publishing |
-| ISBN | 978-1-84950-930-5 |
-| Páginas cobradas | pp. xvii–xli |
-| Unidade de análise | Comunidade acadêmica de Stanford (1970–2000) |
-
-> Dobbin, F., & Schoonhoven, C. B. (2010). An organizational sociology of Stanford's organization theory renaissance. In C. B. Schoonhoven & F. Dobbin (Eds.), *Stanford's organization theory renaissance, 1970–2000* (Research in the Sociology of Organizations, Vol. 28, pp. xvii–xli). Emerald Group Publishing.
 
 ::: {.callout-note collapse="true" icon=false}
 ## Entrada BibTeX → Dobbin-Schoonhoven2010
@@ -51,6 +38,19 @@ Gerado em: 2026-04-18T19:38:00-03:00
   isbn      = {978-1-84950-930-5}
 }
 ```
+
+| Campo | Valor |
+|:------|:------|
+| Tipo de documento | Capítulo introdutório em volume coletivo |
+| Título | An Organizational Sociology of Stanford's Organization Theory Renaissance |
+| Autores | Frank Dobbin; Claudia Bird Schoonhoven |
+| Ano | 2010 |
+| Publicação | *Research in the Sociology of Organizations*, v. 28 |
+| Editora | Emerald Group Publishing |
+| ISBN | 978-1-84950-930-5 |
+| Páginas cobradas | pp. xvii–xli |
+| Unidade de análise | Comunidade acadêmica de Stanford (1970–2000) |
+
 
 :::
 
