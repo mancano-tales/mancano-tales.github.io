@@ -1,0 +1,210 @@
+---
+title: "Fichamento: Late and Unequal Measuring Enrolments and Retention in Brazilian Education, 1933-2010"
+subtitle: "Kang, Paese e Felix (2021)"
+author: "Tales Mançano"
+date: "2026-04-19"
+last-updated: "2026-04-19"
+categories: [Annotated Bibliography, História Econômica, Educação, Desigualdade Regional, Brasil, Demografia Histórica]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Kang, Thomas H., Luis Henrique Z. Paese e Nilson F. A. Felix. 2021. “Late and Unequal Measuring Enrolments and Retention in Brazilian Education, 1933-2010”. *Revista de Historia Económica / Journal of Iberian and Latin American Economic History* 39(1): 1–28. [web:1]
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Kang-etal2021
+
+```bibtex
+@article{Kang-etal2021,
+  author  = {Kang, Thomas H. and Paese, Luis Henrique Z. and Felix, Nilson F. A.},
+  title   = {Late and Unequal Measuring Enrolments and Retention in Brazilian Education, 1933-2010},
+  journal = {Revista de Historia Econ\'omica / Journal of Iberian and Latin American Economic History},
+  year    = {2021},
+  volume  = {39},
+  number  = {1},
+  pages   = {1--28},
+  doi     = {10.1017/S0212610921000112}
+}
+```
+
+:::
+
+Última atualização: 2026-04-19  
+Modelo: Perplexity  
+Gerado em: 2026-04-19T20:59:00-03:00
+
+## Introdução (pp. 1–4)
+
+### Panorama, lacuna e contribuição [§1–§4]
+
+O artigo parte do diagnóstico de que a educação brasileira apresentou desempenho persistentemente baixo em perspectiva de longo prazo e que isso não pode ser bem compreendido sem séries históricas mais extensas e comparações subnacionais e internacionais. Os autores anunciam, logo no resumo e na introdução, a construção de um novo conjunto de dados sobre taxas de matrícula e sobre o *grade distribution ratio* (GDR) para o Brasil entre 1933 e 2010, além de séries por estados de 1955 a 2010. [web:1]
+
+A principal lacuna apontada é a ausência de estimativas de matrícula por estados por um período tão longo no Brasil, bem como a escassez de medidas históricas de qualidade ou progressão escolar. A proposta, portanto, é medir simultaneamente quantidade e retenção, combinando taxas de matrícula com o GDR, e comparar os estados brasileiros entre si e com países latino-americanos. [web:1]
+
+> “This paper presents a new dataset of enrolment rates and grade distribution ratios GDR in Brazil between 1933 and 2010...” [web:1]
+
+Os autores situam esse problema na literatura sobre desigualdade regional, instituições coloniais, choques de comércio, imigração e persistência histórica, sugerindo que a desigualdade educacional regional integra um quadro mais amplo de atraso econômico e institucional brasileiro. O argumento introdutório já antecipa que o Nordeste e o Norte apresentam os piores resultados, enquanto algumas áreas do Sudeste e do Sul sustentam posições relativamente melhores, embora ainda atrasadas em termos comparativos latino-americanos. [web:1]
+
+### Pergunta e promessa analítica [§5–§8]
+
+A pergunta reconstruída do texto é como medir, de forma historicamente consistente, a evolução da matrícula e da retenção escolar no Brasil e em seus estados, e o que essas medidas revelam sobre o atraso educacional brasileiro em comparação com a América Latina. A questão é descritiva e comparativa, mas também explicativa em sentido fraco, porque busca mostrar padrões persistentes de desigualdade espacial e de baixa progressão escolar. [web:1]
+
+O texto promete duas contribuições centrais: um banco de dados novo e uma leitura mais fina da educação brasileira, incorporando a distribuição por séries e a retenção. Os autores também enfatizam que as taxas de matrícula, sozinhas, podem ocultar problemas graves de fluxo escolar, de modo que o GDR complementa e corrige a leitura do sistema educacional. [web:1]
+
+::: {.callout-note icon=false}
+Conceito-chave: **matrícula bruta** e GDR não são equivalentes; a primeira pode sugerir universalização enquanto o segundo revela retenção e repetência elevadas. [web:1]
+:::
+
+## Dados e fontes (pp. 5–9)
+
+### Matrículas, séries e mudanças legais [§9–§12]
+
+Nesta parte, os autores descrevem as fontes usadas para construir a série nacional e estadual de matrículas, combinando anuários estatísticos, documentos do MEC e bases do INEP. Para os estados, as séries de matrícula por série só aparecem de 1955 a 2010, e há lacunas pontuais para 1988, 1989, 1990 e 1994. [web:1]
+
+O texto também explica a necessidade de padronizar os estados segundo a divisão de 1940, para manter consistência temporal. Essa decisão metodológica evita comparações instáveis causadas por mudanças territoriais posteriores, especialmente no caso do Distrito Federal e de novos estados como Tocantins. [web:1]
+
+A reforma de 1971 é tratada como um ponto de inflexão importante, porque reorganizou os níveis escolares e alterou a correspondência entre séries antigas e novas. Os autores reconhecem que isso torna a construção de séries contínuas difícil, mas defendem que fizeram as adaptações necessárias para ligar o *ensino primário* ao novo *ensino fundamental* e o antigo secundário ao novo *ensino médio*. [web:1]
+
+### População em idade escolar [§13–§15]
+
+A segunda fonte central é a população em idade escolar, extraída de censos demográficos oficiais. Como os dados por idade simples antes de 1970 exigem tratamento cuidadoso, os autores optam por interpolação cúbica com *splines*, seguindo Souza (2016), para evitar descontinuidades artificiais entre censos. [web:1]
+
+O texto contrasta essa estratégia com a de estudos anteriores, que trabalhavam com grupos quinquenais e assumiam distribuição uniforme dentro das faixas etárias. Os autores argumentam que, sempre que possível, é melhor usar idades simples diretamente observadas, ainda que sujeitas a *age heaping*, do que depender de hipóteses fortes sobre distribuição interna. [web:1]
+
+Essa escolha revela uma preocupação central do artigo: construir séries internamente consistentes. Os autores afirmam que a interpolação gera estimativas agregadas coerentes entre estados e país, o que fortalece a comparabilidade temporal da base. [web:1]
+
+### GDR e comparabilidade internacional [§16–§18]
+
+A terceira peça metodológica é o GDR, desenvolvido por Frankema e Bolt, definido como uma razão entre a distribuição de matrícula nas séries superiores e inferiores. Os autores explicam a fórmula e mostram como a adaptação para o Brasil permite analisar a progressão no ciclo primário e comparar estados brasileiros com países latino-americanos. [web:1]
+
+Para comparações internacionais, a decisão metodológica é usar as seis primeiras séries, pois esse recorte é mais homogêneo entre países do que simplesmente adotar a definição legal de cada sistema. A justificativa é que a maior parte da América Latina tinha seis séries no nível primário, e isso se aproxima da padronização UIS-ISCED. [web:1]
+
+O GDR é apresentado como um indicador sintético que facilita comparações quando não há dados confiáveis e amplos sobre repetência e evasão. Os autores reconhecem, porém, que ele não incorpora mudanças demográficas de forma explícita, embora julguem que isso não deva distorcer muito a comparação latino-americana dado o estágio demográfico relativamente próximo dos países analisados. [web:1]
+
+::: {.callout-important}
+Os autores assumem que a comparação internacional é defensável porque a maioria dos países latino-americanos se encontra em transição demográfica semelhante; essa é uma suposição plausível, mas também uma condição importante para a validade do GDR comparado. [web:1]
+:::
+
+## Matrículas no Brasil (pp. 9–14)
+
+### Série nacional e interpretação bruta/neta [§19–§22]
+
+A seção mostra a evolução das taxas de matrícula bruta no Brasil desde 1933. Os autores assinalam que a série nacional construída por eles é muito semelhante à de Maduro (2007), com correlação de 0,997, embora existam diferenças maiores nas décadas de 1970 e 1980. [web:1]
+
+Eles destacam que a matrícula bruta chegou a 100% no início dos anos 1980, o que poderia sugerir universalização. No entanto, a taxa líquida de matrícula revela outra história: em 1981, mais de um quinto das crianças de 7 a 14 anos ainda não estava matriculado no nível correspondente. [web:1]
+
+A conclusão é que a universalização “de fato” só foi alcançada nos anos 1990, quando a taxa líquida chegou a 99% em 1999. O contraste entre matrícula bruta e líquida serve para mostrar por que os autores consideram inadequado avaliar o sistema apenas pela cobertura bruta. [web:1]
+
+### Desigualdade regional persistente [§23–§26]
+
+Ao analisar os estados e regiões, o texto reafirma a clivagem entre Nordeste/Norte e Sudeste/Sul. Os autores retomam a literatura sobre desigualdade regional, instituições extrativas, choques de comércio, migração e industrialização para explicar a persistência do atraso regional e sugerem que esses mesmos fatores afetaram a capacidade de oferta educacional. [web:1]
+
+Os dados mostram que, em 1955, o Sudeste tinha taxa bruta de matrícula em torno de 65,2%, enquanto o Nordeste ficava em 32,9%. Duas décadas depois, o Sudeste já superava 100%, ao passo que o Nordeste ainda permanecia bem abaixo, com o texto enfatizando também o papel do Centro-Oeste e a relativa convergência tardia de alguns estados. [web:1]
+
+Os autores observam que a elevação acelerada das matrículas na metade dos anos 1980 coincide com a transição democrática e a Constituição de 1988, hipótese apresentada como plausível na literatura. Ao mesmo tempo, notam que no fim dos anos 1990 as taxas brutas do Nordeste pareceram ultrapassar as do Sudeste, mas isso refletia sobretudo retenção de alunos mais velhos no nível primário, e não maior cobertura efetiva. [web:1]
+
+::: {.callout-note icon=false}
+A tese empírica desta seção é que a expansão da matrícula bruta não eliminou a desigualdade territorial; ela apenas alterou sua aparência estatística quando a universalização aproximou o sistema do teto. [web:1]
+:::
+
+## Retenção e GDR (pp. 15–18)
+
+### Progressão escolar e estagnação [§27–§30]
+
+Quando os autores passam ao GDR, o foco muda da cobertura para o fluxo escolar. A leitura é que taxas brutas altas escondem uma estrutura extremamente ineficiente, sobretudo em estados do Norte e do Nordeste, onde a concentração de alunos nas primeiras séries indica repetência e evasão muito elevadas. [web:1]
+
+O texto argumenta que, entre meados dos anos 1970 e o fim dos anos 1980, o GDR estagnou. Os autores descartam a hipótese de que essa estagnação tenha sido causada apenas por expansão das matrículas iniciais durante o crescimento demográfico, porque as próprias taxas de matrícula também desaceleraram. [web:1]
+
+Em vez disso, sugerem que repetência e/ou abandono provavelmente travaram a expansão do sistema. Essa interpretação é reforçada pela literatura brasileira e latino-americana, que há muito apontava a subestimação das repetências nas estatísticas oficiais. [web:1]
+
+### Repetência, evasão e evidência histórica [§31–§34]
+
+Os autores conectam sua análise à crítica de que estatísticas educacionais antigas subestimavam a repetência e superestimavam a evasão. Eles retomam estudos e diagnósticos de época para mostrar que o problema era estrutural e não apenas administrativo. [web:1]
+
+A descrição do Nordeste é particularmente forte: em 1960, mais de 60% dos alunos do nível primário estavam concentrados na primeira série, o que sugere um funil severo já no início do percurso escolar. No Sudeste industrializado, a concentração era menor, em torno de 40%, e o Nordeste só alcançaria esse patamar duas décadas depois. [web:1]
+
+Os autores interpretam isso como evidência de persistência regional também no campo educacional. Estados do Nordeste permaneceram como os piores desempenhos em matrícula e retenção, ao passo que Sul e Sudeste exibiam resultados melhores, embora ainda limitados no contexto internacional. [web:1]
+
+::: {.callout-tip}
+A contribuição do GDR é mostrar que a desigualdade educacional brasileira não é apenas desigualdade de acesso; é também desigualdade de progressão, isto é, de chance de avançar nas séries sem repetição ou abandono. [web:1]
+:::
+
+## Perspectiva internacional (pp. 18–23)
+
+### Comparação com a América Latina [§35–§38]
+
+Na comparação internacional, os autores ajustam a metodologia para usar as seis primeiras séries, tornando os dados compatíveis entre países. Eles explicam que a medida de Frankema usa denominadores adaptados à definição local de primário, enquanto aqui a padronização busca reduzir o problema de incomparabilidade institucional entre sistemas escolares diferentes. [web:1]
+
+Em 1970, o Brasil aparece atrás de vários países latino-americanos em matrícula nas seis primeiras séries. Segundo a tabela reproduzida no texto, o país ocupa a 14ª posição entre 18 países, ficando abaixo de países como Equador, México, Peru, Uruguai e Chile, embora acima de Guatemala, Honduras e Nicarágua. [web:1]
+
+O ponto metodológico é importante: quando se usa o recorte de seis séries, a imagem do Brasil fica pior do que a apresentada em estimativas que dependem da definição própria de cada país. Os autores defendem que sua padronização gera uma comparação mais justa para o caso latino-americano. [web:1]
+
+### Comparação do GDR [§39–§42]
+
+Na comparação do GDR, o Brasil se revela ainda mais fraco do que nas matrículas. Em 1970, o padrão brasileiro de distribuição por séries é comparável ao de alguns países medianamente atrasados, mas fica muito abaixo da média latino-americana, e o Nordeste aparece como um caso particularmente grave. [web:1]
+
+O texto afirma que o Nordeste tinha GDR de 0,24 em 1970, um valor inferior ao de qualquer país latino-americano na base utilizada. Mesmo estados mais ricos, como Rio Grande do Sul, ficavam atrás de países como Uruguai quando se observa a progressão escolar. [web:1]
+
+Os mapas e gráficos reforçam a ideia de que praticamente todos os estados do Norte e Nordeste se concentravam nas faixas inferiores do indicador, enquanto São Paulo, Rio de Janeiro e Distrito Federal ajudavam a elevar a média nacional. Ainda assim, vários estados brasileiros continuavam com desempenho inferior ao esperado dado seu nível de matrícula. [web:1]
+
+### Convergência tardia [§43–§46]
+
+Os autores mostram que, em 1980, o padrão geral continua semelhante, embora algumas diferenças se atenuem. O Brasil só alcançaria o GDR médio latino-americano por volta da virada do século, e o indicador nacional de 2000 se aproximaria do padrão regional. [web:1]
+
+A leitura final é que o atraso brasileiro no fluxo escolar foi persistente e amplo, especialmente fora do eixo Sul-Sudeste. Mesmo estados relativamente ricos ou industrializados nem sempre exibiam retenção compatível com seu nível de matrícula, o que reforça o diagnóstico de ineficiência estrutural do sistema. [web:1]
+
+O texto encerra esta seção enfatizando que, para alguns estados do Nordeste e do Norte, a situação era pior do que a dos países mais pobres da América Latina. O argumento comparativo é, portanto, de atraso relativo severo e prolongado, não apenas de insuficiência moderada. [web:1]
+
+## Conclusão (pp. 23–24)
+
+### Síntese dos resultados [§47–§49]
+
+Na conclusão, os autores reiteram que o artigo forneceu indicadores nacionais e estaduais de matrícula e retenção em perspectiva comparada. A principal novidade empírica é o banco de dados de longo prazo para estados e regiões, além da reconstrução comparativa com países latino-americanos em 1970 e 1980. [web:1]
+
+A tese consolidada é que, embora o Brasil tenha avançado em matrícula, seu sistema continuou muito fraco em progressão escolar, especialmente no Norte e Nordeste. O GDR mostra que quase todos os estados brasileiros eram comparáveis aos piores desempenhos latino-americanos, e que, dado um certo nível de matrícula, os estados brasileiros tendiam a apresentar retenção inferior à esperada. [web:1]
+
+::: {.callout-note icon=false}
+O texto demonstra que a expansão do acesso não resolveu o problema da educação brasileira: o gargalo histórico estava também dentro do sistema, na repetência e na baixa progressão entre séries. [web:1]
+:::
+
+### Agenda de pesquisa [§50–§52]
+
+Os autores sugerem que a escassez de dados históricos ainda limita o campo e defendem novas investigações sobre trabalho infantil, demanda por escolarização, comportamento das elites e fatores institucionais de oferta. A agenda futura, portanto, combina história quantitativa, economia política da educação e explicações de desigualdade regional. [web:1]
+
+O fecho também aproxima o tema da educação de debates mais amplos sobre crescimento econômico e desenvolvimento humano. Nessa chave, a educação é tanto um insumo instrumental quanto um componente substantivo do desenvolvimento, e o Brasil aparece como um caso persistente de baixo desempenho. [web:1]
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+O artigo sustenta que a educação brasileira entre 1933 e 2010 foi marcada por expansão tardia, desigualdade regional profunda e retenção escolar persistentemente baixa, de modo que a matrícula bruta sozinha mascara a ineficiência estrutural do sistema. Trata-se de um argumento descritivo-comparativo, apoiado em reconstrução histórica de dados e em comparação subnacional e latino-americana. O texto demonstra com mais força a persistência do atraso relativo do Brasil e de suas regiões Norte/Nordeste, enquanto deixa como agenda aberta a explicação causal fina dos mecanismos institucionais, políticos e sociais que produziram esse padrão. Sua contribuição central é mostrar que acesso e progressão escolar são dimensões distintas e que a história educacional brasileira precisa ser lida em chave de desigualdade territorial de longo prazo. [web:1]
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v12.0*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é registrado no campo `Raciocínio analítico` da tabela.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | O texto explicita a lacuna empírica e reconstrói uma pergunta comparativa; a vulnerabilidade está em a explicação causal ficar apenas sugerida, não testada. | Pergunta reconstruída: como evoluíram, no longo prazo, a matrícula e a retenção escolar no Brasil e em seus estados, e o que esses padrões revelam em comparação com outros países latino-americanos? Natureza descritiva e comparativa, com componente explicativo fraco. |
+| Questões Secundárias | As subperguntas são inferidas a partir da estrutura do artigo; a possível fragilidade é que elas não aparecem como hipóteses formalizadas. | Como construir séries históricas consistentes? Como variar matrículas entre regiões? Como comparar Brasil e América Latina sob uma métrica padronizada? |
+| Puzzle-Type | O puzzle é genuíno porque há lacuna documental e contraste empírico forte; a generalização depende da robustez das comparações e das escolhas de padronização. | Gap descritivo e puzzle comparativo sobre atraso educacional e retenção escolar; generalizável como problema de mensuração histórica em países desiguais. |
+| Conclusão / Argumento Central | A tese é bem sustentada pelos dados reconstruídos; o claim mais forte é de atraso persistente, não de causalidade identificada. | O Brasil expandiu matrícula tardiamente e manteve baixa progressão escolar, sobretudo no Norte e Nordeste; o GDR revela que cobertura não equivale a eficiência do sistema. |
+| Métodos | O design é forte para reconstrução histórica, mas fraco para inferência causal direta; há bom encaixe entre pergunta e estratégia descritiva-comparativa. | Estudo histórico-quantitativo com reconstrução de séries, uso de fontes administrativas e censitárias, interpolação cúbica e indicador sintético (GDR). Limitações: mudanças legais, lacunas e padronização comparativa. |
+| Data Generation Process (DGP) | O DGP está explicitado com clareza, o que fortalece transparência; a principal vulnerabilidade é a dependência de fontes heterogêneas e ajustes de série. | Fenômeno real: matrículas e progressão. Observação: registros administrativos e censos. Coleta: IBGE, MEC, INEP, UNESCO. Operacionalização: taxas brutas/líquidas e GDR. Análise: séries históricas e comparação regional/internacional. Unidade: estados, regiões, países. |
+| Achados e Contribuições | As contribuições são robustas no plano descritivo e metodológico; o que está bem identificado é a persistência de desigualdades, não seus mecanismos últimos. | Novo banco de dados nacional e estadual; demonstração da desigualdade regional e da retenção baixa; comparação mais rigorosa com a América Latina; valorização do GDR como indicador de qualidade/progressão. |
+| Análise Crítica dos Achados | O autor responde bem à pergunta descritiva, mas não fecha a explicação causal; a inferência é sólida onde há reconstrução seriada e mais fraca quando sugere mecanismos históricos amplos. | Os achados respondem adequadamente ao “quanto” e “onde”; as ameaças principais são comparabilidade temporal, dependência de interpolação e ausência de teste direto dos mecanismos institucionais, fiscais e políticos sugeridos. |
+| Limitações | Há boa honestidade metodológica sobre lacunas e ajustes, mas algumas fontes de viés permanecem subestimadas, sobretudo na comparabilidade entre sistemas e no uso do GDR. | **Reconhecidas pelos autores:** lacunas de dados, mudanças legais de 1971, dificuldade de comparabilidade internacional e ausência de séries confiáveis de repetência/evasão. <br> **Não reconhecidas ou subestimadas:** sensibilidade do GDR a composição etária, possíveis vieses de interpolação e efeitos de heterogeneidade intraestadual. |
+| Perspectiva Teórica | A moldura é histórica e institucional, com diálogo com economia do desenvolvimento e desigualdade regional; a coerência é alta com o tipo de evidência usada. | Tradições: história econômica da educação, economia política das desigualdades regionais, instituições e desenvolvimento, capital humano. A moldura é adequada a uma pergunta descritivo-comparativa. |
+| Principais Referências | O diálogo bibliográfico é amplo e bem ancorado; a limitação é a literatura mobilizada servir mais para contextualizar do que para testar rivalidades teóricas. | Frankema e Bolt, Frankema, Schultz? Não citado; Engerman e Sokoloff, Acemoglu et al., Leff, Musacchio et al., Ribeiro, Schiefelbein, Maduro, Colistete, Azzoni, Monasterio, Naritomi et al. |
+| Observações | O artigo é muito útil para pesquisa sobre desigualdade educacional e história quantitativa; a principal omissão é a ausência de níveis microterritoriais ou de mecanismos escolares internos. | Vulnerabilidades adicionais: validade externa limitada para outras escalas; pouca exploração de desigualdade intraestadual e de redes locais de oferta; relevância alta para estudos sobre Brasil, América Latina e séries históricas educacionais. |
+
+:::

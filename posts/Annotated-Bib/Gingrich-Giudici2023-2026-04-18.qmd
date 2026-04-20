@@ -16,17 +16,6 @@ format:
     self-contained: true
 ---
 
-| | |
-|:------|:------|
-| **Citation-key** | Gingrich-Giudici2023 |
-| **Ano** | 2023 |
-| **Autor(es)** | Gingrich, J.; Giudici, A. |
-| **Título** | Education as a tool of social equality? |
-| **Instituição** | Department of Politics and International Relations, University of Oxford; School of Education, Communication and Language Sciences, Newcastle University |
-| **Tipo de documento** | Artigo em periódico (*Social Policy & Administration*, v. 57, pp. 172–188) |
-| **Modelo** | Perplexity — Claude Sonnet 4.6 |
-| **Timestamp** | 2026-04-18T15:57:00-03:00 |
-
 > GINGRICH, Jane; GIUDICI, Anja. Education as a tool of social equality? *Social Policy & Administration*, v. 57, n. 2, p. 172–188, 2023. DOI: 10.1111/spol.12878.
 
 ::: {.callout-note collapse="true"}
@@ -47,6 +36,17 @@ format:
 }
 ```
 :::
+
+| | |
+|:------|:------|
+| **Citation-key** | Gingrich-Giudici2023 |
+| **Ano** | 2023 |
+| **Autor(es)** | Gingrich, J.; Giudici, A. |
+| **Título** | Education as a tool of social equality? |
+| **Instituição** | Department of Politics and International Relations, University of Oxford; School of Education, Communication and Language Sciences, Newcastle University |
+| **Tipo de documento** | Artigo em periódico (*Social Policy & Administration*, v. 57, pp. 172–188) |
+| **Modelo** | Perplexity — Claude Sonnet 4.6 |
+| **Timestamp** | 2026-04-18T15:57:00-03:00 |
 
 ---
 
