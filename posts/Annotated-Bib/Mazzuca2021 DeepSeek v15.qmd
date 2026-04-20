@@ -1,5 +1,3 @@
-Escopo deste turno: Introdução e Parte I (pp. 1–100), cobrindo o prefácio, introdução e Capítulos 1–3.
-
 ---
 title: "Fichamento: Latecomer State Formation — Political Geography and Capacity Failure in Latin America"
 subtitle: "Mazzuca (2021)"
@@ -21,8 +19,6 @@ format:
     highlight-style: github
     lang: "pt"
 ---
-
-## Referência APA 7 {.unnumbered}
 
 Mazzuca, S. (2021). *Latecomer state formation: Political geography and capacity failure in Latin America*. Yale University Press.
 
