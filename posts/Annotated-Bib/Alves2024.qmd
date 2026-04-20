@@ -1,0 +1,295 @@
+---
+title: "Fichamento: Partisanship, Cross-Party Coalitions, and Social Policymaking in Brazil"
+subtitle: "Alves (2024)"
+author: "Tales Mançano"
+date: "2026-04-20"
+last-updated: "2026-04-20"
+categories: ["Annotated Bibliography", "Comparative Politics", "Latin American Politics", "Social Policy", "Coalitional Presidentialism"]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Alves, D. H. (2024). Partisanship, Cross-Party Coalitions, and Social Policymaking in Brazil. *Latin American Research Review*, *59*(3), 571–587. https://doi.org/10.1017/lar.2024.33
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Alves2024
+
+```bibtex
+@article{Alves2024,
+  author    = {Alves, Daniel H.},
+  title     = {Partisanship, Cross-Party Coalitions, and Social Policymaking in Brazil},
+  year      = {2024},
+  journal   = {Latin American Research Review},
+  volume    = {59},
+  number    = {3},
+  pages     = {571--587},
+  doi       = {10.1017/lar.2024.33},
+}
+```
+
+:::
+
+Última atualização: 2026-04-20
+Modelo: IA Planilhando Texto v13.0
+Gerado em: 2026-04-20T14:30:00-03:00
+
+## Abstract / Resumo (pp. 1)
+
+### Apresentação do problema e argumento central [§1]
+
+Alves introduz o artigo contrastando a tendência global de aumento da desigualdade com a experiência recente da América Latina e, especificamente, do Brasil, onde a distribuição de renda se tornou mais justa nas décadas de 2000 e 2010. O autor destaca que o Brasil expandiu políticas redistributivas significativas – um programa de transferência condicional de renda, reformas educacionais e aumentos do salário mínimo – sob governos do Partido dos Trabalhadores (PT), resultando em quedas consecutivas no coeficiente de Gini. A pesquisa se propõe a ser o primeiro esforço sistemático para detalhar como essas três políticas redistributivas cruciais foram aprovadas em um legislativo fragmentado onde o partido do presidente era minoritário.
+
+### Contribuição teórica e metodologia [§2]
+
+O autor posiciona seu estudo em contraste com a abordagem predominante da **Teoria dos Recursos de Poder** (*Power Resources Theory*), que enfatiza as ligações entre partidos de esquerda e a classe trabalhadora como o mecanismo essencial para a melhoria das condições de bem-estar social. Alves argumenta que as relações Executivo-Legislativo permanecem subestudadas nessa literatura. A principal contribuição do artigo, portanto, é adicionar nuance à compreensão do *social policymaking* na América Latina, demonstrando que presidentes de esquerda no Brasil melhoraram a redistribuição investindo em arranjos cooperativos multipartidários, um processo no qual a ideologia foi diluída. Metodologicamente, o estudo baseia-se na análise de centenas de notícias, documentos legislativos e fontes secundárias.
+
+### Resumo em português [§3]
+
+O resumo em português reitera os mesmos pontos centrais do resumo em inglês, reafirmando o foco nas estratégias de formação e gestão de coalizões multipartidárias pelos governos do PT para viabilizar mudanças estruturais. O autor enfatiza novamente que os achados complexificam as abordagens baseadas em partidarismo para explicar o declínio da desigualdade na América Latina.
+
+## Introdução (pp. 2–3)
+
+### Contexto latino-americano e o puzzle da pesquisa [§1–§2]
+
+Alves inicia a introdução reiterando que a desigualdade declinou na América Latina após reformas sociais, contrastando com a tendência global de aumento da desigualdade. O autor cita a expansão dos sistemas de bem-estar e a melhora na distribuição de renda brasileira como uma manifestação primordial de progresso democrático. O cerne do problema de pesquisa é introduzido a seguir: a literatura dominante, ancorada na **Teoria dos Recursos de Poder** (PRT), atribui o declínio da desigualdade ao sucesso eleitoral de partidos de esquerda e às suas conexões com movimentos sociais. Autores como Korpi (1983, 2006), Huber e Stephens (2012), Pribble (2013) e Anria e Niedzwiecki (2016) são citados como proponentes dessa visão, na qual o "poder de baixo" (*power from below*) é o fator causal determinante.
+
+### A lacuna analítica: relações Executivo-Legislativo [§3–§4]
+
+O autor identifica uma lacuna crucial nessa literatura: as **relações Executivo-Legislativo**, uma parte constitutiva do processo político, são subestudadas. Alves argumenta que, em democracias multipartidárias com presidentes minoritários, como é comum na América Latina, a formação e gestão de coalizões são críticas para a sobrevivência do governo e para a aprovação de leis. Consequentemente, mesmo um governo de esquerda que deseje promover políticas redistributivas precisa construir uma coalizão majoritária para que sua agenda avance no Congresso. Isso sugere que as dinâmicas de coalizão devem afetar a política das reformas pró-equidade.
+
+### Apresentação da pesquisa e contribuição [§5–§6]
+
+Alves apresenta sua pesquisa como o primeiro esforço sistemático para detalhar a aprovação de três políticas redistributivas críticas sob os primeiros governos do PT (2003-2016). Ele anuncia que sua contribuição principal é adicionar nuances à análise do *social policymaking* na América Latina. Os achados preliminares, resumidos no texto, indicam que o governo do PT estava ciente de sua condição minoritária e utilizou instrumentos como nomeações para o gabinete e troca de favores para atrair o apoio de partidos de centro-direita, inclusive contornando divisões internas na própria esquerda. A evidência coletada sugere uma associação entre a relativa ausência de *input* da sociedade civil (*power from below*) e a presença das ferramentas de gestão de coalizão presidencial.
+
+::: {.callout-tip}
+A principal implicação deste estudo é que um governo de esquerda no Brasil expandiu políticas sociais investindo em arranjos cooperativos multipartidários, minimizando o fator ideológico. O autor propõe que novas pesquisas investiguem a ligação entre a cooperação esquerda-direita e os ganhos socioeconômicos recentes na região.
+:::
+
+## How the political left affects inequality (pp. 3–4)
+
+### Os postulados da Teoria dos Recursos de Poder (PRT) [§1–§2]
+
+Esta seção detalha os fundamentos da **Teoria dos Recursos de Poder** (PRT). Alves explica que, para a PRT, a promoção da igualdade econômica depende da capacidade dos partidos de esquerda de mobilizar a classe trabalhadora em apoio a Estados de bem-estar mais abrangentes. A influência dos atores sociais na formulação de políticas é vista como o mecanismo causal central: quanto mais recursos os representantes dos trabalhadores têm para competir eleitoralmente e incorporar atores sociais no governo, maior a probabilidade de aprofundarem os sistemas de proteção social. O argumento central é resumido na ideia de que uma distribuição de renda mais justa depende da capacidade das classes mais baixas de moldar o *policymaking* a seu favor (Brady, Blome, e Kleider 2016).
+
+### Aplicação à América Latina e ao caso brasileiro [§3–§4]
+
+O autor aplica a lógica da PRT ao contexto latino-americano, observando que a "Maré Rosa" (*Pink Tide*) dos anos 2000, com governos de esquerda no poder, coincidiu com a expansão de redes de proteção social e a queda dos coeficientes de Gini (Huber e Stephens 2012; Levitsky e Roberts 2011). Estudos como os de Pribble (2013) e Anria e Niedzwiecki (2016) são citados para corroborar a visão de que o declínio da desigualdade dependeu da competitividade eleitoral da esquerda e de suas ligações com a classe trabalhadora.
+
+O Partido dos Trabalhadores (PT) brasileiro é apresentado como um caso exemplar dessa dinâmica. Alves descreve o PT como uma força eleitoral perene, com laços estreitos com sindicatos e movimentos sociais desde sua fundação (Keck 1995), e que, uma vez no poder, expandiu a participação desses grupos em fóruns de políticas públicas (Mayka e Rich 2021). O partido é caracterizado como a organização política de esquerda mais bem-sucedida da América Latina.
+
+### A contradição com a realidade da coalizão [§5]
+
+Apesar de reconhecer a plausibilidade do argumento da PRT, Alves introduz um contraponto fundamental. Ele argumenta que, embora um presidente de esquerda queira recompensar as classes mais baixas, sua prioridade também é aumentar seu próprio poder político, para o que a aprovação de sua agenda no Legislativo é essencial (Geddes 2003). Em sistemas presidenciais latino-americanos, onde o partido do chefe do Executivo é tipicamente minoritário, presidentes de esquerda são compelidos a buscar votos de grupos não-esquerdistas. Essa necessidade de cooperação interpartidária pode, segundo Alves, diluir o fator ideológico e, consequentemente, o papel do "poder de baixo" no *social policymaking*.
+
+### Evidência preliminar do caso brasileiro [§6]
+
+Como uma implicação observável de seu argumento, Alves aponta para o comportamento do próprio PT. Ele lembra que o partido chegou ao poder em 2003 após firmar uma aliança eleitoral inédita com um partido de direita e que, no governo, liderou uma coalizão ideologicamente diversa, semelhante à de seu antecessor do PSDB, para aprovar sua agenda legislativa (Power 2010, 2016). Essa evidência sugere que, mesmo com suas profundas conexões com a classe trabalhadora, o PT minimizou sua ideologia para construir acordos cooperativos que viabilizassem as reformas redistributivas.
+
+## Coalitions, cooperation, and how proposals become law (pp. 4–5)
+
+### A viabilidade do presidencialismo multipartidário [§1]
+
+Alves inicia esta seção revisando a literatura sobre presidencialismo multipartidário. Ele contrasta as primeiras visões pessimistas (Linz 1990; Mainwaring 1993) com uma nova onda de estudos que demonstram que não há um elemento inerente que torne os sistemas presidenciais multipartidários propensos ao fracasso (Cheibub e Limongi 2002; Chaisty, Cheeseman, e Power 2018). Pelo contrário, esses sistemas podem ser estáveis e o impasse (*gridlock*) pode ser superado. A aprovação de políticas é viável mesmo quando o partido do presidente é minoritário na legislatura (Figueiredo e Limongi 2000; Amorim Neto 2006).
+
+### O conceito de Presidencialismo de Coalizão [§2–§3]
+
+O autor introduz o conceito central de **Presidencialismo de Coalizão** (*coalitional presidentialism*), originalmente proposto por Abranches (1988). Para Alves, seguindo Chaisty, Cheeseman, e Power (2018), este conceito representa os incentivos estratégicos que presidentes minoritários têm para buscar parceiros políticos e aumentar sua base legislativa. A formação de coalizões é crítica para a sobrevivência do governo e a aprovação de sua agenda. Nesse processo, o presidente assume a responsabilidade final pela **gestão da coalizão** (*coalition management*), fazendo escolhas táticas sobre quais instrumentos utilizar para evitar ameaças de impeachment e manter os aliados alinhados ao seu programa de políticas.
+
+### A "caixa de ferramentas" presidencial (Presidential Toolbox) [§4]
+
+Baseando-se no trabalho de Chaisty, Cheeseman, e Power (2018) e Raile, Pereira, e Power (2011), Alves detalha os cinco instrumentos à disposição de presidentes minoritários para formar e gerir coalizões:
+1.  **Poderes legislativos e de definição de agenda** (*legislative and agenda-setting powers*).
+2.  **Autoridade para nomear membros do gabinete** (*authority to appoint cabinet members*).
+3.  **Controle sobre o próprio partido** ou **poderes partidários** (*control over their political party / partisan powers*).
+4.  **Capacidade de distribuir emendas orçamentárias** (*ability to distribute budgetary allowances*).
+5.  **Poderes informais de troca de favores** (*informal favor-exchanging powers*).
+
+A gestão eficaz da coalizão ocorre quando o presidente utiliza esses instrumentos, isolada ou combinadamente, para construir e manter alianças majoritárias que transformem seu programa em lei.
+
+### Aplicação ao caso brasileiro [§5–§6]
+
+Alves argumenta que o Brasil é um caso crucial para testar essa teoria. Por um lado, o país teve um partido de esquerda proeminente com fortes laços sociais no poder, coincidindo com uma queda substancial da desigualdade. Por outro lado, o Legislativo brasileiro é um dos mais fragmentados do mundo (Taylor 2020), tornando a construção de coalizões uma demanda premente.
+
+O autor apresenta evidências de que os presidentes Luiz Inácio Lula da Silva (2003-2010) e Dilma Rousseff (2011-2016) utilizaram amplamente a "caixa de ferramentas". Ele cita dados que mostram que, enquanto o PT nunca teve mais de 20% das cadeiras no Congresso, a coalizão governante como um todo representava mais de 60% dos votos legislativos na maior parte do tempo (Montero 2014). Os gabinetes sempre incluíram ministros de direita (Amorim Neto 2019). As taxas de dominância e sucesso do Executivo no Legislativo durante os governos Lula e primeiro mandato de Dilma permaneceram em torno de 70% e 90%, respectivamente (Limongi 2006; Pereira 2017).
+
+::: {.callout-note icon=false}
+O argumento central desta seção é que, dado que presidentes buscam estabilidade e a entrega de seu programa de governo, é plausível esperar que os governos do PT tenham aprovado sua agenda social com a cooperação de legisladores não-esquerdistas. Nesse processo, a expectativa é que a ideologia de esquerda tenha sido diluída por acordos que priorizaram a gestão da coalizão em detrimento do *input* de políticas vindo da sociedade (*power from below*).
+:::
+
+## The case of declining inequality in Brazil (p. 5)
+
+### Evidência empírica do declínio da desigualdade [§1]
+
+Nesta curta seção, Alves consolida a evidência empírica que motiva seu estudo de caso. Ele reitera que o Brasil está entre os poucos países onde a redistribuição melhorou e a desigualdade de renda diminuiu nas últimas décadas (Birdsall, Lustig, e McLeod 2012). Estudos de Barros e colaboradores (2010) e Ferreira, Firpo, e Messina (2022) são citados para demonstrar a forte associação entre a queda do Gini e iniciativas estatais específicas: maiores transferências fiscais para os pobres (Bolsa Família), reformas para aumentar a escolaridade (FUNDEB) e aumentos reais do salário mínimo. O autor também menciona Morgan (2017) e Souza (2018) como trabalhos que corroboram essa visão.
+
+### Temporalidade do declínio [§2]
+
+Um ponto importante é a precisão temporal. Alves cita dados do Banco Mundial (2023) para mostrar que, embora uma diminuição no índice de Gini já fosse perceptível entre 1997 e 2002 (governo FHC/PSDB), a queda na desigualdade **acelerou-se significativamente no período 2003-2014**, coincidindo com os mais de dez anos do PT no poder. Este é o período focal da análise empírica do artigo.
+
+## Qualitative observations of political processes (pp. 5–7)
+
+### Justificativa da abordagem qualitativa [§1]
+
+Alves justifica sua escolha metodológica em contraste com as análises estatísticas existentes. Ele argumenta que, embora estudos quantitativos (e.g., Birdsall, Lustig, e McLeod 2012; Feierherd et al. 2023) sugiram que a desigualdade caiu mais sob governos de esquerda, eles não revelam **como** os partidos de esquerda e direita se comportaram em relação ao *social policymaking*. Esses estudos focam nos "efeitos das causas" (*effects of causes*), enquanto o objetivo do artigo é fornecer explicações aprofundadas das "causas dos efeitos" (*causes of effects*), uma distinção metodológica atribuída a Gerring (2004). A intenção é "trazer a história de volta" para investigar o jogo político por trás das mudanças de política, conforme defendido por Kreuzer (2010).
+
+### Seleção de casos e fontes de dados [§2–§3]
+
+O autor especifica que sua análise qualitativa se concentra em três políticas lançadas por governos do PT entre 2003 e 2011:
+1.  **Programa Bolsa Família (PBF)**: programa de transferência condicional de renda, iniciado em 2003 e lançado oficialmente em 2004.
+2.  **FUNDEB** (Fundo de Manutenção e Desenvolvimento da Educação Básica): emenda constitucional que aumentou o financiamento público para a educação básica, aprovada em 2006.
+3.  **Plano plurianual para o Salário Mínimo (MW)**: primeira política plurianual vinculante para garantir aumentos reais anuais, aprovada em 2011.
+
+As fontes de dados primárias incluem o jornal **Folha de São Paulo** (Folha) e os **arquivos do Congresso Nacional**. Alves justifica o uso da Folha por ser uma fonte autorizada para acadêmicos (citando Hunter 2010, Montero 2014, Garay 2016, entre outros) e por sua linha editorial liberal e pró-democracia desde 1978, o que a tornaria "comparativamente menos propensa a registrar a cooperação esquerda-direita como uma característica relevante [...] ou os *inputs* sociais vindos de baixo como menos importantes". Os arquivos do Congresso fornecem dados sobre o tempo de tramitação, votações, orientações partidárias e discursos em plenário.
+
+### Classificação ideológica dos partidos [§4]
+
+Alves estabelece uma classificação ideológica dos partidos brasileiros com base em um consenso na literatura sobre política social e brasileira (Melo e Pereira 2013; Garay 2016; Garmany e Pereira 2018):
+
+| Posição Ideológica | Partidos |
+| :--- | :--- |
+| **Esquerda** | PT, PDT, PSB, PCdoB, PSOL |
+| **Centro** | PSDB (líder de coalizão de centro-direita em 1995-2002) |
+| **Centro-Direita / Direita** | PMDB, PFL, PL/PR, PP |
+
+O autor faz ressalvas importantes. O PT, embora formado por grupos de classe média, nasceu da ambição de destronar as elites tradicionais e tem ligações constitutivas com movimentos trabalhistas rurais e urbanos (Garmany e Pereira 2018). O PMDB, por sua vez, apesar de sua presença em gabinetes tanto do PSDB quanto do PT, é caracterizado como um representante de longa data das elites econômicas conservadoras, e sua aliança nacional com o PT "nunca foi prevista até que acontecesse" (Bethell 2018, 216).
+
+### Hipóteses e expectativas teóricas [§5–§6]
+
+O autor explicita suas expectativas teóricas contrastantes. A PRT prevê que um governo de esquerda recompensará os eleitores de baixa renda dando um papel mais significativo aos movimentos sociais no *policymaking*. Por outro lado, a teoria do presidencialismo de coalizão prevê que um presidente minoritário buscará apoio multipartidário para aprovar sua agenda.
+
+A hipótese central do artigo é, portanto, que a análise aprofundada das três reformas revelará o Executivo utilizando suas ferramentas presidenciais para priorizar acordos com partidos não-esquerdistas em detrimento do *input* de políticas vindo da sociedade. Se as evidências confirmarem essa hipótese, o partidarismo (e a PRT) seria enfraquecido como variável explicativa para a queda da desigualdade na América Latina. Para fins de replicabilidade, Alves informa que uma lista de todas as evidências coletadas está disponível no Material Suplementar online, codificada por política (PBF, FUNDEB, MW), fonte (Congress, Folha) e data.
+
+## The politics of redistributive policies in Brazil (pp. 7–12)
+
+## Programa Bolsa Família (pp. 7–9)
+
+### Contexto e criação do PBF [§1]
+
+Alves contextualiza a criação do Bolsa Família (PBF) no final de 2003, durante o primeiro ano do governo Lula. O programa foi instituído por **medida provisória**, um instrumento de poder legislativo e de definição de agenda do presidente. O PBF unificou programas de transferência de renda existentes, herdados do governo Fernando Henrique Cardoso (PSDB) – como o **Bolsa Escola** – e um novo programa do PT, o **Cartão Alimentação**, que era a principal ação social do governo Lula até então e estava no centro da iniciativa **Fome Zero**.
+
+### Conflito interno e uso de poderes partidários [§2–§3]
+
+A evidência central desta subseção é a divisão interna no PT e no governo sobre o desenho do programa. Alves descreve uma disputa entre dois grupos:
+1.  **"Neoliberais"**: grupo associado ao Ministério da Economia (liderado pelo petista Antonio Palocci), que defendia um programa focalizado (*means-tested*), custo-efetivo e baseado na estrutura *top-down* do Bolsa Escola, seguindo a lógica de organizações internacionais como o Banco Mundial.
+2.  **Grupo alinhado aos movimentos sociais**: defendia um projeto baseado em princípios universalistas e supervisão comunitária, representado pelo Cartão Alimentação e pelo Fome Zero.
+
+O presidente Lula, utilizando seus **poderes partidários** para arbitrar o conflito, decidiu a favor do grupo "neoliberal". O autor cita discursos de Lula para ilustrar a ênfase na continuidade e na eficácia da política como uma instituição de Estado, não de governo. A saída de membros do grupo derrotado foi gerenciada pelo governo.
+
+### Cooperação legislativa e aliança com o PMDB [§4–§6]
+
+O desenho tecnocrático do PBF, alinhado às políticas do governo anterior, teve implicações legislativas cruciais. Facilitou a atração de votos da oposição, particularmente do PSDB, que via o programa como uma continuação natural de suas próprias políticas. Alves cita discursos no Congresso de deputados e senadores do PSDB, PFL e PMDB que explicitamente justificavam seu apoio ao PBF como um endosso à continuidade do Bolsa Escola. A aprovação foi praticamente unânime e rápida.
+
+Simultaneamente, a **Folha de São Paulo** noticiou que o forte apoio do PMDB a propostas-chave do governo ajudou o partido a conquistar cargos no gabinete. Alves aponta que, no início de 2004, logo após a aprovação do PBF, o PMDB ingressou formalmente na coalizão governante, passando de zero para três ministérios (Amorim Neto 2019, 304). Isso demonstra o uso da ferramenta de **nomeações para o gabinete** para ampliar a base de apoio não-esquerdista do governo Lula enquanto as políticas sociais eram expandidas.
+
+## Educação reform (pp. 9–11)
+
+### FUNDEB como continuação do FUNDEF [§1–§2]
+
+Alves descreve o FUNDEB como uma reforma que, embora tenha incorporado algumas demandas da sociedade civil, permaneceu como um empreendimento tecnocrático que se baseou amplamente em seu predecessor, o **FUNDEF**, criado no governo FHC. O FUNDEF havia reorganizado as responsabilidades no financiamento do ensino fundamental (7 a 14 anos). O FUNDEB, proposto pelo governo Lula em 2005 e aprovado em 2006 como emenda constitucional, manteve a maior parte do desenho do FUNDEF, mas expandiu seu alcance para a pré-escola e o ensino médio. O autor destaca que, na oposição nos anos 1990, os legisladores do PT foram orientados a votar contra o FUNDEF (Huber e Stephens 2012).
+
+### Input da sociedade civil limitado ao Legislativo [§3–§5]
+
+A evidência de participação da sociedade civil é apresentada como restrita à fase de negociação no Congresso. Grupos organizados (sindicatos de professores, associações de diretores de educação) conseguiram incluir **creches** (crianças de 0 a 3 anos) no escopo do fundo e estabelecer uma meta rígida de que **60% dos recursos fossem destinados à remuneração dos professores**. Alves enfatiza dois pontos cruciais:
+1.  A inclusão das creches **não fazia parte da proposta original do Executivo** e foi uma emenda feita pelos deputados na comissão especial.
+2.  Legisladores de partidos de direita (PFL, PMDB) **votaram unanimemente a favor** dessa inclusão.
+
+Representantes da sociedade civil e até mesmo membros do PT pediram publicamente que a votação não se tornasse uma questão partidária, sinalizando os benefícios da cooperação.
+
+### Gestão da coalizão e troca de favores [§6–§8]
+
+Alves identifica o uso das ferramentas presidenciais de **troca de favores** e **nomeações para o gabinete** no processo do FUNDEB. Ele relata as queixas do presidente Lula sobre a suposta lentidão do Senado na análise da PEC, o que gerou atritos até mesmo com aliados como o presidente do Senado, Renan Calheiros (PMDB). A estratégia de Lula foi substituir a liderança do governo no Senado, passando-a do PT para o PMDB, com a nomeação do senador **Romero Jucá** para o cargo. A aprovação do FUNDEB foi destravada no Senado logo após essa mudança.
+
+Além disso, o autor contextualiza que a aprovação do FUNDEB ocorreu durante o período eleitoral de 2006. O principal adversário de Lula, Geraldo Alckmin (PSDB), elogiou o FUNDEB e seu vice na chapa, o senador José Jorge (PFL), foi o relator do projeto no Senado. Após a reeleição, Lula ampliou ainda mais a participação do PMDB na coalizão para seu segundo mandato, com o número de ministérios do partido saltando de três para seis (Amorim Neto 2019, 304). Isso demonstra um uso contínuo da ferramenta de gabinete para consolidar o apoio da centro-direita.
+
+## Minimum wage (pp. 11–12)
+
+### A política de valorização do salário mínimo [§1]
+
+O terceiro caso analisado é a aprovação, em 2011, do primeiro plano plurianual vinculante para o salário mínimo (MW) no Brasil. O projeto de lei, enviado pela recém-empossada presidente Dilma Rousseff, transformava em lei uma fórmula de reajuste anual com ganho real que havia sido acordada com as centrais sindicais em 2007, ainda no governo Lula. Alves reconhece que isso representa um elemento de *input* social, pois honrava um compromisso com os trabalhadores.
+
+### Conflito com sindicatos e uso de poderes partidários [§2–§3]
+
+Apesar desse elemento, a análise de Alves demonstra que os sindicatos foram submetidos à autoridade do PT. As centrais sindicais exigiam um aumento ainda maior para 2011 do que o previsto pela fórmula. O governo Dilma, no entanto, priorizou seu plano fiscal e defendeu o valor original. O autor documenta como líderes do PT, incluindo o ex-presidente Lula, criticaram publicamente a posição dos sindicatos, acusando-os de oportunismo. Um senador do PT que ameaçou apoiar uma emenda por um salário maior recuou após uma reunião com a presidente, acatando seu pedido de unidade partidária. Isso evidencia o uso de **poderes partidários** por Dilma para conter a dissidência e impor a posição do governo sobre a base aliada e os movimentos sociais.
+
+### Troca de favores e aprovação legislativa [§4–§6]
+
+O processo legislativo também foi marcado pelo uso da ferramenta de **troca de favores**. Antes da votação na Câmara dos Deputados, o governo sinalizou que o acesso ao orçamento poderia ser cortado para parlamentares que votassem contra o projeto. Após a aprovação da matéria, o Executivo autorizou uma série de nomeações políticas em bancos públicos, estatais e outras agências para partidos aliados da coalizão (PMDB, PP, PSB, PCdoB). O preenchimento desses cargos havia sido pausado enquanto se aguardava o resultado da votação do salário mínimo.
+
+A oposição, tanto de direita quanto de esquerda (representada pelo PSOL), tentou emendar o projeto para elevar o valor do salário mínimo, mas suas propostas foram rejeitadas com amplo apoio da coalizão, especialmente dos partidos de direita como o PMDB, PP e PL/PR. O projeto foi aprovado rapidamente e sem alterações em ambas as casas legislativas.
+
+::: {.callout-note icon=false}
+Nos três casos, Alves observa uma associação consistente: a **ausência relativa de *inputs* da sociedade civil na formulação das políticas** e a **presença ativa das ferramentas presidenciais de gestão de coalizão**. Duas tendências transversais reforçam essa associação: o caráter tecnocrático das três políticas e o crescimento exponencial do número de ministérios controlados pelo PMDB, que passou de zero (2003) para sete, mais a vice-presidência (2011).
+:::
+
+## Discussion and concluding remarks (pp. 13–15)
+
+### Confirmação da hipótese e enfraquecimento da PRT [§1–§2]
+
+Alves inicia a discussão reafirmando que seu estudo detalhado confirma a expectativa teórica. As implicações observáveis sobre a minimização do partidarismo e a gestão eficaz da coalizão foram plausivelmente verificadas nos três casos. Ele conclui que, na medida em que se poderia esperar que um governo de esquerda desse um papel integral aos movimentos sociais no desenvolvimento de programas de redução da desigualdade, o exemplo dos governos do PT (2003-2016) **enfraquece o poder explicativo do partidarismo e das ligações partido-sociedade** da Teoria dos Recursos de Poder.
+
+O autor faz uma ressalva importante: o artigo **não refuta** que administrações de esquerda tendem a ser mais redistributivas ou que suas preferências de gasto público estejam mais alinhadas com os grupos de baixa renda. A contribuição específica é estabelecer que, no caso crucial do Brasil, o PT alcançou uma distribuição de renda mais justa investindo em arranjos cooperativos multipartidários e evitando o conflito ideológico.
+
+### Sumário dos achados empíricos [§3–§5]
+
+Alves resume os achados de cada caso para reiterar a associação entre a ausência de *power from below* e o uso da *presidential toolbox*:
+
+- **PBF**: O Executivo decidiu colocar de lado as iniciativas Fome Zero e Cartão Alimentação, que aspiravam a uma maior participação da sociedade civil, e promoveu um programa *top-down*. Lula utilizou seus poderes de agenda, partidários e de nomeação para o gabinete.
+- **FUNDEB**: Os *inputs* da sociedade civil se restringiram à arena legislativa. Os próprios movimentos sociais e a esquerda se recusaram a ativar ligações partidárias. Uma vitória da sociedade civil (inclusão de creches) implicou uma mudança no projeto original do Executivo. Lula usou a troca de favores e nomeações para o gabinete para facilitar a aprovação.
+- **Salário Mínimo**: A demanda dos sindicatos por um aumento maior foi publicamente reprovada pela coalizão liderada pelo PT. Dilma usou poderes partidários para garantir a coesão da base e poderes de troca de favores após a vitória na Câmara.
+
+### Diálogo com a literatura sobre o "Consenso" e competição eleitoral [§6–§7]
+
+O autor engaja com interpretações alternativas da política brasileira no período. Ele menciona a tese de Power (2010, 2016) sobre um **consenso nacional** entre PT e PSDB de 1994 a 2014, baseado em planos inclusionistas comparáveis. Alves argumenta que o consenso é menos evidente nos casos do PBF e do FUNDEB, já que houve divisões internas no PT sobre essas políticas. Ainda assim, ele concorda com Power que a operação do presidencialismo de coalizão marcou uma continuidade entre os governos FHC e Lula, ambos usando as ferramentas presidenciais para superar sua condição minoritária no Congresso. Essa concordância, segundo Alves, **reforça** o achado central de que a cooperação esquerda-direita sustentou o sucesso das reformas pró-equidade nos anos 2000.
+
+Alves também dialoga com Mauro (2021), que sugere que a competição eleitoral entre PT e PSDB afetou significativamente a redução da desigualdade. Embora reconheça que ambos os partidos prometeram mais redistribuição, Alves argumenta que as intenções não são suficientes; as propostas precisam do consentimento dos legisladores. Ele cita exemplos de derrotas legislativas tanto do governo FHC (reforma da previdência em 1998) quanto do governo Lula (CPMF em 2007) para ilustrar que, quando as alianças se rompem, a agenda não avança. As três políticas estudadas, em contraste, são exemplos de que a **gestão eficaz da coalizão foi vital para sua materialização**.
+
+### Corrupção e condições macroeconômicas como fatores contextuais [§8–§9]
+
+O autor aborda duas questões contextuais relevantes. Primeiro, ele reconhece que as negociações entre o PT e outros membros da coalizão no período podem ter envolvido práticas de corrupção, como compra de votos e financiamento ilegal de campanha (Doctor 2017; Taylor 2020). Embora seus dados não contenham evidências diretas de atividade criminosa, Alves admite que acordos de bastidores controversos podem ter sido o preço pago pelo PT para garantir apoio legislativo.
+
+Segundo, ele aponta que as condições macroeconômicas favoráveis, especificamente o **boom das commodities** dos anos 2000, podem ter atuado como uma **condição de escopo** (*scope condition*) que facilitou a gestão da coalizão. A receita extra das exportações proporcionou espaço fiscal para expandir gastos sociais, fazendo com que a política não se tornasse um jogo de soma zero. Isso pode ter fortalecido ferramentas de coalizão como as emendas orçamentárias e a troca de favores. Alves sugere que este é um ponto para investigação futura.
+
+### Contribuições para o estudo do presidencialismo de coalizão e agenda de pesquisa futura [§10–§12]
+
+Alves afirma que seu artigo demonstra a robustez da abordagem multivariada de Chaisty, Cheeseman, e Power (2018) para o estudo da gestão de coalizões. O caso brasileiro corrobora as previsões desses autores de que nomeações para o gabinete são a "moeda mais comum" do presidencialismo de coalizão e que presidentes minoritários precisam controlar seu próprio partido (poderes partidários) e dispor de recursos para atender às demandas dos legisladores (troca de favores).
+
+Na conclusão, o autor defende que a literatura sobre *social policymaking* na América Latina precisa incorporar as relações Executivo-Legislativo e as dinâmicas de coalizão. Ele observa que, desde a década de 2010, a polarização tem aumentado na região, enquanto a qualidade da democracia diminui e os níveis de desigualdade voltaram a subir. Ele sugere que pesquisas futuras poderiam investigar a associação entre a redução do espaço para cooperação política e a piora nos indicadores de bem-estar social.
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+- **Tese central**: A redução da desigualdade no Brasil sob os governos do Partido dos Trabalhadores (PT) resultou não da influência direta dos movimentos sociais sobre o *policymaking* (como prevê a Teoria dos Recursos de Poder), mas da capacidade do Executivo de construir e gerir coalizões multipartidárias com partidos de centro-direita, utilizando um conjunto de ferramentas presidenciais (nomeações para o gabinete, poderes partidários, troca de favores) que diluíram a ideologia e priorizaram a cooperação legislativa em detrimento da participação da sociedade civil.
+- **Natureza do argumento**: O argumento é de natureza **causal e explicativa**, buscando identificar os mecanismos políticos (gestão de coalizão) que efetivamente permitiram a aprovação de reformas redistributivas, em contraste com explicações baseadas no partidarismo ideológico.
+- **O que o texto demonstra vs. o que fica como agenda**: O texto **demonstra**, através de *process tracing* de três políticas-chave (Bolsa Família, FUNDEB, Salário Mínimo), a associação empírica entre o uso das ferramentas de coalizão e a aprovação das reformas, ao mesmo tempo em que documenta a marginalização do *input* da sociedade civil. O texto **propõe como agenda de pesquisa** a investigação mais ampla da relação entre cooperação política (esquerda-direita) e ganhos socioeconômicos na América Latina, bem como o papel de condições de escopo como o boom das commodities.
+- **Contribuição para o debate mais amplo**: O artigo adiciona uma camada crucial de complexidade ao debate sobre o declínio da desigualdade na América Latina, deslocando o foco analítico das ligações partido-sociedade para a engenharia política das relações Executivo-Legislativo em sistemas presidenciais multipartidários. Ele demonstra a aplicabilidade e a relevância da teoria do **Presidencialismo de Coalizão** para a compreensão de resultados substantivos de políticas públicas, como as reformas sociais.
+:::
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é registrado no campo `Raciocínio analítico` da tabela.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta é explicitamente colocada como um teste a uma teoria dominante (PRT) usando um caso *most-likely* para essa teoria (o PT no Brasil). O ponto mais vulnerável para a avaliação da resposta é a operacionalização do que constitui "diluição da ideologia" e "ausência de *input* da sociedade". A premissa relevante é que o desenho de pesquisa qualitativo pode isolar esses mecanismos. | **Pergunta central:** Como políticas redistributivas de esquerda são aprovadas em um legislativo fragmentado onde o partido do presidente é minoritário, e qual o papel da cooperação interpartidária nesse processo? **Natureza:** Explicativa (busca identificar mecanismos causais). A pergunta é explicitamente formulada como um desafio à explicação baseada no partidarismo da Teoria dos Recursos de Poder. |
+| Questões Secundárias | As questões secundárias são articuladas como implicações observáveis da hipótese principal. A relação com a pergunta central é de dedução lógica: se a hipótese estiver correta, então devemos observar X e Y nos casos empíricos. | **1.** Como os governos do PT usaram sua "caixa de ferramentas" presidencial para formar e gerir coalizões com partidos de direita? **2.** Qual foi o papel e a influência dos movimentos sociais e sindicatos no desenho final das três políticas analisadas? **3.** A ideologia de esquerda foi de fato diluída no processo de *policymaking*? |
+| Puzzle-Type | O puzzle é genuíno porque parte de uma contradição entre uma expectativa teórica bem estabelecida (PRT) e uma observação empírica sobre o contexto institucional (presidencialismo minoritário em legislativo fragmentado). É generalizável para a maioria das democracias presidenciais latino-americanas. A avaliação de que se trata de um puzzle explicativo é correta. | **Classificação:** *Puzzle* explicativo. O autor contrapõe a explicação da Teoria dos Recursos de Poder (que enfatiza o *power from below*) com a realidade institucional do presidencialismo de coalizão, criando uma tensão teórica. **Avaliação:** O *puzzle* é genuíno e bem construído. O caso brasileiro é um "caso crucial" (*most-likely case*) para a PRT (devido à força do PT e seus laços sociais) e um caso típico de presidencialismo de coalizão, o que o torna ideal para testar a validade das duas perspectivas teóricas concorrentes. |
+| Conclusão / Argumento Central | O raciocínio por trás da conclusão é abdutivo: a melhor explicação para o sucesso das reformas, dado o padrão de evidências (uso de ferramentas de coalizão + marginalização de movimentos sociais), é que a gestão da coalizão foi o mecanismo causal chave. O *claim of discovery* é que a ideologia foi "diluída". O que o sustenta é a documentação do uso das ferramentas e da ausência de conflito ideológico aberto. Uma interpretação alternativa seria que o *input* social ocorreu em um estágio anterior, moldando a plataforma do partido. | **Síntese:** Governos de esquerda do PT no Brasil (2003-2016) expandiram políticas sociais e reduziram a desigualdade não por meio do fortalecimento da participação dos movimentos sociais no *policymaking* (*power from below*), mas através da construção e gestão eficaz de coalizões multipartidárias com partidos de centro-direita, um processo no qual a ideologia foi diluída e o "poder de baixo" teve um papel secundário. **Natureza:** Argumento causal que privilegia fatores institucionais e estratégicos (gestão de coalizão) sobre fatores societais (partidarismo ideológico). **Claim of discovery:** A demonstração empírica de que, mesmo em um governo de esquerda com fortes laços sociais, a necessidade de formar coalizões majoritárias em um legislativo fragmentado sobrepõe-se à influência direta dos movimentos sociais na formulação de políticas redistributivas. |
+| Métodos | O método de *process tracing* é adequado para testar mecanismos causais. As fontes (Folha de SP e arquivos do Congresso) são apropriadas, mas a forte dependência de um único jornal como fonte primária para captar o "jogo político" é uma limitação de identificação relevante. O viés editorial da Folha, que o autor vê como uma vantagem (menos propenso a registrar cooperação esquerda-direita), pode ser interpretado como uma limitação: um jornal de esquerda ou de direita poderia ter um enquadramento diferente das negociações, revelando ou ocultando outros aspectos. | **Tipo de estudo:** Estudo de caso qualitativo, comparativo intra-caso (três políticas dentro do mesmo período de governo). **Fontes:** Primárias (centenas de notícias da Folha de São Paulo, documentos legislativos do Congresso Nacional) e secundárias (literatura acadêmica). **Técnica:** *Process tracing* para rastrear o mecanismo causal da gestão de coalizão em cada política. **Limitações de identificação:** A análise baseia-se em evidências observáveis de comportamento (votações, discursos, nomeações) e reportagens. A inferência sobre a "diluição da ideologia" e a "ausência de *input* social" é baseada na ausência de evidência de um papel mais proeminente desses atores, o que é metodologicamente mais frágil do que a evidência positiva do uso das ferramentas de coalizão. |
+| Data Generation Process (DGP) | O DGP é bem explicitado e segue um desenho de pesquisa qualitativa clássico. O ponto mais vulnerável é a etapa de "observação" e "coleta", que depende da cobertura da mídia (Folha) e dos registros oficiais do Congresso. Até que ponto essas fontes capturam de forma abrangente e não enviesada a influência dos movimentos sociais (que pode ocorrer em reuniões fechadas, pressão informal, etc.) é questionável. A unidade de análise é clara e o nível de agregação é apropriado para o argumento. | **Fenômeno real:** Processo político de formulação e aprovação de três políticas redistributivas no Brasil (2003-2011). **→ Observação:** Seleção de três políticas como casos instrumentais para testar teorias concorrentes. **→ Coleta:** Compilação sistemática de notícias da Folha de São Paulo e de documentos legislativos (transcrições de plenário, árvores de decisão) para cada caso. **→ Operacionalização:** "Gestão de coalizão" é operacionalizada como o uso observável das cinco ferramentas da *presidential toolbox*. "*Input* da sociedade" é operacionalizado como a presença de demandas de movimentos sociais no desenho final da política e/ou sua participação ativa nos fóruns decisórios. **→ Análise:** *Process tracing* para verificar a presença/ausência dos mecanismos teóricos em cada caso. **→ Inferência:** Inferência causal descritiva (como X causou Y neste caso específico). **Unidade de análise:** A política pública (PBF, FUNDEB, MW). **Nível de agregação:** Micro (processo de tomada de decisão de atores políticos e sociais). |
+| Achados e Contribuições | Os achados são robustos em demonstrar que as ferramentas de coalizão foram usadas e que a aprovação foi bipartidária. A contribuição é significativa para duas literaturas. O ponto mais especulativo é a afirmação de que a "ideologia foi diluída". O design mostra que o conflito ideológico foi evitado, mas não demonstra que as preferências ideológicas dos atores mudaram. Eles podem ter cooperado instrumentalmente. A contribuição teórica (enfraquecer a PRT) depende de o leitor aceitar que o *power from below* deveria se manifestar de forma mais direta no *policymaking*. | **Resultados empíricos:** Em todos os três casos, o artigo documenta: (1) o uso ativo de ferramentas de gestão de coalizão (nomeações para o gabinete, poderes partidários, troca de favores) pelo Executivo; (2) o apoio decisivo de partidos de centro-direita (PMDB, PSDB) para a aprovação das reformas; e (3) a relativa marginalização ou subordinação das demandas dos movimentos sociais e sindicatos ao cálculo político da coalizão. **Contribuições teórico-metodológicas:** **1. Para a literatura de *social policymaking*:** O artigo demonstra que a dinâmica Executivo-Legislativo e a gestão de coalizão são variáveis intervenientes cruciais que complexificam as explicações baseadas puramente no partidarismo (PRT). **2. Para a literatura de presidencialismo de coalizão:** O artigo aplica e valida empiricamente o *framework* da *presidential toolbox* de Chaisty, Cheeseman, e Power (2018) para explicar resultados substantivos de políticas sociais, e não apenas a sobrevivência do governo ou a dominância legislativa. **O que é especulativo:** A inferência de que a "ideologia foi diluída" como um traço do processo, em vez de uma acomodação estratégica temporária, requer mais evidências sobre as motivações internas dos atores. |
+| Análise Crítica dos Achados | O autor responde adequadamente à sua pergunta de pesquisa, fornecendo evidências convincentes para o mecanismo que propõe. Os pontos mais vulneráveis são: (1) a dificuldade de provar uma "ausência" (de *input* social) como causa; (2) a potencial endogeneidade entre o apoio do PMDB e o desenho tecnocrático das políticas (o PMDB pode ter apoiado políticas tecnocráticas, em vez de o PT ter tornado as políticas tecnocráticas para obter o apoio do PMDB). A *scope condition* do boom das commodities é crucial para a generalizabilidade. | **O autor responde à pergunta?** Sim, de forma convincente. O artigo demonstra, através de evidências detalhadas de *process tracing*, que o uso da *presidential toolbox* foi um fator determinante para a formação das coalizões que aprovaram as reformas redistributivas. **Pontos fortes:** A triangulação de fontes (jornal e arquivos do Congresso) e a análise sistemática de três políticas distintas em áreas diferentes (assistência social, educação, trabalho) fortalecem a robustez dos achados. A descrição dos conflitos internos do PT (e.g., "neoliberais" vs. defensores do Fome Zero) é particularmente reveladora. **Vulnerabilidades:** **1. Provar a ausência:** O argumento de que o *power from below* foi marginalizado baseia-se, em parte, na *ausência* de evidência de seu papel central. É difícil provar que os movimentos sociais não tiveram influência indireta ou em estágios anteriores (ex.: na plataforma eleitoral do PT). **2. Direção da causalidade:** O argumento sugere que as políticas foram desenhadas de forma tecnocrática para atrair apoio da direita. Uma interpretação alternativa é que o PT, uma vez no governo, adotou políticas tecnocráticas por razões próprias (eficiência, restrição fiscal), e isso *facilitou* o apoio da direita. A distinção é sutil, mas relevante. **3. Generalizabilidade:** O autor reconhece que o boom das commodities pode ser uma *scope condition* não declarada. A replicação do argumento em contextos de austeridade fiscal seria um teste importante. |
+| Limitações | A identificação das limitações é honesta e precisa. As limitações não reconhecidas são de ordem metodológica e teórica, e não invalidam o argumento, mas apontam para a necessidade de pesquisa futura. | **Reconhecidas pelos autores:** <br>- Possibilidade de que acordos de coalizão tenham envolvido corrupção, o que os dados não conseguem captar diretamente.<br>- O boom das commodities como uma possível condição de escopo que facilitou a gestão da coalizão e pode limitar a generalização dos achados para outros períodos.<br>- A necessidade de mais estudos de caso de outros países e políticas para fortalecer a validade externa do argumento.<br><br> **Não reconhecidas ou subestimadas:** <br>- A dependência quase exclusiva da Folha de São Paulo como fonte primária para a reconstrução do "jogo político". Embora seja uma fonte respeitável, sua linha editorial pode ter enviesado a cobertura (e.g., dando mais destaque a conflitos intragovernamentais do que à mobilização social).<br>- A dificuldade inerente de medir "influência ideológica" ou "diluição da ideologia" através da análise documental. O que o artigo captura é o *comportamento legislativo* e as *declarações públicas*, não necessariamente a mudança nas preferências ideológicas dos atores.<br>- O foco exclusivo no nível federal pode subestimar a influência do PT e dos movimentos sociais nos níveis estadual e municipal, onde políticas como o Bolsa Família e o FUNDEB são implementadas. |
+| Perspectiva Teórica | A moldura teórica é explicitamente neo-institucionalista (presidencialismo de coalizão) e é usada para desafiar uma teoria de matriz sociológica (PRT). A adequação é excelente, pois o *puzzle* nasce justamente do confronto entre essas duas perspectivas. A ontologia implícita é de que os atores políticos são estratégicos e respondem a incentivos institucionais (a necessidade de formar maioria), o que é coerente com um método de *process tracing* focado em comportamento observável. | **Tradição teórica principal:** Neoinstitucionalismo da escolha racional, especificamente a literatura sobre **Presidencialismo de Coalizão** (Abranches 1988; Chaisty, Cheeseman, e Power 2018). **Tradição teórica contrastada:** Sociologia política / **Teoria dos Recursos de Poder** (Korpi 1983; Huber e Stephens 2012). **Adequação:** A moldura teórica do presidencialismo de coalizão é perfeitamente adequada para responder a uma pergunta sobre a viabilidade política de reformas em um ambiente institucional fragmentado. A coerência entre a ontologia (atores estratégicos buscando formar maiorias) e o método (*process tracing* de decisões e alianças observáveis) é uma força do artigo. |
+| Principais Referências | O diálogo com a literatura é focado e relevante. As referências centrais para o quadro teórico e para o caso empírico são bem escolhidas. O diálogo com a literatura de PRT é um pouco restrito aos textos seminais e a algumas aplicações latino-americanas; um engajamento mais profundo com críticas recentes à PRT poderia enriquecer a análise. | **Obras centrais:** O artigo dialoga intensamente com duas literaturas: (1) **Presidencialismo de Coalizão:** Chaisty, Cheeseman, e Power (2018) é a referência teórica principal; Abranches (1988), Figueiredo e Limongi (2000), Amorim Neto (2006) e Raile, Pereira, e Power (2011) são fundamentais para a aplicação ao caso brasileiro. (2) **Social Policymaking e Desigualdade na América Latina:** Huber e Stephens (2012), Pribble (2013), Birdsall, Lustig, e McLeod (2012) e Garay (2016) são as referências-chave para a literatura que o artigo busca complexificar. Autores como Hunter (2010) e Power (2010, 2016) são centrais para a análise do PT. **Avaliação do diálogo:** O diálogo é equilibrado e produtivo. O autor não descarta a PRT, mas busca adicionar uma camada de complexidade institucional a ela. |
+| Observações | A principal vulnerabilidade adicional é a validade externa do argumento para além do período Lula-Dilma e do boom das commodities. A relação com minha própria pesquisa (ou a de um leitor interessado em *policy process*) é direta, pois o artigo oferece um *framework* analítico claro (a *presidential toolbox*) para estudar a política de reformas em sistemas presidenciais multipartidários. A omissão mais significativa é a falta de uma discussão mais aprofundada sobre o papel do Judiciário e do Ministério Público, que foram atores importantes no contexto da corrupção e das políticas públicas no Brasil. | **Vulnerabilidades adicionais:** O artigo foca no sucesso da aprovação das políticas, mas não analisa as consequências de longo prazo dessa estratégia de "diluição ideológica" para o próprio PT. A estratégia de formar coalizões amplas com a centro-direita, embora eficaz no curto prazo, pode ter contribuído para a crise de representação e os escândalos de corrupção que culminaram no impeachment de Dilma Rousseff em 2016. Essa é uma dimensão da "política da política social" que fica de fora do escopo do artigo.<br><br>**Lacunas teóricas:** O artigo não explora a fundo a distinção entre "ideologia" como um conjunto fixo de preferências programáticas e "ideologia" como um discurso mobilizador. A "diluição" pode ter sido no discurso, não nas preferências. O PT pode ter continuado a preferir políticas mais radicalmente redistributivas, mas as considerou inviáveis no contexto institucional.<br><br>**Validade externa:** O argumento é mais facilmente generalizável para outros países da América Latina com sistemas presidenciais multipartidários fragmentados (e.g., Chile pós-2015, Colômbia, Peru). A generalização para sistemas parlamentaristas ou para presidencialismos com sistemas partidários menos fragmentados (e.g., EUA, México) é mais limitada.<br><br>**Omissões e suas implicações:** O artigo omite uma discussão sobre o papel do empresariado e das elites econômicas. Embora a PRT foque nos trabalhadores, uma análise completa da "cooperação esquerda-direita" se beneficiaria de uma análise sobre como os interesses do capital foram acomodados ou contrariados nesse processo. Essa omissão não invalida o argumento central, mas deixa uma dimensão importante do *policymaking* inexplorada. |
+
+:::
