@@ -4,7 +4,7 @@ subtitle: "Costa, J. S., Silveira, F. G., Costa, R., & Waltenberg, F. D. (2021)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Economia da Educação, Políticas Públicas, Desigualdade, Análise Redistributiva, Brasil]
+categories: [Annotated Bibliography, Economics of Education, Public Policy, Inequality, Brazil]
 format:
   html:
     toc: true

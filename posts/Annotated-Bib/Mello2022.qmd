@@ -2,7 +2,7 @@
 title: "Mello (2022) — Centralized Admissions, Affirmative Action and Access of Low-Income Students to Higher Education"
 description: "Anotação de literatura: avaliação causal do SISU e da Lei de Cotas sobre a composição socioeconômica do ensino superior público brasileiro."
 date: "2026-03-17"
-categories: [Literature Notes, Education Economics, Affirmative Action, Brazil, Causal-Inf]
+categories: [Literature Notes, Economics of Education, Affirmative Action, Causal Inference, Brazil]
 citation-key: Mello2022
 ---
 

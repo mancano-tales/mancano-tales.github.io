@@ -4,7 +4,7 @@ subtitle: "Ferre (2023)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Welfare Regimes, Latin American Social Policy, Comparative Political Economy, Quantitative Methods]
+categories: [Annotated Bibliography, Welfare State, Comparative Political Economy, Quantitative Methods, Latin America]
 format:
   html:
     toc: true

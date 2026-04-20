@@ -4,7 +4,7 @@ subtitle: "Acemoglu, Johnson & Robinson (2005)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Economic History, Political Economy, Institutional Change, Atlantic Trade, Quantitative History]
+categories: [Annotated Bibliography, Economic History, Comparative Political Economy, Institutions, Quantitative Methods]
 format:
   html:
     toc: true

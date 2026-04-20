@@ -4,7 +4,7 @@ subtitle: "Kang, Paese & Felix (2021)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, História Econômica, Economia da Educação, Desigualdade Regional, Brasil, Métodos Quantitativos]
+categories: [Annotated Bibliography, Economic History, Economics of Education, Inequality, Quantitative Methods, Brazil]
 format:
   html:
     toc: true

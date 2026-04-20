@@ -4,7 +4,7 @@ subtitle: "Andersson e Berger (2019)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, História Econômica, Economia da Educação, Elites e Instituições, Inferência Causal, Suécia Oitocentista]
+categories: [Annotated Bibliography, Economic History, Economics of Education, Institutions, Causal Inference]
 format:
   html:
     toc: true

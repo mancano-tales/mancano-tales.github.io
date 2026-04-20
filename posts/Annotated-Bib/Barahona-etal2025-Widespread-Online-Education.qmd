@@ -4,7 +4,7 @@ subtitle: "Barahona, N.; Dobbin, C.; Otero, S. (2025)"
 author: "Tales Mançano"
 date: "2026-04-18"
 last-updated: "2026-04-18"
-categories: [Annotated Bibliography, Economics of Education, Industrial Organization, Causal Inference, Higher Education Policy, Brazil]
+categories: [Annotated Bibliography, Economics of Education, Industrial Organization, Causal Inference, Tertiary Education, Brazil]
 format:
   html:
     toc: true

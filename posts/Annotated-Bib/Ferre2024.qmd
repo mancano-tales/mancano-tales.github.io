@@ -4,7 +4,7 @@ subtitle: "Ferre, J. C. (2024)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Economia Política Comparada, Estado de Bem-Estar Social, América Latina, Teoria Marxista do Estado, Métodos Mistos]
+categories: [Annotated Bibliography, Comparative Political Economy, Welfare State, Latin America, Quantitative Methods]
 format:
   html:
     toc: true
