@@ -4,7 +4,7 @@ subtitle: "Dobbin, F. & Schoonhoven, C. B. (2010)"
 author: "Tales Mançano"
 date: "2026-04-18"
 last-updated: "2026-04-18"
-categories: [Annotated Bibliography, Sociology of Organizations, Institutional Theory, Sociology of Knowledge, Organization Theory, Science Studies]
+categories: [Annotated Bibliography, Sociology of Organizations, Institutions]
 format:
   html:
     toc: true

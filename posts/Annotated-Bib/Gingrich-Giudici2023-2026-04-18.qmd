@@ -3,7 +3,7 @@ title: "Fichamento: Education as a tool of social equality?"
 subtitle: "Gingrich, J.; Giudici, A. (2023)"
 author: "Tales Mançano"
 date: "2026-04-18"
-categories: [Annotated Bibliography, Politics of Education, Welfare State, Party Politics, Manifesto Analysis, Comparative Politics]
+categories: [Annotated Bibliography, Politics of Education, Welfare State, Party Politics, Comparative Politics]
 format:
   html:
     toc: true

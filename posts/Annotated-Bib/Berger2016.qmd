@@ -4,7 +4,7 @@ subtitle: "Thor Berger (2016)"
 author: "Tales Mançano"
 date: "2026-04-20"
 last-updated: "2026-04-20"
-categories: ["Annotated Bibliography", "Economic History", "Causal Inference", "Regional Development", "Infrastructure", "Human Capital", "Agricultural Productivity"]
+categories: [Annotated Bibliography, Economic History, Causal Inference, Human Capital]
 format:
   html:
     toc: true

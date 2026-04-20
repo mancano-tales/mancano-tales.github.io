@@ -4,7 +4,7 @@ subtitle: "Scudeler (2022)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Educação Superior, Políticas Públicas, Financiamento Estudantil, Sociologia da Educação]
+categories: [Annotated Bibliography, Tertiary Education, Public Policy, Sociology of Education]
 format:
   html:
     toc: true
