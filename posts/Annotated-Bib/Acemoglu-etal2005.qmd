@@ -1,4 +1,3 @@
-```
 ---
 title: "Fichamento: The Rise of Europe: Atlantic Trade, Institutional Change, and Economic Growth"
 subtitle: "Acemoglu, Johnson & Robinson (2005)"
@@ -13,7 +12,7 @@ format:
     theme: cosmo
     highlight-style: github
 ---
-```
+
 
 Acemoglu, D., Johnson, S., & Robinson, J. A. (2005). The Rise of Europe: Atlantic Trade, Institutional Change, and Economic Growth. *American Economic Review*, 95(3), 546–579.
 
@@ -309,4 +308,3 @@ Esta seção segue o formato *IA Planilhando Textos v12.0*. A análise é advers
 | Observações | Raciocínio: Vulnerabilidades adicionais: (1) A validade externa para além da Europa moderna inicial é incerta; o mecanismo depende de uma configuração específica (monarquias absolutistas vs. parlamentos com poder mercantil). (2) O artigo não discute o papel da tecnologia naval ou militar como variável interveniente (ex.: por que os holandeses puderam desafiar a Espanha militarmente na década de 1590? Inovações táticas e financeiras são mencionadas, mas não modeladas). (3) A omissão de uma discussão sobre o papel da prata americana na Espanha e seu possível efeito de "doença holandesa" institucional (inflação, endividamento da coroa) poderia enriquecer a análise do caso negativo espanhol. Implicações para o argumento: essas omissões não invalidam a tese central, mas sugerem que o mecanismo proposto opera em conjunto com outros fatores (tecnologia militar, finanças públicas, geopolítica). | **Vulnerabilidades adicionais:** (i) A validade externa para outros períodos e regiões é limitada; o argumento depende de uma configuração institucional específica (monarquias europeias com parlamentos ou estados gerais). (ii) O papel da tecnologia militar e das inovações financeiras (ex.: a "revolução financeira" holandesa) é mencionado, mas não integrado ao modelo causal; esses fatores podem ser tanto causas quanto consequências do empoderamento mercantil. (iii) O caso espanhol é tratado como exemplo de fracasso institucional, mas a discussão sobre a "maldição dos recursos" (influxo de prata americana enfraquecendo instituições) é breve; uma análise mais detida poderia fortalecer o argumento. **Lacunas teóricas:** A teoria não especifica claramente o limiar de "instituições iniciais não absolutistas" necessário para que o comércio atlântico desencadeie mudança; a escala de 1–7 é contínua, mas o mecanismo parece ser qualitativo. **Relação com pesquisa do leitor:** O artigo é fundamental para estudos sobre origens institucionais do crescimento, interações entre globalização e política doméstica, e métodos quantitativos em história econômica. As limitações apontadas sugerem agendas de pesquisa: teste mais direto do mecanismo político (ex.: dados sobre composição parlamentar e fontes de riqueza dos MPs), análise subnacional (ex.: comparação entre regiões atlânticas e mediterrâneas dentro de um mesmo país), e extensão para outros contextos coloniais (ex.: por que o Brasil colônia não gerou uma burguesia mercantil poderosa?). |
 
 :::
-```

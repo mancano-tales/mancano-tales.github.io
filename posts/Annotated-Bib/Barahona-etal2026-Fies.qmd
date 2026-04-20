@@ -370,4 +370,66 @@ Esta seção segue o formato *IA Planilhando Textos v8.1*. A análise é adversa
   <tr>
     <th>Métodos</th>
     <td>
-      <em>O design é mixed-methods estrutural, combinando diferenças-em-diferenças interagidas com modelagem estrutural BLP. O principal risco de identificação na etapa reduzida é a endogeneidade residual da medida de exposição (concentração setorial de FIES pode correlacionar-se com choques macroeconômicos específicos ao setor). Na etapa estrutural, a validade do instrumento de preços depende da exogeneidade da reforma em relação a choques de
+      <em>O design é mixed-methods estrutural, combinando diferenças-em-diferenças interagidas com modelagem estrutural BLP. O principal risco de identificação na etapa reduzida é a endogeneidade residual da medida de exposição (concentração setorial de FIES pode correlacionar-se com choques macroeconômicos específicos ao setor). Na etapa estrutural, a validade do instrumento de preços depende da exogeneidade da reforma em relação a choques de demanda curso-específicos. A força do desenho está em casar uma variação política plausivelmente exógena com um modelo capaz de traduzir mudanças de preço em contrafactuais de política.</em>
+      <hr/>
+      Tipo de estudo: empírico-estrutural. Fontes: Censo da Educação Superior, registros do FIES, ENEM, FNDE, Hoper e QueroBolsa. Técnicas: eventos/reformas, interação exposição × pós, efeitos fixos, GMM à la Berry-Pakes-Petrin, micro-momentos em cutoffs de elegibilidade. Para o objetivo proposto, o método é adequado porque identifica elasticidades e permite simulações contrafactuais, mas depende de premissas fortes sobre exogeneidade dos instrumentos e estabilidade das preferências.
+    </td>
+  </tr>
+  <tr>
+    <th>Data Generation Process (DGP)</th>
+    <td>
+      <em>O DGP está bem mapeado: fenômeno real (mudança na disponibilidade de FIES) → observação administrativa e amostral (matrículas, notas, empréstimos, preços) → coleta via múltiplas bases → operacionalização em exposições, cutoffs, elasticidades e preços → estimação estrutural → inferência de equilíbrio. A principal fragilidade é o salto entre o nível observado e a inferência sobre o comportamento contrafactual das firmas sob políticas alternativas.</em>
+      <hr/>
+      Fenômeno real: reforma do FIES e heterogeneidade do acesso ao crédito. Observação: mudanças em contratos, preços, matrículas e ações das firmas. Coleta: bases administrativas e privadas. Operacionalização: exposição ao cap pré-reforma; gap de renda/elasticidade; status de empréstimo; preços cheio/descontado. Análise: regressões reduzidas, GMM estrutural e simulações. Unidade de análise: curso × região × ano; inferência no nível de mercado local.
+    </td>
+  </tr>
+  <tr>
+    <th>Achados e Contribuições</th>
+    <td>
+      <em>Os achados são fortes para as perguntas que o desenho efetivamente identifica: há heterogeneidade sistemática na resposta de preços e essa heterogeneidade é compatível com o mecanismo de composição. A contribuição é dupla: reinterpreta a literatura da Hipótese de Bennett e oferece uma estrutura para avaliar focalização de políticas. O ponto mais robusto é a constatação de elasticidades heterogêneas; o mais especulativo é a generalização do tamanho exato dos efeitos para outros contextos institucionais.</em>
+      <hr/>
+      Achados principais: (i) a reforma reduziu novos empréstimos drasticamente; (ii) cursos mais expostos reduziram preços e matrículas; (iii) onde os tomadores eram mais pobres, a queda do crédito elevou preços; (iv) elasticidade mediana de −3,46, com maior sensibilidade entre estudantes de baixa renda; (v) focalização por necessidade reduz preços, e por mérito os eleva. Contribuições: formalização do efeito composição; evidência empírica com microdados extensivos; modelo estrutural para avaliação de políticas de focalização.
+    </td>
+  </tr>
+  <tr>
+    <th>Análise Crítica dos Achados</th>
+    <td>
+      <em>A resposta à pergunta é convincente, mas não fechada. O argumento é mais forte ao demonstrar heterogeneidade condicional do que ao estabelecer um mecanismo totalmente isolado. A principal vulnerabilidade é que a exposição à reforma pode estar correlacionada com características não observadas dos cursos e mercados locais, e a interpretação do efeito composição depende da hipótese de que renda é um proxy suficientemente bom para sensibilidade ao preço. Mesmo assim, o texto faz o trabalho importante de mostrar que a direção do efeito de preço não é invariável.</em>
+      <hr/>
+      O autor responde adequadamente à pergunta em termos de tendência e mecanismo, especialmente porque triangula teoria, evidência reduzida e modelo estrutural. Pontos mais vulneráveis: validade da proxy de sensibilidade ao preço via renda; exogeneidade completa da exposição; abstração de respostas qualitativas das IES (qualidade, marketing, capacidade). A generalizabilidade é limitada por um contexto com baixa discriminação de preços e forte dependência de auxílio público.
+    </td>
+  </tr>
+  <tr>
+    <th>Limitações</th>
+    <td>
+      <em>As limitações reconhecidas são substantivas e metodologicamente pertinentes; as não reconhecidas dizem respeito sobretudo à endogeneidade de estratégias institucionais e à omissão de margens comportamentais importantes. A análise contrafactual é elegante, mas necessariamente parcial.</em>
+      <hr/>
+      Reconhecidas pelos autores: abstração de outras dimensões do desenho do auxílio, como evasão, efeitos de pares e taxas de repagamento; simplificação da discriminação de preços; exclusão de respostas em qualidade e marketing. Não reconhecidas ou subestimadas: potencial seleção de cursos/estudantes na exposição; risco de que a renda capte apenas imperfeitamente a elasticidade; limites da hipótese de estabilidade das preferências após a reforma.
+    </td>
+  </tr>
+  <tr>
+    <th>Perspectiva Teórica</th>
+    <td>
+      <em>O texto combina incidência tributária sob concorrência imperfeita, economia da educação, modelos de demanda discreta e literatura sobre focalização de políticas públicas. A moldura é coerente com a pergunta causal e com a evidência disponível, mas assume uma ontologia de mercado relativamente estável, na qual a principal margem de resposta das IES é o preço. Isso é plausível no caso estudado, mas pode subestimar ajustes institucionais mais amplos.</em>
+      <hr/>
+      Tradições mobilizadas: IO/antitruste e pass-through, economia da educação, modelagem estrutural de escolhas discretas, avaliação de políticas públicas. A ontologia implícita trata o mercado como um sistema de demanda com elasticidades heterogêneas e firmas maximizadoras de lucro; isso é adequado ao contexto brasileiro privado, mas menos natural para mercados educacionais com forte regulação pública ou missões não lucrativas.
+    </td>
+  </tr>
+  <tr>
+    <th>Principais Referências</th>
+    <td>
+      <em>O diálogo com a literatura é amplo e bem escolhido, mas um pouco assimétrico: a literatura de educação e de pass-through é muito bem ancorada, enquanto a literatura sobre implementação política, burocracia e comportamento institucional das IES recebe menos atenção. A seleção bibliográfica é forte para a pergunta de incidência, menos para a pergunta sobre reação estratégica das firmas.</em>
+      <hr/>
+      Referências centrais: Bennett (1987); Delipalla & Keen (1992); Anderson et al. (2001); Weyl & Fabinger (2013); Polyakova & Ryan (2022); Long (2004); Cellini & Goldin (2014); Lucca et al. (2019); Epple & Romano (1998); Berry et al. (1995); Petrin (2002); Fu (2014). O diálogo é intelectualmente robusto, mas menos desenvolvido com literatura sobre comportamento organizacional e implementação regulatória.
+    </td>
+  </tr>
+  <tr>
+    <th>Observações</th>
+    <td>
+      <em>Há uma boa adequação entre pergunta, método e contribuição. O principal ganho do texto é deslocar a discussão da direção do pass-through para a composição da demanda. A principal lacuna é que o artigo trata a focalização como exógena ao desenho do mercado, quando na prática ela pode ser endógena a restrições fiscais, capacidade institucional e lobby setorial.</em>
+      <hr/>
+      Vulnerabilidades adicionais: validade externa para mercados com maior seletividade e maior capacidade de discriminação; possíveis efeitos de longo prazo não modelados; interação entre focalização e qualidade do ensino. Para pesquisas futuras, o artigo abre agenda para estudar como o desenho do subsídio altera preços, qualidade e segmentação em outros mercados regulados.
+    </td>
+  </tr>
+</table>
+</div>

@@ -6,11 +6,14 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Annotated-Bib/Acemoglu-etal2005.html",
       "/posts/Annotated-Bib/Dell2011.html",
       "/posts/Annotated-Bib/Della-Porta-Keating2023.html",
       "/posts/Annotated-Bib/Ferre2023v13-DeepSeek.html",
       "/posts/Annotated-Bib/Ferre2024.html",
       "/posts/Annotated-Bib/Gingrich-Giudici2025 Who Polarises.html",
+      "/posts/Annotated-Bib/Kang-etal2021-Perplexity-Best.html",
+      "/posts/Annotated-Bib/Kang-etal2021-Perplexity-Sonnet.html",
       "/posts/Annotated-Bib/Knopf2006.html",
       "/posts/Annotated-Bib/Scudeler2022-Tese-FIES.html",
       "/posts/Annotated-Bib/v13-Costa-etal2021.html",
@@ -26,7 +29,7 @@
       "/posts/Annotated-Bib/Salata-Cheung2025.html",
       "/posts/Annotated-Bib/v2-Lupu-Pontusson2023Chp-1.html",
       "/posts/Descriptive-Notes/Lupu-Pontusson2023Chp-1.html",
-      "/posts/Annotated-Bib/Costa-etal2021.html",
+      "/posts/Annotated-Bib/v1Costa-etal2021.html",
       "/posts/Annotated-Bib/Mello2022.html"
     ]
   },
@@ -37,11 +40,14 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/Annotated-Bib/Acemoglu-etal2005.html",
       "/posts/Annotated-Bib/Dell2011.html",
       "/posts/Annotated-Bib/Della-Porta-Keating2023.html",
       "/posts/Annotated-Bib/Ferre2023v13-DeepSeek.html",
       "/posts/Annotated-Bib/Ferre2024.html",
       "/posts/Annotated-Bib/Gingrich-Giudici2025 Who Polarises.html",
+      "/posts/Annotated-Bib/Kang-etal2021-Perplexity-Best.html",
+      "/posts/Annotated-Bib/Kang-etal2021-Perplexity-Sonnet.html",
       "/posts/Annotated-Bib/Knopf2006.html",
       "/posts/Annotated-Bib/Scudeler2022-Tese-FIES.html",
       "/posts/Annotated-Bib/v13-Costa-etal2021.html",
@@ -57,7 +63,7 @@
       "/posts/Annotated-Bib/Salata-Cheung2025.html",
       "/posts/Annotated-Bib/v2-Lupu-Pontusson2023Chp-1.html",
       "/posts/Descriptive-Notes/Lupu-Pontusson2023Chp-1.html",
-      "/posts/Annotated-Bib/Costa-etal2021.html",
+      "/posts/Annotated-Bib/v1Costa-etal2021.html",
       "/posts/Annotated-Bib/Mello2022.html"
     ]
   },
