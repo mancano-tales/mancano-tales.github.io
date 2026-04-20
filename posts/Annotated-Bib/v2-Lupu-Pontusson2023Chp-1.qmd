@@ -3,7 +3,7 @@ title: "Fichamento: The Political Puzzle of Rising Inequality"
 subtitle: "Lupu, N. & Pontusson, J. (2023)"
 author: "Tales Mançano"
 date: "2026-04-17"
-categories: [Literature Notes, Comparative Politics, Political Economy, Welfare State]
+categories: [Literature Notes, Comparative Politics, Comparative Political Economy, Welfare State]
 ---
 
 ```{r setup, include=FALSE}

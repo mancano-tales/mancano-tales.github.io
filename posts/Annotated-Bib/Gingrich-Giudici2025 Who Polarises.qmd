@@ -4,13 +4,7 @@ subtitle: "Jane Gingrich & Anja Giudici (2025)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories:
-  - Annotated Bibliography
-  - Party Politics
-  - Education Policy
-  - Political Communication
-  - Comparative Manifesto Analysis
-  - Content Analysis
+categories: [Annotated Bibliography, Party Politics, Politics of Education, Quantitative Methods]
 format:
   html:
     toc: true

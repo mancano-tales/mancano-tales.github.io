@@ -4,7 +4,7 @@ subtitle: "Wegenast, T. (2010)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Economia Política, História Econômica, Desigualdade Educacional, Estrutura Agrária, Brasil]
+categories: [Annotated Bibliography, Comparative Political Economy, Economic History, Inequality, Brazil]
 format:
   html:
     toc: true

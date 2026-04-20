@@ -4,7 +4,7 @@ subtitle: "Naritomi, Soares & Assunção (2009)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: ["Annotated Bibliography", "Political Economy", "Historical Persistence", "Institutional Economics", "Brazil", "Colonial Legacies"]
+categories: [Annotated Bibliography, Comparative Political Economy, Institutions, Economic History, Brazil]
 format:
   html:
     toc: true
