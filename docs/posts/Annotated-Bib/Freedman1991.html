@@ -1,0 +1,1222 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Tales Mançano">
+<meta name="dcterms.date" content="2026-04-20">
+<meta name="description" content="Tales Mançano Academic Website">
+
+<title>Fichamento: Statistical Models and Shoe Leather – Tales Mançano</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-065a5179aebd64318d7ea99d77b64a9e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-ebcc418b19e6abcbe615d4e8be58f8e7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id="></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '', { 'anonymize_ip': true});
+</script>
+
+
+<!-- 
+
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+
+-->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+
+
+
+
+<!---
+
+The following code are needed to show dimension citation and altmetrics.
+
+https://api.altmetric.com/embeds.html
+
+https://badge.dimensions.ai/
+
+--->
+
+
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Fichamento: Statistical Models and Shoe Leather – Tales Mançano">
+<meta property="og:description" content="David A. Freedman (1991)">
+<meta property="og:site_name" content="Tales Mançano">
+<meta name="twitter:title" content="Fichamento: Statistical Models and Shoe Leather – Tales Mançano">
+<meta name="twitter:description" content="David A. Freedman (1991)">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Tales Mançano</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../posts.html">
+ <span class="dropdown-text">Posts</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../contact.html">
+ <span class="dropdown-text">Contact</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+        <li>
+    <a class="dropdown-item" href="../../publications.html">
+ <span class="dropdown-text">List of Publications</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../projects.html">
+ <span class="dropdown-text">Grants</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Outreach</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
+        <li>
+    <a class="dropdown-item" href="../../posts.html">
+ <span class="dropdown-text">Presentations</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../files/2026-1-02-CV-Mancano-Tales.pdf"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/drganghe/quarto-academic-website-template" target="_blank"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app" target="_blank"> 
+<span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introdução-pp.-291293" id="toc-introdução-pp.-291293" class="nav-link active" data-scroll-target="#introdução-pp.-291293">Introdução (pp.&nbsp;291–293)</a>
+  <ul class="collapse">
+  <li><a href="#contexto-histórico-e-avaliação-da-regressão-13" id="toc-contexto-histórico-e-avaliação-da-regressão-13" class="nav-link" data-scroll-target="#contexto-histórico-e-avaliação-da-regressão-13"><span class="header-section-number">0.1</span> Contexto histórico e avaliação da regressão [§1–§3]</a></li>
+  <li><a href="#declarações-de-fé-e-circularidade-dos-modelos-46" id="toc-declarações-de-fé-e-circularidade-dos-modelos-46" class="nav-link" data-scroll-target="#declarações-de-fé-e-circularidade-dos-modelos-46"><span class="header-section-number">0.2</span> Declarações de fé e circularidade dos modelos [§4–§6]</a></li>
+  <li><a href="#estratégia-alternativa-de-validação-7" id="toc-estratégia-alternativa-de-validação-7" class="nav-link" data-scroll-target="#estratégia-alternativa-de-validação-7"><span class="header-section-number">0.3</span> Estratégia alternativa de validação [§7]</a></li>
+  </ul></li>
+  <li><a href="#exemplos-da-epidemiologia-pp.-293300" id="toc-exemplos-da-epidemiologia-pp.-293300" class="nav-link" data-scroll-target="#exemplos-da-epidemiologia-pp.-293300">Exemplos da Epidemiologia (pp.&nbsp;293–300)</a>
+  <ul class="collapse">
+  <li><a href="#precedentes-históricos-louis-e-o-método-quantitativo-89" id="toc-precedentes-históricos-louis-e-o-método-quantitativo-89" class="nav-link" data-scroll-target="#precedentes-históricos-louis-e-o-método-quantitativo-89"><span class="header-section-number">0.4</span> Precedentes históricos: Louis e o método quantitativo [§8–§9]</a></li>
+  <li><a href="#john-snow-e-a-teoria-da-transmissão-hídrica-do-cólera-1013" id="toc-john-snow-e-a-teoria-da-transmissão-hídrica-do-cólera-1013" class="nav-link" data-scroll-target="#john-snow-e-a-teoria-da-transmissão-hídrica-do-cólera-1013"><span class="header-section-number">0.5</span> John Snow e a teoria da transmissão hídrica do cólera [§10–§13]</a></li>
+  <li><a href="#evidências-convergentes-para-a-teoria-de-snow-1418" id="toc-evidências-convergentes-para-a-teoria-de-snow-1418" class="nav-link" data-scroll-target="#evidências-convergentes-para-a-teoria-de-snow-1418"><span class="header-section-number">0.6</span> Evidências convergentes para a teoria de Snow [§14–§18]</a></li>
+  <li><a href="#o-episódio-da-bomba-de-broad-street-1920" id="toc-o-episódio-da-bomba-de-broad-street-1920" class="nav-link" data-scroll-target="#o-episódio-da-bomba-de-broad-street-1920"><span class="header-section-number">0.7</span> O episódio da bomba de Broad Street [§19–§20]</a></li>
+  <li><a href="#o-grande-experimento-natural-das-companhias-de-água-2126" id="toc-o-grande-experimento-natural-das-companhias-de-água-2126" class="nav-link" data-scroll-target="#o-grande-experimento-natural-das-companhias-de-água-2126"><span class="header-section-number">0.8</span> O “grande experimento” natural das companhias de água [§21–§26]</a></li>
+  <li><a href="#a-tabela-ix-de-snow-2728" id="toc-a-tabela-ix-de-snow-2728" class="nav-link" data-scroll-target="#a-tabela-ix-de-snow-2728"><span class="header-section-number">0.9</span> A Tabela IX de Snow [§27–§28]</a></li>
+  <li><a href="#lições-do-trabalho-de-snow-e-confirmações-posteriores-2931" id="toc-lições-do-trabalho-de-snow-e-confirmações-posteriores-2931" class="nav-link" data-scroll-target="#lições-do-trabalho-de-snow-e-confirmações-posteriores-2931"><span class="header-section-number">0.10</span> Lições do trabalho de Snow e confirmações posteriores [§29–§31]</a></li>
+  <li><a href="#evidência-microbiológica-32" id="toc-evidência-microbiológica-32" class="nav-link" data-scroll-target="#evidência-microbiológica-32"><span class="header-section-number">0.11</span> Evidência microbiológica [§32]</a></li>
+  <li><a href="#um-contraexemplo-moderno-kanarek-et-al.-1980-3336" id="toc-um-contraexemplo-moderno-kanarek-et-al.-1980-3336" class="nav-link" data-scroll-target="#um-contraexemplo-moderno-kanarek-et-al.-1980-3336"><span class="header-section-number">0.12</span> Um contraexemplo moderno: Kanarek et al.&nbsp;(1980) [§33–§36]</a></li>
+  <li><a href="#contraste-entre-snow-e-kanarek-et-al.-37" id="toc-contraste-entre-snow-e-kanarek-et-al.-37" class="nav-link" data-scroll-target="#contraste-entre-snow-e-kanarek-et-al.-37"><span class="header-section-number">0.13</span> Contraste entre Snow e Kanarek et al.&nbsp;[§37]</a></li>
+  </ul></li>
+  <li><a href="#exemplos-das-ciências-sociais-pp.-300302" id="toc-exemplos-das-ciências-sociais-pp.-300302" class="nav-link" data-scroll-target="#exemplos-das-ciências-sociais-pp.-300302">Exemplos das Ciências Sociais (pp.&nbsp;300–302)</a>
+  <ul class="collapse">
+  <li><a href="#seleção-de-artigos-e-características-comuns-3840" id="toc-seleção-de-artigos-e-características-comuns-3840" class="nav-link" data-scroll-target="#seleção-de-artigos-e-características-comuns-3840"><span class="header-section-number">0.14</span> Seleção de artigos e características comuns [§38–§40]</a></li>
+  <li><a href="#exemplo-1-bahry-e-silver-1987-sobre-a-kgb-e-ativismo-41" id="toc-exemplo-1-bahry-e-silver-1987-sobre-a-kgb-e-ativismo-41" class="nav-link" data-scroll-target="#exemplo-1-bahry-e-silver-1987-sobre-a-kgb-e-ativismo-41"><span class="header-section-number">0.15</span> Exemplo 1: Bahry e Silver (1987) sobre a KGB e ativismo [§41]</a></li>
+  <li><a href="#exemplo-2-erikson-mciver-e-wright-1987-sobre-cultura-política-estadual-42" id="toc-exemplo-2-erikson-mciver-e-wright-1987-sobre-cultura-política-estadual-42" class="nav-link" data-scroll-target="#exemplo-2-erikson-mciver-e-wright-1987-sobre-cultura-política-estadual-42"><span class="header-section-number">0.16</span> Exemplo 2: Erikson, McIver e Wright (1987) sobre cultura política estadual [§42]</a></li>
+  <li><a href="#exemplo-3-gibson-1988-sobre-intolerância-política-na-era-mccarthy-4344" id="toc-exemplo-3-gibson-1988-sobre-intolerância-política-na-era-mccarthy-4344" class="nav-link" data-scroll-target="#exemplo-3-gibson-1988-sobre-intolerância-política-na-era-mccarthy-4344"><span class="header-section-number">0.17</span> Exemplo 3: Gibson (1988) sobre intolerância política na era McCarthy [§43–§44]</a></li>
+  </ul></li>
+  <li><a href="#síntese-da-posição-pp.-302304" id="toc-síntese-da-posição-pp.-302304" class="nav-link" data-scroll-target="#síntese-da-posição-pp.-302304">Síntese da Posição (pp.&nbsp;302–304)</a>
+  <ul class="collapse">
+  <li><a href="#características-comuns-dos-exemplos-4548" id="toc-características-comuns-dos-exemplos-4548" class="nav-link" data-scroll-target="#características-comuns-dos-exemplos-4548"><span class="header-section-number">0.18</span> Características comuns dos exemplos [§45–§48]</a></li>
+  <li><a href="#dificuldade-de-avaliação-e-validação-de-pressupostos-4950" id="toc-dificuldade-de-avaliação-e-validação-de-pressupostos-4950" class="nav-link" data-scroll-target="#dificuldade-de-avaliação-e-validação-de-pressupostos-4950"><span class="header-section-number">0.19</span> Dificuldade de avaliação e validação de pressupostos [§49–§50]</a></li>
+  <li><a href="#citações-de-simon-e-fisher-5152" id="toc-citações-de-simon-e-fisher-5152" class="nav-link" data-scroll-target="#citações-de-simon-e-fisher-5152"><span class="header-section-number">0.20</span> Citações de Simon e Fisher [§51–§52]</a></li>
+  <li><a href="#contraste-final-entre-snow-e-os-modeladores-53" id="toc-contraste-final-entre-snow-e-os-modeladores-53" class="nav-link" data-scroll-target="#contraste-final-entre-snow-e-os-modeladores-53"><span class="header-section-number">0.21</span> Contraste final entre Snow e os modeladores [§53]</a></li>
+  </ul></li>
+  <li><a href="#soluções-técnicas-podem-resgatar-os-modelos-pp.-304307" id="toc-soluções-técnicas-podem-resgatar-os-modelos-pp.-304307" class="nav-link" data-scroll-target="#soluções-técnicas-podem-resgatar-os-modelos-pp.-304307">Soluções Técnicas Podem Resgatar os Modelos? (pp.&nbsp;304–307)</a>
+  <ul class="collapse">
+  <li><a href="#a-natureza-dos-problemas-e-a-irrelevância-dos-ajustes-técnicos-5455" id="toc-a-natureza-dos-problemas-e-a-irrelevância-dos-ajustes-técnicos-5455" class="nav-link" data-scroll-target="#a-natureza-dos-problemas-e-a-irrelevância-dos-ajustes-técnicos-5455"><span class="header-section-number">0.22</span> A natureza dos problemas e a irrelevância dos ajustes técnicos [§54–§55]</a></li>
+  <li><a href="#ilustração-da-dificuldade-estocástica-56" id="toc-ilustração-da-dificuldade-estocástica-56" class="nav-link" data-scroll-target="#ilustração-da-dificuldade-estocástica-56"><span class="header-section-number">0.23</span> Ilustração da dificuldade estocástica [§56]</a></li>
+  <li><a href="#o-debate-sobre-avaliação-de-programas-de-treinamento-5759" id="toc-o-debate-sobre-avaliação-de-programas-de-treinamento-5759" class="nav-link" data-scroll-target="#o-debate-sobre-avaliação-de-programas-de-treinamento-5759"><span class="header-section-number">0.24</span> O debate sobre avaliação de programas de treinamento [§57–§59]</a></li>
+  <li><a href="#a-superioridade-da-replicação-e-predição-6061" id="toc-a-superioridade-da-replicação-e-predição-6061" class="nav-link" data-scroll-target="#a-superioridade-da-replicação-e-predição-6061"><span class="header-section-number">0.25</span> A superioridade da replicação e predição [§60–§61]</a></li>
+  </ul></li>
+  <li><a href="#outra-literatura-pp.-307310" id="toc-outra-literatura-pp.-307310" class="nav-link" data-scroll-target="#outra-literatura-pp.-307310">Outra Literatura (pp.&nbsp;307–310)</a>
+  <ul class="collapse">
+  <li><a href="#lieberson-1985-e-a-dificuldade-do-balanceamento-estatístico-6263" id="toc-lieberson-1985-e-a-dificuldade-do-balanceamento-estatístico-6263" class="nav-link" data-scroll-target="#lieberson-1985-e-a-dificuldade-do-balanceamento-estatístico-6263"><span class="header-section-number">0.26</span> Lieberson (1985) e a dificuldade do balanceamento estatístico [§62–§63]</a></li>
+  <li><a href="#comentários-de-arminger-e-bohnstedt-singer-e-marini-6465" id="toc-comentários-de-arminger-e-bohnstedt-singer-e-marini-6465" class="nav-link" data-scroll-target="#comentários-de-arminger-e-bohnstedt-singer-e-marini-6465"><span class="header-section-number">0.27</span> Comentários de Arminger e Bohnstedt, Singer e Marini [§64–§65]</a></li>
+  <li><a href="#marini-e-singer-1988-sobre-a-circularidade-dos-modelos-causais-6668" id="toc-marini-e-singer-1988-sobre-a-circularidade-dos-modelos-causais-6668" class="nav-link" data-scroll-target="#marini-e-singer-1988-sobre-a-circularidade-dos-modelos-causais-6668"><span class="header-section-number">0.28</span> Marini e Singer (1988) sobre a circularidade dos modelos causais [§66–§68]</a></li>
+  <li><a href="#holland-1988-e-berk-1988-6971" id="toc-holland-1988-e-berk-1988-6971" class="nav-link" data-scroll-target="#holland-1988-e-berk-1988-6971"><span class="header-section-number">0.29</span> Holland (1988) e Berk (1988) [§69–§71]</a></li>
+  <li><a href="#meehl-1978-e-os-riscos-dos-testes-de-significância-72" id="toc-meehl-1978-e-os-riscos-dos-testes-de-significância-72" class="nav-link" data-scroll-target="#meehl-1978-e-os-riscos-dos-testes-de-significância-72"><span class="header-section-number">0.30</span> Meehl (1978) e os riscos dos testes de significância [§72]</a></li>
+  </ul></li>
+  <li><a href="#conclusão-pp.-311313" id="toc-conclusão-pp.-311313" class="nav-link" data-scroll-target="#conclusão-pp.-311313">Conclusão (pp.&nbsp;311–313)</a>
+  <ul class="collapse">
+  <li><a href="#o-modus-operandi-comum-e-suas-fraquezas-7375" id="toc-o-modus-operandi-comum-e-suas-fraquezas-7375" class="nav-link" data-scroll-target="#o-modus-operandi-comum-e-suas-fraquezas-7375"><span class="header-section-number">0.31</span> O modus operandi comum e suas fraquezas [§73–§75]</a></li>
+  <li><a href="#questões-finais-76" id="toc-questões-finais-76" class="nav-link" data-scroll-target="#questões-finais-76"><span class="header-section-number">0.32</span> Questões finais [§76]</a></li>
+  </ul></li>
+  <li><a href="#argumento-sintético" id="toc-argumento-sintético" class="nav-link" data-scroll-target="#argumento-sintético">Argumento Sintético</a></li>
+  <li><a href="#ficha-analítica-crítica" id="toc-ficha-analítica-crítica" class="nav-link" data-scroll-target="#ficha-analítica-crítica">Ficha Analítica Crítica</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Fichamento: Statistical Models and Shoe Leather</h1>
+<p class="subtitle lead">David A. Freedman (1991)</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Annotated Bibliography</div>
+    <div class="quarto-category">Methodology</div>
+    <div class="quarto-category">Causal Inference</div>
+    <div class="quarto-category">Regression Models</div>
+    <div class="quarto-category">Social Science Methodology</div>
+    <div class="quarto-category">Epidemiology</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Tales Mançano </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 20, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+<style>
+.lang-toggle {
+  position: fixed;
+  top: 70px;
+  right: 20px;
+  z-index: 1000;
+}
+.lang-btn {
+  background: transparent;
+  border: 1px solid #666;
+  border-radius: 4px;
+  padding: 5px 12px;
+  margin: 0 2px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+}
+.lang-btn:hover {
+  background: #f0f0f0;
+}
+.lang-btn.active {
+  background: #0366d6;
+  color: white;
+  border-color: #0366d6;
+}
+.lang-content[lang]:not([lang="en"]) { display: none; }
+.lang-content[lang="en"] { display: block; }
+</style>
+<p>Freedman, D. A. (1991). Statistical models and shoe leather. <em>Sociological Methodology</em>, <em>21</em>, 291–313. https://www.jstor.org/stable/270939</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Entrada BibTeX → Freedman1991
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">Freedman1991</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>    = {Freedman, David A.},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {Statistical Models and Shoe Leather},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {1991},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span>   = {Sociological Methodology},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">volume</span>    = {21},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">pages</span>     = {291--313},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span>       = {10.2307/270939},</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span>       = {https://www.jstor.org/stable/270939}</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+</div>
+</div>
+<p>Última atualização: 2026-04-20 Modelo: Claude 3.5 Sonnet (20241022) DeepSeek Gerado em: 2026-04-20T15:30:00-03:00</p>
+<section id="introdução-pp.-291293" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="introdução-pp.-291293">Introdução (pp.&nbsp;291–293)</h2>
+<section id="contexto-histórico-e-avaliação-da-regressão-13" class="level3" data-number="0.1">
+<h3 data-number="0.1" class="anchored" data-anchor-id="contexto-histórico-e-avaliação-da-regressão-13"><span class="header-section-number">0.1</span> Contexto histórico e avaliação da regressão [§1–§3]</h3>
+<p>O artigo inicia situando o uso de modelos de regressão nas ciências sociais desde 1899, quando Yule publicou um estudo sobre as causas do pauperismo. Freedman observa que, atualmente, modelos de regressão são empregados para construir argumentos causais em uma ampla variedade de aplicações, e que talvez seja o momento de avaliar os resultados. Embora respostas definitivas não sejam possíveis, o autor adianta uma visão predominantemente negativa. Ele contrasta o trabalho de John Snow sobre cólera—apresentado como um caso de sucesso do raciocínio científico baseado em dados não experimentais—com histórias de fracasso, sugerindo que a técnica estatística raramente substitui um bom desenho de pesquisa, dados relevantes e o teste de predições contra a realidade em diversos contextos.</p>
+<p>Para situar sua própria posição, Freedman propõe uma escala rudimentar de quatro pontos sobre a eficácia da regressão: (1) geralmente funciona, embora imperfeita; (2) funciona às vezes nas mãos de praticantes habilidosos, mas não é adequada para uso rotineiro; (3) pode funcionar, mas ainda não o fez; (4) não pode funcionar. Ele nota que livros-texto, depoimentos em tribunais e entrevistas na imprensa tendem a colocar a regressão na categoria 1, enquanto a categoria 4 lhe parece excessivamente pessimista. Sua própria avaliação situa-se entre as categorias 2 e 3, ressaltando que bons exemplos são difíceis de encontrar.</p>
+</section>
+<section id="declarações-de-fé-e-circularidade-dos-modelos-46" class="level3" data-number="0.2">
+<h3 data-number="0.2" class="anchored" data-anchor-id="declarações-de-fé-e-circularidade-dos-modelos-46"><span class="header-section-number">0.2</span> Declarações de fé e circularidade dos modelos [§4–§6]</h3>
+<p>Freedman reconhece que questionar o valor da regressão pode soar como negar o valor dos dados, dada a dominância do paradigma de modelagem. Ele faz, portanto, algumas declarações de fé: a ciência social é possível, conclusões sólidas podem ser extraídas de dados não experimentais, e a estatística pode desempenhar um papel útil—por exemplo, fornecendo sumários descritivos de conjuntos de dados multidimensionais. Contudo, ele não acredita que a regressão possa carregar grande parte do peso em um argumento causal, nem que equações de regressão, por si sós, ajudem substancialmente no controle de variáveis de confusão. Argumentos baseados na significância estatística de coeficientes e interpretações causais destes são, em geral, suspeitos. Desenvolvimentos mais recentes—mínimos quadrados em dois estágios, modelagem de variáveis latentes e testes de especificação—podem ser interessantes, mas ajustes técnicos não resolvem problemas que se situam em um nível mais profundo. Freedman vê muitas ilustrações de técnica, mas poucos exemplos reais com validação dos pressupostos de modelagem.</p>
+<p>O autor argumenta que argumentos causais baseados em testes de significância e regressão são quase necessariamente circulares. Para derivar um modelo de regressão, é preciso uma teoria elaborada que especifique as variáveis do sistema, suas interconexões causais, a forma funcional das relações e as propriedades estatísticas dos termos de erro (independência, exogeneidade etc.). Dado o modelo, mínimos quadrados e suas variantes podem estimar parâmetros e decidir se são zero. Entretanto, o modelo não pode, em geral, ser tomado como dado, porque a teoria corrente nas ciências sociais não fornece o nível de detalhe técnico necessário para derivar especificações.</p>
+</section>
+<section id="estratégia-alternativa-de-validação-7" class="level3" data-number="0.3">
+<h3 data-number="0.3" class="anchored" data-anchor-id="estratégia-alternativa-de-validação-7"><span class="header-section-number">0.3</span> Estratégia alternativa de validação [§7]</h3>
+<p>Freedman descreve uma estratégia de validação alternativa, menos dependente de teoria prévia: tratar o modelo como uma caixa-preta e testá-lo contra a realidade empírica. O modelo prediz novos fenômenos? Prediz os resultados de intervenções? As predições estão corretas? Os testes estatísticos usuais são substitutos pobres porque dependem de hipóteses mantidas fortes. Sem o tipo certo de teoria ou validação empírica razoável, as conclusões extraídas dos modelos devem ser bastante suspeitas.</p>
+<p>O autor anuncia que buscará exemplos de bom trabalho empírico e estratégias de pesquisa que não envolvam regressão, recorrendo à epidemiologia—campo cujos problemas são similares aos enfrentados pelas ciências sociais contemporâneas. O trabalho de Snow sobre cólera será revisado como exemplo de ciência real baseada em dados observacionais, sem recurso à regressão. Uma comparação será feita com estudos contemporâneos de regressão em epidemiologia e ciências sociais, o que pode iluminar as fraquezas dos métodos de regressão. A possibilidade de soluções técnicas para os modelos será discutida, outra literatura será revisada, e conclusões tentativas serão extraídas.</p>
+</section>
+</section>
+<section id="exemplos-da-epidemiologia-pp.-293300" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="exemplos-da-epidemiologia-pp.-293300">Exemplos da Epidemiologia (pp.&nbsp;293–300)</h2>
+<section id="precedentes-históricos-louis-e-o-método-quantitativo-89" class="level3" data-number="0.4">
+<h3 data-number="0.4" class="anchored" data-anchor-id="precedentes-históricos-louis-e-o-método-quantitativo-89"><span class="header-section-number">0.4</span> Precedentes históricos: Louis e o método quantitativo [§8–§9]</h3>
+<p>Freedman recorda que métodos quantitativos no estudo de doenças precedem Yule e a regressão. Em 1835, Pierre Louis publicou um estudo marcante sobre a sangria como cura para pneumonia, comparando desfechos de grupos de pacientes sangrados em diferentes momentos. Louis concluiu que a sangria tinha um efeito positivo, encurtando a duração da doença, mas muito menos do que se acreditava. O achado e o método estatístico foram veementemente denunciados por médicos contemporâneos, que consideravam um ultraje ao bom senso invocar a inflexibilidade da aritmética para escapar das incursões da imaginação. Freedman observa que Louis pode ter iniciado uma revolução no pensamento sobre pesquisa empírica em medicina, ou seu livro pode apenas fornecer uma linha de demarcação conveniente. O certo é que, em poucas décadas, a “inflexibilidade da aritmética” ajudou a identificar as causas de algumas doenças importantes e os meios para sua prevenção, sem que a modelagem estatística desempenhasse quase nenhum papel nesses desenvolvimentos.</p>
+</section>
+<section id="john-snow-e-a-teoria-da-transmissão-hídrica-do-cólera-1013" class="level3" data-number="0.5">
+<h3 data-number="0.5" class="anchored" data-anchor-id="john-snow-e-a-teoria-da-transmissão-hídrica-do-cólera-1013"><span class="header-section-number">0.5</span> John Snow e a teoria da transmissão hídrica do cólera [§10–§13]</h3>
+<p>Freedman situa o leitor na década de 1850, quando John Snow demonstrou que o cólera era uma doença infecciosa transmitida pela água. Poucos anos depois, Ignaz Semmelweis descobriu como prevenir a febre puerperal, e por volta de 1914 Joseph Goldberger encontrou a causa da pelagra. Epidemiologistas posteriores demonstraram, pelo menos no balanço dos argumentos, que a maior parte do câncer de pulmão é causada pelo tabagismo. Na epidemiologia, o raciocínio cuidadoso sobre dados observacionais levou a progressos consideráveis. (Histórias de fracasso no campo serão mencionadas adiante.)</p>
+<p>Para apreciar a realização de Snow, Freedman pede que o leitor se transporte para uma época em que não se sabia que germes causavam doenças. Microscópios existiam, mas com baixa resolução, e a maioria dos patógenos humanos não podia ser vista. O isolamento de microrganismos estava décadas no futuro. A teoria da infecção tinha alguns adeptos, mas a ideia dominante era a de que as doenças resultavam de “miasmas”: partículas venenosas inanimadas minúsculas no ar. (A crença de que os venenos causadores de doenças estavam no solo viria depois.)</p>
+<p>Snow estudava o cólera, que chegara à Europa no início dos anos 1800 em ondas epidêmicas, atacando suas vítimas subitamente e sendo frequentemente fatal. Os primeiros sintomas eram vômito e diarreia aguda. Com base no curso clínico da doença, Snow conjecturou que o agente ativo era um organismo vivo que entrava no canal alimentar com comida ou bebida, multiplicava-se no corpo e gerava algum veneno que fazia o corpo expelir água. O organismo saía do corpo com essas evacuações, voltava ao suprimento de água e infectava novas vítimas.</p>
+</section>
+<section id="evidências-convergentes-para-a-teoria-de-snow-1418" class="level3" data-number="0.6">
+<h3 data-number="0.6" class="anchored" data-anchor-id="evidências-convergentes-para-a-teoria-de-snow-1418"><span class="header-section-number">0.6</span> Evidências convergentes para a teoria de Snow [§14–§18]</h3>
+<p>Snow reuniu uma série de argumentos persuasivos para sua conjectura. Por exemplo, o cólera se espalhava pelas rotas do comércio humano: se um navio partia de um país livre de cólera para um porto afetado, os marinheiros só adoeciam após desembarcar ou receber suprimentos. A doença atingia mais duramente os pobres, que viviam em habitações mais superlotadas e com pior higiene. Esses fatos são consistentes com a teoria da infecção e difíceis de explicar pela teoria dos miasmas.</p>
+<p>Snow também fez muito trabalho de detetive científico. Em uma das primeiras epidemias na Inglaterra, ele identificou o primeiro caso: um marinheiro recém-chegado de Hamburgo, onde a doença prevalecia. Encontrou também o segundo caso: um homem que ocupara o quarto onde o marinheiro estivera. Mais evidência para a teoria da infecção.</p>
+<p>Em epidemias posteriores, Snow encontrou evidências ainda melhores. Estudou dois prédios de apartamentos adjacentes, um fortemente atingido pelo cólera, o outro não. Descobriu que o suprimento de água do primeiro estava contaminado por escoamento de privadas, enquanto o do segundo era muito mais limpo. Realizou também vários estudos “ecológicos” para demonstrar a influência do suprimento de água na incidência de cólera. Na Londres do século XIX, havia muitas companhias de água diferentes servindo diferentes áreas da cidade, e algumas áreas eram servidas por mais de uma companhia. Várias companhias captavam água do Tâmisa, que era intensamente poluído por esgoto. As áreas de serviço dessas companhias tinham taxas muito mais altas de cólera. A companhia de água de Chelsea era uma exceção, mas possuía um sistema de filtração excepcionalmente bom.</p>
+</section>
+<section id="o-episódio-da-bomba-de-broad-street-1920" class="level3" data-number="0.7">
+<h3 data-number="0.7" class="anchored" data-anchor-id="o-episódio-da-bomba-de-broad-street-1920"><span class="header-section-number">0.7</span> O episódio da bomba de Broad Street [§19–§20]</h3>
+<p>Na epidemia de 1853–54, Snow elaborou um mapa pontual mostrando onde os casos ocorriam e constatou que se aglomeravam ao redor da bomba de Broad Street. Ele identificou a bomba como fonte de água contaminada e convenceu as autoridades públicas a remover a alavanca. Segundo a fábula, remover a alavanca interrompeu a epidemia e provou a teoria de Snow. Na verdade, ele conseguiu que a alavanca fosse removida e a epidemia de fato parou. Contudo, como o próprio Snow demonstrou com clareza, a epidemia já estava diminuindo de qualquer forma, e ele atribuiu pouco peso ao episódio.</p>
+<p>Para os propósitos do artigo, o que Snow realmente fez em 1853–54 é ainda mais interessante que a fábula. Por exemplo, havia um grande asilo de pobres na área de Broad Street com poucos casos de cólera. Por quê? Snow descobriu que o asilo tinha seu próprio poço e que os internos não bebiam água da bomba. Havia também uma grande cervejaria sem nenhum caso. A razão é óbvia: os trabalhadores bebiam cerveja, não água. (Mas se alguém quisesse água, também havia um poço nessas instalações.)</p>
+</section>
+<section id="o-grande-experimento-natural-das-companhias-de-água-2126" class="level3" data-number="0.8">
+<h3 data-number="0.8" class="anchored" data-anchor-id="o-grande-experimento-natural-das-companhias-de-água-2126"><span class="header-section-number">0.8</span> O “grande experimento” natural das companhias de água [§21–§26]</h3>
+<p>Para preparar o argumento principal de Snow, Freedman retrocede um pouco. Em 1849, a companhia de água de Lambeth havia movido seu ponto de captação rio acima no Tâmisa, acima dos principais pontos de descarga de esgoto, de modo que sua água era relativamente pura. A companhia Southwark e Vauxhall, porém, manteve seu ponto de captação rio abaixo das descargas de esgoto. Uma análise ecológica dos dados da epidemia de 1853–54 mostrou que o cólera atingiu mais intensamente as áreas servidas pela Southwark e Vauxhall e poupou amplamente as áreas de Lambeth.</p>
+<p>Freedman então cita longamente Snow, que explica que, embora os dados ecológicos fornecessem evidência muito forte da influência da água contaminada por esgoto na propagação do cólera, a questão não terminava aí. A mistura do suprimento de água das duas companhias em uma extensa parte de Londres permitiu que o assunto fosse peneirado de modo a produzir a prova mais incontroversa possível. Nos subdistritos supridos por ambas as companhias, a mistura do suprimento era da mais íntima natureza. Os canos de cada companhia percorriam todas as ruas e entravam em quase todos os pátios e becos. Algumas casas eram supridas por uma companhia e outras pela outra, conforme a decisão do proprietário ou ocupante na época em que as companhias estavam em competição ativa. Em muitos casos, uma única casa tinha um suprimento diferente do das casas vizinhas de cada lado. Cada companhia abastecia tanto ricos quanto pobres, tanto casas grandes quanto pequenas; não havia diferença nem na condição nem na ocupação das pessoas que recebiam a água das diferentes companhias. Era evidente que, se a diminuição do cólera nos distritos parcialmente supridos com água melhorada dependesse desse suprimento, as casas que o recebiam gozariam de todo o benefício da diminuição da doença, enquanto as casas supridas com água de Battersea Fields sofreriam a mesma mortalidade que sofreriam se o suprimento melhorado não existisse. Como não havia diferença alguma nas casas ou nas pessoas que recebiam o suprimento das duas companhias, nem em quaisquer das condições físicas que as cercavam, era óbvio que nenhum experimento poderia ter sido concebido que testasse mais cabalmente o efeito do suprimento de água sobre o progresso do cólera do que este, que as circunstâncias colocaram pronto diante do observador.</p>
+<p>O experimento, ademais, era na mais grandiosa escala. Não menos que trezentas mil pessoas de ambos os sexos, de todas as idades e ocupações, e de todas as classes e condições, desde fidalgos até os muito pobres, foram divididas em dois grupos sem sua escolha e, na maioria dos casos, sem seu conhecimento; um grupo sendo suprido com água contendo o esgoto de Londres, e com ele o que quer que tivesse vindo dos pacientes de cólera, o outro grupo tendo água completamente livre de tal impureza.</p>
+<p>Para tirar proveito desse grande experimento, tudo o que era necessário era saber o suprimento de água de cada casa individual onde ocorresse um ataque fatal de cólera.</p>
+</section>
+<section id="a-tabela-ix-de-snow-2728" class="level3" data-number="0.9">
+<h3 data-number="0.9" class="anchored" data-anchor-id="a-tabela-ix-de-snow-2728"><span class="header-section-number">0.9</span> A Tabela IX de Snow [§27–§28]</h3>
+<p>Freedman apresenta a Tabela IX de Snow, reproduzida abaixo, que mostra o número de casas, mortes por cólera e mortes por 10.000 casas para as áreas servidas pela Southwark e Vauxhall, pela Lambeth e pelo resto de Londres.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 22%">
+<col style="width: 21%">
+<col style="width: 24%">
+<col style="width: 31%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Companhia / Área</th>
+<th style="text-align: right;">Número de Casas</th>
+<th style="text-align: right;">Mortes por Cólera</th>
+<th style="text-align: right;">Mortes por 10.000 Casas</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Southwark e Vauxhall</td>
+<td style="text-align: right;">40.046</td>
+<td style="text-align: right;">1.263</td>
+<td style="text-align: right;">315</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Lambeth</td>
+<td style="text-align: right;">26.107</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">37</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Resto de Londres</td>
+<td style="text-align: right;">256.423</td>
+<td style="text-align: right;">1.422</td>
+<td style="text-align: right;">59</td>
+</tr>
+</tbody>
+</table>
+<p>Snow identificou as companhias que abasteciam as casas das vítimas de cólera em sua área de estudo, obtendo assim os numeradores da Tabela 1. Os denominadores foram extraídos de registros parlamentares. Snow concluiu que, se a companhia Southwark e Vauxhall tivesse movido seu ponto de captação como fez a Lambeth, cerca de 1.000 vidas teriam sido salvas. Freedman destaca que Snow foi muito claro sobre a quase-aleatorização como controle para potenciais variáveis de confusão, igualmente claro sobre as diferenças entre correlações ecológicas e correlações individuais, e sua inferência contrafactual é convincente.</p>
+</section>
+<section id="lições-do-trabalho-de-snow-e-confirmações-posteriores-2931" class="level3" data-number="0.10">
+<h3 data-number="0.10" class="anchored" data-anchor-id="lições-do-trabalho-de-snow-e-confirmações-posteriores-2931"><span class="header-section-number">0.10</span> Lições do trabalho de Snow e confirmações posteriores [§29–§31]</h3>
+<p>Como peça de tecnologia estatística, a Tabela 1 não é notável. Mas a história que ela conta é muito persuasiva. A força do argumento resulta da clareza do raciocínio prévio, da reunião de muitas linhas diferentes de evidência e da quantidade de “shoe leather” (trabalho de campo árduo) que Snow estava disposto a empregar para obter os dados.</p>
+<p>Houve mais confirmações posteriores das conclusões de Snow. As epidemias de cólera de 1832 e 1849 em Nova York foram tratadas por métodos tradicionais: exortação da população à temperança, lavagem das ruas com água pura, tratamento dos doentes com sangria e mercúrio. Após a publicação do livro de Snow, a epidemia de 1866 foi enfrentada com os métodos sugeridos por sua teoria: ferver a água de beber, isolar os indivíduos doentes e desinfetar suas evacuações. A taxa de mortalidade foi reduzida por um fator de 10 ou mais. Em 1892, houve uma epidemia em Hamburgo. Os líderes de Hamburgo rejeitaram os argumentos de Snow, seguindo Max von Pettenkofer e a teoria dos miasmas: a contaminação do solo causava o cólera. Assim, Hamburgo deu pouca atenção ao seu suprimento de água, mas despendeu grande esforço desenterrando e transportando carcaças enterradas por matadouros. Os resultados foram desastrosos.</p>
+</section>
+<section id="evidência-microbiológica-32" class="level3" data-number="0.11">
+<h3 data-number="0.11" class="anchored" data-anchor-id="evidência-microbiológica-32"><span class="header-section-number">0.11</span> Evidência microbiológica [§32]</h3>
+<p>Freedman pergunta: e a evidência da microbiologia? Em 1880, Pasteur causou sensação ao mostrar que a causa da raiva era um microrganismo. Em 1884, Koch isolou o vibrião do cólera, confirmando todas as características essenciais do relato de Snow; Filipo Pacini pode ter descoberto esse organismo ainda antes. O vibrião é uma bactéria transmitida pela água que invade o intestino humano e causa cólera. Hoje, a biologia molecular do cólera é razoavelmente bem compreendida: o vibrião produz uma proteína enterotoxina que afeta o metabolismo das células humanas, fazendo-as expelir água. A interação da enterotoxina com a célula foi elucidada, assim como o mecanismo genético usado pelo vibrião para fabricar essa proteína.</p>
+</section>
+<section id="um-contraexemplo-moderno-kanarek-et-al.-1980-3336" class="level3" data-number="0.12">
+<h3 data-number="0.12" class="anchored" data-anchor-id="um-contraexemplo-moderno-kanarek-et-al.-1980-3336"><span class="header-section-number">0.12</span> Um contraexemplo moderno: Kanarek et al.&nbsp;(1980) [§33–§36]</h3>
+<p>Freedman contrasta o trabalho de Snow com um exemplo da epidemiologia moderna, que adotou métodos de regressão, para mostrar como a modelagem pode descarrilar. Em 1980, Kanarek et al.&nbsp;publicaram um artigo no <em>American Journal of Epidemiology</em> argumentando que fibras de amianto na água potável causavam câncer de pulmão. O estudo baseou-se em 722 setores censitários da Área da Baía de São Francisco, com enormes variações nas concentrações de fibras entre setores—fatores de 10 ou mais eram comuns.</p>
+<p>Os autores examinaram taxas de câncer em 35 localizações anatômicas, para negros e brancos, homens e mulheres. Controlaram idade por padronização e sexo e raça por tabulação cruzada. Mas a principal ferramenta foi a regressão log-linear, para controlar outras covariáveis (estado civil, educação, renda, ocupação). A causação foi inferida, como de costume, se um coeficiente era estatisticamente significativo após o controle pelas covariáveis.</p>
+<p>Kanarek et al.&nbsp;não discutiram seus pressupostos estocásticos—que os desfechos são independentes e identicamente distribuídos dadas as covariáveis. O argumento para a forma funcional foi apenas que “a construção teórica da probabilidade de desenvolver câncer em um certo tempo produz uma função de forma logarítmica”. Freedman e Navidi (1989) levantaram sérias objeções a esse modelo de causação de câncer.</p>
+<p>Para câncer de pulmão em homens brancos, o coeficiente de fibras de amianto foi altamente significativo (P &lt; 0,001), e o efeito foi descrito como forte. Na verdade, o modelo prediz um multiplicador de risco de apenas cerca de 1,05 para um aumento de 100 vezes nas concentrações de fibras. Não houve efeito em mulheres ou negros. Ademais, Kanarek et al.&nbsp;não tinham dados sobre tabagismo, que afeta as taxas de câncer de pulmão por fatores de 10 ou mais. Assim, um controle imperfeito sobre o tabagismo poderia facilmente explicar o efeito observado, assim como erros menores na forma funcional. Finalmente, Kanarek et al.&nbsp;rodaram mais de 200 equações; apenas um dos valores P foi inferior a 0,001. O nível de significância real pode, portanto, estar próximo de 200 × 0,001 = 0,20. O argumento baseado no modelo não é bom.</p>
+</section>
+<section id="contraste-entre-snow-e-kanarek-et-al.-37" class="level3" data-number="0.13">
+<h3 data-number="0.13" class="anchored" data-anchor-id="contraste-entre-snow-e-kanarek-et-al.-37"><span class="header-section-number">0.13</span> Contraste entre Snow e Kanarek et al.&nbsp;[§37]</h3>
+<p>Freedman pergunta qual a diferença entre o estudo de Kanarek et al.&nbsp;e o de Snow. Kanarek et al.&nbsp;ignoraram a falácia ecológica; Snow lidou com ela. Kanarek et al.&nbsp;tentaram controlar covariáveis por modelagem, usando status socioeconômico como proxy para tabagismo. Snow encontrou um experimento natural e coletou os dados de que precisava. O argumento de Kanarek et al.&nbsp;para causação apoia-se na significância estatística de um coeficiente. O argumento de Snow usou lógica e “shoe leather”. Modelos de regressão tornam fácil demais substituir técnica por trabalho.</p>
+</section>
+</section>
+<section id="exemplos-das-ciências-sociais-pp.-300302" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="exemplos-das-ciências-sociais-pp.-300302">Exemplos das Ciências Sociais (pp.&nbsp;300–302)</h2>
+<section id="seleção-de-artigos-e-características-comuns-3840" class="level3" data-number="0.14">
+<h3 data-number="0.14" class="anchored" data-anchor-id="seleção-de-artigos-e-características-comuns-3840"><span class="header-section-number">0.14</span> Seleção de artigos e características comuns [§38–§40]</h3>
+<p>Se a regressão é uma metodologia bem-sucedida, argumenta Freedman, o artigo rotineiro em um bom periódico deveria ser uma modesta história de sucesso. Contudo, a situação é outra. O autor relata ter passado algum tempo examinando periódicos americanos líderes em ciência social quantitativa: <em>American Journal of Sociology</em>, <em>American Sociological Review</em> e <em>American Political Science Review</em>. Esses periódicos com revisão por pares aceitam talvez 10% das submissões. Para análise, Freedman selecionou artigos publicados em 1987–88 que colocavam questões de pesquisa razoavelmente claras e usavam regressão para respondê-las. Ele discute três desses artigos, que podem não ser os melhores de seu tipo, mas estão longe de ser os piores—um deles recebeu um prêmio de melhor artigo no <em>American Political Science Review</em> em 1988. Freedman acredita que esses artigos são bastante típicos da boa prática de pesquisa corrente.</p>
+</section>
+<section id="exemplo-1-bahry-e-silver-1987-sobre-a-kgb-e-ativismo-41" class="level3" data-number="0.15">
+<h3 data-number="0.15" class="anchored" data-anchor-id="exemplo-1-bahry-e-silver-1987-sobre-a-kgb-e-ativismo-41"><span class="header-section-number">0.15</span> Exemplo 1: Bahry e Silver (1987) sobre a KGB e ativismo [§41]</h3>
+<p>Bahry e Silver (1987) hipotetizaram que, na Rússia, a percepção da KGB como eficiente dissuadia o ativismo político. O estudo baseou-se em questionários preenchidos por emigrados russos em Nova York. Havia muitos dados faltantes e talvez alguma confusão entre variáveis de resposta e variáveis de controle. Deixando isso de lado, o argumento final era que, após ajuste por covariáveis, sujeitos que viam a KGB como eficiente eram menos propensos a se descrever como ativistas, e essa correlação negativa era estatisticamente significativa.</p>
+<p>Freedman aponta que isso poderia ser evidência para apoiar a hipótese de pesquisa do artigo: se você acha a KGB eficiente, você não protesta. Ou a linha de causalidade poderia correr na direção oposta: se você é um ativista, você descobre que a KGB é ineficiente. Ou a associação poderia ser impulsionada por uma terceira variável: pessoas de certos tipos de personalidade são mais propensas a se descrever como ativistas e também mais propensas a descrever a KGB como ineficiente. Correlação não é o mesmo que causação; a técnica estatística, sozinha, não estabelece a conexão. A familiaridade desse ponto não deve obscurecer sua força.</p>
+</section>
+<section id="exemplo-2-erikson-mciver-e-wright-1987-sobre-cultura-política-estadual-42" class="level3" data-number="0.16">
+<h3 data-number="0.16" class="anchored" data-anchor-id="exemplo-2-erikson-mciver-e-wright-1987-sobre-cultura-política-estadual-42"><span class="header-section-number">0.16</span> Exemplo 2: Erikson, McIver e Wright (1987) sobre cultura política estadual [§42]</h3>
+<p>Erikson, McIver e Wright (1987) argumentaram que, nos EUA, diferentes estados realmente têm culturas políticas distintas. Após controlar por demografia e região geográfica, a adição de variáveis dummy estaduais aumentou o R² para predizer identificação partidária de 0,0898 para 0,0953. O F para entrar as dummies estaduais foi cerca de 8. A base de dados consistia em 55.000 questionários de pesquisas de opinião da CBS/<em>New York Times</em>. Com 40 graus de liberdade no numerador e 55.000 no denominador, P é espetacular.</p>
+<p>Por outro lado, os R² são triviais—sem falar no aumento. Os autores argumentaram que as dummies estaduais não são proxies para variáveis omitidas. Como prova, inseriram filiação sindical e constataram que os efeitos estaduais estimados não mudaram muito. Esse argumento apoia a especificação, mas é fraco.</p>
+</section>
+<section id="exemplo-3-gibson-1988-sobre-intolerância-política-na-era-mccarthy-4344" class="level3" data-number="0.17">
+<h3 data-number="0.17" class="anchored" data-anchor-id="exemplo-3-gibson-1988-sobre-intolerância-política-na-era-mccarthy-4344"><span class="header-section-number">0.17</span> Exemplo 3: Gibson (1988) sobre intolerância política na era McCarthy [§43–§44]</h3>
+<p>Gibson (1988) perguntou se a intolerância política durante a era McCarthy foi impulsionada pela opinião das massas ou pela opinião das elites. A unidade de análise era o estado. A legislação foi codificada em uma escala de tolerância/intolerância; havia surveys de opinião de elites e de massas. Segue-se um modelo de caminhos (<em>path model</em>); um coeficiente é significativo, outro não. Gibson concluiu: “De modo geral, parece que as elites, não as massas, foram responsáveis pela repressão da era”.</p>
+<p>Dos três artigos, Freedman considerou que o de Gibson tinha a pergunta mais clara e os melhores dados sumários. No entanto, o diagrama de caminhos parece ser um modelo causal extremamente fraco. Ademais, mesmo concedendo o modelo, a diferença entre os dois coeficientes de caminho não é significativa. A conclusão do artigo não decorre dos dados.</p>
+</section>
+</section>
+<section id="síntese-da-posição-pp.-302304" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="síntese-da-posição-pp.-302304">Síntese da Posição (pp.&nbsp;302–304)</h2>
+<section id="características-comuns-dos-exemplos-4548" class="level3" data-number="0.18">
+<h3 data-number="0.18" class="anchored" data-anchor-id="características-comuns-dos-exemplos-4548"><span class="header-section-number">0.18</span> Características comuns dos exemplos [§45–§48]</h3>
+<p>Nesse conjunto de artigos, e em muitos outros fora do conjunto, o ajuste para covariáveis é feito por regressão; o argumento para causação apoia-se na significância de um coeficiente. Mas os níveis de significância dependem de especificações, especialmente da estrutura de erros. Se os erros não forem independentes ou forem heterocedásticos, as fórmulas convencionais darão respostas erradas. E a especificação estocástica nunca é argumentada em detalhe. (Modelar as covariâncias também não resolve o problema, a menos que o modelo para as covariâncias possa ser validado.)</p>
+<p>Freedman resume que cada um dos exemplos possui as seguintes características:</p>
+<ol type="1">
+<li>Há uma questão de pesquisa interessante, que pode ou não ser suficientemente precisa para ser empiricamente testável.</li>
+<li>Dados relevantes são coletados, embora possa haver dificuldade considerável em quantificar alguns conceitos, e dados importantes podem estar ausentes.</li>
+<li>A hipótese de pesquisa é rapidamente traduzida em uma equação de regressão—mais especificamente, na afirmação de que certos coeficientes são (ou não são) estatisticamente significativos.</li>
+<li>Alguma atenção é dada à inclusão das variáveis corretas na equação, embora a escolha de covariáveis geralmente não seja convincente.</li>
+<li>Pouca atenção é dada à forma funcional ou à especificação estocástica; os modelos lineares dos livros-texto são simplesmente tomados como dados.</li>
+</ol>
+</section>
+<section id="dificuldade-de-avaliação-e-validação-de-pressupostos-4950" class="level3" data-number="0.19">
+<h3 data-number="0.19" class="anchored" data-anchor-id="dificuldade-de-avaliação-e-validação-de-pressupostos-4950"><span class="header-section-number">0.19</span> Dificuldade de avaliação e validação de pressupostos [§49–§50]</h3>
+<p>Freedman reconhece que avaliar o uso de modelos de regressão em todo um campo é uma tarefa difícil, sem caminhos bem trilhados. Ele selecionou três artigos que, em sua opinião, são bons dentro de seu gênero e que representam razoavelmente uma classe ampla (embora mal delineada). Esses artigos ilustram alguns obstáculos básicos na aplicação da tecnologia de regressão para fazer inferências causais.</p>
+<p>Em Freedman (1987), o autor adotou uma abordagem diferente, revisando uma versão moderna do modelo clássico de aquisição de status. Ele tentou enunciar os pressupostos técnicos necessários para extrair inferências causais de diagramas de caminhos—pressupostos que parecem muito difíceis de validar em aplicações. Também resumiu trabalhos anteriores sobre essas questões. Os modeladores tiveram uma oportunidade ampliada de responder. A análise técnica não foi contestada, e exemplos sérios não foram apresentados.</p>
+</section>
+<section id="citações-de-simon-e-fisher-5152" class="level3" data-number="0.20">
+<h3 data-number="0.20" class="anchored" data-anchor-id="citações-de-simon-e-fisher-5152"><span class="header-section-number">0.20</span> Citações de Simon e Fisher [§51–§52]</h3>
+<p>Se os pressupostos de um modelo não são derivados da teoria, e se as predições não são testadas contra a realidade, então as deduções do modelo devem ser bastante frágeis. No entanto, sem o modelo, os dados não podem ser usados para responder à questão de pesquisa. De fato, a hipótese de pesquisa pode não ser realmente traduzível em uma afirmação empírica, exceto como uma declaração sobre níveis nominais de significância de coeficientes em um modelo.</p>
+<p>Freedman cita duas autoridades. Simon (1957, p.&nbsp;12): “O objetivo … é fornecer uma base clara e rigorosa para determinar quando uma ordenação causal pode ser dita vigorar entre duas variáveis ou grupos de variáveis em um modelo. … Os conceitos … todos se referem a um modelo—um sistema de equações—e não ao mundo ‘real’ que o modelo pretende descrever.” Fisher (1958, p.&nbsp;190): “Se … escolhermos um grupo de fenômenos sociais sem conhecimento antecedente da causação ou ausência de causação entre eles, então o cálculo de coeficientes de correlação, totais ou parciais, não nos fará avançar um passo na avaliação da importância das causas em operação.”</p>
+</section>
+<section id="contraste-final-entre-snow-e-os-modeladores-53" class="level3" data-number="0.21">
+<h3 data-number="0.21" class="anchored" data-anchor-id="contraste-final-entre-snow-e-os-modeladores-53"><span class="header-section-number">0.21</span> Contraste final entre Snow e os modeladores [§53]</h3>
+<p>Na visão de Freedman, modelos de regressão não são uma maneira particularmente boa de fazer trabalho empírico nas ciências sociais hoje, porque a técnica depende de conhecimento que não possuímos. Investigadores que usam a técnica não estão prestando atenção adequada à conexão—se é que existe alguma—entre os modelos e os fenômenos que estão estudando. Suas conclusões podem ser válidas para o código de computador que criaram, mas as afirmações são difíceis de transferir desse microcosmo para o mundo maior.</p>
+<p>Para Freedman, o trabalho de Snow exemplifica um ponto em um contínuo de estilos de pesquisa; os exemplos de regressão marcam outro. Seu julgamento sobre os méritos relativos dos dois estilos é claro—e com ele, algumas recomendações implícitas. Comparações podem ser odiosas, mas Freedman pensa que a pesquisa de Snow permaneceu muito mais próxima da realidade do que os exercícios de modelagem. Snow não estava interessado nas propriedades de sistemas de equações, mas em maneiras de prevenir uma doença real. Ele formulou questões empíricas precisas que podiam ser respondidas usando dados que podiam, com esforço, ser coletados. A cada passo, ancorou seu argumento em fatos teimosos. E expôs sua teoria a testes severos em uma variedade de cenários. Isso pode explicar como ele descobriu algo extraordinariamente importante sobre o cólera, e por que seu livro ainda vale a pena ser lido mais de um século depois.</p>
+</section>
+</section>
+<section id="soluções-técnicas-podem-resgatar-os-modelos-pp.-304307" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="soluções-técnicas-podem-resgatar-os-modelos-pp.-304307">Soluções Técnicas Podem Resgatar os Modelos? (pp.&nbsp;304–307)</h2>
+<section id="a-natureza-dos-problemas-e-a-irrelevância-dos-ajustes-técnicos-5455" class="level3" data-number="0.22">
+<h3 data-number="0.22" class="anchored" data-anchor-id="a-natureza-dos-problemas-e-a-irrelevância-dos-ajustes-técnicos-5455"><span class="header-section-number">0.22</span> A natureza dos problemas e a irrelevância dos ajustes técnicos [§54–§55]</h3>
+<p>Freedman observa que modelos de regressão muitas vezes parecem ser usados para compensar problemas de mensuração, coleta de dados e desenho de estudo. Quando os modelos são implantados, a posição científica já está quase sem esperança. A confiança em modelos em tais casos é panglossiana. Essa é, pelo menos, sua visão. Em contraste, alguns leitores podem querer defender a técnica de modelagem de regressão: segundo eles, a técnica é sólida e apenas as aplicações são falhas. Outros leitores podem pensar que as críticas à modelagem de regressão são meramente técnicas, de modo que soluções técnicas—estimadores robustos, mínimos quadrados generalizados e testes de especificação—farão os problemas desaparecerem.</p>
+<p>A base matemática da regressão é bem estabelecida. A questão de Freedman é se a técnica se aplica aos problemas atuais das ciências sociais. Em outras palavras, os pressupostos são válidos? Ademais, soluções técnicas só se tornam relevantes quando os modelos estão quase certos. Por exemplo, estimadores robustos podem ser úteis se os termos de erro são independentes, identicamente distribuídos e simétricos, mas de caudas longas. Se os termos de erro não são independentes nem identicamente distribuídos, e não há como saber se são simétricos, estimadores robustos provavelmente desviam a atenção das questões reais.</p>
+</section>
+<section id="ilustração-da-dificuldade-estocástica-56" class="level3" data-number="0.23">
+<h3 data-number="0.23" class="anchored" data-anchor-id="ilustração-da-dificuldade-estocástica-56"><span class="header-section-number">0.23</span> Ilustração da dificuldade estocástica [§56]</h3>
+<p>Esse ponto é tão incômodo que Freedman oferece outra ilustração. Suponha que yi = α + εi, os εi têm média 0, e os εi são ou independentes e identicamente distribuídos ou autorregressivos de ordem 1. Então a máquina estatística bem azeitada entra em ação. Contudo, se os εi são apenas uma sequência de variáveis aleatórias, a situação é quase sem esperança—no que diz respeito a erros padrão e testes de hipóteses. Pior ainda se os yi não têm nenhuma genealogia estocástica. A última possibilidade lhe parece a mais realista. Nesse caso, procedimentos estatísticos formais são irrelevantes, e somos reduzidos (ou deveríamos ser) ao pensamento à moda antiga.</p>
+</section>
+<section id="o-debate-sobre-avaliação-de-programas-de-treinamento-5759" class="level3" data-number="0.24">
+<h3 data-number="0.24" class="anchored" data-anchor-id="o-debate-sobre-avaliação-de-programas-de-treinamento-5759"><span class="header-section-number">0.24</span> O debate sobre avaliação de programas de treinamento [§57–§59]</h3>
+<p>Uma discussão bem conhecida sobre soluções técnicas parte da avaliação de programas de treinamento de mão de obra usando dados não experimentais. LaLonde (1986) e Fraker e Maynard (1987) comparam resultados de avaliações baseadas em modelagem com resultados de experimentos. A ideia é ver se modelos de regressão ajustados a dados observacionais podem predizer os resultados de intervenções experimentais. Fraker e Maynard concluem que os resultados indicam que desenhos não experimentais não são confiáveis para estimar a efetividade de programas de emprego. As estimativas de impacto tendem a ser sensíveis tanto à metodologia de construção do grupo de comparação quanto ao modelo analítico usado. Atualmente, não há como garantir a priori que os resultados de estudos de grupo de comparação serão indicadores válidos dos impactos do programa.</p>
+<p>Heckman e Hotz (1989) respondem que testes de especificação podem ser usados para descartar modelos que dão predições erradas: “Um procedimento simples de teste elimina a gama de estimadores não experimentais que divergem das estimativas experimentais de impacto do programa. … Assim, embora não definitivos, nossos resultados são certamente encorajadores para o uso de métodos não experimentais na avaliação de programas sociais.”</p>
+<p>Freedman aponta que Heckman e Hotz têm em mãos (a) os dados experimentais, (b) os dados não experimentais, e (c) os resultados de LaLonde e de Fraker e Maynard. Eles modelam o viés de seleção nos grupos de comparação não experimentais. Há três tipos de modelos, cada um com duas variantes principais. Estes são ajustados a vários períodos de tempo diferentes, com vários conjuntos de variáveis de controle. Médias de diferentes modelos são permitidas, e há uma “ligeira extensão” de um modelo.</p>
+<p>Por sua contagem, 24 modelos são ajustados aos dados não experimentais sobre mulheres beneficiárias do AFDC, e 32 aos dados sobre evadidos do ensino médio. Ex post facto, modelos que passam em certos testes de especificação podem mais ou menos reproduzir os resultados experimentais (até erros padrão muito grandes). No entanto, a verdadeira questão é o que pode ser feito ex ante, antes que a estimativa correta seja conhecida. Heckman e Hotz podem ter um argumento, mas não é forte. Pode até apontar na direção errada. Testar um modelo em 24 conjuntos de dados diferentes poderia abrir uma investigação séria: identificamos uma regularidade empírica que tem algum grau de invariância? Testar 24 modelos em um único conjunto de dados é menos sério.</p>
+</section>
+<section id="a-superioridade-da-replicação-e-predição-6061" class="level3" data-number="0.25">
+<h3 data-number="0.25" class="anchored" data-anchor-id="a-superioridade-da-replicação-e-predição-6061"><span class="header-section-number">0.25</span> A superioridade da replicação e predição [§60–§61]</h3>
+<p>Freedman argumenta que, de modo geral, a replicação e a predição de novos resultados fornecem um regime de validação mais severo e mais útil do que o teste estatístico de muitos modelos em um único conjunto de dados. Menos pressupostos são necessários, há menos chance de artefato, mais tipos de variação podem ser explorados, e explicações alternativas podem ser descartadas. De fato, levado ao extremo, desenvolver um modelo por testes de especificação simplesmente volta a ser ajuste de curvas—com um conjunto complicado de restrições sobre os resíduos.</p>
+<p>Dadas as limitações do conhecimento presente, Freedman duvida que os modelos possam ser resgatados por soluções técnicas. Argumentos sobre o mérito teórico da regressão ou o comportamento assintótico de testes de especificação para escolher uma versão de um modelo em detrimento de outra parecem argumentos sobre como construir usinas de dessalinização tendo a fusão a frio como fonte de energia. O conceito pode ser admirável, os detalhes técnicos podem ser fascinantes, mas pessoas com sede deveriam procurar em outro lugar.</p>
+</section>
+</section>
+<section id="outra-literatura-pp.-307310" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="outra-literatura-pp.-307310">Outra Literatura (pp.&nbsp;307–310)</h2>
+<section id="lieberson-1985-e-a-dificuldade-do-balanceamento-estatístico-6263" class="level3" data-number="0.26">
+<h3 data-number="0.26" class="anchored" data-anchor-id="lieberson-1985-e-a-dificuldade-do-balanceamento-estatístico-6263"><span class="header-section-number">0.26</span> Lieberson (1985) e a dificuldade do balanceamento estatístico [§62–§63]</h3>
+<p>Freedman reconhece que as questões levantadas não são novas e revisa brevemente literatura recente. Nenhum resumo breve pode fazer justiça a Lieberson (1985), que apresenta uma crítica complexa e sutil do trabalho empírico corrente nas ciências sociais. Freedman oferece uma paráfrase grosseira de uma mensagem importante: quando há diferenças significativas entre grupos de comparação em um estudo observacional, é extraordinariamente difícil, se não impossível, alcançar balanceamento por meio de ajustes estatísticos. Arminger e Bohnstedt (1987, p.&nbsp;366) respondem descrevendo isso como um caso especial de “má especificação da estrutura de médias causada pela omissão de variáveis causais relevantes” e citam literatura sobre o tópico.</p>
+<p>Freedman argumenta que isso trivializa o problema e quase endossa a ideia de corrigir a má especificação elaborando o modelo. No entanto, essa ideia dificilmente funcionará. Os testes de especificação atuais precisam de observações independentes e identicamente distribuídas, e muitas delas; as variáveis relevantes devem ser identificadas; algumas variáveis devem ser tomadas como exógenas; erros aditivos são necessários; e uma forma paramétrica ou semiparamétrica para a função média é requerida. Esses ingredientes raramente são encontrados nas ciências sociais, exceto por suposição. Para modelar um viés, precisamos saber o que o causa e como. Na prática, isso pode ser ainda mais difícil do que a questão de pesquisa original. Alguma evidência empírica é fornecida pela discussão das avaliações de programas de treinamento de mão de obra acima (ver também Stolzenberg e Relles 1990).</p>
+</section>
+<section id="comentários-de-arminger-e-bohnstedt-singer-e-marini-6465" class="level3" data-number="0.27">
+<h3 data-number="0.27" class="anchored" data-anchor-id="comentários-de-arminger-e-bohnstedt-singer-e-marini-6465"><span class="header-section-number">0.27</span> Comentários de Arminger e Bohnstedt, Singer e Marini [§64–§65]</h3>
+<p>Arminger e Bohnstedt concedem (1987, p.&nbsp;370): “Não há dúvida de que dados experimentais são preferíveis a dados não experimentais, que praticamente exigem que se conheça a estrutura de médias, exceto pelos parâmetros a serem estimados.” Freedman observa que, nas ciências físicas ou da vida, há algumas situações em que a função média é conhecida, e modelos de regressão são correspondentemente úteis. Nas ciências sociais, ele não vê essa pré-condição para a modelagem de regressão sendo atendida, nem mesmo em primeira aproximação.</p>
+<p>Comentando Lieberson (1985), Singer e Marini (1987) enfatizam dois pontos: (1) “Requer pressupostos bastante heroicos ou fenômenos incomuns para conduzir uma análise comparativa de um estudo observacional como se representasse conclusões (inferências) de um experimento.” (p.&nbsp;376) (2) “Parece haver uma visão implícita em grande parte da ciência social de que qualquer pergunta que possa ser feita sobre uma sociedade é, em princípio, respondível.” (p.&nbsp;382)</p>
+<p>Na visão de Freedman, o ponto 1 diz que, no estado atual do conhecimento nas ciências sociais, modelos de regressão raramente, ou nunca, são confiáveis para inferência causal. Com relação ao ponto 2, é exatamente a confiança nos modelos que faz todas as perguntas parecerem “respondíveis em princípio”—um grande obstáculo ao desenvolvimento da disciplina. É o começo da sabedoria científica reconhecer que nem todas as perguntas têm respostas. (Ver Lieberson 1988.)</p>
+</section>
+<section id="marini-e-singer-1988-sobre-a-circularidade-dos-modelos-causais-6668" class="level3" data-number="0.28">
+<h3 data-number="0.28" class="anchored" data-anchor-id="marini-e-singer-1988-sobre-a-circularidade-dos-modelos-causais-6668"><span class="header-section-number">0.28</span> Marini e Singer (1988) sobre a circularidade dos modelos causais [§66–§68]</h3>
+<p>Marini e Singer (1988) continuam o argumento. Eles afirmam: “Poucos questionariam que o uso de modelos ‘causais’ melhorou nosso conhecimento das causas e provavelmente o fará cada vez mais à medida que os modelos forem refinados e se tornarem mais sintonizados com os fenômenos sob investigação.” (p.&nbsp;394) No entanto, Freedman aponta que grande parte da análise de Marini e Singer contradiz essa visão supostamente majoritária. Eles escrevem: “A análise causal … não é uma maneira de deduzir causação, mas de quantificar relações já hipotetizadas. … Informação externa ao modelo é necessária para garantir o uso de uma representação específica como verdadeiramente ‘estrutural’. A informação deve vir do corpo de conhecimento existente relevante para o domínio sob consideração.” (pp.&nbsp;388, 391)</p>
+<p>Freedman lê a literatura empírica corrente como mostrando que os argumentos causais dependem principalmente da significância estatística dos coeficientes de regressão. Se assim for, Marini e Singer estão apontando para a circularidade fundamental na estratégia de regressão: a informação necessária para construir modelos de regressão vem apenas de tais modelos. De fato, Marini e Singer continuam: “A relevância dos modelos causais para os fenômenos empíricos é frequentemente questionável porque os pressupostos feitos para fins de identificação do modelo são arbitrários ou patentemente falsos. Os modelos assumem uma importância própria, e a conveniência ou elegância na construção do modelo se sobrepõe à fidelidade aos fenômenos.” (p.&nbsp;392)</p>
+</section>
+<section id="holland-1988-e-berk-1988-6971" class="level3" data-number="0.29">
+<h3 data-number="0.29" class="anchored" data-anchor-id="holland-1988-e-berk-1988-6971"><span class="header-section-number">0.29</span> Holland (1988) e Berk (1988) [§69–§71]</h3>
+<p>Holland (1988) levanta pontos similares. Inferências causais a partir de dados não experimentais usando modelos de caminhos requerem pressupostos que são bastante próximos das conclusões; assim, a análise é conduzida pelo modelo, não pelos dados. Com efeito, dado um conjunto de covariáveis, a resposta média no “grupo de tratamento” menos a média nos “controles” deve ser assumida como igual ao efeito causal que está sendo estimado (1988, p.&nbsp;481). “O efeito … não pode ser estimado pelos métodos usuais de regressão da análise de caminhos sem fazer pressupostos não testáveis sobre a função de regressão contrafactual.” (p.&nbsp;470)</p>
+<p>Berk (1988, p.&nbsp;161) discute inferências causais baseadas em diagramas de caminhos, incluindo “perturbações não observáveis que atendem aos pressupostos usuais (e às vezes heroicos)”. Ele considera os argumentos frequentemente recitados de que os vieses serão pequenos, ou, se grandes, tenderão a se cancelar, e conclui: “Infelizmente, é difícil encontrar qualquer evidência para essas crenças” (p.&nbsp;163). Berk recomenda desenhos quase-experimentais, que são “terrivelmente subutilizados pelos sociólogos, apesar de seu potencial considerável. Embora certamente não substituam a alocação aleatória, os desenhos quase-experimentais mais fortes podem geralmente produzir inferências causais muito mais convincentes do que os conjuntos de dados transversais convencionais.” (p.&nbsp;163) Ele comenta sobre o desenvolvimento de modelos por teste, incluindo o uso de testes de especificação: “Os resultados podem ser enganosos se houver quaisquer outros pressupostos estatísticos que sejam substancialmente violados.” (p.&nbsp;165) Freedman concorda com o ensaio de Berk e observa que nenhuma mudança dramática na prática de pesquisa ocorreu após sua publicação, sugerindo que mais discussão das questões pode ser necessária.</p>
+</section>
+<section id="meehl-1978-e-os-riscos-dos-testes-de-significância-72" class="level3" data-number="0.30">
+<h3 data-number="0.30" class="anchored" data-anchor-id="meehl-1978-e-os-riscos-dos-testes-de-significância-72"><span class="header-section-number">0.30</span> Meehl (1978) e os riscos dos testes de significância [§72]</h3>
+<p>Freedman menciona que Paul Meehl (1978) já disse a maior parte do que precisava ser dito em seu artigo “Theoretical Risks and Tabular Asterisks: Sir Karl, Sir Ronald, and the Slow Progress of Soft Psychology”. Parafraseando, o bom cavaleiro é Karl Popper, cujo lema exige submeter as teorias científicas a grave perigo de refutação. O mau cavaleiro é Ronald Fisher, cujos testes de significância são pisoteados no pó: “A confiança quase universal em meramente refutar a hipótese nula como o método padrão para corroborar teorias substantivas nas áreas moles é … basicamente insustentável.” (p.&nbsp;817) Meehl é um psicólogo eminente e possui um dos melhores conjuntos de dados disponíveis para demonstrar o poder preditivo de modelos de regressão. Seu julgamento merece alguma consideração.</p>
+</section>
+</section>
+<section id="conclusão-pp.-311313" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="conclusão-pp.-311313">Conclusão (pp.&nbsp;311–313)</h2>
+<section id="o-modus-operandi-comum-e-suas-fraquezas-7375" class="level3" data-number="0.31">
+<h3 data-number="0.31" class="anchored" data-anchor-id="o-modus-operandi-comum-e-suas-fraquezas-7375"><span class="header-section-number">0.31</span> O modus operandi comum e suas fraquezas [§73–§75]</h3>
+<p>Freedman descreve uma maneira bastante comum de atacar um problema: coletar dados e então fazer um conjunto de pressupostos estatísticos sobre o processo que gerou os dados—por exemplo, regressão linear com erros normais, independência condicional de dados categóricos dadas covariáveis, censura aleatória de observações, independência de riscos concorrentes.</p>
+<p>Uma vez que os pressupostos estão no lugar, o modelo é ajustado aos dados, e cálculos estatísticos bastante intrincados podem entrar em cena: mínimos quadrados em três estágios, máxima verossimilhança penalizada, eficiência de segunda ordem, e assim por diante. As inferências estatísticas às vezes levam a afirmações empíricas bastante fortes sobre estrutura e causalidade.</p>
+<p>Tipicamente, os pressupostos em um modelo estatístico são muito difíceis de provar ou refutar, e pouco esforço é despendido nessa direção. A força das afirmações empíricas feitas com base em tal modelagem, portanto, não deriva da solidez dos pressupostos. Igualmente, essas crenças não podem ser justificadas pela complexidade dos cálculos. O sucesso em controlar fenômenos observáveis é um argumento relevante, mas raramente apresentado.</p>
+</section>
+<section id="questões-finais-76" class="level3" data-number="0.32">
+<h3 data-number="0.32" class="anchored" data-anchor-id="questões-finais-76"><span class="header-section-number">0.32</span> Questões finais [§76]</h3>
+<p>Essas observações levam a perguntas incômodas. Os modelos são úteis? É possível diferenciar entre usos bem-sucedidos e malsucedidos dos modelos? Como os modelos podem ser testados e avaliados? Modelos de regressão têm sido usados em dados de ciências sociais desde Yule (1899), então talvez seja hora de fazer essas perguntas; embora respostas definitivas não possam ser esperadas.</p>
+</section>
+</section>
+<section id="argumento-sintético" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="argumento-sintético">Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A tese central do texto é que os modelos de regressão, tal como empregados rotineiramente nas ciências sociais contemporâneas, raramente fornecem uma base confiável para inferência causal porque dependem de pressupostos teóricos e estocásticos que não podem ser validados com os dados e o conhecimento disponíveis. O argumento é primordialmente metodológico e avaliativo, combinando análise lógica, exemplos históricos e revisão de literatura para contrastar dois estilos de pesquisa: o trabalho detetivesco e empiricamente fundamentado de John Snow sobre o cólera—que não usou regressão—e aplicações modernas de modelagem estatística que, segundo Freedman, confundem significância estatística com causação sem o devido lastro empírico. O texto demonstra, por meio de estudos de caso, que a técnica estatística não substitui um bom desenho de pesquisa, dados relevantes e a validação de predições em múltiplos contextos. O que permanece como hipótese ou agenda é a possibilidade de que testes de especificação e refinamentos técnicos possam resgatar a modelagem de regressão em algumas circunstâncias, embora Freedman se mostre cético. A contribuição para o debate mais amplo reside em reafirmar, com exemplos concretos e referências a autoridades do campo, que a inferência causal a partir de dados observacionais exige mais do que a aplicação mecânica de modelos de regressão; exige teoria substantiva, desenhos de pesquisa engenhosos e o tipo de trabalho de campo árduo que Snow simboliza com a metáfora do “shoe leather”.</p>
+</div>
+</div>
+</section>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v12.0</em>. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é registrado no campo <code>Raciocínio analítico</code> da tabela.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">A pergunta não é formulada explicitamente como interrogação, mas emerge da estrutura argumentativa. Premissa relevante: a avaliação do uso de modelos de regressão é oportuna devido à sua longa história (desde 1899) e à confiança generalizada depositada neles. Interpretação alternativa: poderia ser lida como uma defesa do método comparativo ou quase-experimental, não apenas como crítica. Ponto vulnerável: a pergunta é avaliativa e, portanto, depende fortemente dos critérios de sucesso adotados.</td>
+<td style="text-align: left;">Pergunta central: “Os modelos de regressão, tal como usados nas ciências sociais, fornecem uma base confiável para inferência causal?” Natureza: avaliativa e metodológica. Pergunta reconstruída a partir da introdução e da escala de quatro pontos.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">As questões secundárias são explicitadas ao longo do texto como etapas da argumentação. Elas derivam diretamente da pergunta central e servem para operacionalizar a avaliação. Ponto vulnerável: a seleção dos exemplos modernos pode não ser representativa, o que afeta a generalização das respostas.</td>
+<td style="text-align: left;">(1) O que caracteriza um uso bem-sucedido de dados observacionais para inferência causal sem regressão? (2) Quais são as fraquezas típicas das aplicações contemporâneas de regressão nas ciências sociais? (3) Soluções técnicas recentes (testes de especificação, estimadores robustos) podem sanar essas fraquezas? (4) O que a literatura metodológica recente diz sobre o problema?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O texto articula um <em>puzzle</em> de avaliação de metodologia. O enigma é por que, apesar de críticas persistentes e da falta de validação empírica, os modelos de regressão permanecem tão dominantes e são tratados como categoria 1 (“geralmente funciona”) por livros-texto e praticantes. O puzzle é genuíno porque confronta a prática estabelecida com evidência de sua fragilidade. É generalizável para além dos casos discutidos, pois a tensão entre sofisticação técnica e validade substantiva afeta todas as ciências sociais quantitativas.</td>
+<td style="text-align: left;"><em>Puzzle</em> explicativo-avaliativo: como conciliar a onipresença e a confiança nos modelos de regressão com a escassez de exemplos validados de inferência causal bem-sucedida baseada neles? O texto também opera como um <em>gap</em> entre a prescrição metodológica (os pressupostos necessários) e a prática de pesquisa observada.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">A conclusão é que modelos de regressão raramente são confiáveis para inferência causal nas ciências sociais porque os pressupostos requeridos não são atendidos nem validados. A natureza do argumento é metodológica e normativa (recomenda um estilo de pesquisa mais próximo do de Snow). O <em>claim of discovery</em> é modesto: não se propõe um método novo, mas se argumenta que a prática corrente é insustentável. O que sustenta o <em>claim</em> são os exemplos contrastantes (Snow vs.&nbsp;Kanarek et al.; artigos de 1987-88) e a revisão da literatura metodológica que converge para o ceticismo.</td>
+<td style="text-align: left;">“Na minha visão, modelos de regressão não são uma maneira particularmente boa de fazer trabalho empírico nas ciências sociais hoje, porque a técnica depende de conhecimento que não possuímos.” O argumento é cético quanto à capacidade da regressão de, por si só, sustentar alegações causais.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">Estudo metodológico baseado em análise de casos e revisão crítica da literatura. Não há coleta de dados primários. A estratégia argumentativa é comparativa: contrasta-se um caso histórico de sucesso (Snow) com exemplos modernos de uso de regressão (Kanarek et al.; três artigos de sociologia/ciência política) e com debates sobre avaliação de programas. As limitações de identificação são centrais ao argumento: o texto demonstra que os modelos de regressão analisados não identificam efeitos causais de forma convincente.</td>
+<td style="text-align: left;">Tipo: ensaio metodológico com estudos de caso ilustrativos. Fontes: literatura publicada (artigos de periódicos, livros). Técnica: análise lógica dos pressupostos de modelos de regressão, exame detalhado dos exemplos, contraste com o método de Snow.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">O texto não analisa um DGP próprio, mas discute os DGPs implícitos nos estudos que critica. Para os exemplos de regressão, o DGP é: fenômeno social → operacionalização em variáveis de survey ou agregados → aplicação de modelo de regressão com pressupostos estocásticos não verificados → inferência causal baseada em significância. Para Snow, o DGP é: observação clínica e ecológica → formulação de hipóteses → coleta artesanal de dados ao nível domiciliar (“shoe leather”) → comparação de grupos naturalmente aleatorizados → inferência contrafactual. A unidade de análise varia: domicílios (Snow), setores censitários (Kanarek), indivíduos (surveys).</td>
+<td style="text-align: left;">Fenômeno: uso de modelos de regressão para inferência causal. Observação: artigos publicados. Coleta: seleção de exemplos. Operacionalização: análise dos pressupostos e conclusões. Análise: lógica e comparativa. Inferência: avaliativa/normativa sobre a prática metodológica.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">O principal achado é a demonstração, por meio de exemplos, de que aplicações típicas de regressão falham em estabelecer inferências causais robustas, enquanto o trabalho de Snow, sem regressão, é bem-sucedido. A contribuição teórico-metodológica é a reafirmação da primazia do desenho de pesquisa, da teoria substantiva e da validação empírica sobre a sofisticação estatística. O design identifica com força a discrepância entre a prática modeladora e os requisitos para inferência causal. O que permanece especulativo é se <em>todos</em> os usos de regressão são igualmente problemáticos ou se há nichos onde a técnica é válida.</td>
+<td style="text-align: left;">Achados: (1) Os exemplos de regressão analisados exibem circularidade, falta de validação de pressupostos e confusão entre correlação e causação. (2) O trabalho de Snow exemplifica uma abordagem alternativa superior. Contribuições: reforça críticas existentes (Lieberson, Meehl, Berk) com novos exemplos e um contraste histórico vívido.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">Freedman responde adequadamente à sua pergunta central para os casos que examina, mas a generalização para “a maioria” das aplicações de regressão depende da representatividade dos exemplos escolhidos. O ponto mais forte é a desconstrução do estudo de Kanarek et al., que revela múltiplas fragilidades (falácia ecológica, múltiplas comparações, ausência de controle para tabagismo). O ponto mais vulnerável é a seleção de apenas três artigos de 1987-88 para representar a prática nas ciências sociais; embora ele afirme que são típicos, não há uma amostragem sistemática. As ameaças à identificação nos estudos de regressão são bem documentadas (viés de variável omitida, má especificação). O DGP dos artigos de regressão é inadequado para os <em>claims</em> causais que fazem. A generalizabilidade é limitada pela escolha dos exemplos. <em>Scope conditions</em> declaradas: Freedman se restringe a aplicações de regressão para inferência causal nas ciências sociais; ele concede que a regressão pode ser útil para sumarização de dados.</td>
+<td style="text-align: left;">O autor responde “não” à pergunta sobre a confiabilidade da regressão para inferência causal nos casos examinados. A força do argumento reside na clareza com que expõe os pressupostos não atendidos. A fraqueza está na dependência de uma amostra pequena e potencialmente enviesada de artigos. O contraste com Snow é heuristicamente poderoso, mas pode idealizar um caso excepcional.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> Freedman admite que “avaliar o uso de modelos de regressão em todo um campo é uma tarefa difícil” e que “respostas definitivas não podem ser esperadas”. Ele também reconhece que Snow “cometeu sua cota de erros”. <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) O texto não discute possíveis vieses de seleção na escolha dos três artigos de 1987-88. (2) Não aborda usos de regressão que podem ser mais bem-sucedidos, como em contextos com forte teoria prévia ou dados experimentais. (3) Não explora se a replicação e a predição—que ele defende—poderiam ser incorporadas em uma prática de modelagem de regressão mais rigorosa, em vez de descartar a técnica. (4) A crítica a Heckman e Hotz pode subestimar o valor dos testes de especificação como ferramenta heurística, mesmo que não resolvam o problema fundamental.</td>
+<td style="text-align: left;">Limitações reconhecidas: dificuldade inerente à avaliação do campo, impossibilidade de respostas definitivas. Limitações não reconhecidas: representatividade dos exemplos escolhidos; potencial da regressão em desenhos mais fortes; possibilidade de integração entre validação preditiva e modelagem.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">O texto se insere na tradição do empirismo metodológico e do falsificacionismo popperiano (ênfase em testes severos e predições). Há uma clara ontologia realista: os fenômenos sociais e epidemiológicos existem independentemente dos modelos e podem ser conhecidos por meio de observação cuidadosa e desenhos engenhosos. A moldura é adequada ao tipo de pergunta, pois foca nos pressupostos necessários para a inferência causal. A coerência entre ontologia e método é alta: Freedman defende uma abordagem que respeita a complexidade do mundo real, em vez de impor estruturas matemáticas simplificadoras sem validação.</td>
+<td style="text-align: left;">Tradição: metodologia crítica, empirismo, influência popperiana. Adequação: alta, pois a crítica aos modelos de regressão se baseia exatamente na falta de correspondência entre os pressupostos do modelo e a realidade do fenômeno.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">As referências centrais incluem Snow (1855), Yule (1899), Simon (1957), Fisher (1958), Meehl (1978), Lieberson (1985), LaLonde (1986), Berk (1988), Holland (1988), Marini e Singer (1988), Heckman e Hotz (1989). O diálogo com a literatura é rico e equilibrado, incorporando tanto defensores quanto críticos da modelagem. Não há desequilíbrio evidente, embora a seleção de artigos empíricos para crítica possa ser questionada.</td>
+<td style="text-align: left;">Autores-chave: Snow, Yule, Simon, Fisher, Meehl, Lieberson, Berk, Holland, Heckman e Hotz. O diálogo é amplo e inclui vozes influentes de ambos os lados do debate metodológico.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">Vulnerabilidades adicionais: (1) O texto não oferece uma alternativa sistemática à regressão; o exemplo de Snow é inspirador, mas difícil de replicar em muitos contextos das ciências sociais. (2) Há uma lacuna teórica sobre como decidir, <em>ex ante</em>, quando um desenho de pesquisa é suficientemente forte para sustentar inferência causal sem modelos formais. (3) A validade externa do argumento pode ser limitada a campos onde experimentos naturais como o de Snow são raros. (4) A omissão de uma discussão sobre inferência bayesiana ou métodos de <em>machine learning</em>—que também lidam com predição e validação—deixa o retrato da “modelagem estatística” um tanto datado. Para o leitor, o texto serve como um lembrete poderoso dos perigos do uso acrítico de técnicas estatísticas, mas pode induzir a um ceticismo paralisante se não for complementado com orientações construtivas.</td>
+<td style="text-align: left;">O texto é uma crítica contundente e bem fundamentada, mas seu tom pode ser percebido como excessivamente pessimista. A metáfora do “shoe leather” é memorável e eficaz, porém a prescrição implícita—trabalho de campo árduo e engenhosidade de desenho—é mais facilmente admirada do que implementada na prática cotidiana da pesquisa. A omissão de discussão sobre avanços em inferência causal (como modelos de resultados potenciais e grafos acíclicos dirigidos) é notável, dado que o artigo é de 1991 e esses desenvolvimentos já estavam em gestação.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<p>```</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<a href="http://www.github.com/mancano-tales">Tales Mançano</a> ©
+<script>document.write(new Date().getFullYear())</script>
+</div>   
+    <div class="nav-footer-center">
+<p>Build on <a href="https://github.com/drganghe/quarto-academic-website-template">Quart Academic Website Template</a> adapted by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a></p>
+</div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/drganghe/quarto-academic-website-template" target="_blank">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app" target="_blank">
+<p><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></p>
+</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="../../posts.xml" target="_blank">
+      <i class="bi bi-rss" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
