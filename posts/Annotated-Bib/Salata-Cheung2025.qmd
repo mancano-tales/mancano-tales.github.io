@@ -4,7 +4,8 @@ subtitle: "Salata, A. e Cheung, S. Y. (2025)"
 author: "Tales Mançano"
 date: "2026-04-18"
 last-updated: "2026-04-18"
-categories: [Annotated Bibliography, Inequality, Tertiary Education, Quantitative Methods, Brazil]
+categories: [Annotated Bibliography, Inequality, Brazil]
+tags: [tertiary-education, quantitative-methods]
 format:
   html:
     toc: true

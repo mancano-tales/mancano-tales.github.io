@@ -4,7 +4,8 @@ subtitle: "Ferre, J. C. (2024)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Comparative Political Economy, Welfare State, Latin America, Quantitative Methods]
+categories: [Annotated Bibliography, Comparative Political Economy, Welfare State, Latin America]
+tags: [quantitative-methods]
 format:
   html:
     toc: true

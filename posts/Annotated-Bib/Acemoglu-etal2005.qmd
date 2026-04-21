@@ -4,7 +4,8 @@ subtitle: "Acemoglu, Johnson & Robinson (2005)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Economic History, Comparative Political Economy, Institutions, Quantitative Methods]
+categories: [Annotated Bibliography, Political Economy, Institutions, Development Economics]
+tags: [quantitative-methods, economic-history]
 format:
   html:
     toc: true

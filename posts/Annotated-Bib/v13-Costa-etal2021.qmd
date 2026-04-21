@@ -4,7 +4,8 @@ subtitle: "Costa, J. S., Silveira, F. G., Costa, R., & Waltenberg, F. D. (2021)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Economics of Education, Public Policy, Inequality, Brazil]
+categories: [Annotated Bibliography, Economics of Education, Inequality, Brazil]
+tags: [public-policy]
 format:
   html:
     toc: true

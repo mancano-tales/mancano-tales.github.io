@@ -4,7 +4,8 @@ subtitle: "David A. Freedman (1991)"
 author: "Tales Mançano"
 date: "2026-04-20"
 last-updated: "2026-04-20"
-categories: [Annotated Bibliography, Methodology, Causal Inference, Regression Models, Social Science Methodology, Epidemiology]
+categories: [Annotated Bibliography, Methodology]
+tags: [causal-inference, regression-models, epidemiology]
 format:
   html:
     toc: true

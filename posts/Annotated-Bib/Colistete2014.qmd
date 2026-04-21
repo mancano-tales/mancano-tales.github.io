@@ -4,7 +4,8 @@ subtitle: "Colistete, Renato Perim (2014)"
 author: "Tales Mançano"
 date: "2026-04-20"
 last-updated: "2026-04-20"
-categories: [Annotated Bibliography, História Econômica, Economia Política, Política Educacional, Brasil Imperial e República, Descentralização Fiscal]
+categories: [Annotated Bibliography, Political Economy, Politics of Education, Development Economics, Brazil]
+tags: [economic-history, fiscal-decentralization, imperial-brazil]
 format:
   html:
     toc: true

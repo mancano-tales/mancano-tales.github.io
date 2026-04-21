@@ -4,7 +4,8 @@ subtitle: "Della Porta, D., & Keating, M. (2023)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Methodology, Methodological Pluralism, Epistemology, Philosophy of Social Sciences]
+categories: [Annotated Bibliography, Methodology]
+tags: [methodological-pluralism, epistemology, philosophy-of-social-sciences]
 format:
   html:
     toc: true

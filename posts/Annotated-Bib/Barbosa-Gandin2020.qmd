@@ -4,7 +4,8 @@ subtitle: "Barbosa & Gandin (2020)"
 author: "Tales Mançano"
 date: "2026-04-20"
 last-updated: "2026-04-20"
-categories: [Annotated Bibliography, Sociology of Education, Brazil]
+categories: [Annotated Bibliography, Politics of Education, Brazil]
+tags: [sociology-of-education]
 format:
   html:
     toc: true

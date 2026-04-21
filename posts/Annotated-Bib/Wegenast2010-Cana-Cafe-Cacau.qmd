@@ -4,7 +4,8 @@ subtitle: "Wegenast, T. (2010)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Comparative Political Economy, Economic History, Inequality, Brazil]
+categories: [Annotated Bibliography, Political Economy, Development Economics, Inequality, Brazil]
+tags: [economic-history]
 format:
   html:
     toc: true

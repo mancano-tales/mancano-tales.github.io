@@ -4,7 +4,8 @@ subtitle: "Bartels, L. M. (2023)"
 author: "Tales Mançano"
 date: "2026-04-18"
 last-updated: "2026-04-18"
-categories: [Annotated Bibliography, Inequality, Democratic Theory, Methodology, Causal Inference, Comparative Politics]
+categories: [Annotated Bibliography, Inequality, Methodology, Comparative]
+tags: [democratic-theory, causal-inference]
 format:
   html:
     toc: true

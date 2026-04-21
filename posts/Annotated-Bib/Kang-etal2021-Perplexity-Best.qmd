@@ -4,7 +4,8 @@ subtitle: "Kang, Paese e Felix (2021)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Economic History, Inequality, Brazil]
+categories: [Annotated Bibliography, Development Economics, Inequality, Brazil]
+tags: [economic-history]
 format:
   html:
     toc: true

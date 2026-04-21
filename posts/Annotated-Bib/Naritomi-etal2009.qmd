@@ -4,7 +4,8 @@ subtitle: "Naritomi, Soares & Assunção (2009)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Comparative Political Economy, Institutions, Economic History, Brazil]
+categories: [Annotated Bibliography, Political Economy, Institutions, Development Economics, Brazil]
+tags: [economic-history]
 format:
   html:
     toc: true

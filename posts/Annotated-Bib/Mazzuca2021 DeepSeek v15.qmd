@@ -4,7 +4,7 @@ subtitle: "Mazzuca (2021)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Institutions, Comparative Politics, Methodology, Latin America]
+categories: [Annotated Bibliography, Institutions, Methodology, Latin America]
 format:
   html:
     toc: true
