@@ -178,10 +178,10 @@ Confira as últimas postagens do blog:
 :::{#recent-posts}
 :::
 
-::: {.lang-en}
-<p align="right">[All Posts »](/posts.qmd)</p>
+::: {.text-end .lang-en}
+<a href="posts.qmd" class="btn btn-outline-primary">All Posts <i class="bi bi-arrow-right"></i></a>
 :::
 
-::: {.lang-pt}
-<p align="right">[Todas as Postagens »](/posts.qmd)</p>
+::: {.text-end .lang-pt}
+<a href="posts.qmd" class="btn btn-outline-primary">Todas as Postagens <i class="bi bi-arrow-right"></i></a>
 :::
