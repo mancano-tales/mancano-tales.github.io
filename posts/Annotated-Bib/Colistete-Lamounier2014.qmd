@@ -4,7 +4,8 @@ subtitle: "Colistete e Lamounier (2014)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Economic History, Inequality, Quantitative Methods, Latin America]
+categories: [Annotated Bibliography, Development Economics, Inequality, Latin America]
+tags: [economic-history, quantitative-methods]
 format:
   html:
     toc: true

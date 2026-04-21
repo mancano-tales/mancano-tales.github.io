@@ -4,7 +4,8 @@ subtitle: "Barahona, Dobbin & Otero (2026)"
 author: "Tales Mançano"
 date: "2026-04-18"
 last-updated: "2026-04-18"
-categories: [Annotated Bibliography, Economics of Education, Industrial Organization, Public Policy, Causal Inference]
+categories: [Annotated Bibliography, Economics of Education]
+tags: [industrial-organization, public-policy, causal-inference]
 format:
   html:
     toc: true

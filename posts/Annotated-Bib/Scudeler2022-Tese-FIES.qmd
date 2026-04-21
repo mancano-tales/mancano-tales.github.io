@@ -4,7 +4,8 @@ subtitle: "Scudeler (2022)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Tertiary Education, Public Policy, Sociology of Education]
+categories: [Annotated Bibliography, Politics of Education, Economics of Education]
+tags: [tertiary-education, public-policy]
 format:
   html:
     toc: true

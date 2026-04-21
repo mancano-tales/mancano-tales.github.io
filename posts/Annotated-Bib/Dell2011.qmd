@@ -4,7 +4,8 @@ subtitle: "Melissa Dell (2011)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Comparative Political Economy, Comparative Politics, Causal Inference, Quantitative Methods]
+categories: [Annotated Bibliography, Political Economy, Institutions, Development Economics, Latin America]
+tags: [causal-inference, quantitative-methods]
 format:
   html:
     toc: true

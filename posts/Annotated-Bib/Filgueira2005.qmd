@@ -4,7 +4,8 @@ subtitle: "Fernando Filgueira (2005)"
 author: "Tales Mançano"
 date: "2026-04-20"
 last-updated: "2026-04-20"
-categories: [Annotated Bibliography, Comparative Political Economy, Social Policy, Latin America, Welfare State]
+categories: [Annotated Bibliography, Comparative Political Economy, Welfare State, Latin America]
+tags: [social-policy]
 format:
   html:
     toc: true

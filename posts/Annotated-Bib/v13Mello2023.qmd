@@ -4,7 +4,8 @@ subtitle: "Ursula Mello (2023)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Affirmative Action, Tertiary Education, Causal Inference, Brazil]
+categories: [Annotated Bibliography, Economics of Education, Inequality, Brazil]
+tags: [affirmative-action, tertiary-education, causal-inference]
 format:
   html:
     toc: true

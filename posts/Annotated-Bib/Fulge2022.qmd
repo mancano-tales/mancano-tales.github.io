@@ -4,7 +4,8 @@ subtitle: "Timm Fulge (2022)"
 author: "Tales Mançano"
 date: "2026-04-20"
 last-updated: "2026-04-20"
-categories: [Annotated Bibliography, Ciência Política, Economia Política, Política Educacional, Desigualdade, Mudança Institucional, Método Multinível]
+categories: [Annotated Bibliography, Political Economy, Politics of Education, Inequality]
+tags: [institutional-change, multilevel-methods]
 format:
   html:
     toc: true

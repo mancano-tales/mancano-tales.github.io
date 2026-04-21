@@ -3,6 +3,8 @@ title: "Costa et al. (2021). Expansão da Educação Superior e Progressividade 
 subtitle: "Notas de leitura: Costa et al. (2021), TD Ipea 2631"
 author: "Tales Mançano"
 date: "2026-04-16"
+categories: [Annotated Bibliography, Economics of Education, Inequality, Brazil]
+tags: [public-policy]
 ---
 
 ## Referência

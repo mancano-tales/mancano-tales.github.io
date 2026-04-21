@@ -4,7 +4,8 @@ subtitle: "Alves (2024)"
 author: "Tales Mançano"
 date: "2026-04-20"
 last-updated: "2026-04-20"
-categories: ["Annotated Bibliography", "Comparative Politics", "Latin American Politics", "Social Policy", "Coalitional Presidentialism"]
+categories: [Annotated Bibliography, Welfare State, Latin America]
+tags: [coalitional-presidentialism, social-policy, comparative-politics]
 format:
   html:
     toc: true

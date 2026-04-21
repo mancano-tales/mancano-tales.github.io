@@ -4,7 +4,8 @@ subtitle: "Garritzmann & Seng (2026)"
 author: "Tales Mançano"
 date: "2026-04-18"
 last-updated: "2026-04-18"
-categories: [Annotated Bibliography, Politics of Education, Comparative Politics, Party Politics, Quantitative Methods]
+categories: [Annotated Bibliography, Politics of Education, Party Politics, Comparative]
+tags: [quantitative-methods]
 format:
   html:
     toc: true

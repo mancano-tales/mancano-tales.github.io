@@ -4,7 +4,8 @@ subtitle: "Knopf (2006)"
 author: "Tales Mançano"
 date: "2026-04-19"
 last-updated: "2026-04-19"
-categories: [Annotated Bibliography, Research Methodology, Academic Writing, Political Science, Graduate Pedagogy, Knowledge Production]
+categories: [Annotated Bibliography, Methodology]
+tags: [academic-writing, graduate-pedagogy, knowledge-production]
 format:
   html:
     toc: true

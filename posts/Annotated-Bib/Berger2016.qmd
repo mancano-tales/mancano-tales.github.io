@@ -4,7 +4,8 @@ subtitle: "Thor Berger (2016)"
 author: "Tales Mançano"
 date: "2026-04-20"
 last-updated: "2026-04-20"
-categories: [Annotated Bibliography, Economic History, Causal Inference, Human Capital]
+categories: [Annotated Bibliography, Development Economics]
+tags: [economic-history, causal-inference, human-capital]
 format:
   html:
     toc: true
