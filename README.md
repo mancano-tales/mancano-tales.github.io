@@ -1,29 +1,67 @@
-# Quarto Academic Website Template
+# Site Acadêmico — Tales Mançano
 
-Welcome! This is a simple and customizable template for building your own academic website using [Quarto](https://quarto.org/). You can easily fork, edit, and publish your site with just a few steps.
+Este repositório contém o código-fonte do site acadêmico de **Tales Mançano**, construído com [Quarto](https://quarto.org/) e publicado via GitHub Pages.
 
-## 🚀 Quick Start
+## Visão geral
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder).  
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
+O site reúne:
+- apresentação profissional e bio;
+- publicações e produção acadêmica;
+- projetos e grants;
+- posts/notas;
+- informações de contato.
 
-## 🛠 Requirements
+## Stack
 
-- Install [Quarto](https://quarto.org/docs/get-started/)
-- Learn the basics from the [official Quarto documentation](https://quarto.org/docs/guide/)
-- Try publishing the site *before* making major changes to confirm it runs correctly
+- **Quarto** (site estático)
+- **Markdown / QMD**
+- **GitHub Pages** (publicação a partir de `docs/`)
 
-## 📚 More Examples & Tips
+## Estrutura principal
 
-- [Quarto Academic Site Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html)
+- `_quarto.yml` → configuração global do site (navbar, footer, tema, output em `docs/`)
+- `index.qmd` → página inicial
+- `posts.qmd` + `posts/` → listagem e conteúdo de posts
+- `publications.qmd` → página de publicações
+- `projects.qmd` + `projects.yml` → projetos e financiamentos
+- `contact.qmd` → página de contato
+- `files/` → assets (imagens, PDF do CV, includes)
+- `styles.css` / `custom.css` → estilos customizados
+- `docs/` → saída renderizada usada pelo GitHub Pages
+
+## Como rodar localmente
+
+### 1) Instalar dependências
+
+Instale o Quarto:
+
+- https://quarto.org/docs/get-started/
+
+### 2) Renderizar o site
+
+Na raiz do repositório:
+
+```bash
+quarto render
+```
+
+### 3) Visualizar com hot reload
+
+```bash
+quarto preview
+```
+
+## Publicação
+
+Este projeto está configurado para gerar os arquivos em `docs/` (`output-dir: docs` no `_quarto.yml`), compatível com publicação no GitHub Pages.
+
+## Personalização rápida
+
+- Atualize menu e metadados em `_quarto.yml`
+- Edite os textos das páginas `.qmd`
+- Adicione posts em `posts/`
+- Atualize o CV e outros arquivos em `files/`
+
+## Licença
+
+Consulte o arquivo [LICENSE](LICENSE).
