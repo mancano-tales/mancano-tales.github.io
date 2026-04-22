@@ -6,7 +6,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/Annotated-Bib/Haber-Horrillo2022.html",
+      "/posts/CATEGORIES.html",
+      "/posts/Annotated-Bib/Hemerijck-Fernandes2025.html",
       "/posts/Annotated-Bib/Alves2024.html",
       "/posts/Annotated-Bib/Barbosa-Gandin2020.html",
       "/posts/Annotated-Bib/Berger2016.html",
@@ -14,6 +15,7 @@
       "/posts/Annotated-Bib/Filgueira2005.html",
       "/posts/Annotated-Bib/Freedman1991.html",
       "/posts/Annotated-Bib/Fulge2022.html",
+      "/posts/Annotated-Bib/Haber-Horrillo2022.html",
       "/posts/Annotated-Bib/Schwartzman2026.html",
       "/posts/Annotated-Bib/Acemoglu-etal2005.html",
       "/posts/Annotated-Bib/AnderssonBerger2019vLazy.html",
@@ -54,7 +56,8 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/Annotated-Bib/Haber-Horrillo2022.html",
+      "/posts/CATEGORIES.html",
+      "/posts/Annotated-Bib/Hemerijck-Fernandes2025.html",
       "/posts/Annotated-Bib/Alves2024.html",
       "/posts/Annotated-Bib/Barbosa-Gandin2020.html",
       "/posts/Annotated-Bib/Berger2016.html",
@@ -62,6 +65,7 @@
       "/posts/Annotated-Bib/Filgueira2005.html",
       "/posts/Annotated-Bib/Freedman1991.html",
       "/posts/Annotated-Bib/Fulge2022.html",
+      "/posts/Annotated-Bib/Haber-Horrillo2022.html",
       "/posts/Annotated-Bib/Schwartzman2026.html",
       "/posts/Annotated-Bib/Acemoglu-etal2005.html",
       "/posts/Annotated-Bib/AnderssonBerger2019vLazy.html",

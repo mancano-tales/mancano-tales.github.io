@@ -1,4 +1,3 @@
-```qmd
 ---
 title: "Fichamento: The Ecological Origins of Economic and Political Systems"
 subtitle: "Stephen Haber, Roy Elis, and Jordan Horrillo (2022)"
