@@ -1,0 +1,208 @@
+---
+title: "Fichamento: Wealth Inequality and Democracy"
+subtitle: "Scheve & Stasavage (2017)"
+author: "Tales Mançano"
+date: "2026-04-23"
+last-updated: "2026-04-23"
+categories: [Annotated Bibliography, Economia Política Comparada, Desigualdade de Riqueza, Democracia, Métodos Quantitativos, Redistribuição]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Scheve, K., & Stasavage, D. (2017). Wealth inequality and democracy. *Annual Review of Political Science*, *20*, 451–468. https://doi.org/10.1146/annurev-polisci-061014-101840
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Scheve-Stasavage2017
+
+```bibtex
+@article{Scheve-Stasavage2017,
+  author  = {Scheve, Kenneth and Stasavage, David},
+  title   = {Wealth Inequality and Democracy},
+  year    = {2017},
+  journal = {Annual Review of Political Science},
+  volume  = {20},
+  pages   = {451--468},
+  doi     = {10.1146/annurev-polisci-061014-101840},
+}
+```
+
+:::
+
+Última atualização: 2026-04-23  
+Modelo: Perplexity AI (Claude 3.5 Sonnet — April 2026)  
+Gerado em: 2026-04-23T11:24:00-03:00
+
+---
+
+## Introdução (pp. 451–452)
+
+### Questão central e motivação do artigo [§1–§3]
+
+§1 abre o texto situando o debate contemporâneo sobre desigualdade de riqueza nos Estados Unidos e em outros países, e formula duas perguntas de pesquisa interdependentes: qual o efeito da desigualdade de riqueza sobre o surgimento e a sustentabilidade da democracia? E qual o impacto do governo democrático sobre a desigualdade de riqueza? Os autores identificam a "sabedoria convencional" como a resposta intuitiva: desigualdade de riqueza seria ruim para a democracia, e democracias tenderiam a implementar políticas redistributivas — pois os menos abastados são numericamente maiores e, portanto, têm mais votos. Essa lógica remete diretamente à literatura sobre desigualdade de renda, citando Acemoglu & Robinson (2000, 2006) e Boix (2003) como os proponentes mais influentes da tese equalizadora, embora esses mesmos autores tenham sido contestados em múltiplas frentes.
+
+§2 apresenta uma justificativa adicional para a atenção específica à riqueza: ao contrário da renda, a riqueza possui propriedades de "bola de neve" (*snowballing*). Dois indivíduos com fortunas iniciais diferentes, submetidos à mesma taxa de retorno, terão a distância entre si ampliada indefinidamente, a menos que algum fator intervenha. Os autores mencionam Benhabib & Bisin (2016) e Benhabib et al. (2011) como referências econômicas sobre as condições para distribuições estacionárias de riqueza, indicando que a tributação do capital pelo Estado é um dos fatores determinantes do grau de desigualdade nessa distribuição estacionária. Piketty (2014) é evocado no mesmo sentido. O parágrafo também menciona modelos de Farhi & Werning (2014) em que elites topam ser tributadas preventivamente para evitar expropriação.
+
+§3 anuncia a estrutura do artigo: primeiro, avaliar a evidência de que democracia e igualdade de riqueza andam juntas (e mostrar que a relação automática não existe); depois, analisar três razões pelas quais a política democrática pode ou não reduzir a desigualdade de riqueza — clivagens sociais, crenças sobre equidade e captura do processo democrático pelos ricos.
+
+> "If one were asked to sum up the received wisdom about these questions, it would be that wealth inequality is bad for democracy, and yet democracies are also likely to implement policies that reduce wealth inequality."  
+> — Scheve & Stasavage (2017, p. 451)
+
+---
+
+## Evidência Comparativa Existente (pp. 453–455)
+
+### América Latina e Estados Unidos: a tese da persistência e suas fragilidades [§4–§7]
+
+§4 afirma que, por evoluir lentamente, a desigualdade de riqueza exige evidência de longo prazo para ser compreendida. A comparação mais frequentemente citada é a entre América Latina e Estados Unidos: condições iniciais por volta de 1500 d.C. teriam produzido na América Latina um padrão persistente de alta desigualdade associada a regimes não democráticos ou capturados, enquanto os Estados Unidos teriam seguido o caminho oposto. Os autores anunciam que questionam essa interpretação com novas evidências: em torno de 1860, os níveis de desigualdade de riqueza em Nova York, Boston e Filadélfia igualavam ou superavam os de Buenos Aires e Rio de Janeiro.
+
+§5 descreve a tese original de Engerman & Sokoloff (1997, 2000): condições iniciais na América Latina — adequação da terra ao cultivo de açúcar com mão escrava, depósitos minerais trabalhados por trabalho forçado e grandes latifúndios com populações locais abundantes — não prevaleceram nas colônias britânicas da América do Norte, onde o sufrágio universal masculino branco chegou mais cedo. Acemoglu et al. (2002) contam história semelhante, mas enfatizando a densidade inicial das populações nativas.
+
+§6 apresenta a contestação a essa tese: Williamson (2015), Arroyo Abad (2013) e Coatsworth (2008) mostram variação substancial na desigualdade latino-americana ao longo dos séculos, sensível a dotações de fatores e ao comércio internacional. A evidência mais interessante vem de Johnson & Frank (2006), que, usando registros de inventários, calcularam que em Buenos Aires o top 10% detinha 68% da riqueza privada total e no Rio de Janeiro 78% — valores que, comparados com estimativas disponíveis então para cidades norte-americanas, não indicavam maior desigualdade latina.
+
+§7 relata a extensão dessa comparação com dados censitários eletrônicos (1850–1870) para Nova York, Filadélfia e Boston, construindo uma medida para 1860 da participação do top 10% na riqueza privada total. Steckel (1994) havia validado essas estimativas censitárias comparando-as com registros fiscais imobiliários. Os resultados mostram que as maiores cidades norte-americanas eram, se alguma diferença houvesse, *mais* desiguais que as sul-americanas (Figura 1), seja ao computar domicílios, seja ao restringir à amostra de homens adultos acima de 50 anos (aproximando-se da metodologia de inventários de Johnson & Frank). A possibilidade de que a desigualdade rural na América Latina fosse historicamente mais alta permanece em aberto, mas a evidência disponível não confirma o contraste canônico.
+
+### Desigualdade de Terra e Democracia [§8–§12]
+
+§8 introduz a segunda grande comparação empírica: a relação entre desigualdade de terras e democracia. Por boa parte da história, a terra foi a principal forma de riqueza. Ziblatt (2008, 2009) demonstrou como a concentração fundiária bloqueou e corrompeu o desenvolvimento democrático na Alemanha. Os autores, contudo, questionam a generalização dessa lógica para o conjunto dos países.
+
+§9 expõe o paradoxo da reforma agrária: muitas das mais significativas reformas do século XX foram implementadas por regimes autoritários (China, Coreia, Taiwan). Albertus (2015), no estudo mais abrangente sobre reforma agrária na América Latina, conclui que governos democráticos fizeram muito menos redistribuição fundiária que seus equivalentes autoritários — o que depende mais da divisão entre elite fundiária e elite governante do que do regime em si. Os dados de Albertus mostram que, em autocracias, a média de redistribuição foi cerca de 1% do total de terras ao ano; nas democracias, apenas 0,38%.
+
+§10 descreve a estratégia empírica para avaliar se sociedades com maior desigualdade fundiária sustentam menos a democracia: dados de Frankema (2008, 2010) sobre coeficientes de Gini de terras para até 82 países, divididos em três períodos (1950–1969, 1970–1989, 1990–2009), regredindo proporção de anos democráticos sobre o Gini fundiário. A definição de democracia usada é a de Przeworski et al. (2000): eleições com múltiplos partidos.
+
+§11 reporta os achados: para 1950–1969 há correlação negativa e estatisticamente significativa entre Gini fundiário e democracia (um ponto a mais no Gini prevê 1 ponto percentual a menos na proporção de anos democráticos), mas essa correlação desaparece ao se adicionar dummies de região — indicando que o efeito é impulsionado pelo contraste entre Europa Ocidental/América do Norte e o restante do mundo, não pela desigualdade fundiária em si. Para 1970–1989 a correlação é positiva (embora não significativa), e para 1990–2009 é positiva e significativa, mas cai com dummies de região.
+
+§12 avalia a robustez desses resultados com uma abordagem de diferenças-em-diferenças (variação intra-país). Com a ressalva de que a desigualdade fundiária é altamente persistente (correlação de 0,90 entre 1950 e 1990), esse design não encontra correlação alguma entre desigualdade fundiária e democracia. Resultados semelhantes emergem ao substituir a variável binária de democracia pelos índices de liberdade de expressão e caráter das eleições do Varieties of Democracy. Os autores admitem que a estratégia de identificação é viável, não ideal, mas enfatizam o quão surpreendente é a ausência de suporte à hipótese convencional.
+
+---
+
+## Evidência das Participações na Riqueza do Topo (pp. 457–461)
+
+### Tendências históricas do top 1% em 11 países [§13–§15]
+
+§13 apresenta a terceira linha de evidência: dados de Roine & Waldenström (2015), compilados para 10 países, acrescidos de Ireland (Turner 2010), cobrindo 11 países no total (Austrália, Dinamarca, Finlândia, França, Irlanda, Países Baixos, Noruega, Suécia, Suíça, Reino Unido e Estados Unidos) desde o início do século XIX. O foco é a participação do top 1% na riqueza total. Os autores alertam para diferenças metodológicas importantes entre países (imposto sobre riqueza vs. imposto sobre heranças; domicílio vs. indivíduo), o que impõe cautela nas comparações cross-nacionais — o foco deve ser as mudanças intra-país ao longo do tempo.
+
+§14 descreve o padrão geral (Figura 2): concentração de riqueza alta no século XIX e início do XX em quase todos os países, seguida de declínio substancial até as décadas de 1970–1980. O caráter simultâneo dessa tendência em países com regimes diferentes complica a interpretação causal: pode ser consistente com a sabedoria convencional (democracia impede alta desigualdade ou causa queda da desigualdade), mas muitos outros fatores estavam em jogo no período.
+
+§15 anuncia que o caso francês — com dados de riqueza excepcionalmente bons e variação significativa de regime — será examinado para testar mais rigorosamente as duas hipóteses causais.
+
+### França: democracia e participação do top 1% [§16–§18]
+
+§16 descreve a experiência francesa do século XIX: apesar da Revolução e da expansão da franquia, em 1810 o top 1% detinha 46% da riqueza nacional — nível altíssimo. Sob a Restauração (1814) e a Monarquia de Julho, a França adotou o *régime censitaire* (sufrágio restrito aos maiores contribuintes de impostos diretos); as participações do top 1% permaneceram elevadas e relativamente estáveis.
+
+§17 questiona se a desigualdade de riqueza freou a transição para uma democracia estável. Atores políticos de esquerda e direita esperavam que a ampliação da franquia trouxesse redistribuição, o que motivou a luta republicana e a resistência elitista. Rosanvallon (1992) argumenta que o sufrágio universal era então advogado pelos seus efeitos redistributivos esperados, não por razões filosóficas abstratas. A breve experiência da Segunda República pode sustentar a ideia de que a alta desigualdade impediu a democracia, mas a transição duradoura de 1870 não foi bloqueada por ela.
+
+§18 aborda o sentido inverso: a democracia reduziu a desigualdade de riqueza na França? A evidência da Figura 3 mostra que a participação do top 1% *não caiu* nas duas primeiras décadas da Terceira República (pós-1870), e ainda *aumentou significativamente* nas duas décadas seguintes, alcançando 60% em 1910. Quarenta anos de democracia e alta desigualdade são incompatíveis com a ideia de que democracia e igualdade de riqueza andam necessariamente juntas.
+
+### Alta concentração de riqueza impediu a democracia? [§19]
+
+§19 conduz a análise mais sistemática com os dados de top 1% para os 11 países por volta de 1800. Dinamarca (56% em 1789), França (46% em 1810), Suécia (48% em 1800) e Reino Unido (55% em 1810) exibiam altas concentrações, enquanto os EUA tinham 28% em 1774. Apenas os EUA seriam considerados democracia naquele momento. A tentação de confirmar a sabedoria convencional com base no caso americano (baixa desigualdade + democracia) esbarra em problemas sérios: França e Reino Unido foram os primeiros a transitar para democracia estável (1870 e 1885, respectivamente), mas tinham, respectivamente, a menor e quase a maior participação do top 1% no início do século XIX. Dinamarca e Suécia, com transições próximas (1902 e 1911), tinham diferenças iniciais de desigualdade muito grandes. Mais ainda: muitos países viveram décadas de democracia *e* alta desigualdade antes do declínio tardio das participações do topo. A conclusão é que os dados rejeitam a tese de que desigualdade de riqueza impede a democracia.
+
+### A democracia reduziu as participações do topo? [§20–§24]
+
+§20 apresenta os determinantes econômicos das participações do topo: (a) nível de desigualdade de renda — quanto mais concentrados os ganhos, maior a desigualdade de riqueza, embora demore anos para os efeitos se transmitirem; (b) processo de acumulação de riqueza — taxas de poupança diferenciadas por grupo de renda, retorno ao capital e sua variabilidade, transmissão intergeracional.
+
+§21 elenca os canais pelos quais a democracia poderia influenciar a distribuição de riqueza: provisão de educação pública (reduz o prêmio de qualificação e amplia o capital humano); tributação do capital e das heranças (reduz o retorno líquido ao capital e a transmissão intergeracional); inflação mais alta (deprecia ativos financeiros dos ricos); políticas que subsidiam a habitação (o principal ativo dos pobres e da classe média).
+
+§22 descreve o modelo econométrico estimado:
+
+$$W_{it} = \alpha + \rho W_{it-1} + \beta_1 r_{it} + \beta_2 \text{var}(r)_{it} + \beta_3 D_{it-1} + \eta_i + \theta_t + \gamma_i T_i + \varepsilon_{it}$$
+
+onde $W_{it}$ é a participação do top 1% (com interpolação linear para dados faltantes); $r$ é o retorno real ao capital (rendimento nominal de títulos de 10 anos menos inflação); $\text{var}(r)$ é o desvio-padrão de $r$ em períodos de 5 anos; $D$ é a variável *Competitive Elections* (eleições multipartidárias livres + executivo responsável + ao menos 50% dos homens adultos com direito de voto, conforme Boix et al. 2012); $\eta_i$ são efeitos fixos de país; $\theta_t$ são efeitos fixos de período; $\gamma_i T_i$ são tendências de tempo específicas por país (necessárias porque a desigualdade de riqueza declinou tendencialmente no século XX). A análise usa médias quinquenais e testa a democracia defasada em 1 e 6 períodos (5 e 30 anos).
+
+§23 apresenta os resultados (Tabela 1): em todas as especificações, o coeficiente de *Competitive Elections* é pequeno, *positivo* (não negativo) e estatisticamente insignificante. O retorno ao capital $r$ e sua variância são positivos e marginalmente significativos na especificação de base, como esperado. Não há evidência de que democracia reduz as participações do top 1%.
+
+| Variável | (1) | (2) | (3) | (4) |
+|:---------|----:|----:|----:|----:|
+| Top 1% Wealth Share$_{t-1}$ | 0,874 | 0,895 | 0,870 | 0,892 |
+| $r_t$ | 0,088 | 0,060 | — | — |
+| $\text{var}(r)_t$ | 0,092 | 0,078 | — | — |
+| Competitive Elections$_{t-1}$ | 0,192 | — | 0,666 | — |
+| Competitive Elections$_{t-6}$ | — | 0,500 | — | 0,590 |
+| Efeitos Fixos País/Período/Tendência | Sim | Sim | Sim | Sim |
+| Obs. | 220 | 203 | 220 | 203 |
+
+§24 discute a interpretação do resultado nulo: pode refletir ausência de políticas equalizadoras *ou* ineficácia das políticas adotadas. Scheve & Stasavage (2016) mostram que políticas como tributação de herança e capital *são* correlacionadas com menores participações do topo, mas que democracias não tributam mais pesadamente a riqueza. Mares & Queralt (2015) e Aghion et al. (2012) chegam a conclusões análogas para imposto de renda e educação, respectivamente.
+
+---
+
+## Explicando as Tendências de Desigualdade de Riqueza (pp. 461–465)
+
+### Sociedades divididas [§25–§28]
+
+§25 introduz a seção analítica sobre por que democracias não implementam políticas equalizadoras. O ponto de partida é o modelo de competição política unidimensional (renda/riqueza). Lipset & Rokkan (1967) mostraram que, na Europa do século XIX, a competição política se dava ao longo de *múltiplas* clivagens (religião, centro-periferia), e que somente com o tempo a clivagem trabalhador-proprietário ganhou predominância. Fora da Europa, essa clivagem frequentemente nunca se tornou dominante.
+
+§26 explica o mecanismo: se uma clivagem não-econômica é a mais saliente, as intenções de voto são determinadas pelas posições partidárias nessa segunda dimensão, e não pela postura redistributiva dos partidos. Isso vale enquanto os eleitores devem escolher entre candidatos que oferecem pacotes de políticas (incluindo tributação e questões socioculturais). Roemer (1998) explorou as condições gerais desse fenômeno; Shayo (2009) tratou da identidade social como mecanismo alternativo.
+
+§27 adiciona uma segunda possibilidade: mesmo que todos concordem com uma política equalizadora (como acesso à educação), podem divergir sobre como implementá-la (provisão pública vs. subsídios ao setor privado), travando a ação coletiva.
+
+§28 ilustra com o caso histórico europeu: as divisões religiosas sobre a provisão de ensino primário atrasaram a adoção da educação universal e compulsória em vários países do século XIX. Bendix & Rokkan (1962) argumentaram que onde o conflito religioso foi resolvido mais rapidamente (como nos países escandinavos, com igrejas luteranas de Estado), a educação universal chegou antes. Países como a França, com conflito prolongado sobre o papel da Igreja Católica, atrasaram a instrução universal. Os autores demonstram estatisticamente que países com religião de Estado estabeleceram a educação compulsória universal, em média, 30 anos antes dos demais — e que a expansão educacional se traduziu, no longo prazo, em menor concentração de riqueza.
+
+### Equidade [§29–§31]
+
+§29 apresenta a segunda explicação: as preferências dos eleitores por redistribuição dependem de crenças sobre equidade (*fairness*). Piketty (1995) explorou como experiências pessoais e familiares levam os indivíduos a inferir se a renda resulta de sorte ou esforço, guiando preferências redistributivas. Bénabou & Tirole (2006) estenderam esse argumento para contextos em que crenças podem ser manipuladas para sustentar o esforço. Lane (1959) e Hochschild (1986) já haviam examinado como crenças sobre justiça distributiva influenciam preferências de política. A literatura experimental recente (Ballard-Rosa et al. 2017; Cavaille & Trump 2015; Durante et al. 2014; Fisman et al. 2014; Fong 2001; McCall 2013) fornece suporte amplo para que a equidade importa nas preferências individuais.
+
+§30 apresenta o argumento central de Scheve & Stasavage (2016): cidadãos aplicam diferentes critérios de equidade. O critério de *tratamento igual* (todos pagam a mesma alíquota, assim como todos têm um voto) tende a implicar impostos proporcionais, com menor impacto redistributivo. O critério de *capacidade de pagamento* justificaria alíquotas progressivas; mas em seus 11 países, os autores não encontraram evidência de que participações maiores do topo levaram a alíquotas de herança mais altas — sugerindo que esse argumento, sozinho, raramente prevalece.
+
+§31 introduz os "argumentos compensatórios": a ideia de que os ricos devem ser mais tributados para compensar privilégios recebidos do Estado. O argumento mais poderoso ao longo dos últimos dois séculos foi o da **igualdade de sacrifício de guerra**: se os ricos não têm sua mão de obra recrutada, deveriam ter sua riqueza conscrita. A conscripção da riqueza — e o argumento de equidade que a sustenta — explica grande parte da variação nas alíquotas máximas de imposto de renda e herança ao longo do século XX.
+
+### Democracia Capturada [§32–§36]
+
+§32 apresenta o terceiro mecanismo: captura da democracia pelos ricos. O desafio metodológico central é avaliar o grau de captura de forma comparada e ao longo do tempo — sem recorrer ao raciocínio circular de inferir captura a partir da simples observação de desigualdade persistente. Dahl (1958) já alertara que a hipótese da elite do poder (Mills 1956) é estruturalmente irrefutável, sendo esse o seu principal "defeito" analítico.
+
+§33 examina a primeira abordagem: poder proporcional à riqueza. Winters & Page (2009) argumentam que os EUA funcionam hoje como uma oligarquia. Porém, a concentração de riqueza foi sempre alta — mesmo nos anos 1950, quando o top 0,1% detinha cerca de 10% da riqueza total (Saez & Zucman 2016). A questão não respondida é se variações cross-nacionais e temporais na concentração de riqueza se correlacionam com a capacidade dos ricos de obter seus objetivos políticos.
+
+§34 apresenta a segunda abordagem: o **mercado como prisão** (Lindblom 1982). Numa economia de mercado, o Estado é estruturalmente dependente do capital (Przeworski & Wallerstein 1988): sem investimentos privados, a economia definha, criando poder estrutural para os proprietários. A versão mais útil dessa perspectiva busca condições que variem o poder dos detentores de capital (por exemplo, mobilidade do capital e controles cambiais). No entanto, os autores não encontraram evidência de que países com controles de capital mantiveram maiores alíquotas de herança ou imposto de renda.
+
+§35 discute a terceira abordagem: medir a correlação entre o comportamento dos legisladores e as preferências de seus constituintes de alta renda. Bartels (2008) ofereceu evidência inicial desse viés nos EUA; Gilens (2012) a aprofundou. Mas essa abordagem não explica *por que* a captura ocorre, e a relação pode ser espúria (ambos reagindo a estímulos externos). Além disso, a estratégia depende de legisladores que votam independentemente de seus partidos — fenômeno muito mais comum nos EUA que em sistemas parlamentaristas, limitando a generalização cross-nacional.
+
+§36 analisa a quarta abordagem: como os ricos convertem riqueza em poder de facto pós-democratização. Acemoglu & Robinson (2008) argumentam que elites têm incentivos a investir em poder de facto (lobby, suborno, violência, nomeações) quando perdem poder de jure pela democracia. Bonica et al. (2013) revisam as contribuições de campanha e lobby nos EUA — ambiente ideal pela transparência das divulgações. Para outros países, estratégias alternativas (Eggers & Hainmueller 2009; Truex 2014; Faccio 2006) estimam o valor financeiro de conexões políticas, mas a criação de métricas comparáveis de captura permanece como agenda de pesquisa.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+## Síntese do argumento
+
+**Tese central:** Democracia e desigualdade de riqueza são sustentáveis juntas — o argumento de que democracia produz igualdade de riqueza e de que desigualdade de riqueza leva ao fracasso democrático não é sustentado pelas evidências disponíveis.
+
+**Natureza do argumento:** Descritivo-explicativo. O artigo sistematiza evidências empíricas (dados históricos de riqueza, reforma agrária, regressões de painel) para rejeitar dois conjuntos de hipóteses causais recebidos, e oferece três explicações analíticas para o fenômeno observado (democracia persistindo com alta desigualdade), sem formular um modelo formal próprio.
+
+**O que o texto demonstra:** (1) Que a relação histórica entre democracia e igualdade de riqueza é fraca ou nula quando testada com estratégias de identificação razoáveis — na comparação Américas, no painel de Gini fundiário e nas regressões de panel com top 1%; (2) que democracias não tributam a riqueza mais pesadamente do que outros regimes; (3) que clivagens sociais, crenças de equidade e captura são mecanismos plausíveis para explicar a ausência de políticas equalizadoras.
+
+**O que fica como hipótese ou agenda:** A importância comparada da captura democrática pelos ricos — quando, onde e por quê ela varia — permanece empiricamente subespecificada. O artigo é explícito nesse ponto, indicando que métricas cross-nacionais de captura constituem a principal agenda futura.
+
+**Contribuição para o debate:** O artigo situa-se no cruzamento da literatura sobre democratização (Acemoglu & Robinson; Boix) e desigualdade (Piketty; Roine & Waldenström), oferecendo uma revisão crítica e sistemática que desloca o consenso padrão sem propor um modelo alternativo completo. É um artigo de síntese com contribuições empíricas originais (comparação das cidades; painel de topo 1% com democracia).
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é registrado no campo `Raciocínio analítico` da tabela.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | As duas perguntas são claramente formuladas; a vulnerabilidade está em tratá-las como simétricas quando os mecanismos causais são assimétricos. A interpretação alternativa seria formulá-las como uma única pergunta sobre "por que a política redistributiva é tão fraca nas democracias", que seria mais direta ao puzzle. O ponto mais vulnerável é que as perguntas carecem de precisão sobre o horizonte temporal: curto, médio ou longo prazo? | Dupla pergunta: (1) efeito da desigualdade de riqueza sobre o surgimento e a sustentabilidade da democracia; (2) impacto do governo democrático sobre a desigualdade de riqueza. Natureza: explicativa e descritiva. Ambas as perguntas são formuladas explicitamente na introdução. |
+| Questões Secundárias | As perguntas secundárias derivam do puzzle principal mas poderiam ter sido mais bem articuladas teoricamente. A relação entre elas e a pergunta central é instrumental: cada evidência empírica (cidades, terras, top 1%) responde uma subpergunta antes de ser integrada ao argumento geral. | (a) Cidades norte-americanas eram menos desiguais que as latino-americanas em 1860? (b) Maior desigualdade fundiária está associada a menor probabilidade de democracia? (c) A democracia reduziu as participações do top 1% ao longo do século XX? (d) Por que democracias frequentemente não adotam políticas equalizadoras? |
+| Puzzle-Type | O puzzle é genuíno — o contraste entre a expectativa teórica (Meltzer-Richard implícito) e a evidência empírica é real. No entanto, é parcialmente um artefato de definição: a evidência apenas rejeita a versão mais ingênua do argumento equalizador, não alternativas mais sofisticadas (ex.: democracia importa condicionalmente). A generalizabilidade além dos países da OCDE ou dos séculos XIX–XX é limitada pelo escopo dos dados disponíveis. | Puzzle explicativo: por que democracia e alta desigualdade de riqueza coexistem de forma sustentável? O puzzle é genuíno e bem documentado, mas a generalização além do conjunto de países ricos com dados históricos de riqueza disponíveis exige cautela. |
+| Conclusão / Argumento Central | O claim central é defensável, mas a formulação "não há vínculo automático" é estrategicamente modesta: evita o ônus de provar uma relação negativa e se limita a não encontrar a positiva. A contribuição mais forte é a rejeição empírica da versão canônica; a mais fraca é a proposta de mecanismos alternativos, que permanecem subespecificados. | A tese é que a relação entre democracia e igualdade de riqueza não é automática: nem a democracia produz igualdade, nem a desigualdade destrói a democracia. Os três mecanismos explicativos (clivagens, equidade, captura) são propostos como razões pelas quais democracias frequentemente não adotam políticas equalizadoras. O *claim of discovery* repousa principalmente sobre o painel de top 1% e as comparações históricas. |
+| Métodos | O artigo combina comparação histórica qualitativa (cidades, França), análise cross-nacional descritiva (Gini fundiário) e regressão de painel com efeitos fixos (top 1%). A principal limitação de identificação é a endogeneidade entre regime e desigualdade: o design de diferenças em diferenças alivia, mas não elimina, o problema. O uso de tendências específicas por país para controlar a tendência decrescente da desigualdade pode absorver variação causal relevante. | Estudo de revisão com múltiplas estratégias empíricas: (1) comparação histórica de participações de riqueza em cidades (dados censitários americanos vs. inventários latino-americanos); (2) regressão OLS cross-nacional e diferenças-em-diferenças do Gini fundiário sobre democracia; (3) regressão de painel com efeitos fixos de país, período e tendências específicas por país para avaliar o efeito da democracia sobre o top 1% (11 países, séc. XX). |
+| Data Generation Process (DGP) | O DGP é heterogêneo entre os três blocos empíricos, o que é adequado para um artigo de revisão. O ponto mais vulnerável é a interpolação linear do Top 1% Wealth Share — os próprios autores reconhecem que isso exacerba o problema das tendências, justificando as tendências específicas por país, mas essas tendências por sua vez podem absorver a variação de interesse. Outro problema: os 11 países são todos ricos e democráticos no final do período, o que cria viés de seleção amostral. | **Fenômeno real:** relação entre regime político e desigualdade de riqueza. **Observação:** dados históricos de inventários, censos, impostos sobre riqueza/heranças e pesquisas sobre reforma agrária. **Operacionalização:** top 1% wealth share (interpolado linearmente); Gini fundiário (FAO); *Competitive Elections* (Boix et al. 2012); $r$ = rendimento nominal de 10 anos − inflação. **Análise:** OLS com efeitos fixos, tendências por país e erros-padrão robustos. **Inferência:** correlações parciais com interpretação causal condicional (DiD). Unidade: país-período (quinquênio). |
+| Achados e Contribuições | Os achados empíricos são os pontos mais fortes. As três explicações analíticas são as mais fracas: são plausíveis e ancoradas em literatura, mas não são testadas diretamente no artigo (com exceção parcial da educação e equidade via Scheve & Stasavage 2016). A contribuição metodológica é modesta — o design é convencional para o campo. | **Empíricos:** (a) cidades norte-americanas tinham desigualdade de riqueza comparável ou superior às latino-americanas em 1860; (b) autocracias redistributem mais terra do que democracias na América Latina; (c) maior Gini fundiário não está associado a menor democracia nos períodos 1970–2009; (d) democracia não reduz a participação do top 1% no painel de 11 países. **Teórico-metodológicos:** síntese rigorosa de três linhas de evidência e proposta de tipologia de mecanismos (clivagens, equidade, captura). |
+| Análise Crítica dos Achados | O artigo responde adequadamente à pergunta central no plano descritivo, mas a resposta explicativa é incompleta. A principal ameaça à identificação é a endogeneidade regime-desigualdade, reconhecida mas não resolvida. A interpolação linear do top 1% e as tendências específicas por país criam um trade-off entre controlar ruídos e absorver o sinal causal. A ausência de testes diretos dos três mecanismos propostos é a lacuna mais séria. | O design rejeita bem a versão ingênua da hipótese equalizadora, mas tem poder limitado para identificar efeitos causais positivos da democracia que poderiam ser condicionais (ex.: dependendo do tipo de democracia, do nível de mobilização, ou da composição de clivagens). Os resultados nulos no painel podem refletir tanto a ausência de efeito como limitações do design (absorção de variância pelas tendências). A generalização para países fora da OCDE e do século XX é explicitamente limitada pelos dados disponíveis, mas não discutida como *scope condition* formal. |
+| Limitações | O reconhecimento das limitações é parcial e estrategicamente seletivo: as mais óbvias são mencionadas en passant, mas suas implicações para os claims não são desenvolvidas. | **Reconhecidas pelos autores:** endogeneidade entre regime e desigualdade; diferenças metodológicas cross-nacionais nos dados de riqueza; escassez de dados para o séc. XIX; estratégia de identificação "viável, não ideal" para a análise fundiária; interpolação linear do top 1%. <br> **Não reconhecidas ou subestimadas:** viés de seleção amostral (11 países todos ricos e democráticos ao fim do período); possível absorção de variância causal pelas tendências específicas por país; ausência de testes diretos dos mecanismos propostos (clivagens, equidade, captura) no mesmo design; limitada discussão de heterogeneidade de efeitos (o efeito médio nulo poderia mascarar efeitos positivos em subconjuntos). |
+| Perspectiva Teórica | A moldura teórica é ecumênica: os autores dialogam com teoria da escolha racional (Meltzer-Richard implícito, Acemoglu & Robinson), institucionalismo histórico (Lipset & Rokkan, Bendix & Rokkan) e economia política comportamental (Piketty 1995, Bénabou & Tirole). Essa amplitude é uma força para um artigo de revisão, mas implica ausência de comprometimento com um mecanismo primário. A ontologia implícita é individualista-institucionalista: preferências individuais (equidade) e estruturas de oportunidade (clivagens, captura) determinam conjuntamente os resultados políticos. | Economia política comparada; diálogo com a teoria da democratização (Acemoglu & Robinson 2000, 2006; Boix 2003), com a literatura de desigualdade e redistribuição (Meltzer-Richard implícito; Piketty 2014) e com a teoria das clivagens (Lipset & Rokkan 1967). A moldura é adequada ao tipo de pergunta e evidência, mas a coerência entre ontologia e método é parcial: os mecanismos microfundamentados (equidade, identidade) não são testados com dados de nível individual. |
+| Principais Referências | O diálogo com a literatura de captura é claramente o menos desenvolvido: Bartels (2008) e Gilens (2012) são mencionados, mas suas críticas (ex.: Soroka & Wlezien; Enns) não são incorporadas, o que deixa essa subseção desequilibrada. O diálogo com Piketty (2014) é superficial, dado o tamanho da literatura que o rodeia. | Centrais: Acemoglu & Robinson (2000, 2006); Boix (2003); Piketty (2014); Roine & Waldenström (2015); Scheve & Stasavage (2016); Albertus (2015); Lipset & Rokkan (1967); Johnson & Frank (2006); Frankema (2008, 2010); Bartels (2008); Gilens (2012). Diálogo pobre com a literatura crítica às estimativas de Saez & Zucman (Kopczuk 2015 é citado apenas em nota) e com a literatura de captura fora dos EUA. |
+| Observações | Para um pesquisador de economia política comparada interessado em desigualdade e distribuição de renda/riqueza no Brasil ou na América Latina, este artigo é uma entrada relevante, especialmente pela discussão da reforma agrária (Albertus 2015) e pela comparação histórica com cidades latino-americanas. A agenda de métricas cross-nacionais de captura permanece em aberto e é altamente relevante para contextos de democracia com alta desigualdade, como o Brasil. | A principal vulnerabilidade adicional é a ausência de um modelo teórico unificado que integre os três mecanismos propostos: como clivagens, equidade e captura interagem? Qual tem maior peso? Sob que condições cada um domina? A validade externa é limitada ao conjunto de países ricos com séries históricas de riqueza disponíveis. Para o debate sobre democracia e desigualdade em países em desenvolvimento (incluindo o Brasil), os resultados são sugestivos, mas não diretamente generalizáveis. |
+
+:::
