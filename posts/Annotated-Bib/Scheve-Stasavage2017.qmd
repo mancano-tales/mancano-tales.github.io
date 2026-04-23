@@ -184,7 +184,7 @@ onde $W_{it}$ é a participação do top 1% (com interpolação linear para dado
 ## Ficha Analítica Crítica {.unnumbered}
 
 ::: {.callout-note}
-Esta seção segue o formato *IA Planilhando Textos v13.0*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é registrado no campo `Raciocínio analítico` da tabela.
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
 :::
 
 ::: {.callout-note collapse="true" icon=false}
