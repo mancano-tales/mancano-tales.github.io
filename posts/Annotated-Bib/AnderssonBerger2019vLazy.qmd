@@ -47,7 +47,7 @@ Gerado em: 2026-04-19T21:40:00-03:00
 ## Ficha Analítica Crítica {.unnumbered}
 
 ::: {.callout-note}
-Esta seção segue o formato *IA Planilhando Textos v15.0*. A análise é adversarial sem ser destrutiva: identifica vulnerabilidades reais do argumento e reconhece contribuições genuínas com a mesma precisão. O raciocínio analítico subjacente a cada dimensão é registrado no campo `Raciocínio analítico` da tabela.
+Esta seção segue o formato *IA Planilhando Textos v15.0*.
 :::
 
 ::: {.callout-note collapse="true" icon=false}
