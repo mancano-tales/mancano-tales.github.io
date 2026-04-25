@@ -1,0 +1,216 @@
+---
+title: "Fichamento: Introduction: Institutional Change, Economic Growth, and Economic History"
+subtitle: "Haber, Stephen (2000)"
+author: "Tales Mançano"
+date: "2026-04-24"
+last-updated: "2026-04-24"
+categories: [Annotated Bibliography, Nova Economia Institucional, Economia Política Comparada, História Econômica da América Latina, Mudança Institucional, Crescimento Econômico]
+format:
+  html:
+    toc: true
+number-sections: true
+theme: cosmo
+highlight-style: github
+---
+
+Haber, S. (2000). Introduction: Institutional change, economic growth, and economic history. In S. Haber (Ed.), *Political institutions and economic growth in Latin America: Essays in policy, history, and political economy* (pp. 1–24). Hoover Institution Press.
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Haber2000
+
+```bibtex
+@incollection{Haber2000,
+  author    = {Haber, Stephen},
+  title     = {Introduction: Institutional Change, Economic Growth, and Economic History},
+  booktitle = {Political Institutions and Economic Growth in Latin America: Essays in Policy, History, and Political Economy},
+  editor    = {Haber, Stephen},
+  year      = {2000},
+  publisher = {Hoover Institution Press},
+  address   = {Stanford, CA},
+  pages     = {1--24},
+}
+```
+
+:::
+
+Última atualização: 2026-04-24
+Modelo: Perplexity, powered by Claude Sonnet 4.6
+Gerado em: 2026-04-24T14:32:00-03:00
+
+---
+
+## Introdução: Contexto e Definição de Instituições (pp. 1–2)
+
+### O problema central e a definição de instituições [§1–§2]
+
+O texto abre posicionando a Nova Economia Institucional como uma revolução intelectual nas ciências sociais, centrada na relação entre instituições e crescimento econômico. Haber define **instituições** não como organizações (bancos, igrejas, fábricas, governos), mas como as leis, regras e acordos informais que permitem e delimitam o comportamento econômico e social dentro das sociedades. Essa distinção conceitual — entre regras e os agentes que as seguem — é fundamental para toda a arquitetura teórica que o capítulo desenvolve.
+
+Em seguida, Haber apresenta o argumento central da **Nova Institucionalismo** (*New Institutionalism* ou *New Institutional Economics*): o crescimento econômico resulta de aumentos de produtividade, que por sua vez dependem da alocação eficiente dos fatores de produção por meio de firmas e mercados funcionando bem. Sociedades que criam instituições capazes de especificar e fazer valer direitos de propriedade, facilitar a celebração e execução de contratos, limitar a intervenção oportunista do Estado e apoiar o funcionamento de mercados livres tendem a crescer mais rapidamente do que aquelas que não o fazem.
+
+### Influência sobre políticas e organizações internacionais [§3]
+
+O terceiro parágrafo descreve a penetração do New Institutionalism nos círculos de formulação de políticas, especialmente nas economias em transição da Europa Oriental e da América Latina. Haber destaca que o Banco Mundial, por meio de seus *World Development Reports*, tem incorporado explicitamente a lógica institucionalista em suas recomendações, o que confere ao debate um peso normativo e político que vai além do acadêmico.
+
+---
+
+## As Três Variantes da Literatura Institucionalista (pp. 1–2)
+
+### Mercados, governos e firmas: as três vertentes [§4]
+
+Haber distingue três variantes na literatura sobre instituições e crescimento. A **primeira vertente** foca nas instituições que regem o funcionamento dos mercados: como mudanças institucionais tornam possíveis compromissos críveis (*credible commitments*), tornam os direitos de propriedade mais seguros e os contratos mais executáveis, reduzindo os custos de transação e ampliando o alcance das trocas mediadas pelo mercado. Isso aumenta a eficiência alocativa e incentiva os empreendedores a adotar horizontes temporais mais longos, elevando o investimento em capital físico e humano — argumento cujo principal teórico é Douglass C. North.
+
+A **segunda vertente** concentra-se nas instituições que limitam os governos, argumentando que o crescimento econômico é favorecido quando o Estado é constrangido em sua capacidade de reduzir direitos de propriedade ou aumentar a carga tributária sobre os agentes econômicos. Essa corrente — exemplificada pelo trabalho de North e Weingast sobre a Inglaterra do século XVII — analisa os mecanismos que impedem governos de adotar comportamentos oportunistas em busca de ganhos de curto prazo à custa do crescimento de longo prazo.
+
+A **terceira vertente** foca nas instituições que regulam contratos dentro das firmas. Mudanças nas regras e normas que delimitam os tipos e natureza dos contratos intrafirma afetam a capacidade das empresas de realizar inovações organizacionais ou tecnológicas que aumentam a produtividade — referência direta à obra de Oliver Williamson sobre os custos de transação internos às organizações.
+
+---
+
+## O Problema Empírico: Déficit de Testes Sistemáticos (pp. 2–3)
+
+### A lacuna entre teoria e evidência [§5–§6]
+
+Apesar de sua popularidade crescente, o New Institutionalism raramente foi submetido a testes sistemáticos e diretos de consistência com a evidência empírica. Haber ressalta que a teoria é apresentada pelos próprios teóricos não como um conjunto de verdades necessárias, mas como um conjunto de hipóteses a serem testadas. No entanto, das três lógicas confirmatórias disponíveis nas ciências sociais — teoria formal, registro histórico e teste econométrico — o New Institutionalism repousa fundamentalmente apenas na primeira: a teoria. O sucesso da abordagem e a relevância de suas implicações de política dependem, em última instância, de sua capacidade de explicar resultados econômicos reais, não apenas resultados teóricos.
+
+Haber aponta que os cientistas sociais estão diante de um problema peculiar: há amplo consenso de que as instituições importam — e importam muito — no processo de crescimento econômico. Contudo, simultaneamente, persiste incerteza quanto ao grau em que as instituições afetam o crescimento e quais arranjos institucionais específicos são cruciais (e quais são meramente incidentais) para o desempenho econômico. Isso torna difícil, tanto do ponto de vista prático quanto de política, separar o impacto independente de mudanças institucionais específicas dos efeitos de outras transformações econômicas.
+
+### Quatro fatores que limitam a operacionalização [§7–§10]
+
+Haber identifica quatro fatores que têm dificultado a articulação entre teoria institucional e registro histórico. O **primeiro** é que a maioria dos estudos empíricos do New Institutionalism não testa ou refina a teoria em face do registro histórico, mas a aplica metaforicamente para compreender melhor a história econômica. O resultado potencial é a má aplicação da teoria, ou o ajuste da história à teoria, e não o inverso — a exemplo da teoria da dependência e das teorias de comércio e desenvolvimento dos anos 1960–70.
+
+O **segundo fator** é que os estudos de caso histórico selecionados para análise constituem testes parciais e fracos. Os pesquisadores tipicamente escolhem casos em que instituições presumivelmente mais eficientes produziram crescimento mais rápido. Se inovações institucionais positivas (direitos de propriedade mais seguros, compromissos críveis do governo de não expropriar ativos privados) exercem influência positiva sobre o crescimento, então mudanças institucionais negativas (revoluções que tornam os direitos de propriedade menos seguros, ascensão de Estados predatórios, regulações que distorcem mercados) deveriam produzir crescimento lento ou negativo. Todavia, a literatura não tem tratado esses casos de forma sistemática.
+
+O **terceiro fator** é que a maior parte da literatura analisou economias em que a mudança institucional foi gradual. A natureza incremental da mudança, combinada ao fato de que múltiplas instituições mudam simultaneamente, torna quase impossível identificar quais reformas específicas foram cruciais para o crescimento. O **quarto fator** agrava esse problema: a maioria das pesquisas focou em economias com longa história de mercados desenvolvidos. Nessas economias, o mercado antecipa as mudanças institucionais — os agentes ajustam preços de ativos antes das reformas ocorrerem —, tornando extremamente difícil demonstrar os efeitos de qualquer reforma institucional em particular. Ademais, em economias com mercados bem desenvolvidos, pode existir endogeneidade entre mercado e desenvolvimento institucional: à medida que os mercados se tornam mais eficientes, podem afetar o desenvolvimento institucional, que por sua vez retroalimenta os mercados.
+
+---
+
+## Problemas com Testes Econométricos Cross-Country (pp. 3–4)
+
+### As regressões de crescimento cross-country e suas insuficiências [§11–§12]
+
+Quando os pesquisadores tentam ir além das correlações históricas estilizadas e desenvolver testes econométricos formalizados da relação entre mudança institucional e crescimento, todos os problemas de endogeneidade e viés de seleção reaparecem. Acrescentam-se ainda as numerosas dificuldades técnicas de vincular qualquer mudança institucional específica a uma aceleração na produtividade e na renda.
+
+Autores como Robert Barro e Alberto Alesina tentaram demonstrar conexões entre características políticas/institucionais e crescimento econômico por meio de regressões cross-country. Os resultados, segundo Haber, foram inconclusivos por quatro razões principais. Primeiro, essa literatura não oferece modelo teórico de como instituições e crescimento interagem — é um exercício puramente indutivo de contabilidade do crescimento (*growth accounting*). Segundo, as considerações econométricas tornam as estimativas duvidosas: os resultados das regressões são altamente sensíveis ao número de observações, à escolha dos casos e à especificação do modelo. Terceiro, há sérios problemas de erro de medição e má especificação das variáveis instrumentais — os instrumentos para medir características institucionais ou políticas das sociedades são precariamente desenvolvidos. Barro, por exemplo, usa o número de revoluções e golpes por ano e o número de assassinatos políticos por milhão de habitantes como medidas de instabilidade política, e os interpreta como "influências adversas sobre os direitos de propriedade" — uma operacionalização claramente problemática. Por fim, há preocupações fundamentais sobre a estabilidade da relação estatística entre variáveis econômicas e políticas e sobre a capacidade de capturar a complexa interação de instituições políticas e econômicas por meio de uma única equação linear. Em situações de mudança institucional acelerada, a própria especificação pode deixar de valer — basta um subconjunto de países instáveis em um conjunto de dados maior para causar má especificação nas equações cross-country estimadas.
+
+---
+
+## A Estratégia de Pesquisa Alternativa: América Latina como Laboratório (pp. 3–5)
+
+### O projeto colaborativo e sua lógica metodológica [§13–§14]
+
+Nos últimos anos, economistas, cientistas políticos e historiadores da América Latina que adotaram métodos quantitativos e sistemáticos iniciaram programas de pesquisa colaborativa destinados a criar a base empírica necessária para testar e refinar o New Institutional Theory. A premissa desses programas é que os resultados mais inequívocos na análise institucional são encontrados nos casos em que houve mudanças dramáticas nas instituições, em que as instituições às vezes mudaram de forma a reduzir os direitos de propriedade, em que os mercados não puderam antecipar as mudanças institucionais, e em que há dados quantitativos suficientes para medir as consequências em termos de produtividade. Em resumo, esses pesquisadores tentam empregar a história das economias latino-americanas como laboratório para a pesquisa empírica no New Institutionalism.
+
+O volume em questão reporta a pesquisa de um desses programas colaborativos, realizado na Hoover Institution em fevereiro de 1998. Os autores utilizam três conjuntos de ferramentas analíticas: (1) a abordagem histórica, porque o impacto da mudança institucional sobre o desempenho econômico só pode ser detectado ao longo de longos períodos de tempo; (2) os métodos e abordagens da economia, porque demonstrar que reformas institucionais específicas tiveram efeitos específicos sobre o desenvolvimento de mercados ou a eficiência das firmas requer o uso cuidadoso de técnicas econométricas; e (3) os métodos e ferramentas da ciência política moderna, porque a maioria das instituições econômicas formais é politicamente determinada. O volume apresenta não apenas conclusões substantivas sobre a interação entre mudanças institucionais específicas e o desempenho de economias reais, mas também um quadro metodológico para o desenvolvimento de programas de pesquisa semelhantes.
+
+---
+
+## A Interdependência entre Instituições Econômicas e Políticas (pp. 4–5)
+
+### O ponto de partida teórico: política e economia como sistemas interligados [§15–§17]
+
+O ponto de partida teórico do volume é a noção de que as instituições econômicas não podem ser estudadas isoladamente das instituições que regulam a política. As instituições econômicas, sua execução e refinamento, não emergem do nada. Tampouco são simplesmente o resultado das demandas de grupos de interesse. Elas são o resultado tanto das demandas de grupos de interesse quanto das características específicas da tomada de decisões no sistema político, que por sua vez são governadas por instituições. Essas **instituições políticas** incluem as regras sobre quem tem autoridade para legislar e fazer cumprir as regulações que governam a atividade econômica, bem como as regras sobre como o sistema político pode decidir alterar quem detém essa autoridade e até onde ela pode se estender. O estudo das origens e consequências das instituições econômicas exige, portanto, o estudo das instituições que estruturam a tomada de decisões políticas.
+
+A promulgação de regulações e políticas gerais, como produto do sistema político, afeta o escopo e a ação dos agentes econômicos. O sistema político gera conjuntos de leis, regulações e mecanismos de execução que permitem e delimitam a atividade econômica. Essas leis vão desde aquelas que afetam praticamente todos os agentes econômicos (como as leis de especificação de propriedade privada) até aquelas específicas a setores industriais, firmas ou categorias de trabalhadores. Exemplos incluem tarifas sobre produtos específicos, leis que regulam a entrada em setores econômicos (como as regulações que governam o licenciamento de bancos) ou leis que regulam salários e jornadas em ocupações específicas. Essas leis têm impacto direto sobre a estrutura e eficiência de firmas e mercados.
+
+Existe, portanto, uma **interação complexa** entre as instituições que medeiam o sistema político e a economia — e essas precisam ser estudadas conjuntamente. Haber especifica a relação de forma regressiva: há instituições (leis e regulações sobre atividade econômica) que limitam as atividades de firmas e mercados; essas instituições econômicas são criadas politicamente (sendo legalmente codificadas); a tomada de decisões políticas é, por sua vez, governada por seu próprio conjunto de instituições que determinam a estrutura de governança de uma sociedade e as características específicas do processo decisório dentro de cada ramo do governo. Essas instituições são delimitadas por outro conjunto de instituições que estruturam a forma como o sistema político pode decidir mudar as regras sobre o processo decisório — incluindo constituições, emendas constitucionais e revisão judicial.
+
+---
+
+## Apresentação dos Estudos de Caso (pp. 5–9)
+
+### Summerhill: ferrovias, subsídios e política distributiva no Brasil Imperial [§18–§22]
+
+::: {.callout-note icon=false}
+**Estudo de Caso 1:** William Summerhill, "Institutional Determinants of Railroad Subsidy and Regulation in Imperial Brazil"
+:::
+
+O primeiro estudo de caso analisado é o de William Summerhill, que examina os determinantes institucionais das políticas de subsídio e regulação ferroviária no Brasil Imperial (1822–1889). A economia do Brasil imperial era caracterizada por baixos níveis de renda per capita, crescimento lento e ampla falha de mercado. Os formuladores de política brasileiros conheciam as inovações institucionais que haviam explicado o sucesso das economias do Atlântico Norte — investimentos em educação e capital humano, direitos de propriedade sobre a terra, leis de patentes, legislação comercial facilitando a criação de empresas de responsabilidade limitada e leis que facilitavam o desenvolvimento do sistema bancário — mas eram lentos em implementá-las, e quando o faziam, a natureza da tomada de decisões políticas gerava políticas que se desviavam fortemente do ideal.
+
+Summerhill gera e testa duas hipóteses: uma sobre regulação tarifária ferroviária e outra sobre níveis de subsídio. O argumento central é que a topografia montanhosa e a falta de rios navegáveis tornavam as ferrovias cruciais para o crescimento econômico brasileiro, mas os custos de construção eram elevados e o retorno para investidores privados, incerto — exigindo subsídios governamentais. Sendo subsidiadas, inevitavelmente seriam também reguladas, e a política distributiva entrou em cena. Em análise detalhada das regras formais que governavam a política ferroviária, Summerhill demonstra que as tarifas eram fixadas em grande parte com base na origem nacional dos proprietários da ferrovia, e que os subsídios eram determinados em grande parte pela posição da província em que a ferrovia estava localizada no parlamento (poder de voto). Embora a tecnologia ferroviária tenha gerado grandes ganhos para a economia brasileira, a alocação de recursos resultante da intervenção governamental desviou-se amplamente do que seria economicamente ótimo.
+
+### Haber: república federal, mercados financeiros e eficiência industrial [§23–§25]
+
+::: {.callout-note icon=false}
+**Estudo de Caso 2:** Stephen Haber, "Political Institutions and Financial Development in Brazil"
+:::
+
+O próprio Haber emprega um caso de mudança política dramática e descontínua para medir o impacto independente de mudanças nas instituições políticas sobre a eficiência econômica: a derrubada da monarquia parlamentar brasileira em 1889 e a fundação de uma república federal em 1890. Sob a monarquia, o governo central brasileiro reservava para si o direito de regular bancos e corporações. Suas regras e regulações reprimiam o desenvolvimento do sistema bancário por meio de políticas que criavam uma sucessão de superbancos semioficiais como agentes financeiros do Estado. O governo também restringia o desenvolvimento dos mercados de valores mobiliários por meio de leis que dificultavam a obtenção de cartas de incorporação e não permitiam responsabilidade limitada. O resultado era que os intermediários financeiros necessários para mobilizar capital para o desenvolvimento industrial eram praticamente inexistentes ao longo do século XIX.
+
+Com a fundação da república federal em 1890, a nova legislação reescreveu completamente as regras existentes, eliminando as restrições ao desenvolvimento de intermediários financeiros. As firmas manufatureiras brasileiras passaram a acessar o sistema bancário e os mercados de valores mobiliários para obter financiamento. Em análise econométrica detalhada de dados em nível de firma e de indústria sobre a fabricação de tecidos de algodão, Haber demonstra que o alívio das restrições de capital não apenas permitiu que a indústria brasileira crescesse muito mais rapidamente do que anteriormente, mas também permitiu que o capital fosse alocado para as firmas e empreendedores que podiam usá-lo mais eficientemente. O resultado final foi que a indústria brasileira experimentou tanto crescimento extensivo (aumento de tamanho) quanto crescimento intensivo (aumento da produtividade total dos fatores).
+
+### Taylor: controles de capital e o trilemma da política econômica na América Latina [§26–§28]
+
+::: {.callout-note icon=false}
+**Estudo de Caso 3:** Alan Taylor, "Latin America and Foreign Capital in the Twentieth Century"
+:::
+
+Alan Taylor amplia a análise das instituições domésticas e dos mercados para as instituições que governaram a mobilidade internacional de capital. Seu argumento principal é que um determinante central do atraso de crescimento da América Latina em relação às economias do Leste Asiático foi a presença de barreiras ao movimento internacional de capital — controles de capital, restrições à repatriação de lucros, sistemas de múltiplas taxas de câmbio e outros dispositivos de política destinados a reduzir a mobilidade de capital. Na ausência de aumento nas taxas domésticas de poupança e investimento, essas barreiras reduziram os novos investimentos e, assim, diminuíram a taxa de crescimento econômico da região.
+
+Taylor demonstra que o desenvolvimento dos controles de capital surgiu em resposta a mudanças nas instituições políticas — os controles de capital eram politicamente determinados. Os formuladores de política na América Latina enfrentaram um **trilemma**: pressões de diferentes constituencies para alcançar três objetivos mutuamente inconsistentes — estabilidade cambial, livre mobilidade de capital e estabilidade macroeconômica (por exemplo, "pleno emprego"). Sob um sistema de câmbio fixo com livre mobilidade de capital, os formuladores de política não têm poder para usar a política monetária como instrumento de manipulação da economia doméstica — qualquer tentativa de reduzir as taxas de juros para combater o desemprego resulta em perda de reservas cambiais, que logo forçaria as taxas de juros de volta ao nível determinado pelo mercado.
+
+A partir da Grande Depressão dos anos 1930, os formuladores de política latino-americanos decidiram que não podiam mais suportar os custos políticos de manter taxas de câmbio fixas e livre mobilidade de capital. Para combater o desemprego durante a depressão e manter altos níveis de emprego posteriormente, precisavam conduzir uma política monetária independente. Optaram por abandonar a livre mobilidade de capital, e essa decisão se mostrou difícil de reverter. O resultado foi que a América Latina atraiu muito menos capital internacional do que deveria durante o período pós-Segunda Guerra Mundial.
+
+### Mariscal e Sokoloff: desigualdade, sufrágio e o bloqueio institucional da educação [§29–§32]
+
+::: {.callout-note icon=false}
+**Estudo de Caso 4:** Elisa Mariscal e Kenneth Sokoloff, "Schooling, Suffrage, and the Persistence of Inequality in the Americas, 1800–1945"
+:::
+
+Mariscal e Sokoloff analisam um caso canônico de **bloqueio institucional** (*institutional deadlock*). Eles observam que os benefícios positivos da ampla alfabetização e educação para o desenvolvimento econômico são (e eram) bem conhecidos. No entanto, muitas sociedades falharam em adotar políticas públicas que financiassem a educação e, assim, proporcionassem altos níveis de alfabetização. Para entender como e por que isso aconteceu, os autores examinam as políticas e resultados educacionais em um conjunto transversal de economias do Novo Mundo durante o século XIX e início do XX.
+
+O argumento central é que, desde o início do período colonial, havia desigualdades econômicas entre América Latina e América do Norte que geraram desigualdades políticas no momento da independência. As instituições políticas e econômicas que promoviam a desigualdade na América Latina e a relativa igualdade na América do Norte tornaram-se então mutuamente reforçadas. No caso específico da educação e da alfabetização, as sociedades norte-americanas adotaram políticas de apoio à educação pública. Na América do Norte, o aumento dos níveis de igualdade política ao longo do tempo gerou maior apoio às "escolas comuns". Mariscal e Sokoloff argumentam que havia uma relação entre a extensão do sufrágio e o aumento do apoio à educação básica, com o principal impulso para o financiamento das escolas vindo do nível estadual e local. Como os custos e benefícios eram distribuídos de forma relativamente igualitária pela sociedade, era fácil construir coalizões (especialmente no nível local) em apoio à tributação para a educação pública. Em suma, democracia representativa e o movimento de escolas comuns caminharam lado a lado.
+
+Na maior parte das sociedades latino-americanas, porém, o ciclo virtuoso descrito por Mariscal e Sokoloff para os Estados Unidos e o Canadá não se concretizou. Com extrema desigualdade na distribuição de renda e poder político, os governos locais latino-americanos tipicamente não organizavam escolas financiadas por impostos e abertas a todos os membros da população. Problemas de ação coletiva frustravam as tentativas de financiar a educação pública no nível local porque os custos e benefícios da educação não seriam distribuídos igualmente por toda a sociedade. A única forma de romper o impasse era a intervenção dos governos federais em apoio à educação pública no nível nacional — esforços que não começaram até o final do século XIX e que avançaram em ritmo modesto. Em suma, desigualdade política, baixo investimento em educação pública, mobilidade social limitada e crescimento econômico lento se reforçavam mutuamente.
+
+### Dye: contratação privada versus regulação estatal na indústria açucareira cubana [§33–§36]
+
+::: {.callout-note icon=false}
+**Estudo de Caso 5:** Alan Dye, "Privately and Publicly Induced Institutional Change: Observations from Cuban Cane Contracting, 1880–1936"
+:::
+
+Alan Dye lembra que as instituições podem também ser criadas privadamente — como resultado da acumulação ao longo do tempo de decisões privadas. Instituições criadas pelo Estado podem, de fato, ser menos eficientes do que as criadas pelo processo de negociação privada. Em primeiro lugar, as decisões centralizadas sobre mudança institucional podem sofrer de informação inadequada (porque é custoso, o Estado é forçado a economizar na coleta de informações). Em segundo lugar, o Estado pode não buscar otimizar o design institucional para o bem público — governos geralmente não buscam criar instituições que promovam o crescimento, mas estão interessados em fornecer benefícios às suas constituencies ao menor custo possível para elas. A probabilidade de falha de uma instituição criada por decreto é, portanto, relativamente alta.
+
+Dye fornece o caso da indústria açucareira cubana. De 1880 a 1920, as instituições que governavam a produção de açúcar eram produto da incorporação endógena de informações de milhares de contratos privados. A acumulação de múltiplas decisões de contratação privada levou à convergência em uma forma contratual padrão que minimizava os custos de transação e aumentava a produtividade. No final dos anos 1920, porém, o processo de criação endógena de instituições foi revertido: para estabilizar o preço do açúcar, o governo cubano instituiu um programa estatal de restrição de safra e sistema de cotas que permitia que usinas ineficientes sobrevivessem porque lhes era garantida uma parcela do mercado. Isso também significou aumento dos custos de produção — as relações contratuais entre produtores e usinas tornaram-se menos flexíveis e menos facilmente executáveis — e, em última análise, uma redução geral da participação de Cuba no mercado mundial de açúcar.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+## Síntese Argumentativa
+
+**Tese central:** As instituições econômicas são politicamente determinadas e não podem ser estudadas isoladamente das instituições políticas que as geram; portanto, testar o New Institutionalism exige casos históricos com mudança institucional dramática, dados quantitativos adequados e análise que articule história, economia e ciência política.
+
+**Natureza do argumento:** O texto é simultaneamente *conceitual*, ao redefinir e organizar as variantes do New Institutionalism, e *metodológico*, ao diagnosticar as limitações dos testes existentes e propor uma estratégia alternativa de pesquisa empírica usando a América Latina como laboratório.
+
+**O que o texto demonstra vs. o que permanece como agenda:** Haber demonstra que os estudos de caso coletados no volume — Brasil Imperial (ferrovias e finanças), América Latina (controles de capital), América do Norte vs. América Latina (educação) e Cuba (açúcar) — constituem testes mais robustos do New Institutionalism do que a maioria dos estudos existentes, por envolverem mudança institucional dramática e dados quantitativos. No entanto, a síntese do New Institutionalism como teoria testada permanece como agenda — o próprio capítulo reconhece que os ensaios do volume não esgotam todas as hipóteses testáveis da teoria.
+
+**Contribuição para o debate:** O capítulo insere-se no debate entre a vertente teórica do New Institutionalism e as tentativas de testá-lo empiricamente. Sua contribuição é dupla: (a) diagnosticar com precisão por que os testes existentes são inadequados; e (b) propor e demonstrar uma estratégia alternativa centrada em casos de mudança institucional dramática na América Latina.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta não é formulada explicitamente em uma frase única, mas é claramente reconstruível a partir da estrutura argumentativa do capítulo. A premissa relevante é que o New Institutionalism carece de testes empíricos adequados; a interpretação alternativa seria que a teoria já é suficientemente validada pela evidência disponível — Haber rejeita esta alternativa sistematicamente. O ponto vulnerável é que a própria reconstrução da pergunta envolve alguma ambiguidade entre uma questão metodológica e uma questão substantiva. | *Pergunta reconstruída:* Quais são as limitações dos testes empíricos existentes do New Institutionalism, e como o estudo histórico-quantitativo da América Latina pode oferecer testes mais rigorosos da relação entre mudança institucional e crescimento econômico? Natureza: metodológica-explicativa. |
+| Questões Secundárias | O diagnóstico das limitações da literatura é a questão secundária central; as demais são derivadas da lógica da solução proposta. | (1) Quais são as três variantes do New Institutionalism e suas hipóteses nucleares? (2) Por que estudos de caso histórico tipicamente produzem testes fracos? (3) Por que regressões cross-country são insuficientes? (4) Quais características dos casos latino-americanos os tornam laboratoriais para testes institucionais? Todas se subordinam à pergunta central sobre adequação dos testes existentes. |
+| Puzzle-Type | O puzzle é genuíno: há consenso acadêmico de que instituições importam, mas ausência de testes robustos — uma contradição epistemológica relevante. A generalizabilidade é ampla, pois afeta toda a pesquisa em economia política comparada que usa casos históricos. | Puzzle metodológico: há amplo consenso teórico sobre a importância das instituições para o crescimento, mas os três mecanismos confirmatórios disponíveis (teoria, história, econometria) são usados de forma assimétrica — a teoria domina, enquanto a evidência histórica e os testes econométricos são fracos ou enviesados. |
+| Conclusão / Argumento Central | A tese é sustentada pelo diagnóstico das quatro limitações empíricas e pela apresentação dos estudos de caso do volume como alternativa metodológica. O *claim of discovery* efetivo é mais metodológico do que substantivo — Haber não apresenta novos resultados, mas um programa de pesquisa. | A tese central é que o New Institutionalism repousa primordialmente sobre validação teórica, sendo empiricamente subdesenvolvido; e que o estudo da América Latina — por sua história de mudança institucional dramática, dados quantitativos disponíveis e impossibilidade de antecipação pelos mercados — oferece um laboratório privilegiado para testes mais rigorosos. Argumento de natureza metodológico-programática. |
+| Métodos | O capítulo é teórico-programático: não apresenta dados originais próprios, mas descreve e justifica os métodos dos ensaios do volume. A estratégia argumentativa combina revisão crítica da literatura com apresentação de casos-modelo. A limitação principal é a circularidade potencial: os casos escolhidos para ilustrar a alternativa metodológica são selecionados pelo próprio organizador do volume. | Estudo teórico-introdutório. Estratégia argumentativa: (1) diagnóstico crítico da literatura existente (regressões cross-country, estudos de caso histórico convencionais); (2) proposição de critérios metodológicos para testes mais robustos; (3) apresentação sumária dos ensaios do volume como implementação desses critérios. Fontes: literatura secundária do New Institutionalism. |
+| Data Generation Process (DGP) | Como introdução programática, não há DGP próprio no sentido estrito. O argumento sobre DGP é normativo — propõe que estudos futuros sigam certos critérios. | Não há coleta ou análise de dados originais neste capítulo introdutório. O DGP descrito é prescritivo: fenômenos de mudança institucional dramática → observação de outcomes econômicos antes/depois → dados em nível de firma ou indústria → técnicas econométricas → inferência sobre impacto causal de reformas específicas. Unidade de análise recomendada: firma ou indústria em contexto histórico nacional. |
+| Achados e Contribuições | A contribuição metodológica é sólida; a contribuição substantiva é derivada (apresenta os achados dos outros autores do volume). O diagnóstico das quatro limitações dos testes existentes é preciso e bem fundamentado. | Contribuições principais: (1) taxonomia das três variantes do New Institutionalism; (2) diagnóstico das quatro limitações dos testes empíricos existentes (aplicação metafórica, seleção de casos positivos, gradualismo, antecipação pelos mercados); (3) diagnóstico das insuficiências das regressões cross-country (Barro, Alesina); (4) proposição de América Latina como laboratório institucional; (5) síntese dos achados de Summerhill, Haber, Taylor, Mariscal-Sokoloff e Dye. |
+| Análise Crítica dos Achados | O capítulo responde adequadamente à sua pergunta metodológica. O ponto mais vulnerável é o da seleção dos casos — ao escolher ensaios para o volume, Haber inevitavelmente incorre em algum grau do viés de seleção que critica nos outros. O ponto mais forte é o diagnóstico preciso das limitações das regressões cross-country, consistente com a literatura de sensibilidade (Levine-Renelt). | Pontos fortes: diagnóstico das limitações da literatura é preciso e bem referenciado; critérios metodológicos propostos (mudança dramática, dados quantitativos, impossibilidade de antecipação) são operacionalizáveis. Pontos vulneráveis: (a) o próprio volume pode sofrer do viés de seleção de casos que Haber critica — os casos selecionados tendem a confirmar a teoria; (b) a afirmação de que a América Latina constitui um "laboratório" pressupõe controle de confundidores que não é completamente justificado aqui; (c) a discussão de instituições informais é superficial — mencionadas na nota 1, mas ausentes da análise. |
+| Limitações | A distinção entre limitações reconhecidas e não reconhecidas é central para avaliar a honestidade epistemológica do texto. | **Reconhecidas pelos autores:** Os ensaios do volume não esgotam todas as hipóteses testáveis do New Institutionalism nem todos os casos disponíveis na história econômica latino-americana. <br> **Não reconhecidas ou subestimadas:** (a) O próprio capítulo comete em grau menor o viés de seleção que critica — os casos escolhidos são confirmadores da teoria; (b) a distinção entre instituições formais e informais, feita apenas em nota de rodapé, é teoricamente subestimada; (c) os critérios metodológicos propostos para bons testes (mudança dramática, dados quantitativos) podem favorecer sistematicamente certos tipos de casos e excluir outros igualmente relevantes; (d) a premissa de que mudança institucional dramática = exógena não é discutida — grandes rupturas podem ser endógenas ao desempenho econômico prévio. |
+| Perspectiva Teórica | A moldura é consistente com a ontologia metodológico-individualista implícita no New Institutionalism (North, Williamson, Weingast). A coerência entre ontologia e método é boa para as variantes de mercado e governo, menos clara para a variante de contratos intrafirma. | New Institutionalism (North; North & Weingast; Williamson); Economia Política do Crescimento (Barro; Alesina et al.); História Econômica Quantitativa. A moldura teórica é adequada ao tipo de pergunta — metodológica-explicativa — e consistente com a ontologia institucionalista. Limitação: a ausência de diálogo com abordagens heterodoxas (neo-institucionalismo sociológico, variedades de capitalismo) estreita o escopo da crítica. |
+| Principais Referências | O diálogo com a literatura é seletivo mas bem fundamentado para os propósitos do capítulo. Há desequilíbrio no sentido de que as críticas às regressões cross-country são mais desenvolvidas do que as críticas aos estudos de caso histórico qualitativos. | North (1990); North & Weingast (1989); Williamson (1985); Barro (1991); Levine & Renelt (1992); Alesina et al. (1996); Greif (1993, 1995, 1997); Alston, Eggertsson & North (1996); Haber & Razo (1998). Diálogo relativamente equilibrado dentro do campo do New Institutionalism; ausência de vozes críticas externas ao paradigma. |
+| Observações | O texto tem relevância direta para pesquisas em economia política comparada que usam casos históricos latino-americanos para testar teorias de médio alcance. A estratégia de usar mudança institucional dramática como variação natural antecipa a lógica dos designs de quasi-experimento que se tornaram centrais na econometria aplicada dos anos 2000. | (1) A lógica metodológica proposta por Haber antecipa, avant la lettre, o uso de *natural experiments* e *difference-in-differences* em história econômica; (2) o texto é relevante para pesquisas sobre políticas sociais e educacionais no Brasil que buscam identificar o papel de instituições políticas nos resultados de bem-estar; (3) a omissão das instituições informais é uma lacuna relevante para análises de economias latino-americanas contemporâneas, onde normas informais frequentemente subvertem reformas formais; (4) o argumento sobre o trilemma de Taylor e sobre o bloqueio institucional na educação têm direta aplicabilidade a debates atuais sobre capacidade estatal e coalizões de reforma. |
+
+:::
