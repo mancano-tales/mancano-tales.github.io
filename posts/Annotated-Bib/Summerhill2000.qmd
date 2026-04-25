@@ -1,0 +1,319 @@
+---
+title: "Fichamento: Institutional Determinants of Railroad Subsidy and Regulation in Imperial Brazil"
+subtitle: "Summerhill (2000)"
+author: "Tales Mançano"
+date: "2026-04-25"
+last-updated: "2026-04-25"
+categories: [Annotated Bibliography, Economia Política Comparada, Economia Histórica, Instituições Políticas, Brasil Imperial, Política de Infraestrutura]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Summerhill, W. R. (2000). Institutional determinants of railroad subsidy and regulation in Imperial Brazil. In S. Haber (Ed.), *Political institutions and economic growth in Latin America: Essays in policy, history, and political economy* (pp. 1–29). Hoover Institution Press.
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Summerhill2000
+
+```bibtex
+@incollection{Summerhill2000,
+  author    = {Summerhill, William R.},
+  title     = {Institutional Determinants of Railroad Subsidy and Regulation in Imperial Brazil},
+  booktitle = {Political Institutions and Economic Growth in Latin America: Essays in Policy, History, and Political Economy},
+  editor    = {Haber, Stephen},
+  year      = {2000},
+  publisher = {Hoover Institution Press},
+  address   = {Stanford, CA},
+  pages     = {1--29},
+}
+```
+
+:::
+
+Última atualização: 2026-04-25
+Modelo: Perplexity — Claude Sonnet 4.6
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
+Gerado em: 2026-04-25T18:07:00-03:00
+
+---
+
+## Introdução (pp. 1–4)
+
+### A primazia das instituições políticas sobre as econômicas [§1–§2]
+
+O capítulo abre afirmando que a maior parte da literatura sobre instituições e desenvolvimento na América Latina concentrou-se nas **instituições econômicas** — regras, leis e práticas que moldam incentivos ao investimento e à produção. Summerhill argumenta, contudo, que tais instituições econômicas são frequentemente *resultados* de políticas e ações governamentais específicas, e não variáveis exógenas. Os arranjos institucionais dentro do sistema político — divisão de poderes, câmaras legislativas, sistemas eleitorais, organizações partidárias — moldam leis, regulações, a definição e a aplicação de direitos de propriedade, e qualquer forma recorrente de intervenção no mercado. Ao estruturar o que conta como instituição econômica, o sistema político torna-se diretamente relevante para o estudo do desempenho econômico: as instituições econômicas formais são, na metáfora do autor, apenas a "ponta do iceberg", cuja base é a organização política e a formulação de políticas.
+
+O segundo parágrafo aplica esse argumento geral ao caso do Brasil do século XIX. Tratava-se de uma economia relativamente atrasada, tardia na adoção de elementos como investimento em capital humano e social, direitos de propriedade modernos, legislação comercial para empresas de responsabilidade limitada e sistemas financeiros menos restritivos. A falha de mercado era disseminada. Summerhill, porém, insiste que a extensão da falha de mercado era apenas *um* dos determinantes do atraso relativo; o outro era o grau em que a organização política auxiliava — ou impedia — a correção dessas falhas. O ideal normativo de referência é o de políticas que maximizariam o excedente social em um ambiente sem outras distorções institucionais, seguindo o que o autor chama de potencial "gerschenkroniano" do Estado.
+
+### O papel distributivo da política e as três questões centrais [§3–§4]
+
+No terceiro parágrafo, Summerhill introduz a tensão central do capítulo: porque políticos não compartilham necessariamente os critérios de eficiência da economia, as políticas por eles selecionadas podem divergir drasticamente do ótimo social. Políticos buscam conferir benefícios a seus constituintes e minimizar os custos que estes suportam; as **consequências distributivas** das intervenções no mercado são, assim, de importância primordial para qualquer análise de política pública. A correção de falhas de mercado pode, ela própria, ser dissipadora ou até agravar ineficiências — especialmente quando a falha não é suficientemente ampla e grave para que a intervenção melhore o *status quo*.
+
+O quarto parágrafo apresenta o problema empírico concreto — o desenvolvimento ferroviário no Brasil imperial — e formula as três questões que o capítulo se propõe a responder: (1) por quais instituições e mecanismos o Estado imperial promoveu e regulou os investimentos ferroviários?; (2) como a organização política do Brasil determinou a seleção dessas políticas?; (3) quais foram as consequências da política ferroviária para a economia como um todo? As respostas a essas questões iluminam uma preocupação compartilhada por estudiosos da América Latina: as origens e o impacto da política governamental em economias relativamente atrasadas.
+
+### Revisão crítica da historiografia e reposicionamento analítico [§5–§7]
+
+O quinto parágrafo apresenta e critica a interpretação dominante da história ferroviária brasileira, segundo a qual o padrão "plantation-e-mina-ao-porto" das ferrovias latino-americanas pouco contribuiu para a integração política ou mercados domésticos, tendo apenas aprofundado a dependência em relação aos mercados mundiais. Na visão convencional, as ferrovias foram eficientes em desperdiçar recursos, enriquecer uma pequena classe de proprietários rurais e empobrecer o país. Paralelamente, a visão sobre o financiamento externo sustentava que mesmo os países maiores e mais estáveis perderam o controle sobre suas próprias economias ao recorrer ao capital estrangeiro.
+
+No sexto parágrafo, Summerhill observa que, apesar das implicações testáveis embutidas nessas formulações, há surpreendentemente poucas avaliações empíricas rigorosas das consequências econômicas das ferrovias de propriedade estrangeira, dos subsídios ferroviários ou da política regulatória no Brasil. Isso contrasta com a riqueza de análises dedutivas e impressões estilizadas. O sétimo parágrafo anuncia o reposicionamento analítico do capítulo: em vez de aceitar explicações puramente dedutivas, o trabalho avalia o processo de desenvolvimento ferroviário no Brasil imperial em termos de suas consequências observáveis, focando nos **determinantes institucionais** do subsídio e da regulação ferroviária. O capítulo prossegue em cinco seções, descritas em seguida.
+
+---
+
+## Da Falha de Mercado ao Desenvolvimento Ferroviário (pp. 4–7)
+
+### O impacto direto das ferrovias e os cinco obstáculos ao investimento privado [§8–§9]
+
+O oitavo parágrafo afirma que as ferrovias tiveram um forte impacto direto sobre a economia brasileira, apesar do início tardio. Durante o **Segundo Reinado** (1840–1889), as ferrovias representaram a maior parte do financiamento externo que fluía para o país e constituíam o maior setor "moderno" da economia. Entretanto, os mercados privados falharam em fornecer serviços de transporte ferroviário, não obstante os enormes retornos potenciais para produtores e consumidores resultantes da redução dos custos de transporte. O desenvolvimento ferroviário só ganhou impulso nos anos 1850, quando o governo criou a garantia de dividendo mínimo para investidores.
+
+O nono parágrafo detalha os **cinco fatores inter-relacionados** que atrasaram a era ferroviária brasileira:
+
+| Obstáculo | Descrição |
+|:----------|:----------|
+| Capital inicial elevado | Ferrovias eram, de longe, o investimento mais caro do Brasil do século XIX |
+| Incerteza sobre retornos | Investidores não sabiam quanto uma ferrovia geraria de receita; o retorno privado esperado ficava aquém do retorno social |
+| Risco de expropriação | A intensidade de capital e os custos fixos elevados expunham os proprietários de ferrovias à regulação confiscatória |
+| Mercado de capitais subdesenvolvido | Difícil mobilizar investidores com preferências de risco e fundos adequados |
+| Instabilidade política | A Regência e os primeiros anos do Segundo Reinado desestimularam o risco; os recursos necessários para sufocar revoltas tornavam os subsídios governamentais inviáveis |
+
+### O mecanismo de garantia de dividendos e o crescimento do setor [§10–§11]
+
+O décimo parágrafo descreve como somente com a primeira provisão de **garantias de dividendo mínimo** pelo governo imperial, em 1852, os investimentos vieram. Tanto o governo central quanto os governos provinciais passaram a satisfazer as demandas dos proprietários de terra por transporte barato, oferecendo dividendos mínimos garantidos a projetos ferroviários. As garantias iniciais eram específicas por projeto, mas legislação posterior nos anos 1870 e 1880 expandiu os compromissos do governo central, tornando-os acessíveis a todas as províncias. O mecanismo de garantia funcionava da seguinte forma: quando os lucros líquidos de uma ferrovia ficavam abaixo do nível estipulado, o governo pagava a diferença; quando os lucros excediam suficientemente o dividendo prescrito, os lucros adicionais eram divididos com o governo para reembolsar pagamentos anteriores; dividendos ainda mais elevados ocasionavam a redução das tarifas de frete e passageiros.
+
+O décimo-primeiro parágrafo sintetiza os dois desfechos possíveis do mecanismo de garantia. Para ferrovias viáveis, somente o valor nominal dos pagamentos de dividendo garantido era reembolsado, sendo o valor do subsídio equivalente ao juro que a ferrovia não pagou. Para ferrovias que nunca geraram lucro suficiente, o valor do subsídio equivalia ao fluxo integral de garantias pagas pelo governo. Em ambos os casos, a contrapartida — o *quid pro quo* — era a regulação tarifária pelas autoridades governamentais. Com controles sobre tarifas de frete e passageiros, a política de dividendo mínimo criava uma **banda de taxa de retorno** para as ferrovias garantidas.
+
+### Dados de crescimento do setor ferroviário, 1855–1887 [§12–§13]
+
+O décimo-segundo parágrafo apresenta a **Tabela 1**, que registra o crescimento do setor ferroviário brasileiro entre 1855 e 1887 por dois indicadores: quilômetros de trilho em operação e receitas operacionais totais (deflacionadas a preços de 1887). A primeira ferrovia brasileira abriu em 1854, mas o crescimento do setor foi lento até após a Guerra do Paraguai (1864–1870). A partir daí, tanto a capacidade quanto o tráfego cresceram especialmente após 1875. Em 1887, o Brasil possuía 8.400 quilômetros de trilhos em operação. Entre 1855 e 1887, o aumento médio anual da produção ferroviária foi de quase 15% ao ano.
+
+| Ano | Trilhos totais (km de rota) | Produção ferroviária (em milréis de 1887) |
+|:----|:---------------------------|:------------------------------------------|
+| 1855 | 15 | 200.155 |
+| 1860 | 223 | 2.078.514 |
+| 1865 | 498 | 3.611.287 |
+| 1870 | 744 | 6.571.833 |
+| 1875 | 1.801 | 14.306.998 |
+| 1880 | 3.398 | 26.744.889 |
+| 1885 | 6.930 | 34.966.580 |
+| 1887 | 8.400 | 37.368.187 |
+
+*Fonte: Summerhill, "Benefits and Costs". Deflacionado pelo índice de preços no atacado do Rio de Janeiro.*
+
+O décimo-terceiro parágrafo apresenta a magnitude das **economias sociais** geradas pela substituição de modos de transporte mais caros — carroças de tração animal, tropas de mulas e, em alguns casos, carregadores humanos — pelas ferrovias. Em 1887, as ferrovias brasileiras produziram 221,1 milhões de toneladas-quilômetro de serviço de frete, cobrando em média 0,123 milréis por tonelada-quilômetro — muito abaixo do custo pré-ferroviário de melhores práticas de cerca de 0,417 milréis (ajustado a preços de 1887). As economias sociais estimadas no frete foram de 64,9 milhões de milréis em 1887, equivalentes a 9,5% do PIB brasileiro. No período 1861–1887, o PIB quase dobrou (de 336,2 para 657,7 milhões de milréis em preços de 1887); o ganho de produtividade implícito, controlando pelo aumento populacional, foi de 130,4 milhões de milréis. A medida pelo limite superior das economias sociais corresponde a 50% desse avanço; medidas pelo limite inferior superam 25%. As ferrovias eram, sem dúvida, a força mais importante no aumento do produto per capita entre 1861 e 1887.
+
+---
+
+## Origens Institucionais do Subsídio Ferroviário (pp. 6–13)
+
+### Crítica à literatura anterior e o papel do "barril de carne" parlamentar [§14–§15]
+
+O décimo-quarto parágrafo aponta que estudos anteriores sobre ferrovias brasileiras enfatizaram o papel de restrições externas, classes agrárias e interesses locais, mas curiosamente nenhum examinou os determinantes do padrão de subsídio, e todos abstraíram o papel das instituições políticas. Ao adicionar apenas um modesto grau de detalhe institucional político, é possível revelar as forças que sustentam o padrão real de subsídio. Ao fornecer garantias de dividendos às ferrovias, o Parlamento imperial resolveu um problema que o mercado sozinho havia falhado em resolver.
+
+O décimo-quinto parágrafo descreve brevemente a organização política brasileira: projetos de lei percorriam duas câmaras (Senado vitalício e Câmara de Deputados com mandatos de quatro anos), sendo então enviados ao imperador para sanção ou veto. As assembleias provinciais também legislavam, mas seus atos estavam sujeitos à revisão do parlamento nacional — inclusive os subsídios provinciais a ferrovias. Ao contrário de um arranjo federal como o dos Estados Unidos do século XIX, que colocava unidades subnacionais em competição por fatores de produção móveis, o **centralismo brasileiro** colocava as delegações provinciais em competição por *pork* e patronagem dentro do parlamento.
+
+### O modelo formal da escolha legislativa de subsídio [§16–§18]
+
+O décimo-sexto parágrafo introduz os três fatores institucionais que influenciavam o impacto econômico da intervenção parlamentar no mercado: (1) a percepção dos legisladores sobre a incidência dos benefícios e custos da intervenção; (2) o uso da regra de maioria, que seleciona a preferência do legislador mediano; e (3) os incentivos para que legisladores do mesmo distrito cooperem em apoiar uma política de subsídio.
+
+::: {.callout-note icon=false}
+**Formalização da escolha do legislador:** O legislador *i* busca a política *x* que maximiza seu suporte político:
+
+\[N_i(x) = B_{i1}(x) + C_{i1}(x) - C_{i2}(x) - t_i T(x)\]
+
+onde \(B_{i1}(x)\) são os benefícios criados pela política dentro do distrito eleitoral; \(C_{i1}(x)\) são os desembolsos diretos recebidos dentro do distrito; \(C_{i2}(x)\) são os custos indiretos incidentes sobre o distrito; e \(t_i T(x)\) é a parcela do ônus fiscal total que cabe ao distrito.
+
+A política eficiente, por contraste, maximizaria:
+
+\[x^E = \arg\max\, E(x) = B(x) - C_1(x) - C_2(x)\]
+
+A política "politicamente eficiente", ao agregar as funções de suporte de todos os distritos, resulta em:
+
+\[N(x) = B(x) - C_2(x)\]
+
+que difere da eficiente porque os desembolsos diretos — componente de custo econômico — são tratados pelos legisladores como benefícios políticos para seus constituintes. O subsídio politicamente escolhido tende, portanto, a ser *maior* que o socialmente eficiente.
+:::
+
+O décimo-sétimo parágrafo complementa a análise com o segundo fator de distorção: a **regra de maioria**. Os arranjos institucionais na Câmara dos Deputados do Brasil garantiam a existência de um equilíbrio de política ao separar o espaço de alternativas em dimensões únicas de política, consideradas uma de cada vez. Assim, na dimensão do subsídio, a política vencedora é a preferida pelo legislador mediano. Para que o subsídio seja politicamente eficiente, seria necessário que o nível de subsídio correspondesse à média das preferências de todos os legisladores — condição de equilíbrio de fio de navalha que raramente se verificaria. Os dois fatores — partição geográfica e regra de maioria — geram a primeira hipótese: subsídios tendem a ser excessivos.
+
+### Dinâmicas de coalizão e distribuição provincial de subsídios [§19–§21]
+
+O décimo-oitavo parágrafo apresenta três abordagens analíticas para o problema distributivo em uma legislatura de maioria. A primeira trata o problema como jogo de soma zero, prevendo o surgimento de uma **coalizão mínima vencedora** que distribui subsídios apenas a seus membros. A segunda abordagem, que não assume soma zero e introduz incerteza sobre a composição da coalizão, prevê uma **coalizão universal** que distribui subsídios a todos os distritos. A terceira, intermediária, explora a possibilidade de que os legisladores tenham incerteza apenas parcial sobre a composição da coalizão vencedora, o que levaria à formação de blocos provinciais coordenados.
+
+O décimo-nono parágrafo elabora a lógica da terceira abordagem: um projeto ferroviário concentra benefícios diretos e externalidades em uma província, criando incentivos para que deputados dessa província votem juntos, independentemente de ideologia ou partido. Províncias com delegações maiores na Câmara tinham maior chance de que pelo menos um de seus deputados fosse pivô na coalizão vencedora, e, portanto, de que a ferrovia proposta recebesse subsídio. A hipótese intuitiva resultante é: **províncias com delegações maiores na Câmara dos Deputados obtiveram mais subsídios ferroviários**.
+
+O vigésimo parágrafo operacionaliza a medição do subsídio. As duas componentes do subsídio ferroviário eram: (1) dividendos garantidos e (2) desembolsos diretos do governo para ferrovias que ele assumiu ou construiu. O valor do compromisso do governo central com ferrovias em cada província *i* é dado por:
+
+\[G_i = OC_i + rK_{1i} + \delta K_{2i}\]
+
+onde \(OC_i\) é a soma das perdas operacionais das ferrovias governamentais na província *i*; \(rK_{1i}\) é o valor do "subsídio" de capital direto sobre todas as ferrovias governamentais na província *i*; e \(\delta K_{2i}\) é o valor da garantia de dividendo sobre as ferrovias garantidas na província *i*. O capital subsídio é tomado como 6% do custo de construção das ferrovias governamentais em operação em 1888.
+
+### O índice de Shapley-Shubik e a correlação com subsídios [§22–§23]
+
+O vigésimo-primeiro parágrafo descreve a mensuração do **poder de votação** de cada província por meio da teoria dos jogos cooperativos — especificamente o **índice de Shapley-Shubik**, que expressa com que frequência, em média, uma determinada província pode esperar que um de seus deputados seja pivô em uma coalizão vencedora. Tal medida, baseada exclusivamente na estrutura da representação, prediz como projetos geradores de renda como os subsídios ferroviários serão distribuídos entre as províncias brasileiras. A **Tabela 2** apresenta os compromissos de subsídio e os índices de Shapley-Shubik por província.
+
+| Província | Compromisso de Subsídio, 1888 (em milréis) | Índice S-S até 1881 | Índice S-S a partir de 1884 |
+|:----------|:-----------------------------------------:|:-------------------:|:---------------------------:|
+| Rio de Janeiro | 4.472.898 | 0,0993 | 0,0970 |
+| Minas Gerais | 4.159.397 | 0,1808 | 0,1761 |
+| Bahia | 3.723.732 | 0,1181 | 0,1153 |
+| Pernambuco | 3.667.260 | 0,1086 | 0,1060 |
+| São Paulo | 2.815.439 | 0,0726 | 0,0709 |
+| Rio Grande do Sul | 1.501.365 | 0,0472 | 0,0462 |
+| Ceará | 930.393 | 0,0640 | 0,0626 |
+| Alagoas | 826.686 | 0,0390 | 0,0381 |
+| Paraná | 804.443 | 0,0153 | 0,0149 |
+| Santa Catarina | 392.651 | 0,0153 | 0,0149 |
+| Rio Grande do Norte | 384.514 | 0,0153 | 0,0149 |
+| Paraíba | 302.188 | 0,0390 | 0,0381 |
+| Maranhão | 0 | 0,0472 | 0,0462 |
+| Sergipe | 0 | 0,0310 | 0,0303 |
+| Pará | 0 | 0,0231 | 0,0462 |
+| Piauí | 0 | 0,0231 | 0,0226 |
+| Amazonas | 0 | 0,0153 | 0,0149 |
+| Espírito Santo | 0 | 0,0153 | 0,0149 |
+| Goiás | 0 | 0,0153 | 0,0149 |
+| Mato Grosso | 0 | 0,0153 | 0,0149 |
+
+O coeficiente de correlação entre poder de votação e subsídios recebidos é de **0,89**, indicando que a variação no poder de votação está associada a 89% da variação na quantidade de subsídios ferroviários recebidos pelas províncias.
+
+O vigésimo-segundo parágrafo discute os desvios da tabela em relação aos resultados previstos. O Rio Grande do Sul, por exemplo, recebeu uma parcela desproporcionalmente grande de subsídios por razões estratégico-militares (mobilização de tropas para o extremo sul, diante do risco de conflito no Rio da Prata). Algumas províncias do norte receberam subsídios como parte de programas de alívio à seca. Contudo, o ponto fundamental permanece claro: o **poder de votação foi um determinante central** da capacidade de uma província em capturar subsídios ferroviários.
+
+---
+
+## Taxa de Retorno Social e Ineficiência Alocativa (pp. 13–17)
+
+### O conceito de taxa de retorno social: médio versus marginal [§23–§25]
+
+O vigésimo-terceiro parágrafo apresenta dois conceitos distintos de taxa de retorno social. O primeiro — a **taxa de retorno social média** — examina se o retorno sobre os investimentos em ferrovias justificou os recursos a eles destinados. O segundo — a **taxa de retorno social marginal** — responde se o Brasil investiu demais ou de menos em suas ferrovias. O critério de eficiência ideal seria que o governo subsidiasse projetos até o ponto em que o retorno sobre uma unidade adicional de capital investido igualasse os retornos de outras atividades na economia. Se o retorno ferroviário fosse inferior, o governo havia subsidiado em excesso; se fosse superior, o nível de subsídio era insuficiente.
+
+O vigésimo-quarto parágrafo apresenta os resultados da **Tabela 3**, que deriva a taxa de retorno social média sobre o capital ferroviário em 1887. Em 1887, as ferrovias brasileiras apresentavam uma taxa de retorno privado não subsidiado de pouco menos de 3%. Para investidores em linhas garantidas, a taxa efetiva recebida (incluindo subsídios e receitas operacionais líquidas) foi de 4,75%. O retorno de baixo risco na época era o dos títulos de dívida pública, em pouco mais de 4%. Somando as economias sociais no frete (limite inferior) às receitas de capital não subsidiadas, obtém-se uma **taxa de retorno social de 9,4%**. Convertendo-a à marginal mediante multiplicação pelo quociente dos lucros de capital na receita total subsidiada (elasticidade do capital de 0,52), chega-se a uma **taxa de retorno marginal de 4,9% em 1887**. Em agregado, o Brasil não havia superinvestido em ferrovias — poderia até ter ligeiramente subinvestido no final do Império.
+
+### Desempenho desagregado por ferrovia e o custo da alocação errônea [§26–§27]
+
+O vigésimo-quinto parágrafo observa que a medida agregada obscurece que projetos individuais podem ter sido sistematicamente super ou subsidiados. A **Tabela 3** apresenta as taxas de retorno social marginais por ferrovia em 1887. Embora várias ferrovias apresentassem retornos positivos fortes, três quartos delas não o faziam. As linhas com retorno abaixo do corte de 4,5% (equivalente ao retorno sobre títulos públicos) geradas combinadas para o Brasil uma taxa marginal de apenas 2,2%. Essas linhas representavam mais da metade do capital total do setor ferroviário em 1887. O grupo com alto retorno apresentava taxa marginal de 7,5%, indicando que havia espaço para subsídio adicional.
+
+O vigésimo-sexto parágrafo quantifica o custo dessa alocação errônea por meio de um exercício hipotético (Tabela 4). Realocar o capital das linhas de baixo retorno para as de alto retorno aumentaria o excedente das ferrovias em pelo menos 23,2 milhões de milréis. Isso corresponderia a um aumento de 36% nas economias sociais diretas estimadas pelo limite superior em 1887, ou mais de 3% do PIB. A razão para a concentração errônea de capital ferroviário não era erro de previsão ingênuo, mas antes **previsão política** — o governo promovia investimentos em ferrovias não em conformidade com alguma estratégia abstrata de desenvolvimento, mas em resposta a imperativos políticos internos.
+
+| Indicador | Valor |
+|:----------|:------|
+| Taxa de retorno social marginal (linhas de alto retorno) | 7,5% |
+| Taxa de retorno social marginal (linhas de baixo retorno) | –2,2% |
+| Diferença | 9,7 p.p. |
+| Capital físico reprodutível das linhas de baixo retorno | 239,3 milhões de milréis |
+| Aumento hipotético nas economias sociais | 23,2 milhões de milréis |
+| Economias sociais diretas (limite superior) | 64,9 milhões de milréis |
+| Aumento nas economias sociais | 36% |
+| Aumento no PIB | 3,4% |
+
+---
+
+## A Economia Política da Regulação das Tarifas de Frete (pp. 17–20)
+
+### O modelo político de fixação de tarifas [§28–§29]
+
+O vigésimo-sétimo parágrafo estabelece que, dado que a contrapartida das garantias de dividendo era a regulação tarifária, é necessário examinar como as tarifas de frete eram fixadas no Brasil. O custo elevado do transporte pré-ferroviário e a possibilidade de precificação monopolista tornavam a regulação tarifária potencialmente benéfica. Analogamente à análise dos subsídios, o argumento é que os políticos fixavam tarifas não no interesse da eficiência, mas para angariar e manter apoio político, considerando a incidência dos componentes de custos e benefícios em seus respectivos distritos.
+
+O vigésimo-oitavo parágrafo formaliza o modelo de regulação. O suporte político do legislador *i* ao escolher a política regulatória *x* é:
+
+\[N_i(x) = B_{i1}(x) - C_{i2}(x)\]
+
+onde \(B_{i1}(x)\) são os benefícios criados pela regulação dentro do distrito (tarifas menores para remetentes locais) e \(C_{i2}(x)\) são os custos indiretos ao distrito (lucros reduzidos dos acionistas ferroviários locais). O insight central é que os custos políticos indiretos da regulação variavam com a **propriedade da ferrovia**: para uma ferrovia com proprietários predominantemente brasileiros, a regulação tarifária reduzia lucros de acionistas que constituíam parte do eleitorado do legislador, gerando resistência à regulação estrita. Para ferrovias de propriedade predominantemente britânica ou estatal, esses custos eram nulos — nenhuma força contrária à regulação rígida existia.
+
+### A hipótese de propriedade e o teste econométrico [§30–§32]
+
+O vigésimo-nono parágrafo explicita a hipótese: ferrovias de propriedade estrangeira ou do Estado seriam sobrecarregadas com regulação tarifária mais estrita do que as ferrovias de propriedade brasileira. Isso porque poucos constituintes de deputados brasileiros recebiam rendas na forma de lucros de ferrovias britânicas (que iam predominantemente para acionistas em Londres) ou governamentais (que iam para o Tesouro). Os acionistas brasileiros constituíam uma importante circunscrição política e tinham algum sucesso em resistir à pressão baixista sobre tarifas; os britânicos eram menos eficazes por ter menos representação direta no sistema político.
+
+O trigésimo parágrafo especifica e estima o modelo econométrico:
+
+\[\text{RATE} = \alpha + \beta_1 \text{EXPORT} + \beta_2 \text{IMPORT} + \beta_3 \text{GOV} + \beta_4 \text{BRITISH}\]
+
+onde RATE é a tarifa por tonelada-quilômetro de serviço de frete; EXPORT e IMPORT são *dummies* para produtos de alto valor por unidade; GOV é *dummy* para ferrovia governamental; e BRITISH é *dummy* para propriedade predominantemente britânica. Os resultados (Tabela 5) para 22 ferrovias nos anos 1880 confirmam a hipótese. Ferrovias privadas brasileiras desfrutavam de tarifas mais altas. As ferrovias britânicas cobravam tarifas significativamente menores que a média (coeficiente: –0,165; t = –5,5). O maior desvio da média é encontrado nas ferrovias governamentais (coeficiente: –0,24; t = –7), onde inexistiam acionistas a exigir taxa mínima de retorno.
+
+| Variável Independente | Coeficiente | Estatística t |
+|:----------------------|:-----------|:-------------|
+| Constante | 0,305 | 11 |
+| Mercadoria de exportação | 0,097 | 3 |
+| Mercadoria de importação | 0,211 | 6,5 |
+| Ferrovia governamental | –0,24 | –7 |
+| Ferrovia britânica | –0,165 | –5,5 |
+| R² | 0,62 | — |
+| R² ajustado | 0,60 | — |
+| N | 66 | — |
+
+O trigésimo-primeiro parágrafo sublinha que, ao contrário dos Estados Unidos — onde a regulação generalizada das ferrovias aguardou a criação da Interstate Commerce Commission —, no Brasil o governo regulava ferrovias desde o início. As tarifas eram em geral fixadas dentro do Ministério da Agricultura, em conformidade com as preferências do parlamento, que operava sob responsabilidade ministerial. Isso permitia ao parlamento evitar legislar todas as tarifas diretamente e ainda assim obter o resultado desejado para seus constituintes.
+
+---
+
+## Estática Institucional Comparativa e Conjecturas Contrafactuais (pp. 20–22)
+
+### Centralismo imperial versus federalismo preservador de mercado [§32–§34]
+
+O trigésimo-segundo parágrafo observa que a comparação com o critério de eficiência de "primeiro ótimo" é um instrumento analítico útil, mas de relevância histórica limitada. A relevância histórica deriva de arranjos institucionais alternativos historicamente plausíveis, não apenas do ideal teórico. Diferentes arranjos poderiam ficar aquém da plena eficiência e ainda assim melhorar o centralismo do Brasil imperial.
+
+O trigésimo-terceiro parágrafo considera o primeiro cenário contrafactual: o que teria ocorrido se o Brasil fosse organizado com base no **federalismo** em vez do centralismo. Embora a monarquia tenha sido seguida por uma república federal, o "federalismo" brasileiro era peculiar, carecendo de elementos do federalismo preservador de mercado. A comparação relevante é com os Estados Unidos, que diferiam do Brasil em dois aspectos: o governo central protegia um mercado comum; e os governos subnacionais interviam nos mercados para subsidiar e regular atividades econômicas locais. Sob federalismo, as ferrovias provinciais seriam subsidiadas e reguladas de acordo com a política provincial, não nacional. Governos provinciais teriam mais incentivos a subsidiar projetos locais em níveis próximos ao da eficiência econômica — pois oversubsidiar criaria ônus fiscal que reduziria a atratividade da província para capital e trabalho, enquanto subsidiar menos do que outras províncias limitaria as oportunidades de novas atividades econômicas.
+
+### O cenário do monarca absoluto e a lógica da dependência [§35–§36]
+
+O trigésimo-quarto parágrafo apresenta o segundo cenário contrafactual: o que teria ocorrido se o Brasil possuísse um monarca absoluto, como o teve durante a era colonial e em 1808–1822? Nesse caso, as distorções alocativas impostas pelas instituições do governo parlamentar representativo desapareceriam, pois a lógica política é muito diferente. O soberano, em vez de delegar autoridade sobre políticas públicas a representantes eleitos, barganharia diretamente com produtores sobre alíquotas de imposto e política. Trocar controle de política por receitas tem uma implicação clara: o capital — por sua maior mobilidade — ganha controle desproporcional sobre a política. Em um cenário em que o soberano buscasse promover o desenvolvimento ferroviário, os capitalistas (incluindo estrangeiros), e não os proprietários de terra representados em um parlamento, comandariam os termos do subsídio e da regulação — resultado notavelmente similar ao previsto pela análise dependentista.
+
+O trigésimo-quinto parágrafo conclui o exercício contrafactual: a organização política da monarquia brasileira evitou esse resultado dependentista específico porque as instituições representativas adaptavam políticas responsivas aos proprietários de terra e investidores ferroviários brasileiros, não a capitalistas estrangeiros. Ficou muito aquém da plena eficiência porque a centralização exacerbou as pressões inerentes à política distributiva. Como nenhum dos arranjos alternativos — federalismo preservador de mercado ou monarquia absolutista — prevaleceu no primeiro estágio do desenvolvimento ferroviário brasileiro, nenhum teste rigoroso de seus impactos é possível em termos historicamente aceitáveis, e as proposições contrafactuais permanecem necessariamente conjeturais.
+
+---
+
+## Conclusão (pp. 21–22)
+
+### Síntese dos achados e implicações para a historiografia [§36–§39]
+
+O trigésimo-sexto parágrafo sintetiza: as ferrovias criaram grandes ganhos para a economia brasileira, mas esses ganhos foram muito menores do que poderiam ter sido, uma vez que muitas linhas individuais produziram resultados medíocres. Isso não resultou de investimento estrangeiro, exploração, dependência, exportação de mais-valia ou conspirações de estrangeiros para minar o serviço eficiente. Resultou diretamente da forma como a organização política do Brasil canalizou subsídios ao investimento.
+
+O trigésimo-sétimo parágrafo reforça que o sistema político não era endógeno à estrutura do mercado internacional nem curvando-se às demandas de investidores estrangeiros; muitas de suas características eram comuns a polities representativas estáveis e bem-sucedidas da época. A diferença-chave era o caráter altamente centralizado das instituições políticas com poder de intervenção no mercado.
+
+O trigésimo-oitavo parágrafo oferece a avaliação normativa final: como a falha do mercado em fornecer ferrovias era pervasiva e disseminada no Brasil, a intervenção estatal melhorou consideravelmente o *status quo*. Mesmo assim, os resultados ficaram aquém da maximização dos ganhos potenciais dos projetos ferroviários. O Estado não perseguiu uma estratégia de desenvolvimento de forma coerente, nem agiu como simples agente da elite coletiva. Em vez disso, os arranjos institucionais estruturaram a política distributiva de modo a tornar o subsídio e a regulação ferroviária politicamente atraentes.
+
+O trigésimo-nono parágrafo encerra o capítulo afirmando que a importância do sistema político na alocação de subsídios deriva das oportunidades de intervenção criadas por falhas de mercado. Mas, diferentemente da economia — onde os preços transmitem escassez —, no sistema político não há mercados políticos nem preços relativos que alocem recursos. As **instituições políticas e os detalhes procedimentais transformam preferências em resultados**. Embora governo representativo, regra de maioria e incentivos distributivos tenham contribuído para a lacuna entre o equilíbrio de política do Brasil e a eficiência econômica, a centralização política exacerbou os custos dessa lacuna — custos particularmente agudos em uma economia com baixos níveis gerais de produtividade e renda.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** A ineficiência alocativa do sistema de subsídios e regulação ferroviária no Brasil imperial resultou não do investimento estrangeiro, da dependência ou dos interesses da classe dos plantadores, mas da forma como as instituições políticas centralizadas do Brasil estruturaram a política distributiva — levando a um nível de subsídio excessivo e a uma distribuição de capital ferroviário determinada pelo poder de votação das províncias, não pelo retorno econômico das linhas.
+
+**Natureza do argumento:** Causal-institucional, com formalização em teoria da escolha pública (modelo do legislador, Shapley-Shubik, regressão de tarifas) e estimação econométrica de retornos sociais. O argumento integra análise de custo-benefício histórico com teoria da economia política positiva.
+
+**O que o texto demonstra:** (1) Que o subsídio ferroviário foi excessivo e distribuído proporcionalmente ao poder de votação provincial (correlação de 0,89); (2) que ferrovias de propriedade estrangeira ou estatal foram mais reguladas do que as de propriedade brasileira, em linha com o modelo de suporte político; (3) que as economias sociais do setor ferroviário foram reais e substanciais (9,5% do PIB em 1887), mas poderiam ter sido 36% maiores com alocação eficiente.
+
+**O que permanece como hipótese ou agenda:** Os cenários contrafactuais (federalismo e monarquia absoluta) são explicitamente conjeturais; a extensão dos mecanismos de *log-rolling* e barganha de gabinete requer investigação adicional; o peso relativo do "poder moderador" do imperador na agenda legislativa é indicado mas não estimado.
+
+**Contribuição para o debate:** O capítulo oferece uma refutação empírica e teórica rigorosa das interpretações dependentistas e de exploração estrangeira para o caso ferroviário brasileiro, ao mesmo tempo em que proporciona uma aplicação pioneira da teoria dos jogos cooperativos e da economia política positiva à história econômica latino-americana. Posiciona-se no campo da **nova economia institucional** e da análise de escolha pública aplicada à história.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta é explícita e tripartida; a premissa central é que instituições políticas moldam instituições econômicas — relação causal que precisa ser demonstrada, não apenas afirmada. A interpretação alternativa — que a estrutura de incentivos dos investidores estrangeiros ou a posição na economia mundial explica os resultados — é o alvo explícito de refutação. O ponto mais vulnerável é que a pergunta pressupõe separabilidade entre instituições políticas e econômicas que o próprio texto problematiza no início. | Por quais instituições o Estado imperial promoveu e regulou ferrovias? Como a organização política brasileira determinou a seleção dessas políticas? Quais foram as consequências para a economia? Natureza: explicativa/avaliativa. |
+| Questões Secundárias | A análise de regulação é uma extensão natural da análise de subsídio, compartilhando o mesmo arcabouço teórico; a comparação contrafactual é metodologicamente separada e serve como exercício de validade externa do argumento. | (1) Como o padrão de tarifas de frete foi determinado politicamente? (2) Como arranjos institucionais alternativos (federalismo, monarquia absoluta) teriam alterado os resultados? Relação direta com a pergunta central: ambas são desdobramentos do mecanismo principal. |
+| Puzzle-Type | O puzzle é genuíno: a literatura dependentista dominante continha implicações testáveis que nunca haviam sido sistematicamente avaliadas. A generalização é parcialmente limitada ao centralismo como variação institucional específica, mas o mecanismo de política distributiva é generalizável a outros contextos de escolha pública parlamentar. | Puzzle explicativo: por que o desenvolvimento ferroviário no Brasil imperial gerou retornos substancialmente inferiores ao potencial tecnológico? O texto refuta a explicação padrão (dependência/capital estrangeiro) e substitui por uma explicação institucional-política. |
+| Conclusão / Argumento Central | O *claim of discovery* é bem sustentado pela correlação de 0,89 entre poder de votação e subsídios, pela regressão de tarifas (R²=0,62) e pelo exercício de retorno social. A evidência causal é mais sugestiva que identificada rigorosamente — a correlação pode refletir variáveis omitidas como tamanho econômico provincial. | Tese: os custos de eficiência do sistema ferroviário brasileiro não derivaram do capital estrangeiro ou da dependência, mas da forma como o centralismo político estruturou a política distributiva, alocando subsídios por poder de votação, não por retorno econômico. Argumento causal-institucional com base empírica mista (correlação + regressão + análise de custo-benefício). |
+| Métodos | A mistura de teoria dos jogos cooperativos, análise de custo-benefício histórico e regressão OLS é inovadora para a época (ca. 2000), mas cada técnica tem limitações próprias de identificação. O Shapley-Shubik captura poder estrutural, não preferências ou barganha efetiva. A regressão de tarifas não controla por características das linhas (extensão, topografia, tráfego) que poderiam explicar a variação tarifária independentemente da propriedade. | Estudo histórico-quantitativo; fontes primárias (relatórios ministeriais, legislação imperial, relatórios de companhias); técnicas: índice de Shapley-Shubik, OLS cross-sectional (22 ferrovias), análise de custo-benefício com medida de economias sociais do frete. |
+| Data Generation Process (DGP) | A unidade de análise muda entre seções (província para subsídio, ferrovia para tarifas e retornos), o que implica diferentes DGPs sem sistematização explícita. As fontes são primárias e bem documentadas, mas a agregação das garantias de dividendo como proxy de subsídio pode subestimar valores de linhas não garantidas. | Fenômeno: alocação de subsídios ferroviários e fixação de tarifas → observação: relatórios ministeriais e legislação imperial → coleta: base de dados de garantias e tarifas por ferrovia/província → operacionalização: Gi para subsídios, RATE para tarifas → análise: correlação + regressão + custo-benefício → inferência: causal-institucional qualificada. Unidade de análise: província (subsídios) e ferrovia (tarifas, retornos). |
+| Achados e Contribuições | A correlação de 0,89 é forte, mas não separada de variáveis de confusão como tamanho econômico ou extensão territorial. A regressão de tarifas tem um R² de 0,62, mas com apenas 22 observações e sem controles de demanda ou custo. A análise de retorno social é o elemento mais sofisticado e contribui para a literatura de social savings. | (1) Correlação de 0,89 entre poder de votação provincial e subsídios ferroviários; (2) ferrovias britânicas e governamentais cobram tarifas ~0,17 e ~0,24 milréis/t-km mais baixas que as brasileiras; (3) taxa de retorno social marginal agregada de 4,9% (ligeiro subinvestimento); (4) 75% das linhas individualmente abaixo do limiar de eficiência; (5) custo de realocação equivalente a 3,4% do PIB. Contribuição: pioneirismo na aplicação de teoria dos jogos cooperativos e economia política positiva à história econômica latinoamericana. |
+| Análise Crítica dos Achados | A principal ameaça à identificação é a ausência de controle por tamanho econômico provincial — províncias maiores (Minas, Bahia, Pernambuco) têm tanto mais deputados quanto mais atividade econômica e mais demanda por ferrovias. Sem instrumento ou design quasi-experimental, a correlação não distingue efetivamente poder político de demanda econômica. Na análise de tarifas, a ausência de controles de custos é uma lacuna relevante. | O autor responde à pergunta de forma parcialmente satisfatória. Pontos fortes: refutação empírica direta da hipótese dependentista; formalização clara do mecanismo político. Pontos vulneráveis: identificação causal frágil (correlação vs. causalidade no caso dos subsídios); pequena amostra na regressão de tarifas; métricas de retorno social dependentes de pressupostos sobre transporte contrafactual. A generalizabilidade é limitada a contextos de parlamentos centralizados com regra de maioria e colégios eleitorais geograficamente particionados. |
+| Limitações | A premissa de que poder de votação → subsídios é plausível mas pode refletir endogeneidade (economias maiores → mais deputados → mais demanda ferroviária economicamente justificada). A análise contrafactual é explicitamente conjetural e não testável. | **Reconhecidas pelos autores:** desvios individuais da correlação prevista (ex.: Rio Grande do Sul) requerem análise mais detalhada do processo de formulação de políticas; a análise de retorno em corte transversal para 1887 não é ideal; os cenários contrafactuais são necessariamente conjeturais. <br> **Não reconhecidas ou subestimadas:** ausência de controle por tamanho econômico provincial no modelo de subsídios; potencial endogeneidade entre demanda econômica por ferrovias e representação política; a regressão de tarifas não controla por características operacionais das linhas; a medida de economias sociais depende de pressupostos fortes sobre elasticidade de demanda e transporte alternativo. |
+| Perspectiva Teórica | A combinação de nova economia institucional (North) com teoria da escolha pública (Weingast, Shepsle) é coerente e foi pioneir na história econômica latinoamericana. A ontologia implícita é individualista-metodológica, com legisladores como atores estratégicos racionais — pressuposto razoável mas que abstrai dinâmicas de partido, executivo e pressão de grupos de interesse organizados. | Nova economia institucional (North); teoria da escolha pública e distributiva (Weingast, Shepsle, Buchanan-Tullock); análise de custo-benefício histórico (Fogel, Fishlow); teoria dos jogos cooperativos (Shapley-Shubik). A moldura é adequada à pergunta explicativa; a coerência entre ontologia individualista-racional e métodos quantitativos é alta. |
+| Principais Referências | O diálogo com a literatura dependentista é amplo e explícito; o diálogo com a literatura comparada de regulação ferroviária (além dos EUA) é limitado. A ausência de engajamento com a literatura sobre clientelismo e patrimonialismo brasileiro (Carvalho, Graham) representa lacuna relevante dado o contexto empírico. | Weingast, Shepsle & Johnson (1981) — modelo de política distributiva; Fishlow (1965) — economias sociais ferroviárias nos EUA; Fogel (implícito na metodologia de social savings); Frank (1967), Evans (1979), Burns (1980) — dependentistas criticados; Bates & Lien (1985) — modelo de monarquia absoluta e capital. |
+| Observações | A abordagem pioneira do capítulo abre agenda relevante para a pesquisa em economia política histórica latinoamericana. Para o leitor com interesse em política distributiva, instituições legislativas e desenvolvimento econômico brasileiro, o texto é referência indispensável, especialmente pela aplicação do índice de Shapley-Shubik a dados históricos. Contudo, a análise seria consideravelmente fortalecida por uma estratégia de identificação mais robusta — por exemplo, um design de regressão de descontinuidade baseado em mudanças na representação parlamentar ou variação nos critérios de elegibilidade para garantias de dividendo. | A ausência de análise de mecanismo qualitativa (como rastreamento de processo em casos específicos de negociação de subsídio) é uma lacuna que o próprio autor reconhece marginalmente. A validade externa do argumento principal depende criticamente de o centralismo ser a variação institucional relevante, o que não é demonstrado por comparação sistemática. O argumento sobre regulação diferencial por propriedade é o mais robusto metodologicamente e dialoga diretamente com debates contemporâneos sobre regulação de serviços públicos e captura regulatória. |
+
+:::
