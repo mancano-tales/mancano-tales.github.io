@@ -21,7 +21,7 @@ css: custom.css
 </p>
 
 <p>
-  <a href="COLE_AQUI_SEU_LINK_DO_GOOGLE_SCHOLAR" target="_blank" rel="noopener" class="btn btn-outline-primary" role="button">
+  <a href="https://scholar.google.com/citations?user=UcrcWloAAAAJ&hl=pt-BR" target="_blank" rel="noopener" class="btn btn-outline-primary" role="button">
     <i class="bi bi-mortarboard"></i> View publications on Google Scholar
   </a>
 </p>
