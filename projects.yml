@@ -1,5 +1,5 @@
 - path: https://mancano-tales.github.io/PNAD-Educacao/
-  image: https://raw.githubusercontent.com/mancano-tales/PNAD-Educacao/main/graficos/desigualdade-escolaridade.qmd
+  image: https://www.ibge.gov.br/favicon-96x96.png
   title: "Desigualdade Educacional no Brasil"
   author: Tales Mançano
   subtitle: "Pesquisa pessoal"
@@ -17,5 +17,3 @@
   started: "2024"
   ended: "2025"
   funding: "$0"
-#      date: "2022-10-26"
-#      categories: [] 
