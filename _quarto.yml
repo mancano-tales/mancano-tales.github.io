@@ -64,12 +64,12 @@ website:
         menu:
           - text: List of Publications
             href: publications.qmd
-          - text: Grants
-            href: projects.qmd
       - text: Projects
         menu:
           - text: PNAD Educação
             href: https://mancano-tales.github.io/PNAD-Educacao/
+          - text: Projects
+            href: projects.qmd
             target: _blank
 #      - text: Teaching
 #        href: teaching.qmd
