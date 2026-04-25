@@ -1,13 +1,19 @@
+- path: https://mancano-tales.github.io/PNAD-Educacao/
+  image: https://www.ibge.gov.br/favicon-96x96.png
+  title: "Desigualdade Educacional no Brasil"
+  author: Tales Mançano
+  subtitle: "Pesquisa pessoal"
+  description: "Visualizações interativas sobre desigualdade educacional brasileira com microdados da PNAD e PNAD Contínua (IBGE). Análise de escolaridade por renda, raça e região."
+  started: "2024"
+  ended: ""
+  funding: ""
 
-    - path: https://www.nsf.gov/ 
-      image: https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png
-      title: "Exploring "
-      author: Academic Website
-      subtitle: "Funder"
-      description: "The goal of this project is to investigate ."
-      started: "2024"
-      ended: "2025"
-      funding: "$0"
-#      date: "2022-10-26"
-#      categories: [] 
-
+- path: https://www.nsf.gov/ 
+  image: https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png
+  title: "Exploring "
+  author: Academic Website
+  subtitle: "Funder"
+  description: "The goal of this project is to investigate ."
+  started: "2024"
+  ended: "2025"
+  funding: "$0"
