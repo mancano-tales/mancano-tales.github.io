@@ -65,7 +65,11 @@ website:
           - text: List of Publications
             href: publications.qmd
           - text: Grants
-            href: projects.qmd                                
+            href: projects.qmd
+          - text: "---"
+          - text: "PNAD Educação"
+            href: https://mancano-tales.github.io/PNAD-Educacao/
+            target: _blank                               
 #      - text: Teaching # Comment the Teaching part out to remove the Teaching page
 #        href: teaching.qmd
       - text: Outreach
@@ -143,4 +147,3 @@ format:
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
-
