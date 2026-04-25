@@ -24,3 +24,4 @@ package-lock.json
 .vscode/
 .Rproj.user
 **/*.quarto_ipynb
+.positai
