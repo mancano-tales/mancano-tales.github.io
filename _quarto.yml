@@ -51,7 +51,7 @@ website:
   navbar:
     background: light  # You can change the background color here
 
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
+    left:
 #      - text: Home
 #        href: index.qmd
       - text: About
@@ -59,27 +59,28 @@ website:
           - text: Posts
             href: posts.qmd
           - text: Contact
-            href: contact.qmd             
+            href: contact.qmd
       - text: Research
         menu:
           - text: List of Publications
             href: publications.qmd
           - text: Grants
             href: projects.qmd
-          - text: "---"
-          - text: "PNAD Educação"
+      - text: Projects
+        menu:
+          - text: PNAD Educação
             href: https://mancano-tales.github.io/PNAD-Educacao/
-            target: _blank                               
-#      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+            target: _blank
+#      - text: Teaching
 #        href: teaching.qmd
       - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd   
-#      - text: Group   # Comment the Group part out to remove the Group page
+        menu:
+          - text: Presentations
+            href: posts.qmd
+#      - text: Group
 #        href: people.qmd
 
-    right: 
+    right:
       - text: CV
         href: files/2026-1-02-CV-Mancano-Tales.pdf
       - icon: github
@@ -87,26 +88,26 @@ website:
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
-        target: _blank      
+        target: _blank
       - icon: rss
         href: posts.xml
         target: _blank
   
   page-navigation: true
   
-  page-footer: 
-    left: "[Tales Mançano](http://www.github.com/mancano-tales) &copy; <script>document.write(new Date().getFullYear())</script>" 
+  page-footer:
+    left: "[Tales Mançano](http://www.github.com/mancano-tales) &copy; <script>document.write(new Date().getFullYear())</script>"
     center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
-    right:  
+    right:
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
+      - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
         target: _blank
       - icon: rss
         href: posts.xml
-        target: _blank  
+        target: _blank
   
   search:
     location: navbar
@@ -121,16 +122,16 @@ website:
   
   open-graph: true
   
-  twitter-card: true 
-#  card-style: summary      
+  twitter-card: true
+#  card-style: summary
   
   #site-url: "https://drganghe.github.io/quarto-academic-website-template"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
+    anonymize-ip: true
 
-bibliography: "references.bib" # Add references.bib to the root folder to enable the bibliography function
+bibliography: "references.bib"
 
 format:
   html:
