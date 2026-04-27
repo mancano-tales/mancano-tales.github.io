@@ -153,12 +153,8 @@ https://badge.dimensions.ai/
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="./posts.html#category=posts">
+    <a class="dropdown-item" href="./posts.html">
  <span class="dropdown-text">Posts</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=papers">
- <span class="dropdown-text">Working Papers</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./contact.html">
@@ -175,9 +171,20 @@ https://badge.dimensions.ai/
     <a class="dropdown-item" href="./publications.html">
  <span class="dropdown-text">List of Publications</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Projects</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
         <li>
-    <a class="dropdown-item" href="./projects.html">
- <span class="dropdown-text">Grants</span></a>
+    <a class="dropdown-item" href="https://mancano-tales.github.io/PNAD-Educacao/">
+ <span class="dropdown-text">PNAD Educação</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./projects.html" target="_blank">
+ <span class="dropdown-text">Projects</span></a>
   </li>  
     </ul>
   </li>
@@ -187,7 +194,7 @@ https://badge.dimensions.ai/
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
         <li>
-    <a class="dropdown-item" href="./posts.html#category=presentation">
+    <a class="dropdown-item" href="./posts.html">
  <span class="dropdown-text">Presentations</span></a>
   </li>  
     </ul>
@@ -195,7 +202,7 @@ https://badge.dimensions.ai/
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./files/nsf-biosketch.pdf"> 
+    <a class="nav-link" href="./files/2026-1-02-CV-Mancano-Tales.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
@@ -257,7 +264,34 @@ https://badge.dimensions.ai/
 <!-- 
 Load Academicons v1: https://jpswalsh.github.io/academicons/
 -->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<style>
+.lang-toggle {
+  position: fixed;
+  top: 70px;
+  right: 20px;
+  z-index: 1000;
+}
+.lang-btn {
+  background: transparent;
+  border: 1px solid #666;
+  border-radius: 4px;
+  padding: 5px 12px;
+  margin: 0 2px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+}
+.lang-btn:hover {
+  background: #f0f0f0;
+}
+.lang-btn.active {
+  background: #0366d6;
+  color: white;
+  border-color: #0366d6;
+}
+.lang-content[lang]:not([lang="en"]) { display: none; }
+.lang-content[lang="en"] { display: block; }
+</style><p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
 <p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
 <!---
 The following code are needed to show dimension citation and altmetrics.
@@ -274,7 +308,7 @@ https://badge.dimensions.ai/
 <a href="https://orcid.org/0000-0001-5923-9743" target="_blank" rel="noopener" class="btn btn-primary" role="button"> <i class="bi bi-person-check"></i> View full record on ORCID </a>
 </p>
 <p>
-<a href="COLE_AQUI_SEU_LINK_DO_GOOGLE_SCHOLAR" target="_blank" rel="noopener" class="btn btn-outline-primary" role="button"> <i class="bi bi-mortarboard"></i> View publications on Google Scholar </a>
+<a href="https://scholar.google.com/citations?user=UcrcWloAAAAJ&amp;hl=pt-BR" target="_blank" rel="noopener" class="btn btn-outline-primary" role="button"> <i class="bi bi-mortarboard"></i> View publications on Google Scholar </a>
 </p>
 <!--
 
