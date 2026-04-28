@@ -7,6 +7,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/CATEGORIES.html",
+      "/posts/Annotated-Bib/Garritzmann2026.html",
       "/posts/Annotated-Bib/CostaRibeiro2023.html",
       "/posts/Annotated-Bib/Haber2000Cap3.html",
       "/posts/Annotated-Bib/Moe-Wiborg2017.html",
@@ -77,6 +78,7 @@
     "listing": "/posts.html",
     "items": [
       "/posts/CATEGORIES.html",
+      "/posts/Annotated-Bib/Garritzmann2026.html",
       "/posts/Annotated-Bib/CostaRibeiro2023.html",
       "/posts/Annotated-Bib/Haber2000Cap3.html",
       "/posts/Annotated-Bib/Moe-Wiborg2017.html",

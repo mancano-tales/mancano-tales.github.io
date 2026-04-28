@@ -1,0 +1,219 @@
+---
+title: "Fichamento: From Educational Conflicts to an Educational Cleavage: The Multiple Transformations of Educational Conflicts"
+subtitle: "Garritzmann (2026)"
+author: "Tales Mançano"
+date: "2026-04-28"
+last-updated: "2026-04-28"
+categories: [Annotated Bibliography, Economia Política Comparada, Política da Educação, Teoria de Clivagens, Sociologia Política, Institucionalismo Histórico]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Garritzmann, J. L. (2026). From educational conflicts to an educational cleavage: The multiple transformations of educational conflicts. *West European Politics*, 618–635. https://doi.org/10.1080/01402382.2025.XXXXX
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Garritzmann2026
+
+```bibtex
+@article{Garritzmann2026,
+  author  = {Garritzmann, Julian L.},
+  title   = {From Educational Conflicts to an Educational Cleavage: The Multiple Transformations of Educational Conflicts},
+  year    = {2026},
+  journal = {West European Politics},
+  pages   = {618--635},
+  doi     = {10.1080/01402382.2025.XXXXX},
+}
+```
+
+:::
+
+Última atualização: 2026-04-28  
+Modelo: Perplexity – Claude Sonnet 4.6  
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"  
+Gerado em: 2026-04-28T10:15:00-03:00
+
+---
+
+## Introdução (pp. 618–620)
+
+### Contexto e motivação: educação como variável política central [§1–§2]
+
+O artigo abre situando a educação no cruzamento de múltiplas agendas de pesquisa contemporâneas. Garritzmann observa que a educação tornou-se — talvez — o fator mais decisivo a moldar preferências políticas, percepções, identidades e comportamento eleitoral (Abou-Chadi e Hix 2021; Gethin et al. 2021; Kitschelt e Rehm 2023; Schäfer e Steiner 2025). Essa centralidade mobilizou um debate em andamento sobre se a educação constitui de fato uma **clivagem** plena (Bovens e Wille 2017; Stubager 2008, 2010), uma **clivagem latente** que estrutura a política sem se manifestar explicitamente no discurso (Garritzmann 2024), uma **divisão educacional** (Attewell 2022) ou meramente a base socioestrutura de outras clivagens (Bornschier et al. 2021; Hooghe e Marks 2022, 2025; Kriesi et al. 2008).
+
+O segundo parágrafo posiciona o objetivo do artigo: contribuir para esse debate a partir da perspectiva da literatura estabelecida sobre a política da educação (Ansell 2010; Busemeyer 2015; Busemeyer e Trampusch 2012; Estevez-Abe et al. 2001; Garritzmann 2016; Gingrich 2011; Paglayan 2021; Thelen 2004). Garritzmann argumenta que a atenção crescente à educação como variável política tende a ser **a-histórica**, ignorando que grupos educacionais já moldavam conflitos políticos há séculos. A novidade não é o conflito em si, mas a transformação em sua importância política e nos grupos que se opõem — processo que, segundo o autor, aproximou-se de uma clivagem educacional plena somente com a expansão massiva do ensino superior e a emergência da economia do conhecimento.
+
+### Definição operacional de clivagem e tese central [§3–§5]
+
+::: {.callout-note icon=false}
+**Conceito central:** Para Garritzmann, uma **clivagem** é um conflito político democrático, importante, duradouro, entre grupos socioestruturais (usualmente dois), visível em (1) diferenças socioestruturais de grupo, (2) identidades políticas de grupo e preferências, e (3) alguma forma de organização política. O autor adiciona dois elementos à definição clássica de Bartolini e Mair (1990) e Lipset e Rokkan (1967): importância política e a democracia como condição de escopo.
+:::
+
+O terceiro parágrafo apresenta a definição de clivagem do autor. Garritzmann segue Lipset e Rokkan (1967) e Bartolini e Mair (1990) ao definir clivagens como conflitos políticos duradouros visíveis em diferenças socioestruturais, identidades políticas e organização coletiva. Contudo, ele acrescenta dois elementos que considera apenas implícitos na literatura existente: a importância política do conflito (que deve ser uma das linhas de conflito mais relevantes, estruturando a dinâmica política de modo transversal) e a democracia como condição de escopo. Assim, para qualificar como clivagem, o conflito precisa ser *politically important* e ocorrer em contexto democrático.
+
+O quarto parágrafo antecipa o argumento empírico-histórico. O autor indica que, já na Idade Média, a educação atendia aos três critérios de Bartolini-Mair — grupos socioestruturais distintos, identidades e preferências compartilhadas, e organizações coletivas (as guildas) —, mas que ele *não* consideraria esse período como portador de uma clivagem educacional, pois: (a) o conflito não era uma das linhas de conflito mais importantes do período; e (b) ocorria em contexto pré-democrático. Em seguida, o parágrafo cinco sintetiza as três transformações principais que Garritzmann identificará ao longo do texto: a expansão do ensino primário de massa (séculos XVIII–XIX), a expansão do ensino secundário e da formação profissional (século XX), e a expansão do ensino superior de massa (sobretudo a partir dos anos 1960–2000).
+
+> *"Education-related political conflicts have transformed multiple times, coming closest to a full educational cleavage only with the mass expansion of higher education and the advent of the knowledge economy."* (p. 618)
+
+### Estrutura argumentativa e localização na literatura [§6]
+
+O sexto parágrafo retoma a metáfora de Philip Converse (1972: 324), que afirmou que a educação é "o solvente universal", e a reinterpreta: Garritzmann concorda que a educação tende a tornar-se a variável-mestre da política contemporânea, mas ressalva que *o que* é a educação — ou melhor, *qual aspecto* da educação é relevante e *qual* é o grupo educacional mediano — mudou múltiplas vezes ao longo da história. Por analogia com Marx, o autor propõe uma "história dos conflitos educacionais" como empreitada analítica com mérito próprio, e anota que este artigo esboça os contornos dessa empreitada, convidando outros pesquisadores a desenvolvê-la.
+
+---
+
+## Conflito Educacional antes da Escolarização em Massa (pp. 620–622)
+
+### Educação medieval como bem de luxo e a formação das guildas [§7–§9]
+
+::: {.callout-note icon=false}
+**Contexto histórico:** Na Idade Média, a educação era um bem de luxo raro, inteiramente controlado pela Igreja. Não havia educação pública, nem estados-nação, nem democracia. A imensa maioria da população permanecia analfabeta e sem qualquer escolarização formal.
+:::
+
+O sétimo parágrafo descreve o período medieval. A educação era controlada pela Igreja e acessível apenas a uma fração diminuta da população, que frequentava escolas catedráticas, monásticas, conventuais ou similares (Cubberley 1920). As primeiras universidades foram fundadas já no século XI (Bolonha, Paris, Oxford), mas não devem ser compreendidas em sentido moderno: atendiam exclusivamente à elite religiosa escolástica masculina e ensinavam em latim com foco em conteúdos religiosos e filosóficos. A grande maioria permanecia analfabeta; somente uma minoria urbana (entre 2% e 5% da população urbana, ou 20% da população trabalhadora masculina; Prak e Willis 2019: 11) recebia formação vocacional prática em pequenos negócios domésticos, onde um mestre ensinava e supervisionava um número muito reduzido de jornaleiros e aprendizes, predominantemente homens.
+
+O oitavo parágrafo discute a principal linha de conflito educacional no período pré-escolarização em massa. O autor identifica que a divisão mais importante se dava entre os artesãos vocationalmente qualificados (mestres, jornaleiros e aprendizes) e a grande maioria de trabalhadores não qualificados — não entre os primeiros grupos internamente. A evidência dessa clivagem proto-política reside na fundação das primeiras guildas artesanais já no século X (as *Zünfte* alemãs e as *corporazioni* italianas), que protegiam habilidades e treinamentos (Epstein 1998; Prak e Willis 2019) e os interesses político-econômicos dos artesãos qualificados. Garritzmann cita Thelen (2004) para mostrar que esses arranjos institucionais medievais são cruciais para entender até a política contemporânea: o tipo de guilda e sua interação com a industrialização posterior moldou os sistemas de ensino e o conflito político de cada país até o presente — explicando, por exemplo, por que a Alemanha e outros países da Europa continental mantêm sistemas de aprendizagem (*Berufsausbildung*) enquanto os países anglo-saxões se orientam para a educação acadêmica.
+
+O nono parágrafo formula uma avaliação crítica interna. Garritzmann reconhece que os grupos educacionais medievais satisfaziam os três critérios de Bartolini-Mair: grupos socioeconômicos claramente separados, identidades e preferências coletivas, e formas de organização política (as guildas). Contudo, reafirma que *não* consideraria isso uma clivagem educacional: o conflito não ocorria sob regime democrático e não era uma das principais linhas de conflito político do período.
+
+---
+
+## A Primeira Transformação: Expansão do Ensino Primário em Massa (pp. 622–623)
+
+### Causas e padrões de difusão da escola primária [§10–§11]
+
+O décimo parágrafo contextualiza a emergência do ensino primário de massa. Até o século XVIII, a educação escolar estava inteiramente nas mãos da Igreja e beneficiava apenas uma fração da sociedade; a maioria permanecia sem instrução formal ou recebia formação vocacional em pequenas oficinas. A introdução sistemática e a expansão do ensino primário de massa ocorreram nos séculos XVIII e XIX (com a exceção precoce do estado alemão de Weimar). Os nascentes estados nacionais reconheceram diversas vantagens da educação primária de massa, e a literatura aponta causas que incluem o surgimento dos estados-nação, aumento da capacidade estatal, controle social, mudança tecnológica, comércio, religião, esforços redistributivos, democracia e difusão de políticas (Craig 1981; Ramirez e Boli 1987). Garritzmann enfatiza que a clivagem religiosa que dominava aquele período era também, crucialmente, uma disputa sobre o controle da educação (Lipset e Rokkan 1967: 15), o que torna a política da educação inseparável do sistema de clivagens mais amplo.
+
+O décimo primeiro parágrafo descreve os padrões empíricos dessa expansão, valendo-se da Figura 1 do artigo, que apresenta dados de matrícula educacional para mais de 100 países ao longo de mais de 100 anos (Lee e Lee 2016; dados reproduzidos em Garritzmann et al. 2022b: 254). O painel superior mostra a expansão do ensino primário; o intermediário, do ensino secundário; e o inferior, do ensino superior/terciário. A tendência global de expansão educacional é clara, mas marcadamente desigual entre regiões: a massificação do ensino primário ocorreu muito mais cedo e rapidamente na América do Norte e no norte da Europa, enquanto a Europa do Sul e Leste ficaram atrasadas, e regiões como a África Subsaariana ficaram ainda mais distantes.
+
+### Transformação da linha de conflito: escolarizados vs. não escolarizados [§12–§13]
+
+O décimo segundo parágrafo analisa as implicações políticas da expansão primária. O takeaway central é que, enquanto até o século XVIII a maioria não havia recebido instrução formal, em 1920 a maioria nos países europeus e norte-americanos havia frequentado ao menos alguns anos de escolarização formal. Consequentemente, o grupo educacional mediano mudou: a maioria passou a ter alguma forma de ensino primário, tornando o velho conflito entre não qualificados e artesãos vocationalmente treinados menos relevante. A nova dinâmica política opunha os que tinham instrução escolar formal àqueles que não a tinham. Apesar da ausência de dados de opinião pública micro-nível para esse período, esses grupos diferiam substancialmente em oportunidades de carreira, posição socioeconômica, inclinações ideológicas, acesso a informações políticas e redes sociais — por exemplo, com quem se casavam ou com quem se relacionavam.
+
+O décimo terceiro parágrafo mantém a postura analítica crítica do autor. Garritzmann reconhece que havia grupos socioestruturais claros com identidades e comportamentos diferenciados, mas reafirma que esse conflito ainda *não* constitui uma clivagem educacional: ele não era uma das principais linhas de conflito do período, continuava em era pré-democrática e, além disso, os diferentes grupos educacionais não se organizavam coletivamente em organizações políticas relevantes — ao contrário das guildas anteriores, que forneciam organização clara.
+
+---
+
+## A Segunda Transformação: Expansão do Ensino Secundário e da VET (pp. 623–625)
+
+### A expansão secundária como fenômeno do pós-guerra [§14–§15]
+
+::: {.callout-note icon=false}
+**Dado empírico relevante:** Os EUA foram pioneiros na expansão do ensino secundário, antecipando em 30 a 40 anos outros países da Europa noroeste. O estudo de Goldin e Katz (1997) destaca que cidades ricas da Costa Leste, do Extremo Oeste e das Grandes Planícies americanas lideraram esse processo.
+:::
+
+O décimo quarto parágrafo descreve a segunda onda de expansão educacional. A massificação do ensino secundário é um fenômeno do século XX, ocorrendo sobretudo no pós-Segunda Guerra Mundial, isto é, 100 a 150 anos após a expansão do ensino primário. Ainda que escolas secundárias existissem anteriormente, eram frequentadas por parcelas ínfimas da população. Essa situação mudou rapidamente nas décadas pós-guerra, com a ampliação do acesso à educação secundária, primeiramente nos EUA, na Europa Nórdica e no Nordeste Asiático, e posteriormente em outras regiões europeias e do mundo.
+
+O décimo quinto parágrafo introduz uma dimensão crucial: a variação no *tipo* de ensino secundário recebido. Os dados agregados de matrícula não revelam o tipo de formação secundária. Garritzmann destaca a distinção entre sistemas de *tracking* precoce (como a Alemanha) e tardio (países escandinavos e anglo-saxões), que corresponde ao grau de ênfase na formação vocacional versus acadêmica. Os países de língua alemã mantiveram forte ênfase no treinamento vocacional (sistema dual de aprendizagem; Thelen 2004), enquanto os países anglo-saxões e nórdicos priorizaram a educação acadêmica. Essa diferença não é acidental, mas resultado das respectivas coalizões político-econômicas dominantes (Busemeyer 2015; Busemeyer e Trampusch 2012; Thelen 2004).
+
+### Nova linha de conflito: qualificação acadêmica vs. vocacional [§16–§17]
+
+O décimo sexto parágrafo sintetiza a transformação política causada pela segunda onda. Com a expansão do ensino secundário, o grupo educacional mediano mudou novamente: a diferença principal passou a se situar entre os com educação geral acadêmica e os com formação prática vocacional (*VET*). Esses grupos divergiam amplamente em posições socioeconômicas, oportunidades de carreira, percepções e posturas políticas, redes e interações sociais.
+
+O décimo sétimo parágrafo reafirma, contudo, que Garritzmann ainda não qualifica essa divisão como uma clivagem plena. Embora houvesse grupos socioestruturais claros com preferências e identidades distintas — por exemplo, em comportamento eleitoral e filiação sindical (Garritzmann 2024) —, esses padrões eram claramente superados por outras linhas de conflito político, especialmente pela clivagem de classe e pelas clivagens religiosas (Lipset 1963; Knoke 1979), e, nos EUA em particular, pela raça e etnia. A educação ainda não era uma das principais linhas de conflito político e ainda lhe faltava organização política própria.
+
+---
+
+## A Terceira Transformação: Expansão do Ensino Superior de Massa (pp. 625–627)
+
+### O boom do ensino superior e o papel do GI Bill [§18–§19]
+
+::: {.callout-note icon=false}
+**Marco histórico:** O *GI Bill* (Servicemen's Readjustment Act, 1944) do presidente Roosevelt financiou o acesso ao ensino superior para veteranos de guerra nos EUA, desencadeando uma expansão rápida e massiva da matrícula no ensino superior americano — embora fortemente enviesada em favor de estudantes brancos e do sexo masculino (Humes 2006).
+:::
+
+O décimo oitavo parágrafo traça a terceira onda de expansão educacional. Embora as universidades existissem há quase mil anos, somente uma parcela negligenciável de cada coorte as frequentava até o século XX: mesmo nos países mais avançados, as matrículas estavam abaixo de 10% até a década de 1950 (Trow 1972; Windolf 1997). Os EUA assumiram a liderança diretamente após a Segunda Guerra Mundial; outros países seguiram com décadas de atraso, e a maioria dos países europeus só ultrapassou 50% de matrícula nos anos 1990 ou 2000. Garritzmann ressalva que essa expansão não é um fenômeno autônomo ou meramente demográfico, mas é politicamente conduzida (Ansell 2010; Garritzmann 2016).
+
+O décimo nono parágrafo descreve as implicações políticas da terceira transformação. Com a massificação do ensino superior, a diferença entre os que possuem e os que não possuem educação superior acadêmica tornou-se a principal linha de clivagem entre grupos educacionais. Essa distância crescente é visível em uma ampla gama de preferências e comportamentos políticos (Garritzmann 2024): há um gap crescente entre os com e sem ensino superior em participação política, confiança política e preferências políticas, especialmente na dimensão de valores sociais. Garritzmann é explícito: o ensino superior tornou-se um determinante cada vez mais importante da dinâmica política contemporânea.
+
+### Emergência da clivagem educacional e seus determinantes [§20–§22]
+
+::: {.callout-important}
+**Argumento normativo-analítico central:** Garritzmann postula que é no período da educação superior de massa que os conflitos educacionais começam a se desenvolver em uma clivagem no sentido pleno da definição proposta: há os contornos de uma clivagem educacional (emergente) como conflito político democrático, importante, duradouro, entre grupos socioestruturais, visível em identidades políticas, preferências e organização.
+:::
+
+O vigésimo parágrafo apresenta evidências que sustentam a qualificação desse período como portador de uma clivagem educacional emergente. Grupos educacionais divergem crescentemente em termos de atitudes (Attewell 2022; Cavaille e Marshall 2019; Garritzmann 2024; Schäfer e Steiner 2025), identidades coletivas (Bornschier et al. 2021; Stubager 2009; Zollinger 2024) e comportamento (Dassonneville e Hooghe 2017; Gallego 2015; Garritzmann 2021; Hooghe e Marks 2025), bem como em organização política (Abou-Chadi e Hix 2021; Busemeyer et al. 2013; Kitschelt e Rehm 2023; Gethin et al. 2021; Stubager 2013).
+
+O vigésimo primeiro parágrafo identifica dois aspectos que diferenciam qualitativamente esse período das fases anteriores. Primeiro, a importância política da educação é muito maior do que em períodos anteriores: muitas, senão todas, as áreas e aspectos da política são afetados pela clivagem educacional e a educação tornou-se uma das principais linhas de conflito subjacentes da política contemporânea (Bovens e Wille 2017; Busemeyer et al. 2013; Garritzmann 2024; Stubager 2008, 2010). Em segundo lugar, os atores políticos contemporâneos parecem politizar a clivagem educacional muito mais do que antes: sistemas partidários contemporâneos são crescentemente moldados e estruturados em torno de grupos educacionais (Abou-Chadi e Hix 2021; Kitschelt e Rehm 2023; Gethin et al. 2021). O achado de Hooghe e Marks (2025) — que a educação estrutura os sistemas partidários atuais em grau maior (especialmente na dimensão GAL-TAN) do que a classe o fez na década de 1950 — é considerado notável pelo autor e plenamente consistente com o argumento central do artigo.
+
+O vigésimo segundo parágrafo aponta três fatores que explicam essa transformação qualitativa: (1) a chegada da **sociedade do conhecimento** e da **economia do conhecimento** (Bell 1973), que tornaram a educação e as habilidades a característica mais importante dos sistemas econômicos e sociais contemporâneos (Hall e Soskice 2001; Garritzmann et al. 2022a, 2022b); (2) a **revolução da informação**; e (3) a aceitação generalizada da **meritocracia** (Young 1958), que justifica quaisquer diferenças socioeconômicas relacionadas à educação. Paralelamente, clivagens tradicionais estão em declínio: a clivagem religiosa perde relevância com a secularização massiva e o conflito de classe tornou-se menos saliente e mais complexo com a desindustrialização (Hooghe e Marks 2025). A **clivagem rural-urbana** sobrepõe-se crescentemente à clivagem educacional (Crulli e Emanuele 2025).
+
+### Questões abertas e agenda de pesquisa [§23]
+
+O vigésimo terceiro parágrafo elenca questões ainda não respondidas pela literatura. Permanecem em aberto: se a clivagem educacional emergiu em cada contexto nacional; por que ela emergiu; como e por que se politiza (ou não); qual aspecto do ensino superior conduz essa clivagem; quais são os mecanismos causais exatos; e qual o papel dos atores políticos coletivos. Garritzmann também chama atenção para a necessidade de compreender em que medida a emergência da clivagem educacional foi um processo *top-down* ou *bottom-up*, e considera que responder a essas perguntas poderia constituir uma das agendas de pesquisa mais produtivas para entender a política contemporânea.
+
+---
+
+## Uma Quarta Transformação? Especulações sobre o Futuro (pp. 627–629)
+
+### Saturação da expansão do ensino superior e a hipótese de uma quarta onda [§24–§25]
+
+O vigésimo quarto parágrafo abre uma seção especulativa. Garritzmann questiona se a revolução educacional chegou ao fim: a expansão do ensino superior está se aproximando de níveis universais em alguns países (como a Coreia do Sul). Porém, a perspectiva do autor é que a expansão continuará, pois muitos países ainda não estão próximos de matrículas universais no ensino superior — especialmente países com sistemas fortes de formação vocacional (que retardaram a expansão universitária) e economias em que a demanda por habilidades avançadas ainda é baixa. O mesmo vale para países onde a massificação do ensino superior ainda está em seus primórdios (ver Figura 1). Embora haja sinais de desaceleração em alguns contextos — ligados a desaceleração econômica e ao fortalecimento de partidos de extrema-direita céticos em relação ao ensino superior —, a tendência global ainda aponta para expansão, sem sinais de reversão.
+
+O vigésimo quinto parágrafo articula a hipótese de uma **quarta transformação**. À medida que parcelas cada vez maiores da população se graduam no ensino superior, a distinção entre ter ou não essa formação torna-se menos relevante. O que passa a ser mais importante é *que tipo* de ensino superior foi cursado. Garritzmann identifica dois aspectos especialmente relevantes: (1) a **área de estudo** — contribuições recentes (van de Werfhorst e de Graaf 2004; Hooghe et al. 2025; Eisenring 2025) já documentam diferenças significativas entre graduados de ciências sociais/humanidades e ciências naturais/engenharia; raízes desse argumento encontram-se na Escola de Frankfurt (Adorno et al. 1993 [1950]), que teorizou relações entre formação em engenharia e apoio ao autoritarismo; e (2) o **tipo de instituição de ensino superior** — se o graduado frequentou uma faculdade de massa ou de elite, instituição pública ou privada, universidade mais ou menos prestigiada ou grande versus pequena.
+
+### Conflito intra-ensino superior como nova fronteira [§26]
+
+O vigésimo sexto parágrafo antecipa as implicações da quarta transformação. Essas diferenças sempre existiram, mas tendem a tornar-se crescentemente politicamente relevantes e salientes à medida que a matrícula no ensino superior se amplifica. Garritzmann antevê um **conflito intra-ensino superior** como a nova fronteira da clivagem educacional, um desdobramento que ainda requer atenção empírica sistemática.
+
+---
+
+## As Múltiplas Transformações dos Conflitos Educacionais — Conclusão (pp. 629–630)
+
+### Síntese histórica e qualificação da clivagem atual [§27–§28]
+
+::: {.callout-tip}
+**Implicação interpretativa:** O autor não nega que a educação sempre importou politicamente, mas argumenta que somente na era do ensino superior de massa o conflito educacional adquiriu as propriedades de uma clivagem plena — importância política transversal, caráter democrático e organização política visível — distinguindo-o de todos os conflitos educacionais anteriores.
+:::
+
+O vigésimo sétimo parágrafo retoma o fio argumentativo central do texto. Garritzmann reitera que, embora a crescente relevância política da educação seja de fato um fenômeno *novo* que merece atenção acadêmica muito maior, a existência de conflitos entre grupos educacionais não é nova: há uma longa história que remonta ao menos à Idade Média. O que é qualitativamente novo é o conjunto de propriedades que tornam o conflito contemporâneo uma clivagem: é um conflito sistemático, duradouro, importante e democrático entre grupos socioestruturalmente definidos que compartilham preferências, identidades e comportamento político, e que se tornam cada vez mais visíveis organizacionalmente, sobretudo em partidos políticos.
+
+O vigésimo oitavo parágrafo reconhece que muito mais trabalho empírico e teórico é necessário. Garritzmann elenca três lacunas principais: (1) compreender *por que e como* as clivagens emergem — como interagem mudanças socioestruturais e atores políticos na formação de clivagens; (2) determinar *quando exatamente* e *em quais contextos* a clivagem educacional emergiu, dada a variação na temporalidade e extensão da expansão educacional entre países; e (3) explorar a *variação subnacional* nos padrões de expansão educacional e nas dinâmicas de clivagem resultantes.
+
+### Agenda futura: clivagem educacional em interação com outras clivagens [§29]
+
+O vigésimo nono parágrafo e último tópico do texto apela por uma abordagem sistêmica inspirada em Lipset e Rokkan (1967). Garritzmann argumenta que a clivagem educacional não existe isoladamente, mas interage e interseciona com outras clivagens cruciais — como a clivagem rural-urbana, a clivagem de classe e outras (Bornschier et al. 2021; Crulli e Emanuele 2025; Hooghe e Marks 2025; Schäfer e Steiner 2025; Zollinger e Attewell 2025). Uma agenda futura deveria retornar à perspectiva dos *sistemas de clivagem* de Lipset e Rokkan para explorar a importância relativa das clivagens, identificar quando, como e por que cada uma torna-se mais ou menos relevante, e como elas interagem e se interseccionam. O artigo busca contribuir para essa agenda contextualizando a emergência da clivagem educacional em perspectiva histórica de longa duração.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central:** Os conflitos educacionais são historicamente antigos — remontam ao menos à Idade Média —, mas somente com a expansão de massa do ensino superior e a emergência da economia do conhecimento eles se transformaram em uma *clivagem educacional* plena (ainda que latente), caracterizada por importância política transversal, caráter democrático e organização política visível.
+
+**Natureza do argumento:** O argumento é predominantemente *conceitual-histórico* e *descritivo-tipológico*: Garritzmann refina o conceito de clivagem (adicionando dois critérios à definição clássica de Bartolini-Mair), aplica-o retrospectivamente a diferentes períodos históricos, e identifica três (ou potencialmente quatro) transformações estruturais nos conflitos educacionais vinculadas a ondas de expansão do sistema de ensino.
+
+**O que o texto demonstra vs. o que permanece como hipótese:** O texto *demonstra* — com base em evidências históricas e dados agregados de expansão educacional — que houve múltiplas transformações nas linhas de conflito entre grupos educacionais. *Permanece como hipótese* ou agenda empírica: se a clivagem educacional emergiu em todos os contextos nacionais; quais são os mecanismos causais precisos de sua emergência e politização; e se a quarta transformação (conflito intra-ensino superior) está se materializando sistematicamente.
+
+**Contribuição para o debate:** O texto contribui para a literatura sobre clivagens ao (a) historicizar a clivagem educacional, resgatando seu caráter de fenômeno emergente e não dado; (b) refinar o conceito de clivagem com dois critérios adicionais (importância política e democracia como condição de escopo); e (c) propor uma agenda de pesquisa que conecta a literatura de política da educação à literatura de comportamento político e sociologia das clivagens.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | O puzzle parte de uma tensão entre a recente hipervisibilidade da educação na ciência política comportamental e a relativa a-historicidade dessa literatura. A premissa implícita é de que "o que é novo" foi mal delimitado: o conflito em si não é novo, mas suas propriedades como clivagem são. O ponto mais vulnerável é que a questão é reconstruída pelo próprio autor com base em sua avaliação crítica da literatura existente, não derivada de um fenômeno observável bem delimitado. | Como e por que os conflitos educacionais se transformaram ao longo do tempo e em que medida a dinâmica atual pode ser qualificada como uma clivagem educacional? Natureza: descritivo-conceitual. Pergunta parcialmente implícita no texto; reconstruída como: "Qual é a trajetória histórica dos conflitos educacionais e quando — e por que — eles se transformaram em uma clivagem?" |
+| Questões Secundárias | A heterogeneidade dessas perguntas secundárias é sinal tanto da amplitude da contribuição quanto de sua natureza exploratória e parcialmente programática. | (1) Qual a diferença analítica entre conflito educacional e clivagem educacional? (2) Quais transformações históricas mediaram a mudança nas linhas de conflito entre grupos educacionais? (3) Existe uma quarta transformação em curso à medida que a distinção intra-ensino superior se politiza? (4) Como a clivagem educacional interage com clivagens tradicionais (classe, religião, rural-urbana)? |
+| Puzzle-Type | O puzzle é genuíno e generalizável: a tensão entre a a-historicidade da literatura de clivagens contemporânea e a longa duração dos conflitos educacionais é real e produtiva. Contudo, o puzzle não é plenamente *empírico* — trata-se mais de uma lacuna analítica e conceitual do que de uma contradição entre expectativa teórica e evidência. | Puzzle conceitual e descritivo: há uma lacuna analítica entre a literatura de política da educação (que conhece bem a história institucional do ensino) e a literatura de clivagens e comportamento político (que trata a clivagem educacional como fenômeno recente). O artigo busca conectar essas duas tradições por meio de uma tipologia histórica das transformações dos conflitos educacionais. |
+| Conclusão / Argumento Central | O *claim of discovery* principal — que os conflitos educacionais medievais já satisfaziam os critérios de Bartolini-Mair, mas não os dois critérios adicionais do autor — depende inteiramente da validade e da aceitação desses dois critérios adicionais. Se a literatura não aceitar os critérios de "importância política" e "democracia como condição de escopo", o argumento se enfraquece consideravelmente. | A tese central é conceitual-histórica: os conflitos educacionais sempre existiram, mas somente com a expansão massiva do ensino superior e a chegada da economia do conhecimento eles adquiriram as propriedades de uma clivagem plena. O *claim* de que há três transformações históricas identificáveis é sustentado por dados de expansão educacional agregados; o *claim* de que a terceira transformação origina uma clivagem (latente) é mais especulativo e depende de evidências empíricas ainda em construção. |
+| Métodos | O artigo é essencialmente teórico-argumentativo. A principal limitação metodológica não reconhecida pelo autor é a ausência de operacionalização sistemática dos critérios que definiriam quando cada "transformação" ocorre: os limites temporais são narrativos, não derivados de dados. | Ensaio teórico-histórico (research note). Estratégia argumentativa: (1) refinamento conceitual da definição de clivagem; (2) aplicação retrospectiva desse conceito a períodos históricos com base em literatura secundária e história institucional; (3) mobilização de dados de matrícula educacional agregados (Lee e Lee 2016; reproduzidos em Garritzmann et al. 2022b) como evidência descritiva de suporte; (4) revisão crítica da literatura de clivagens e de política da educação. |
+| Data Generation Process (DGP) | O DGP é heterogêneo e ecleticamente montado: combina história institucional qualitativa para os períodos medieval e pré-moderno com dados quantitativos de matrícula agregada para os períodos mais recentes, sem integração metodológica explícita. A inferência é predominantemente dedutiva-conceitual, com evidência empírica de suporte secundário. | Fenômeno: conflitos políticos entre grupos educacionais ao longo do tempo → Observação: literatura histórica e institucional secundária (Thelen 2004; Cubberley 1920; Epstein 1998) + dados de matrícula educacional (Lee e Lee 2016) → Operacionalização: aplicação dos critérios da definição de clivagem a cada período → Análise: argumento histórico-narrativo + figura descritiva de tendências de matrícula → Inferência: tipológico-descritiva. Unidade de análise: sistemas educacionais nacionais e grupos educacionais como coletividades. Nível de agregação: nacional/histórico-comparativo. |
+| Achados e Contribuições | A contribuição conceitual (redefinição de clivagem) e a síntese histórica tipológica são as contribuições mais sólidas. O achado sobre a "quarta transformação" é especulativo por design. A articulação entre a literatura de política da educação e a de clivagens é uma contribuição programática relevante para a agenda de pesquisa. | **Achados:** (1) Identificação de três transformações históricas nos conflitos educacionais vinculadas a ondas de expansão do ensino; (2) somente a terceira transformação (ensino superior de massa) produz os contornos de uma clivagem educacional; (3) a quarta transformação hipotética aponta para conflitos *intra*-ensino superior (área de estudo e tipo de instituição). **Contribuições teóricas:** refinamento do conceito de clivagem com dois critérios adicionais; historicização da clivagem educacional; agenda de pesquisa conectando política da educação a comportamento político. |
+| Análise Crítica dos Achados | Os pontos mais sólidos são o refinamento conceitual e a síntese histórica. O ponto mais vulnerável é a ausência de evidência direta para os períodos pré-modernos nos termos operacionais próprios do autor. Além disso, a afirmação de que a clivagem educacional estrutura a política "em todos os aspectos" é ampla e não sustentada por evidências sistemáticas dentro do próprio artigo. | O autor responde parcialmente à questão proposta: demonstra com plausibilidade que os conflitos educacionais passaram por transformações históricas, mas a afirmação de que estamos diante de uma clivagem educacional plena (ainda que latente) na terceira transformação permanece dependente de evidências empíricas externas ao artigo. Ameaças à validade: (1) os critérios adicionais (importância política, democracia) são normativos e sujeitos a debate; (2) a generalização histórica para contextos não-OCDE é explicitamente descartada pelo autor (nota 1), limitando a validade externa; (3) a causalidade entre expansão educacional e transformação do conflito é afirmada, não demonstrada. |
+| Limitações | Os critérios adicionais à definição de Bartolini-Mair são apresentados como contribuição, não como escolha sujeita a questionamento, o que subtrai espaço para avaliação da robustez conceitual. | **Reconhecidas pelos autores:** Foco restrito às democracias OCDE ocidentais (nota 1); ausência de dados de opinião pública micro-nível para períodos pré-democráticos; necessidade de muito mais análise empírica sistemática para demonstrar a clivagem educacional em comparação cross-nacional e temporal. <br> **Não reconhecidas ou subestimadas:** Ausência de operacionalização dos marcos temporais das transformações; uso eclético e não integrado de fontes históricas qualitativas e dados quantitativos; desconsideração do papel do gênero e da raça na estruturação dos conflitos educacionais historicamente (mencionada brevemente para o GI Bill, mas não integrada ao argumento); ausência de discussão sobre *como* o autor distingue empiricamente "importância política" de uma clivagem das demais linhas de conflito. |
+| Perspectiva Teórica | O diálogo entre institucionalismo histórico (Thelen 2004) e teoria de clivagens (Lipset e Rokkan 1967; Bartolini e Mair 1990) é produtivo, mas assimétrico: o primeiro serve apenas como plano de fundo histórico; o segundo é o referencial operativo central. A ontologia implícita é estruturalista moderada, consistente com o método histórico-comparativo. | Institucionalismo histórico (Thelen 2004; Busemeyer 2015) para a dimensão histórico-comparativa dos sistemas educacionais; teoria de clivagens (Lipset e Rokkan 1967; Bartolini e Mair 1990) para o referencial conceitual central; economia política comparada do ensino (Ansell 2010; Garritzmann 2016; Busemeyer e Trampusch 2012) para o contexto analítico. A moldura é adequada ao tipo de pergunta e a ontologia implícita (grupos socioestruturais como atores coletivos portadores de interesses e identidades) é coerente com o método histórico-narrativo. |
+| Principais Referências | O diálogo com a literatura de comportamento político (e.g., Gethin et al. 2021; Abou-Chadi e Hix 2021) é presente, mas mais ilustrativo do que crítico. A relação com literaturas sobre raça, gênero e educação é ausente, o que é uma lacuna notável dado o argumento histórico. | Bartolini e Mair (1990) — definição de clivagem; Lipset e Rokkan (1967) — teoria de sistemas de clivagem; Thelen (2004) — institucionalismo histórico e formação vocacional; Busemeyer (2015); Busemeyer e Trampusch (2012) — economia política da educação; Garritzmann (2024) — clivagem educacional latente; Ansell (2010) — política redistributiva da educação; Paglayan (2021) — origens não-democráticas da educação de massa; Lee e Lee (2016) — dados de expansão educacional. |
+| Observações | O artigo é um *research note* posicionado em número especial sobre clivagens em *West European Politics*, o que explica seu caráter programático e sua extensão relativamente breve. Para o leitor interessado em política da educação brasileira ou latino-americana, o foco exclusivo no mundo OCDE é uma limitação significativa, mas as transformações tipológicas propostas oferecem um *template* analítico potencialmente aplicável a contextos de expansão tardia do ensino superior. A proposta de uma quarta transformação relacionada à área de estudo e ao tipo de instituição de ensino superior é especialmente relevante para pesquisas sobre estratificação educacional e comportamento político em economias emergentes. | O artigo é conciso e programático por design. Sua principal contribuição é conceitual e de agenda, não empírica. A validade externa é limitada ao mundo OCDE por escolha do autor. O argumento de que a clivagem educacional "estrutura a política em todos os aspectos" carece de suporte sistemático dentro do próprio texto. A tensão entre a ambição histórica ampla do argumento e a brevidade da *research note* é palpável e poderia ser resolvida em trabalho subsequente de maior escopo. |
+
+:::
