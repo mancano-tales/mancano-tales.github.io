@@ -66,11 +66,13 @@ website:
             href: publications.qmd
       - text: Projects
         menu:
+          - text: Dissertação de Mestrado (FAPESP)
+            href: https://mancano-tales.github.io/Mancano2026-MA-Thesis/
+            target: _blank
           - text: PNAD Educação
             href: https://mancano-tales.github.io/PNAD-Educacao/
           - text: Projects
             href: projects.qmd
-            target: _blank
 #      - text: Teaching
 #        href: teaching.qmd
       - text: Outreach
