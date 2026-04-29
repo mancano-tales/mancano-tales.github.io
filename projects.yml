@@ -1,3 +1,13 @@
+- path: https://mancano-tales.github.io/Mancano2026-MA-Thesis/
+  image: https://www.fapesp.br/favicon.ico
+  title: "Dissertação de Mestrado"
+  author: Tales Mançano
+  subtitle: "USP / FAPESP"
+  description: "Reformas educacionais e desigualdade no Brasil pós-redemocratização. Análise histórico-institucional das políticas de ensino médio (1990–2020)."
+  started: "2024"
+  ended: ""
+  funding: "FAPESP"
+
 - path: https://mancano-tales.github.io/PNAD-Educacao/
   image: https://www.ibge.gov.br/favicon-96x96.png
   title: "Desigualdade Educacional no Brasil"
@@ -7,13 +17,3 @@
   started: "2024"
   ended: ""
   funding: ""
-
-- path: https://www.nsf.gov/ 
-  image: https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png
-  title: "Exploring "
-  author: Academic Website
-  subtitle: "Funder"
-  description: "The goal of this project is to investigate ."
-  started: "2024"
-  ended: "2025"
-  funding: "$0"
