@@ -1,0 +1,107 @@
+---
+title: "Fichamento: Sorting Out the Mixed Economy: The Rise and Fall of Welfare and Developmental States in the Americas"
+subtitle: "Amy C. Offner (2019)"
+author: "Tales Mançano"
+date: "2026-04-29"
+last-updated: "2026-04-29"
+categories:
+  - Annotated Bibliography
+  - Political Economy
+  - Historical Sociology
+  - Transnational History
+  - Latin American Studies
+  - U.S. Welfare State
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+::: {.callout-note collapse="true" icon=false}
+## Referência APA7
+
+Offner, A. C. (2019). *Sorting out the mixed economy: The rise and fall of welfare and developmental states in the Americas*. Princeton University Press.
+
+## Entrada BibTeX → Offner2019
+
+```bibtex
+@book{Offner2019,
+  author    = {Offner, Amy C.},
+  title     = {Sorting out the mixed economy: The rise and fall of welfare and developmental states in the Americas},
+  year      = {2019},
+  publisher = {Princeton University Press},
+  address   = {Princeton}
+}
+```
+:::
+
+Última atualização: 2026-04-29  
+Modelo: Qwen3 Max (Qwen, 2026-04-29)  
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"  
+Gerado em: 2026-04-29T20:15:00-03:00
+
+---
+
+## Introdução (pp. 1–18)
+
+### Anúncio do fim de uma era e o puzzle da desmontagem do estado de meados do século [§1–§2]
+
+Offner abre o livro com uma citação de David Lilienthal, ex-presidente da TVA, anunciando em 1976 que os slogans do New Deal e da Grande Sociedade haviam se tornado irrelevantes. A autora apresenta o **puzzle central**: por que justamente as ideias e práticas que construíram os estados de bem-estar e desenvolvimentistas de meados do século XX serviram, décadas depois, para desmontá‑los? A transformação das economias políticas capitalistas nas últimas décadas do século XX envolveu austeridade fiscal, privatização, desregulamentação e descentralização, mas Offner sustenta que as origens dessas medidas não estão apenas em movimentos de direita ou em choques externos, e sim em contradições internas das próprias políticas estatais do pós‑guerra.
+
+### A trajetória de Lilienthal e a circulação hemisférica de políticas [§3–§6]
+
+Lilienthal, que havia sido tanto um construtor do New Deal quanto um conselheiro de desenvolvimento no Terceiro Mundo, personifica a tese da autora: ele ajudou a criar instrumentos que mais tarde seriam reaproveitados com finalidades opostas. Offner argumenta que os estados de bem-estar nos EUA e os estados desenvolvimentistas na América Latina não podem ser compreendidos isoladamente; suas trajetórias estão entrelaçadas por décadas de trocas de políticas, assessores e ideias. O livro percorre o hemisfério americano, mostrando como as práticas de descentralização, delegação a agentes privados e provisão social austera migraram entre o “Primeiro” e o “Terceiro” Mundo, gerando contradições que, com as crises das décadas de 1970 e 1980, puderam ser “separadas” (*sorted out*) para sustentar ordens distintas — keynesiana/desenvolvimentista de um lado, neoliberal de outro.
+
+### A América Latina como Terceiro Mundo peculiar e a centralidade da Colômbia [§7–§10]
+
+A autora situa a América Latina como um caso singular: a única região a conquistar a independência na Era das Revoluções e terminar como parte do Terceiro Mundo. Durante a Grande Depressão e a Segunda Guerra, a região desenvolveu a industrialização por substituição de importações (ISI) e o estruturalismo econômico, que se tornaram referências para a descolonização afro-asiática. A Colômbia recebe atenção especial porque, apesar de pouco estudada em comparação com outros países latino-americanos, foi um “laboratório” de políticas de desenvolvimento: recebeu a primeira missão abrangente do Banco Mundial (1949), foi a maior receptora per capita de empréstimos do Banco nas décadas seguintes e tornou-se vitrine da Aliança para o Progresso. Conselheiros como Lauchlin Currie, Albert Hirschman e o próprio Lilienthal tiveram na Colômbia sua primeira experiência direta com o “Terceiro Mundo”, que moldou suas ideias e carreiras.
+
+### A dupla concepção de pobreza e suas consequências políticas [§11–§13]
+
+Offner identifica uma divergência crucial entre EUA e América Latina quanto ao entendimento da pobreza. Enquanto os latino-americanos, sob a influência do estruturalismo, viam a pobreza nacional como um problema de ordem macroeconômica e de inserção internacional, os norte‑americanos, a partir dos anos 1950, passaram a enxergar a pobreza como “bolsões” dentro de uma economia saudável, um problema social e não estrutural. Essa diferença teve implicações profundas: nos EUA, as políticas de combate à pobreza concentraram-se no *welfare state*, com foco nos pobres, e não numa reestruturação macroeconômica; já na América Latina, o desenvolvimento foi concebido como transformação estrutural da economia nacional.
+
+### As contradições da “economia mista” e a tese do livro [§14–§18]
+
+O conceito de **economia mista** é central para a análise. Offner define-o como o espaço imaginado entre o laissez-faire e o socialismo, onde proliferaram arranjos híbridos: estados que cresceram delegando funções a entes locais e privados, mobilizaram trabalho voluntário e dependeram de empresários como gestores do interesse público. Essas práticas não eram meros desvios do modelo ideal de estado forte, mas sim sua condição de existência sob restrições fiscais e ideológicas. A tese do livro é que, quando as crises dos anos 1970 e 1980 eclodiram, os atores não simplesmente substituíram um conjunto de ideias por outro; eles “ordenaram” (*sorted out*) os elementos da economia mista, destruindo alguns, reimplantando outros e redefinindo‑os retrospectivamente.
+
+### Estrutura do livro [§19–§21]
+
+A obra se divide em três partes. A Parte I, “Construindo o Estado Descentralizado”, examina projetos emblemáticos na Colômbia — a corporação regional do Vale do Cauca (CVC), a reforma agrária e a construção de moradias — para mostrar como o estado colombiano assumiu novas responsabilidades por meio da delegação regional e privada. A Parte II, “Guardiões do Estado”, analisa a formação das profissões de economista e administrador de empresas, revelando tensões entre o público e o privado que permearam a construção estatal. A Parte III, “Olhando para Fora”, segue a migração dessas experiências de volta aos EUA, especialmente na Guerra contra a Pobreza, e sua reconfiguração nos anos neoliberais.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+A tese central do livro é que as práticas que constrõem os estados de bem-estar e desenvolvimentistas de meados do século XX — descentralização, parcerias público‑privadas, provisão social austera — continham contradições internas que, mais tarde, permitiram sua rearticulação para propósitos opostos, contribuindo para a desmontagem desses mesmos estados. A natureza do argumento é causal e histórica: Offner demonstra, por meio de uma narrativa transnacional ancorada em arquivos de EUA e Colômbia, como políticas e ideias circularam entre o “Primeiro” e o “Terceiro” Mundo, gerando formas de estado híbridas que foram “triadas” durante as crises dos anos 1970‑1990. O livro evidencia que as origens do neoliberalismo não estão apenas em ataques externos ao estado, mas em elementos já presentes nas economias mistas do pós‑guerra. Ao fazê‑lo, oferece uma contribuição original ao debate sobre a periodização e as causas da transformação da economia política capitalista, deslocando o foco da influência unilateral do Norte sobre o Sul para um processo hemisférico de coconstituição.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v12.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta central é causal‑histórica: como práticas de construção estatal de meados do século contribuíram para a desmontagem dos estados que ajudaram a erguer. A autora rejeita narrativas de ruptura pura, insistindo na importância de contradições internas e de circulação transnacional. O ponto mais vulnerável é a dificuldade de isolar o peso relativo dessas contradições frente a outros fatores na transição neoliberal. | Como as políticas e arranjos institucionais que construíram os estados de bem-estar (EUA) e desenvolvimentistas (América Latina) entre 1930 e 1960 se transformaram em instrumentos de sua própria desconstrução a partir dos anos 1970? Trata-se de uma pergunta explicativa. |
+| Questões Secundárias | As perguntas secundárias investigam: (1) De que modo a circulação de ideias e políticas entre EUA e América Latina moldou as economias mistas nas duas regiões? (2) Como variações na definição de pobreza em cada região condicionaram as respostas estatais? (3) De que forma a profissionalização de economistas e administradores afetou a condução do estado desenvolvimentista? Todas se articulam à questão central, fornecendo os mecanismos causais. | |
+| Puzzle-Type | O puzzle é de mudança institucional e de reatribuição de significado. Offner questiona a visão de que o neoliberalismo foi uma “contrarrevolução” externa ao estado keynesiano/desenvolvimentista. Em vez disso, mostra que práticas hoje consideradas neoliberais já estavam incrustadas nas economias mistas do pós‑guerra. O desafio é demonstrar que a continuidade das práticas não implica continuidade de significado — a triagem (*sorting*) é tanto material quanto simbólica. O puzzle é genuíno, mas seu alcance explicativo depende de quão representativa é a experiência colombiana dentro da América Latina. | Puzzle de transformação por reconfiguração de elementos internos, com forte componente ideacional (ressignificação de políticas). |
+| Conclusão / Argumento Central | A conclusão é que a ordem neoliberal emergente não foi uma invenção ex nihilo, mas uma recombinação parasitária de práticas gestadas no interior das economias mistas. O claim of discovery está na demonstração empírica de que políticas de descentralização, autoconstrução habitacional e contratação de serviços sociais com fins lucrativos — marcas do neoliberalismo — tiveram vidas anteriores como políticas desenvolvimentistas. O sustento do argumento vem de uma historiografia transnacional detalhada, focada na Colômbia e nos EUA. | A tese é de cocausação interna‑externa: as crises dos anos 1970 atuaram como filtro que separou elementos da economia mista, redefinindo alguns como keynesianos e outros como neoliberais. |
+| Métodos | Estudo histórico comparativo e transnacional. Fontes: arquivos colombianos (Bogotá, Cali, arquivos da CVC), arquivos norte‑americanos (NARA, presidenciais, fundações), entrevistas orais. Técnica: process‑tracing com múltiplos casos interligados (CVC, reforma agrária, Ciudad Kennedy, universidades, programas de treinamento nos EUA). Limitação: a seleção de casos privilegia contextos onde a influência norte‑americana foi intensa, o que pode superestimar o papel dos EUA na coconstituição das políticas, mesmo que a autora tente equilibrar com a agência latino‑americana. | Historiografia arquivística multissituada; combinação de análise institucional, de trajetórias e de circulação de ideias. |
+| Data Generation Process (DGP) | Fenômeno real → seleção de projetos emblemáticos (CVC, reforma agrária, habitação, formação de economistas) → coleta de documentos governamentais, cartas, relatórios de fundações → análise qualitativa de processos decisórios, conflitos e discursos → inferência causal por process‑tracing dentro e entre os países. Unidade de análise: projetos, instituições e trajetórias individuais. Nível de agregação varia do micro (uma família em Ciudad Kennedy) ao macro (reformas constitucionais colombianas). | |
+| Achados e Contribuições | 1) Demonstração da “vida dupla” de políticas como a autoconstrução habitacional e a contratação de serviços sociais com fins lucrativos. 2) Evidência de que a descentralização fiscal e administrativa foi promovida por reformadores desenvolvimentistas, não apenas por neoliberais. 3) Revelação do papel de empresários colombianos e norte‑americanos como “empreendedores sociais” dentro do estado. 4) Contribuição para a sociologia das profissões ao mostrar a disputa entre economistas e administradores pela autoridade sobre o estado. 5) Refinamento do conceito de neoliberalismo como processo histórico de triagem. | |
+| Análise Crítica dos Achados | A autora responde adequadamente à sua pergunta, demonstrando com riqueza de exemplos como práticas “neoliberais” emergiram de arranjos desenvolvimentistas. O ponto mais forte é a articulação entre os níveis micro (projetos) e macro (estrutura do estado). A vulnerabilidade está na difícil demonstração de que a triagem foi o mecanismo dominante, em vez de outros processos concomitantes (pressão dos credores, mudança na geopolítica). Além disso, a generalizabilidade para além do eixo EUA‑Colômbia fica como hipótese; o caso colombiano é “showcase”, mas ao mesmo tempo a autora argumenta que ele não é excepcional — seria importante testar em países onde a influência norte‑americana foi menor. | |
+| Limitações | **Reconhecidas pelos autores:** Offner não reivindica que a triagem explica tudo; ela enfatiza que o livro não é sobre neoliberalismo, mas sobre as economias mistas que o precederam. Reconhece que há outras narrativas (direita, crises) que não são negadas, mas complementadas. <br> **Não reconhecidas ou subestimadas:** A seleção dos casos dentro da Colômbia (CVC, Valle del Cauca) pode enviesar a análise para regiões mais ricas e conectadas ao capital internacional, subestimando variações internas. A ênfase em políticas “austéras” de desenvolvimento pode ser lida como subestimando o caráter redistributivo de outras políticas do período (ex.: reforma agrária em outros países). | |
+| Perspectiva Teórica | A obra se insere na história transnacional e na economia política histórica, dialogando com a sociologia weberiana do estado, a teoria da dependência (ao destacar a agência latino‑americana) e a literatura sobre neoliberalismo. A ontologia implícita é de que as instituições são campos de luta e repositórios de contradições. A abordagem é coerente com o método: a ênfase em agência, trajetórias e circulação de ideias combina bem com o process‑tracing qualitativo. | |
+| Principais Referências | Hirschman, A. O.; Currie, L.; Lilienthal, D. E.; Polanyi, K. (implícito na discussão sobre embeddedness); Hayek, F. (como contraponto); literatura sobre neoliberalismo (Harvey, Mirowski, Bockman). O diálogo com a literatura é amplo e bem equilibrado, embora a vertente mais quantitativa sobre os determinantes da transição neoliberal não seja diretamente engajada. | |
+| Observações | O livro é uma contribuição fundamental para repensar a periodização do século XX. Sua ênfase na “triagem” pode inspirar pesquisas sobre outros pares de políticas que viajaram entre Norte e Sul. Uma omissão relevante é a discussão sobre o papel do sistema financeiro internacional como agente ativo nessa triagem, para além do Estado e das fundações. Para o leitor brasileiro, a analogia com a atuação de economistas formados pela PUC‑Rio ou FGV nos anos 1980‑1990 seria um teste de validade externa. | |
+:::
+```

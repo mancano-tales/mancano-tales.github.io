@@ -7,6 +7,9 @@
     "listing": "/index.html",
     "items": [
       "/posts/CATEGORIES.html",
+      "/posts/Annotated-Bib/Feinmann-Rocha2026.html",
+      "/posts/Annotated-Bib/Mariscal-Sokoloff2000.html",
+      "/posts/Annotated-Bib/Offner2019Qwen.html",
       "/posts/Annotated-Bib/Garritzmann2026.html",
       "/posts/Annotated-Bib/Kosack2013.html",
       "/posts/Annotated-Bib/CostaRibeiro2023.html",
@@ -79,6 +82,9 @@
     "listing": "/posts.html",
     "items": [
       "/posts/CATEGORIES.html",
+      "/posts/Annotated-Bib/Feinmann-Rocha2026.html",
+      "/posts/Annotated-Bib/Mariscal-Sokoloff2000.html",
+      "/posts/Annotated-Bib/Offner2019Qwen.html",
       "/posts/Annotated-Bib/Garritzmann2026.html",
       "/posts/Annotated-Bib/Kosack2013.html",
       "/posts/Annotated-Bib/CostaRibeiro2023.html",
