@@ -1,0 +1,277 @@
+---
+title: "Fichamento: Mass Warfare and the Welfare State: Causal Mechanisms and Effects"
+subtitle: "Obinger, H. & Petersen, K. (2014)"
+author: "Tales Mançano"
+date: "2026-04-30"
+last-updated: "2026-04-30"
+categories: [Annotated Bibliography, Welfare State, Comparative Politics, Historical Institutionalism, Political Economy, Social Policy]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Obinger, H., & Petersen, K. (2014). *Mass warfare and the welfare state: Causal mechanisms and effects*. ZeS-Working Paper No. 02/2014. Zentrum für Sozialpolitik, Universität Bremen.
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Obinger-Petersen2014
+
+```bibtex
+@techreport{Obinger-Petersen2014,
+  author      = {Obinger, Herbert and Petersen, Klaus},
+  title       = {Mass Warfare and the Welfare State: Causal Mechanisms and Effects},
+  year        = {2014},
+  institution = {Zentrum f{\"u}r Sozialpolitik, Universit{\"a}t Bremen},
+  type        = {ZeS-Working Paper},
+  number      = {02/2014},
+}
+```
+
+:::
+
+Última atualização: 2026-04-30
+Modelo: Perplexity, powered by Claude Sonnet 4.6
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
+Gerado em: 2026-04-30T12:53:00-03:00
+
+---
+
+## Introdução (pp. 8–10)
+
+### O debate e o gap na literatura [§1–§2]
+
+O artigo se abre com a epígrafe ciceroniana *"Silent leges inter arma"* e imediatamente apresenta o debate central: a relação entre guerra e Estado de bem-estar social é **contestada**. De um lado, uma tradição substantiva de autores — Titmuss (1950), Wilensky (1975), Porter (1994), Kasza (1996, 2002), Skocpol (1992), Castles (2010), entre outros — considera a guerra um *pacemaker* do welfare state. Do outro, há pesquisadores que enfatizam o *trade-off* entre gastos militares e gastos sociais, destacando os impactos negativos do conflito sobre a proteção social (Gal 2007). Os autores reconhecem, porém, que muitos desses achados repousam sobre estudos de caso ou focalizam exclusivamente os gastos sociais, deixando em aberto uma análise comparativa sistemática dos mecanismos causais subjacentes.
+
+A razão pela qual a pesquisa comparativa de bem-estar social raramente incorporou a guerra como variável explicativa é, segundo Obinger e Petersen, a própria natureza excepcional do fenômeno. A guerra é conceituada nas ciências sociais como *choque exógeno*, "evento anormal" (Kasza 1996), emergência *black swan* (Castles 2010) ou "juntura crítica" (Capoccia/Kelemen 2007). Todas essas conceituações sugerem que as teorias convencionais de políticas públicas comparadas raramente se aplicam em condições de guerra: em democracias e autocracias, poderes executivos de emergência, censura, suspensão de direitos democráticos, controle público da economia e coalizão de governo e oposição são prevalentes no tempo de guerra, enquanto veto players institucionais perdem importância.
+
+### A proposta do artigo e as quatro qualificações [§3–§5]
+
+O artigo propõe que a guerra é um fator causal importante para explicar diferenças transnacionais no desenvolvimento e nos padrões do Estado de bem-estar. Seu objetivo é montar um *framework* analítico que permita análise empírica sistemática do nexo guerra-welfare state. Para tanto, os autores oferecem uma análise exploratória dos mecanismos causais e examinam os efeitos resultantes sobre os padrões e a dinâmica de desenvolvimento dos welfare states avançados.
+
+Quatro qualificações importantes são apresentadas antes de prosseguir. **Primeira**: os autores não afirmam que a guerra é o único ou mais importante fator; os "suspeitos usuais" na literatura comparada (partidos políticos, organizações de interesse, crescimento econômico, instituições políticas, ideias) continuam sendo relevantes, mas já são bem conhecidos — daí o foco na guerra. **Segunda**: nem todo conflito militar se relaciona com o desenvolvimento do welfare state. O texto foca na **guerra de massa moderna** (*mass warfare*), fenômeno que se estende de aproximadamente 1860 a 1960, com ênfase especial nas duas Guerras Mundiais, "as únicas guerras em larga escala travadas entre potências industrializadas" (Porter 1994: 150). **Terceira**: o impacto do conflito militar de grande escala sobre a política social não é esperado ser homogêneo entre países — é necessário analisar tanto países beligerantes quanto países neutros. T.H. Marshall (1965: 82) é citado ao afirmar que a natureza do efeito da guerra total sobre a política social depende das "fortunas da guerra" — se o país foi invadido, derrotado ou vitorioso, e do grau de destruição física e desorganização social sofrido. **Quarta**: não basta focar no período de conflito; as condições antecedentes e as repercussões de longo prazo no pós-conflito precisam ser estudadas. Guerras são antecipadas e planejadas e lançam longas sombras sobre o tempo de paz (Boemeke et al. 2006; Hamilton/Herwig 2010).
+
+### Estrutura do argumento e síntese das fases [§6]
+
+::: {.callout-note icon=false}
+Os autores anunciam que os mecanismos causais diferem consideravelmente entre três fases — preparação para a guerra, guerra propriamente dita, e período pós-guerra — mas têm em comum o fato de que, frequentemente de forma não intencional, todos pavimentaram o caminho para maior intervenção pública nos assuntos sociais e expulsaram os mercados da provisão social. Além disso, a guerra de massa influenciou a *adoção de programas* (timing da consolidação do welfare state) e impulsionou os gastos sociais no período pós-guerra. A magnitude desses efeitos, contudo, varia com a duração do conflito e depende de se o território nacional foi a arena das hostilidades militares.
+:::
+
+---
+
+## A Fase de Preparação para a Guerra (pp. 11–15)
+
+### Contexto histórico: da paz armada ao recrutamento em massa [§7–§8]
+
+A seção se inicia evocando a famosa afirmação de Charles Tilly de que "a guerra faz os Estados e os Estados fazem a guerra" (Tilly 1975: 42). Contudo, entre o Congresso de Berlim em 1878 e o início da Grande Guerra em 1914, a Europa escapou de conflitos militares de grande escala entre as grandes potências (Chickering et al. 2012). Ainda assim, em retrospecto, a guerra era a regra na Europa e um conflito futuro permanecia um cenário provável. As rivalidades entre as grandes potências cresceram continuamente ao longo dessas décadas, e atitudes imperialistas alimentaram esforços massivos de preparação para a guerra em todos os países.
+
+O surgimento da **guerra de massa** está intimamente relacionado à difusão do **exército de conscritos de massa** na segunda metade do século XIX (cf. Figura 1 do original). A Prússia foi o primeiro país a emular o exército popular francês introduzindo a conscrição masculina universal em 1814. As derrotas militares frente à Prússia motivaram a Áustria-Hungria (1868) e a França (1873) a (re)introduzir a conscrição geral. Na Escandinávia, a Dinamarca a introduziu em 1848 como parte de uma mobilização nacional contra a Prússia; Finlândia (1870), Suécia (gradualmente a partir da década de 1880) e Noruega (1905) seguiram. O Reino Unido somente introduziu a conscrição universal durante a Grande Guerra, em 1916.
+
+### Conscrição em massa e saúde pública [§9–§11]
+
+A introdução da conscrição em massa gerou um **nexo estreito entre o estado de saúde da população masculina, a mortalidade infantil elevada e o poder militar**. Dado o precário estado de saúde de homens jovens e crianças — resultado das repercussões da industrialização, urbanização e doenças como tuberculose — as preocupações com efetivos e poder de combate aumentaram tanto entre políticos quanto no meio militar, desencadeando reformas sociais com ênfase na proteção de (futuros) soldados e mães (Skocpol 1992). O primeiro caso histórico documentado é um relatório do tenente-general prussiano Heinrich Wilhelm v. Horn ao rei Federico Guilherme III em 1828, reclamando do declínio do número de soldados no Rhineland por conta do trabalho infantil disseminado na indústria têxtil. Esse relatório motivou o primeiro Ato de Proteção ao Trabalho na Alemanha, o *Preussisches Regulativ* de 1839, que proibiu o trabalho infantil para crianças abaixo de nove anos, o trabalho noturno e dominical para jovens, e restringiu a jornada de trabalho de adolescentes.
+
+Na segunda metade do século XIX, as estatísticas de recrutamento forneceram informações confiáveis sobre o estado de saúde de grandes parcelas da população. Exemplos alarmantes: na Áustria-Hungria, 70% dos recrutas não passavam no exame físico em 1912; na Alemanha imperial, 54% dos jovens eram considerados inaptos para o serviço militar; na Suíça em 1878, o índice era de 51%. Na Grã-Bretanha — que não tinha conscrição até 1916 —, quase metade dos recrutas arregimentados em cidades industriais como York, Leeds e Sheffield entre 1897 e 1901 foram considerados inaptos. Essas revelações chocantes levantaram preocupações entre militares de alta patente sobre a "degeneração nacional" e eventualmente levaram a reformas de política social (Dwork 1987: 15-21). Durante a Grande Guerra, o Primeiro-Ministro Lloyd George reclamou do fraco estado físico dos soldados britânicos comparados a australianos e canadenses e, em discurso em Manchester em 1917, anunciou reformas para "construir uma Grã-Bretanha melhor" no pós-guerra.
+
+O padrão se repetiu no Japão: em 1935, 40% dos jovens recrutados não passavam no exame físico. Como consequência, militares de alta patente e o Ministério do Exército propuseram a criação de um ministério da saúde. De fato, já em 1937, um Ministério do Bem-Estar foi estabelecido e, no ano seguinte, uma nova lei de seguro nacional de saúde foi adotada (Kasza 2002: 423-24).
+
+### Conscrição em massa e educação [§12–§14]
+
+::: {.callout-note icon=false}
+O exército tornou-se literalmente uma "escola da nação" e a guerra de massa é um fator importante por trás da emergência da escolarização em massa. Um estudo econométrico comparativo recente (Aghion et al. 2012) encontrou evidências robustas de que avanços na educação primária estão positivamente associados à rivalidade militar ou ao envolvimento prévio em guerras.
+:::
+
+O interesse militar na formação de habilidades e na educação primária decorria de múltiplas razões. O progresso tecnológico exigiu crescentes habilidades para operar equipamentos cada vez mais sofisticados. A alfabetização era pré-requisito para compreender ordens escritas, manuais técnicos e novas tecnologias como o telégrafo. Um observador contemporâneo da Grande Guerra registrou: "não é apenas o poder físico médio dos recrutas que importa. Quanto mais tecnicamente avançado se torna nosso armamento, mais atividade mental, prontidão de raciocínio, compreensão e expertise em assuntos técnicos também importam" (Zimmermann 1915: 22). O analfabetismo era generalizado: 30% dos 1,7 milhão de homens que fizeram o Army Beta test em 1918 nos EUA não conseguiam ler os formulários adequadamente. Na Rússia czarista, o reformador militar D.A. Miljutin lançou programas abrangentes de alfabetização. Na Áustria-Hungria, com dez idiomas falados nas forças armadas, os oficiais precisavam aprender as línguas dos regimentos em *Bildungsschulen* especiais.
+
+O interesse militar na educação abrangia também a **propaganda e a doutrinação**. A guerra de massa não exigia apenas mobilização de energia física, mas a alfabetização em massa tornava "os soldados mais acessíveis à propaganda, tanto como crianças quanto como adultos" (Posen 1993: 121). Há evidências consideráveis para Prússia, França e Áustria-Hungria de que o exército tentou manipular a educação primária antes e durante as guerras, com vistas a promover o patriotismo e a unidade nacional.
+
+### Conscrição em massa e política populacional [§15–§16]
+
+A emergência da guerra de mobilização em massa tornou a **política populacional** um foco para formuladores de políticas e militares. O declínio das taxas de fertilidade nas primeiras décadas do século XX em todas as potências europeias (Kahn 1930; Myrdal/Myrdal 1935) suscitou preocupações políticas e militares sobre tamanho e qualidade populacional relativa às nações rivais. A equação que caracterizava o debate público era simples: maiores taxas de natalidade e contingentes populacionais equivalem a maior poder militar.
+
+Na França, o medo de ser superada numericamente pelo inimigo alemão provocou intensos debates no final do século XIX sobre o nexo entre declínio populacional, capacidade defensiva e sobrevivência da nação, acelerando a introdução de benefícios familiares e políticas pronatais (deduções fiscais, políticas de habitação, saúde pública). O compromisso com políticas familiares orientadas à população foi mais pronunciado na Itália fascista e na Alemanha nazista. O regime nazista considerava a queda das taxas de fertilidade uma ameaça imediata ao *Volkstod* e às capacidades de defesa (Reidegeld 1989; 1993). Contudo, mesmo na Escandinávia Social-Democrata, políticas populacionais similares apareceram nos anos entreguerras: o exemplo mais proeminente é a Suécia, onde a análise de Gunnar e Alva Myrdal sobre a "Crise na Questão Populacional" (1935) sequestrou uma pauta conservadora e a transformou em agenda de reforma social-democrata (Hatje 1974).
+
+---
+
+## A Fase da Guerra (pp. 16–23)
+
+### Contextos variados: da democracia à ocupação [§17]
+
+A própria guerra teve impactos enormes, mas muito distintos entre os países envolvidos. Para países neutros como Suíça e Suécia, os efeitos foram mais indiretos, permitindo maior continuidade das atividades normais. Na Dinamarca da Segunda Guerra, isso se verificou em certa medida, enquanto países ocupados como Polônia e Países Baixos testemunharam ocupações brutais acompanhadas de mudanças de regime. Alguns países foram pesadamente envolvidos em combate e sofreram baixas enormes, enquanto outros não. Os países também diferiam politicamente: alguns eram autocracias ao entrar em guerra, enquanto outros eram democraticamente controlados. Para os últimos, a guerra parece ter fomentado um consenso nacional e dotado os governos de maior poder decisório (medidas de emergência). Contudo, em que grau isso prevaleceu sobre os conflitos partidários tradicionais em torno da política social permanece uma questão em aberto (Addison 1994; Jefferys 1991).
+
+### Política social e lealdade de massa [§18–§22]
+
+A **lealdade de massa** foi um requisito essencial para os governos em tempo de guerra, pois a estabilidade política interna era condição necessária para atingir os objetivos militares. Milhões de vítimas de guerra, uma economia de escassez, altos encargos tributários, repressão, inflação, fome, jornadas mais longas e obrigações laborais relacionadas à escassez de mão de obra são causas potenciais de turbulência e agitação social. Além da repressão e propaganda, estratégias voltadas ao aumento da legitimidade pela via do *output* podiam ajudar a garantir a lealdade das massas. A política social é um instrumento clássico nesse sentido. Contudo, a necessidade de se tornar um *warfare state* benevolente era limitada pelo tamanho do orçamento militar: os gastos sociais estagnaram ou declinaram em muitos países durante a guerra (Flora et al. 1983), enquanto os gastos militares dispararam.
+
+Durante a Primeira Guerra Mundial, as Potências Centrais autocráticas foram domesticamente desafiadas por um movimento trabalhista crescente com considerável poder organizacional. A política de trégua política iniciada pelo Chanceler alemão Bethmann Hollweg era uma tentativa de obter o apoio trabalhista à guerra e mitigar o conflito de classes. À medida que a guerra avançou e as baixas e escassezes aumentaram, greves, agitação social e revoltas alimentares cresceram no período tardio da guerra. O governo respondeu com concessões seletivas: uma lei que melhorou a proteção dos inquilinos (1917/18), alguma melhoria no seguro de saúde e, crucialmente, o estabelecimento de comissões de queixas sobre salários e condições de trabalho (1917). A Lei do Serviço Auxiliar (*Gesetz über den Vaterländischen Hilfsdienst*) de 1916, que obrigava homens de dezessete a sessenta anos a trabalhar na indústria armamentista, foi compensada por benefícios de bem-estar e pela incorporação de representantes trabalhistas em conselhos de arbitragem. Pela primeira vez, sindicatos foram aceitos como parceiros nas relações industriais.
+
+Mesmo o regime totalitário nazista dependia da lealdade de massa. Como mostra o historiador Götz Aly, benefícios sociais desempenharam papel importante: "suborno contínuo em assuntos sociais formou a base para a coesão interna no *Volksstaat* de Hitler" (Aly 2005: 89). Aly retrata o regime nazista como uma "ditadura sociopolítica da condescendência" (*socio-political dictatorship of complaisance*), que além de melhorar a proteção social de soldados e suas famílias, utilizava a expropriação de judeus e o saque armado nos territórios ocupados como recursos para redistribuição, enquanto a escassez de mão de obra era resolvida pela exploração brutal de trabalhadores forçados.
+
+Democracias beligerantes também necessitavam de apoio político durante a guerra. O que se observa ali, numa situação de pronunciado *trade-off* armas-manteiga, é a "promessa" de uma ordem pós-guerra melhor, mais pacífica e socialmente justa. A promessa de Lloyd George de uma Grã-Bretanha melhor após a Grande Guerra (incluindo programas de habitação pública e reformas de saúde) é um exemplo. Durante a Segunda Guerra Mundial, os gabinetes de guerra do Canadá, dos EUA e da Grã-Bretanha redigiram ou anunciaram planos de reformulação dos sistemas de seguridade social no período pós-guerra. Em janeiro de 1941, Roosevelt enunciou as quatro liberdades (discurso, necessidade, culto e medo) e, em 1944, num Discurso sobre o Estado da União, propôs uma "Carta de Direitos Econômicos" abrangendo direitos à habitação decente, saúde, proteção contra inseguranças econômicas e educação. O Relatório Beveridge britânico (novembro de 1942) tornou-se a referência mais famosa de reestruturação pós-guerra da seguridade social, alimentando até mesmo concorrência de regimes sociais entre as nações beligerantes.
+
+### Centralização, planejamento econômico e construção institucional [§23–§24]
+
+O isolamento e/ou a destruição econômica induzidos pela guerra levaram tipicamente a escassezes de alimentos, commodities, mão de obra e matérias-primas, causando inflação e declínio da produção. Governos em todo o mundo responderam com controles de preços e aluguéis, regulação de salários, racionamento, controles de câmbio e nacionalizações de empresas em setores estratégicos (Porter 1994). Em resumo, o mercado livre foi progressivamente substituído pelo planejamento econômico, gerando uma **expansão dramática do governo** e alterando as relações Estado-empresas. O economista austríaco Gustav Stolper previu esse fenômeno já em 1915: "as mudanças mais importantes causadas pela guerra afetarão as relações entre a economia de mercado e a economia estatal. A guerra estendeu o escopo da influência estatal a um grau que, muito provavelmente, nunca retornará ao seu nível anterior" (Stolper 1915: 5).
+
+::: {.callout-note icon=false}
+A transição induzida pela guerra para uma economia de comando gerou novas capacidades burocráticas que foram frequentemente estabelecidas no nível estatal central. A política social não foi exceção: a Grã-Bretanha estabeleceu um Ministério do Trabalho (1916), da Reconstrução (1917), da Saúde (1919) e da Educação (1944). A **Áustria criou o primeiro Ministério de Assuntos Sociais do mundo em 1917**; Suécia e Dinamarca seguiram em 1920; até a neutra Suíça estabeleceu um Escritório de Bem-Estar de Guerra durante a Segunda Guerra Mundial.
+:::
+
+### O ônus militar e a ascensão do Estado fiscal [§25–§27]
+
+A necessidade de financiar a guerra foi um passo adicional no caminho para o grande governo. Os orçamentos militares dispararam, e em consequência os poderes tributários do Estado central foram ampliados em toda parte. Novos impostos — incluindo o imposto de renda (França 1915, Canadá 1917) e impostos sobre lucros de guerra — foram introduzidos durante a guerra. Scheve e Stasavage (2010) demonstraram que os altos custos de oportunidade da participação na guerra por parte de milhões de indivíduos geraram pressão política para impor encargos financeiros sobre aqueles que não arriscavam suas vidas. Foi essa **"lógica do sacrifício igual"** que levou a maiores encargos tributários sobre os ricos. Durante a Primeira Guerra Mundial, a alíquota marginal máxima do imposto de renda subiu de 7% para 77% nos EUA; de 8,3% para 60% no Reino Unido; de 21,9% para 72,5% no Canadá; e de 2% para 50% na França (Scheve/Stasavage 2010: 538-41). Durante a Segunda Guerra Mundial, a alíquota efetiva do imposto federal de renda chegou a 90% nos EUA para rendimentos acima de um milhão de dólares.
+
+A hiperinflação causada pela impressão de moeda para financiar a guerra poderia ter impacto duradouro sobre o *mix* público-privado do welfare state pós-guerra: ela tornava fortunas privadas e formas de previdência de capitalização sem valor, aumentando assim a demanda por suporte público de renda. Isso desacreditou o mercado especialmente nos países com maior destruição e hiperinflação, enquanto nos EUA e na Suíça — que não sofreram guerras no território nacional nem hiperinflação — o setor privado permaneceu relativamente forte.
+
+### Difusão de política social e transferência de política via guerra [§28–§30]
+
+::: {.callout-note icon=false}
+A guerra afetou e reestruturou os padrões existentes de difusão de política social e deu origem à **transferência coercitiva de políticas**. Em primeiro lugar, isso ocorreu mais radicalmente através da ocupação e das revisões fronteiriças. No rescaldo da Primeira Guerra Mundial, o mapa da Europa se transformou dramaticamente — cidadãos foram transferidos de um sistema de seguridade social para outro. Durante a Segunda Guerra Mundial, a Alemanha ocupou grande parte da Europa e afetou os sistemas de seguridade social existentes nos territórios ocupados de maneiras diversas, dependendo da técnica de ocupação (Lemkin 1944).
+:::
+
+Os autores distinguem três grupos de países ocupados: (1) aqueles onde a legislação alemã foi imposta abrangentemente (Áustria, Luxemburgo), onde alguns elementos permaneceram mesmo após a guerra — como o seguro de pensão para trabalhadores de colarinho azul na Áustria; (2) aqueles forçados a cooperar estreitamente (Bélgica, Países Baixos, França, Noruega), onde governos tentaram antecipar-se à influência nazista adaptando seus sistemas; e (3) aqueles onde as instituições políticas domésticas permaneceram basicamente intactas (Dinamarca), onde houve até resistência ativa à germanização da seguridade social — o Ministério de Assuntos Sociais dinamarquês lançou em 1941 uma ofensiva de propaganda traduzindo seu sistema de seguridade para o alemão. Em todos os casos, porém, houve deterioração drástica dos padrões sociais nacionais (Lemkin 1944: 67ff).
+
+Exemplos de difusão além dos territórios ocupados incluem o Plano Beveridge (1942), que se tornou referência imediata em debates de política social de outros países, e os governos exilados de países ocupados baseados em Londres, que criaram um espaço transnacional para o planejamento pós-guerra (Goddeeris 2007).
+
+### Desmobilização [§31–§33]
+
+::: {.callout-tip}
+A desmobilização ao fim das duas guerras mundiais impulsionou ainda mais o planejamento econômico e a introdução de programas sociais e educacionais categóricos. Os principais desafios sociais relacionados à desmobilização eram desemprego, suporte de renda para veteranos inválidos e suas famílias, educação e reabilitação vocacional de veteranos, e habitação.
+:::
+
+Antes da Primeira Guerra Mundial, a habitação era basicamente deixada aos mercados; após a Grande Guerra, os governos intervieram pela primeira vez em larga escala — Lloyd George propôs um programa habitacional massivo para fornecer "lares dignos para os heróis" e "levar luz e beleza às vidas do povo" (Gilbert 1970: 19). O GI Bill nos EUA (1944) — "um dos direitos sociais mais generosos e inclusivos que o governo federal já financiou e administrou" — ofereceu benefícios sociais, educação superior e treinamento vocacional para 7,8 milhões de veteranos da Segunda Guerra (Mettler 2002: 351). Quanto ao desemprego, o medo de agitação social motivou governos a adotar benefícios de emergência para veteranos. Nenhum país havia introduzido seguro-desemprego obrigatório antes de 1914, mas o esquema temporário e não contributivo de benefício por desemprego introduzido na Grã-Bretanha em 1918 abriu caminho — em parte involuntariamente — para o seguro-desemprego universal em 1920 (Gilbert 1970: 54ff).
+
+---
+
+## O Período Pós-Guerra (pp. 24–29)
+
+### Necessidades sociais induzidas pela guerra [§34]
+
+Os períodos pós-guerra imediatos foram quase em todo lugar caracterizados por legislação social abrangente e levaram, especialmente após 1945, a um salto quântico no desenvolvimento do welfare state. No rescaldo das duas guerras mundiais, mais de sessenta milhões de pessoas perderam suas vidas, e a guerra total gerou necessidades sociais de magnitude inconcebível. A proteção social de milhões de viúvas, órfãos, veteranos inválidos, desempregados, refugiados e desabrigados gerou um gigantesco desafio para os formuladores de políticas. Todos esses resultados desastrosos criaram uma forte demanda por suporte governamental de renda e tiveram tremendo impacto sobre os gastos sociais.
+
+### O contexto macro-político: ascensão da democracia e cooperação social internacional [§35–§37]
+
+A guerra de massa e o exército de massa moderno parecem ter moldado decisivamente o contexto político e socioeconômico que facilitou a formação e expansão do welfare state moderno. A quebra de impérios multinacionais após a Grande Guerra e a mania racial da Segunda Guerra Mundial resultaram em um grau incomum de homogeneidade étnica nos estados-nação europeus — condição que alguns estudiosos (Alesina/Glaeser 2004) identificam como pré-requisito para a solidariedade e a redistribuição florescerem.
+
+Contudo, a guerra também significou o avanço da democracia. O sufrágio universal era uma demanda de longa data do movimento trabalhista, mas foi a guerra total que decidiu essa disputa: "O serviço militar em massa e o massacre em massa criaram um imperativo democrático" (Porter 1994: 172-73). Ambas as guerras mundiais representaram um salto quântico na extensão do sufrágio masculino e/ou na introdução do sufrágio feminino. Além disso, a Grande Guerra foi catalisadora da introdução da **representação proporcional** em muitos países (Áustria 1918, Dinamarca 1915, Alemanha 1918, Itália 1919, Países Baixos 1918, Noruega 1919, Suíça 1919), com implicações importantes para os gastos governamentais e redistribuição (Iversen/Soskice 2006).
+
+As duas guerras mundiais também foram catalisadoras para a cooperação intergovernamental em política social e econômica. A fundação da **OIT em 1919** (como parte do Tratado de Versalhes) foi claramente desencadeada por "guerra e revolução" (Rodgers et al. 2009: 2). A Carta do Atlântico tornou o welfare state uma espécie de objetivo de guerra oficial das potências aliadas (Nullmeier/Kaufmann 2010). A Conferência de Bretton Woods em 1944 estabeleceu uma nova ordem econômica global — o FMI e o Banco Mundial — fundando o que depois seria descrito como "liberalismo embutido" (Ruggie 1982).
+
+### Microfundamentos da mudança de política social: preferências individuais e comportamento coletivo [§38–§40]
+
+::: {.callout-important}
+A guerra recalibrou as preferências individuais em direção à estabilidade, segurança e seguro coletivo (Dryzek/Goodin 1986). As guerras aumentam os riscos e tornam o cálculo subjetivo de risco difícil, levando os indivíduos a mostrar maior propensão a buscar seguro — incluindo aqueles que de outra forma se considerariam bons riscos. As traumáticas experiências de guerra vividas por grandes segmentos da população fortaleceram a solidariedade e o igualitarismo.
+:::
+
+As mudanças nas preferências individuais afetaram o comportamento coletivo em pelo menos quatro dimensões. *Primeiro*, aumentou a probabilidade de que políticas favorecendo o compartilhamento e a prevenção de riscos fossem adotadas no nível coletivo — o welfare state sendo o principal dispositivo institucional de agrupamento de riscos. *Segundo*, o "aprendizado a partir de catástrofes" (Schmidt 1989) pavimentou o caminho para políticas e instituições destinadas a evitar a recorrência de eventos traumáticos. *Terceiro*, as dificuldades da guerra fortaleceram a solidariedade e o igualitarismo. Titmuss (1950: 508) resumiu a experiência britânica: "O humor das pessoas mudou e, em resposta solidária, os valores também mudaram. Se os perigos devem ser compartilhados, os recursos também devem ser compartilhados". *Quarto*, a guerra e a crise nacional estimularam a cooperação entre elites concorrentes — a Segunda Guerra marcou o avanço da democracia consensual e do corporatismo nos países europeus menores.
+
+### O legado das políticas de guerra como catalisador do welfare state [§41–§43]
+
+O mais famoso efeito de *feedback* da guerra sobre as políticas públicas pós-guerra é o **"efeito de deslocamento"** (*displacement effect*) detectado por Peacock e Wiseman (1961) em seu estudo sobre o desenvolvimento das despesas públicas britânicas. Eles argumentaram que grandes perturbações como as guerras alterariam as ideias das pessoas sobre os níveis toleráveis de tributação e deslocariam as receitas e despesas públicas para níveis mais altos durante o período de guerra. Contudo, as maiores alíquotas tributárias e despesas induzidas pela guerra nunca retornariam aos seus níveis pré-guerra, em função de efeitos de habituação, rigidezes institucionais e novas obrigações de gastos relacionadas à guerra.
+
+Peacock e Wiseman também argumentaram que a guerra contribui para um "processo de concentração" dos gastos públicos em polidades descentralizadas ou federais, pois as autoridades locais são incapazes de lidar com as repercussões de emergências de grande escala. Governos democráticos do pós-guerra podiam responder rapidamente às necessidades sociais criadas pela guerra, apoiando-se em medidas de preparação e propostas já elaboradas ou implementadas durante a guerra. Na Alemanha, a Grande Guerra foi, sem dúvida, um pacemaker para o welfare state da República de Weimar (Preller 1978; Reidegeld 1989). No Reino Unido, o benefício temporário não contributivo por desemprego de 1918 abriu caminho, em parte involuntariamente, para o seguro-desemprego universal em 1920. Na Suíça, o sistema de compensação salarial federal para militares serviu como modelo organizacional para o novo sistema de pensões introduzido em 1946 (Leimgruber 2010). Na Suécia, o benefício familiar para famílias de soldados foi transformado em benefício familiar geral no pós-guerra, e agências públicas criadas durante a guerra como o Conselho do Mercado de Trabalho (*Arbetsmarknadsstyrelsen*) continuaram existindo após a guerra.
+
+### Guerra e crescimento econômico [§44–§45]
+
+A guerra total afetou as economias nacionais de muitas maneiras. Durante a guerra, uma grande proporção do PIB foi alocada a despesas militares em países diretamente envolvidos e em países neutros. Após a guerra, muitos países enfrentaram situações de infraestrutura destruída, força de trabalho e capacidades produtivas prejudicadas. Os países derrotados tiveram ainda que compensar por danos de guerra. Os autores destacam dois pontos importantes: primeiro, que a situação econômica após a Primeira Guerra tornou-se muito mais dramática porque foi seguida pela crise de 1929-1933; segundo, que o impacto econômico das guerras diferiu significativamente entre países.
+
+Contudo, a guerra também teve efeitos mais positivos sobre as economias nacionais. O excepcional crescimento econômico nas três décadas seguintes à Segunda Guerra facilitou a expansão sem precedentes do welfare state na chamada Idade de Ouro. Os "milagres econômicos" do Japão e da Alemanha são casos emblemáticos. Mancur Olson (1982) atribuiu a rápida recuperação econômica nesses países à remoção de coalizões distributivas enraizadas, relacionada à guerra. A teoria neoclássica do crescimento, por sua vez, explica o rápido crescimento pós-guerra como *catch-up* resultante do dramático declínio do PIB nas economias devastadas — em 1946, o produto per capita no Japão era equivalente ao de 1910, e na Alemanha, ao de 1890 (Frieden 2006: 261).
+
+---
+
+## Resultados: Impacto da Guerra sobre o Desenvolvimento e os Padrões do Welfare State (pp. 30–33)
+
+### Efeito sobre o timing de adoção de programas [§46]
+
+A guerra é importante para compreender as diferenças transnacionais no timing da adoção de programas de bem-estar. Há evidências de que o período pós-guerra imediato foi uma fase de rápida legislação de política social e que a guerra e a preparação para a guerra estão estreitamente associadas à introdução de programas específicos: compensação por desemprego, habitação e suporte de renda para famílias são áreas-chave onde o Estado interveio pela primeira vez em maior escala. O período pós-guerra imediato foi também uma era de intensa atividade legislativa em direito do trabalho, proteção ao emprego e jornada de trabalho (ex.: a jornada de oito horas). A Grã-Bretanha é um caso emblemático com a Lei de Educação Fisher (1918), a Lei Butler (1944), a Lei do Serviço Nacional de Saúde e de Habitação (1946) e a Lei de Habitação (1949).
+
+### Efeito sobre o mix público-privado [§47–§48]
+
+::: {.callout-note icon=false}
+A guerra moldou significativamente o **mix público-privado**, pavimentando o caminho para maior provisão pública de bem-estar nos países que sofreram destruição maciça e/ou hiperinflação. Dryzek e Goodin (1986) argumentaram que "sob condições de incerteza, atuários serão incapazes de avaliar riscos com qualquer confiança, e portanto corretores prudentes se recusarão a oferecer seguro. O Estado é o único capaz de preencher essa lacuna."
+:::
+
+Na maioria dos países da Europa continental, a guerra total expulsou fortemente os mercados da provisão social e desacreditou os modos totalmente fundados de financiamento de bem-estar no rescaldo da guerra. Em contraste, as evidências são mais mistas para nações que não foram atingidas por atos de guerra em seu território nacional e/ou por hiperinflação — como EUA e Suíça, onde a previdência privada e ocupacional não foi negativamente afetada. Contudo, a guerra é condição necessária mas não suficiente: o Japão e a Coreia do Sul, onde a guerra teve impacto massivo, mas onde a esquerda política era marginalizada, continuaram a depender fortemente de formas privadas de provisão social após a guerra.
+
+### Efeito sobre as relações de gênero [§49–§51]
+
+A guerra de massa e o exército de massa moderno também moldaram as relações de gênero de maneiras múltiplas e contraditórias. O exército de conscrição de massa serviu como "escola de masculinidade" ao separar homens e mulheres e afetar papéis de gênero fora do domínio militar (Frevert 2004). As preparações de guerra levaram a uma crescente preocupação com o tamanho e qualidade da população, tornando-se argumento para políticas familiares pronatais (maternalistas) na maioria dos países europeus. Por um lado, esses discursos fortaleceram a posição das mulheres na sociedade; por outro, o pronatalismo e os benefícios familiares em dinheiro reforçaram o modelo do provedor masculino e o papel da mulher como cuidadora. A conscrição em massa de homens ofereceu uma oportunidade para as mulheres entrarem no mercado de trabalho — a participação feminina cresceu durante a guerra desafiando o ideal dominante do provedor masculino (Thane 1982) —, com efeitos duradouros mesmo que as mulheres frequentemente se retirassem parcialmente do mercado de trabalho após a guerra.
+
+### Efeito sobre os gastos [§52–§53]
+
+A guerra total teve um impacto tremendo sobre os gastos sociais públicos. Os autores desagregam os gastos totais alemães em gastos sociais relacionados à guerra e gastos sociais "civis" (Figura 2 do original): entre 1927 e 1960, os gastos sociais relacionados à guerra representaram, em média, 17,1% dos gastos totais na Alemanha. A segunda guerra pode ajudar a explicar por que — contrariamente às expectativas das abordagens funcionalistas dos anos 1960 — não houve convergência dos então *laggards* do welfare state nos gastos sociais após 1945: a guerra empurrou os gastos para cima exatamente nos países que já tinham altos níveis de gastos pré-guerra e sofreram grandes destruições (Alemanha, Bélgica, Áustria, França, Itália). Os laggards do welfare state, por contraste, não foram fortemente afetados pela guerra em seu território nacional.
+
+A Tabela 1 do artigo reproduz dados de Wilensky (1975) ilustrando essa diferença:
+
+| País (Alto impacto de guerra) | Gasto social % PIB 1949 | País (Baixo impacto) | Gasto social % PIB 1949 |
+|-------------------------------|------------------------|----------------------|------------------------|
+| Alemanha | 13,7 | Austrália | 4,3 |
+| Áustria | 11,6 | Canadá | 6,1 |
+| Finlândia | 6,2 | Irlanda | 7,2 |
+| Itália | 8,2 | Nova Zelândia | 9,5 |
+| Reino Unido | 10,6 | Dinamarca | 7,8 |
+| Bélgica | 11,8 | EUA | 4,4 |
+| França | 11,0 | Suécia | 9,1 |
+| Países Baixos | 8,1 | Suíça | 5,8 |
+| **Média** | **10,15** | Noruega / **Média** | 6,5 / **6,74** |
+
+### Convergência crescente desde os anos 1980 [§54–§55]
+
+Enquanto a Idade de Ouro do welfare state nas décadas de 1950 e 1960 foi caracterizada por dissimilaridades crescentes na política social, estudos empíricos recentes indicam uma convergência crescente dos gastos sociais e padrões regulatórios desde os anos 1980 (Schmitt/Starke 2011; Höpner et al. 2011). Uma razão para esse resultado é que os impactos da guerra se atenuaram com a passagem do tempo, por dois processos demográficos: (1) as vítimas de guerra foram passando e aliviaram os governos dos compromissos de gastos relacionados à guerra (na Alemanha, o gasto social induzido pela guerra declinou de 12,4% em 1960 para 2,4% em 1990); (2) a **substituição geracional**: a partir de meados dos anos 1980, as elites políticas da Idade de Ouro — que haviam pessoalmente testemunhado a guerra total e/ou a Grande Depressão — deixaram o poder e foram gradualmente substituídas por elites nascidas no período pós-guerra, que cresceram numa era de afluência econômica e estabilidade política sem precedentes. A socialização marcadamente diferente dessas coortes pós-guerra pode ter reforçado o recuo do Estado intervencionista (de bem-estar) desde os anos 1990.
+
+---
+
+## Conclusão (pp. 34–36)
+
+### Síntese dos achados e implicações comparativas [§56–§58]
+
+Os autores concluem que, embora muitos estudiosos tenham estudado o nexo entre guerra e welfare state, muito menos atenção foi dada aos múltiplos mecanismos causais que explicam *como* a guerra moldou o desenvolvimento do welfare state. O artigo apresentou uma visão geral de vários mecanismos pelos quais a guerra de massa deixou sua marca no welfare state nas três fases de hostilidades militares, e evidências empíricas relacionadas para países beligerantes, ocupados e neutros.
+
+Os achados gerais sustentam **ambas** as visões presentes na literatura. Particularmente durante o período de guerra, os efeitos negativos prevalecem claramente, especialmente o pronunciado *trade-off* armas-manteiga. Por outro lado, há evidências consideráveis de que a guerra é um catalisador do welfare state — distinguindo efeitos diretos (necessidades sociais induzidas) e indiretos (impacto sobre contexto político-socioeconômico e preferências individuais e coletivas). Por fim, há evidências de que o impacto da Segunda Guerra sobre o welfare state foi muito maior comparado à Grande Guerra, sugerindo um impacto cumulativo da guerra ao longo do tempo, relacionado a um processo de aprendizado que contribuiu para respostas políticas diferentes quando a guerra total atingiu um país pela segunda vez.
+
+::: {.callout-important}
+Os autores concluem citando Kasza (1996: 370): "É tempo de a política comparada dar a esse fenômeno central a atenção que ele merece." Ignorar a guerra total nas análises transnacionais do desenvolvimento do welfare state seria perder uma variável explicativa relevante.
+:::
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+**Tese central**: A guerra de massa moderna (ca. 1860-1960) é uma variável explicativa causal subestimada nas diferenças transnacionais de desenvolvimento e padrões do welfare state, atuando por meio de mecanismos causais identificáveis e distintos nas fases de preparação para a guerra, do conflito propriamente dito e do período pós-guerra.
+
+**Natureza do argumento**: O argumento é predominantemente **causal-exploratório** e histórico-comparativo. Os autores mapeiam mecanismos causais plausíveis (não testam formalmente hipóteses causais) e apresentam evidências empíricas preliminares que sustentam sua plausibilidade.
+
+**O que o texto demonstra vs. o que fica como hipótese**: O artigo demonstra, com evidências históricas qualitativas e dados de gastos agregados, que: (a) a guerra está associada ao timing de adoção de programas sociais; (b) a guerra impulsionou a expansão do Estado fiscal; (c) o período pós-guerra foi associado a saltos quânticos nos gastos sociais, especialmente nos países mais devastados; (d) os efeitos da guerra se atenuam com substituição geracional. Permanece como hipótese ou agenda futura o teste comparativo sistemático e formal da contribuição relativa de cada mecanismo específico vis-à-vis outros determinantes do welfare state.
+
+**Contribuição para o debate mais amplo**: O artigo preenche um *gap* analítico na literatura ao deslocar o foco dos estudos de caso ou análises de gastos para os mecanismos causais subjacentes, propondo uma tipologia de mecanismos por fase e por status do país. Constitui um *research agenda paper* que integra a perspectiva histórico-institucionalista com uma preocupação mais sistemática de identificação de mecanismos.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A premissa relevante é que o debate existente se bifurca entre (a) guerra como pacemaker do welfare state e (b) *trade-off* armas-manteiga — ambos com evidências parciais. A interpretação alternativa considerada é que mecanismos causais específicos podem ter operado com sinais opostos em diferentes fases. O ponto mais vulnerável é que a própria pergunta é reconstituída post-hoc como agenda, não como testagem de hipótese. | Como e por quais mecanismos causais a guerra de massa moderna (ca. 1860-1960) influenciou o desenvolvimento e os padrões do Estado de bem-estar social nos países ocidentais avançados? Natureza: explicativa. A pergunta está em parte explicitada no abstract e introdução. |
+| Questões Secundárias | O raciocínio que orienta as questões secundárias é que a pergunta principal é muito ampla para ser respondida de forma unitária, exigindo decomposição por fases e por status do país. | (1) Quais mecanismos operam na fase de preparação para a guerra? (2) Quais operam durante a guerra? (3) Quais operam no pós-guerra? (4) Como esses mecanismos variam entre países beligerantes, ocupados e neutros? As questões secundárias são organizadas para estruturar a tipologia central do artigo. |
+| Puzzle-Type | A classificação como puzzle explicativo é justificada pelo fato de que a literatura existente tinha evidências conflitantes sobre direção e magnitude do efeito da guerra, mas sem um framework que permitisse entender quando e como cada mecanismo opera. O puzzle é genuíno, mas a generalização além do caso europeu/OCDE requer cautela dado o escopo declarado do artigo. | Puzzle explicativo combinado com gap descritivo. O campo oscila entre duas posições contraditórias (guerra como pacemaker vs. *trade-off* armas-manteiga), mas carece de uma abordagem sistemática de mecanismos. O puzzle é genuíno — as evidências são realmente conflitantes na literatura anterior — e parcialmente generalizável para outros casos de guerra de massa, embora os autores limitem explicitamente o escopo aos membros de longa data | Puzzle-Type | A classificação como puzzle explicativo é justificada pelo fato de que a literatura existente tinha evidências conflitantes sobre direção e magnitude do efeito da guerra, mas sem um framework que permitisse entender quando e como cada mecanismo opera. O puzzle é genuíno, mas a generalização além do caso europeu/OCDE requer cautela dado o escopo declarado do artigo. | Puzzle explicativo combinado com gap descritivo. O campo oscilava entre duas posições contraditórias (guerra como *pacemaker* vs. *trade-off* armas-manteiga), mas carecia de abordagem sistemática de mecanismos. O puzzle é genuíno e parcialmente generalizável para outros casos de guerra de massa, embora os autores limitem explicitamente o escopo aos membros de longa data da OCDE durante o período 1860-1960. |
+| Conclusão / Argumento Central | As premissas são: (a) os determinantes convencionais do welfare state (partidos, organizações, crescimento) não explicam suficientemente as diferenças transnacionais; (b) a guerra opera por mecanismos distintos nas diferentes fases; (c) a magnitude dos efeitos é contingente ao status do país. A vulnerabilidade central é que o *claim* causal não é testado com design de identificação rigoroso. | A tese central é que a guerra de massa é uma variável explicativa causalmente relevante para as diferenças transnacionais no welfare state, operando por mecanismos distintos em três fases. O argumento é causal-exploratório com ambição taxonômica. O *claim of discovery* é o mapeamento sistemático dos mecanismos — não a estimação de seus tamanhos de efeito. O que sustenta o claim são evidências históricas qualitativas, análise de casos e dados agregados de gastos (Figura 2 e Tabela 1 do original), não identificação causal formal. |
+| Métodos | O estudo de caso comparativo qualitativo e a análise histórica não permitem separar o efeito da guerra de outras variáveis omitidas que covariaram com ela (industrialização, democratização, crescimento do Estado fiscal). A estratégia argumentativa — revisão da literatura + evidências históricas ilustrativas + dados agregados — é adequada para um *agenda paper*, mas insuficiente para testar hipóteses causais. | Estudo histórico-comparativo exploratório combinado com revisão narrativa da literatura. Fontes incluem dados de gastos sociais históricos (Zöllner 1963; Wilensky 1975; Flora et al. 1984), evidências históricas qualitativas de múltiplos países e casos nacionais ilustrativos. A estratégia argumentativa é taxonômica: os autores identificam e classificam mecanismos causais, apresentando evidências de plausibilidade, sem estimar efeitos causais com identificação formal. |
+| Data Generation Process (DGP) | O fenômeno de interesse (impacto da guerra no welfare state) não é diretamente observado, mas inferido através de correlações históricas entre eventos de guerra e mudanças de política social. A operacionalização dos mecanismos é qualitativa e descritiva, não formal. O nível de agregação nacional mascara heterogeneidade interna relevante. | Fenômeno real: guerra de massa → desenvolvimento do welfare state. Observação: legislação social, gastos, criação de instituições, reformas políticas. Coleta: fontes secundárias (estudos históricos, estatísticas de gastos, documentos governamentais). Operacionalização: mecanismos descritos narrativamente e ilustrados com casos. Análise: comparação histórica descritiva. Tipo de inferência: descritivo-exploratória, não causal-identificada. Unidade de análise: país. Nível de agregação: nacional. |
+| Achados e Contribuições | Distinção entre o que o design identifica com força (padrões históricos associativos) e o que é especulativo (causalidade de mecanismos individuais): a evidência de gastos agregados é mais robusta; a atribuição causal a mecanismos específicos é baseada em correlações históricas e evidências qualitativas sujeitas a múltiplas interpretações. | (1) Framework analítico original de três fases (preparação, conflito, pós-guerra) com tipologia de mecanismos por fase e status do país; (2) evidências de que países com alto impacto de guerra tiveram gastos sociais sistematicamente maiores em 1949; (3) identificação do efeito de deslocamento fiscal; (4) argumento sobre microfundamentos de preferências individuais e comportamento coletivo; (5) contribuição teórico-metodológica de agenda de pesquisa para o campo. |
+| Análise Crítica dos Achados | Os autores parcialmente respondem à pergunta: o mapeamento de mecanismos é rigoroso como exercício conceitual, mas a conexão empírica entre mecanismos específicos e resultados do welfare state não é estabelecida com rigor causal. A ausência de variação sistemática controlada (casos contrafactuais) é uma limitação importante. | O artigo responde adequadamente à sua pergunta *declarada* (que é de agenda e mapeamento), mas não à pergunta implícita mais forte (estimação causal). Os pontos mais vulneráveis são: (a) seleção de evidências confirmatória (exemplos que ilustram mecanismos, sem análise de casos negativos); (b) ausência de estratégia de identificação para distinguir efeitos da guerra de outros processos históricos covariantes; (c) a Tabela 1 compara grupos de países sem controlar por outras diferenças relevantes (nível de industrialização, data de fundação do welfare state, regime político). Os pontos mais sólidos são o framework conceitual e as evidências qualitativas históricas de mecanismos individuais. *Scope conditions* declaradas: países OCDE, guerra de massa moderna (1860-1960); não declaradas/subestimadas: países com forte legado colonial, guerras civis, e a influência mediadora das estruturas de classe pré-guerra. |
+| Limitações | A distinção entre reconhecidas e não reconhecidas é analiticamente importante: os autores são auto-conscientes sobre a natureza exploratória, mas subestimam problemas de seleção e mensuração. | **Reconhecidas pelos autores:** (1) Artigo é exploratório, não um teste causal formal; (2) relevância dos mecanismos varia com o status do país e as "fortunas da guerra"; (3) foco restrito a países OCDE/Europa Ocidental; (4) fases são analiticamente distintas mas empiricamente sobrepostas. <br> **Não reconhecidas ou subestimadas:** (1) Viés de seleção de casos — países com guerra mais intensa tendem a ter mais documentação histórica, inflacionando a evidência em favor dos mecanismos; (2) endogeneidade entre desenvolvimento prévio do welfare state e participação/resultado da guerra; (3) ausência de análise sistemática de casos negativos (países com guerra intensa mas sem expansão do welfare state); (4) a Tabela 1 é descritiva bruta sem controles; (5) a discussão de países neutros é assimétrica — Suécia e Suíça são bem tratadas, mas o argumento de que mecanismos indiretos operam igualmente nessas sociedades é afirmado mais do que demonstrado. |
+| Perspectiva Teórica | O pluralismo teórico é uma força para a abrangência do mapeamento, mas pode ser uma fraqueza para a testabilidade: mecanismos derivados de tradições diferentes não são necessariamente compatíveis e podem gerar predições conflitantes. A coerência entre ontologia (institucionalista-histórica, com elementos de escolha racional) e método (qualitativo-histórico) é adequada para um *agenda paper*. | O artigo mobiliza múltiplas tradições: (a) **institucionalismo histórico** (junturas críticas, dependência de trajetória, efeito de deslocamento de Peacock/Wiseman); (b) **teoria do poder de recursos** (reconhecimento de sindicatos, expansão do sufrágio); (c) **funcionalismo moderado** (necessidades sociais induzidas pela guerra criando demanda funcional por proteção); (d) **teoria de preferências e risco** (Dryzek/Goodin 1986). A moldura teórica pluralista é adequada para o objetivo de mapeamento, mas dificulta a geração de predições únicas e testáveis. |
+| Principais Referências | O diálogo com a literatura quantitativa de welfare state (Esping-Andersen, Huber/Stephens, Korpi) é notavelmente ausente, o que seria importante para contextualizar a contribuição relativa da guerra frente a outros determinantes. As referências históricas e de estudos de caso são amplas e bem balanceadas. | Autores centrais: Titmuss (1950), Porter (1994), Kasza (1996, 2002), Peacock/Wiseman (1961), Scheve/Stasavage (2010), Dryzek/Goodin (1986), Tilly (1975), Marshall (1965), Posen (1993), Skocpol (1992), Alesina/Glaeser (2004). O diálogo é equilibrado entre história política, sociologia histórica e economia política comparada. Lacuna notável: ausência de engajamento com a literatura quantitativa de determinantes do welfare state (Castles 1998, Esping-Andersen 1990, Huber/Stephens 2001), que permitiria avaliar o *tamanho relativo* do efeito da guerra frente a outros preditores. |
+| Observações | Para um pesquisador de economia política comparada e políticas sociais, o artigo oferece uma "caixa de ferramentas" de mecanismos causais útil como ponto de partida para pesquisa original. A conexão com pesquisa sobre políticas de educação superior e cotas — onde o contexto histórico pós-guerra e as transformações do Estado desempenham papel importante — pode ser explorada. A versão publicada no *BJPS* em 2017 é a referência mais adequada para citação acadêmica formal; este working paper de 2014 tem estrutura similar, mas a versão revisada por pares apresenta maior rigor. | (1) A principal vulnerabilidade teórica é a ausência de uma *teoria de médio alcance* que especifique as condições sob as quais cada mecanismo domina — o framework permanece essencialmente taxonômico. (2) A validade externa para países fora da Europa Ocidental e América do Norte é limitada e subestimada. (3) O argumento de substituição geracional (§54-55) como explicação para a convergência desde os anos 1980 é plausível mas especulativo — não é testado empiricamente no artigo. (4) Para pesquisa sobre welfare state brasileiro: o argumento sobre efeitos de democracia e mobilização política é relevante, mas o contexto de guerra de massa não se aplica diretamente ao Brasil — a conexão seria mediada por mecanismos de difusão internacional de ideias (ILO, Beveridge). (5) A versão publicada em *BJPS* (2017, Vol. 47, Issue 1, pp. 203-227, DOI: 10.1017/S0007123415000162) é a forma final revisada por pares. |
+
+:::

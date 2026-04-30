@@ -1,4 +1,6 @@
 /.quarto/
+.quarto/
+_freeze/
 .Rproj.user
 .Rproj.user/
 
@@ -25,3 +27,14 @@ package-lock.json
 .Rproj.user
 **/*.quarto_ipynb
 .positai
+
+# -------------------------------------------------------------
+# Quarto render artifacts — ignorar tudo fora de docs/
+# docs/ é a pasta do GitHub Pages e deve ser rastreada
+# -------------------------------------------------------------
+*.html
+*.json
+site_libs/
+*_files/
+!docs/
+!docs/**
