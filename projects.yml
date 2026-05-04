@@ -7,6 +7,16 @@
   started: "2024"
   ended: "2026"
   funding: "FAPESP"
+  
+- path: https://mancano-tales.github.io/Annotated-Bibliography/
+  image: https://mancano-tales.github.io/favicon.ico
+  title: "Annotated Bibliography"
+  author: Tales Mançano
+  subtitle: "Annotation on relevant literature using AI"
+  description: "Annotated Bibliography, Sistematic Literature Notes and other research and learning materials relevant to my work."
+  started: "2025"
+  ended: ""
+  funding: ""
 
 - path: https://mancano-tales.github.io/PNAD-Educacao/
   image: https://www.ibge.gov.br/favicon-96x96.png
