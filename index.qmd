@@ -165,6 +165,8 @@ A proposta aqui é compartilhar minhas atividades, sistematizar ideias e tornar 
 
 :::
 
+<!--
+
 ::: {.lang-en}
 ## Recent Posts
 Check out my latest blog posts:
