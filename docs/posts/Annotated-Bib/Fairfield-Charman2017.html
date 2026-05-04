@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Tales Mançano">
+<meta name="dcterms.date" content="2026-05-03">
+<meta name="description" content="Tales Mançano Academic Website">
+
+<title>Fichamento: Explicit Bayesian Analysis for Process Tracing: Guidelines, Opportunities, and Caveats – Tales Mançano</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-acf12a64177840b8d86f2d4f01b2e9fb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-1596dba0f6ebd5d6ff9514dff97656d4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id="></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '', { 'anonymize_ip': true});
+</script>
+
+
+<!-- 
+
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+
+-->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+
+
+
+
+<!---
+
+The following code are needed to show dimension citation and altmetrics.
+
+https://api.altmetric.com/embeds.html
+
+https://badge.dimensions.ai/
+
+--->
+
+
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+
+
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Fichamento: Explicit Bayesian Analysis for Process Tracing: Guidelines, Opportunities, and Caveats – Tales Mançano">
+<meta property="og:description" content="Fairfield &amp; Charman (2017)">
+<meta property="og:site_name" content="Tales Mançano">
+<meta name="twitter:title" content="Fichamento: Explicit Bayesian Analysis for Process Tracing: Guidelines, Opportunities, and Caveats – Tales Mançano">
+<meta name="twitter:description" content="Fairfield &amp; Charman (2017)">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Tales Mançano</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="../../posts.html">
+ <span class="dropdown-text">Posts</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../contact.html">
+ <span class="dropdown-text">Contact</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+        <li>
+    <a class="dropdown-item" href="../../publications.html">
+ <span class="dropdown-text">List of Publications</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Projects</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
+        <li>
+    <a class="dropdown-item" href="https://mancano-tales.github.io/Mancano2026-MA-Thesis/" target="_blank">
+ <span class="dropdown-text">MA Thesis (FAPESP)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://mancano-tales.github.io/PNAD-Educacao/">
+ <span class="dropdown-text">PNAD Educação</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../projects.html">
+ <span class="dropdown-text">Projects</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Outreach</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
+        <li>
+    <a class="dropdown-item" href="../../posts.html">
+ <span class="dropdown-text">Presentations</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../files/2026-1-02-CV-Mancano-Tales.pdf"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/drganghe/quarto-academic-website-template" target="_blank"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app" target="_blank"> 
+<span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introdução-pp.-12" id="toc-introdução-pp.-12" class="nav-link active" data-scroll-target="#introdução-pp.-12"><span class="header-section-number">1</span> Introdução (pp.&nbsp;1–2)</a>
+  <ul class="collapse">
+  <li><a href="#o-problema-e-a-promessa-do-bayesianismo-para-pesquisa-qualitativa-12" id="toc-o-problema-e-a-promessa-do-bayesianismo-para-pesquisa-qualitativa-12" class="nav-link" data-scroll-target="#o-problema-e-a-promessa-do-bayesianismo-para-pesquisa-qualitativa-12"><span class="header-section-number">1.1</span> O problema e a promessa do bayesianismo para pesquisa qualitativa [§1–§2]</a></li>
+  <li><a href="#diagnóstico-da-literatura-existente-e-contribuições-do-artigo-35" id="toc-diagnóstico-da-literatura-existente-e-contribuições-do-artigo-35" class="nav-link" data-scroll-target="#diagnóstico-da-literatura-existente-e-contribuições-do-artigo-35"><span class="header-section-number">1.2</span> Diagnóstico da literatura existente e contribuições do artigo [§3–§5]</a></li>
+  </ul></li>
+  <li><a href="#mapeamento-do-terreno-intelectual-pp.-24" id="toc-mapeamento-do-terreno-intelectual-pp.-24" class="nav-link" data-scroll-target="#mapeamento-do-terreno-intelectual-pp.-24"><span class="header-section-number">2</span> Mapeamento do Terreno Intelectual (pp.&nbsp;2–4)</a>
+  <ul class="collapse">
+  <li><a href="#bayesianismo-psicológico-versus-bayesianismo-lógico-69" id="toc-bayesianismo-psicológico-versus-bayesianismo-lógico-69" class="nav-link" data-scroll-target="#bayesianismo-psicológico-versus-bayesianismo-lógico-69"><span class="header-section-number">2.1</span> Bayesianismo psicológico versus bayesianismo lógico [§6–§9]</a></li>
+  <li><a href="#posição-em-relação-à-literatura-de-process-tracing-1013" id="toc-posição-em-relação-à-literatura-de-process-tracing-1013" class="nav-link" data-scroll-target="#posição-em-relação-à-literatura-de-process-tracing-1013"><span class="header-section-number">2.2</span> Posição em relação à literatura de <em>process tracing</em> [§10–§13]</a></li>
+  </ul></li>
+  <li><a href="#operacionalizando-a-análise-bayesiana-pp.-411" id="toc-operacionalizando-a-análise-bayesiana-pp.-411" class="nav-link" data-scroll-target="#operacionalizando-a-análise-bayesiana-pp.-411"><span class="header-section-number">3</span> Operacionalizando a Análise Bayesiana (pp.&nbsp;4–11)</a>
+  <ul class="collapse">
+  <li><a href="#três-etapas-fundamentais-e-a-forma-odds-ratio-de-bayes-1415" id="toc-três-etapas-fundamentais-e-a-forma-odds-ratio-de-bayes-1415" class="nav-link" data-scroll-target="#três-etapas-fundamentais-e-a-forma-odds-ratio-de-bayes-1415"><span class="header-section-number">3.1</span> Três etapas fundamentais e a forma odds-ratio de Bayes [§14–§15]</a></li>
+  <li><a href="#hipóteses-e-probabilidades-a-priori-1621" id="toc-hipóteses-e-probabilidades-a-priori-1621" class="nav-link" data-scroll-target="#hipóteses-e-probabilidades-a-priori-1621"><span class="header-section-number">3.2</span> Hipóteses e probabilidades a priori [§16–§21]</a></li>
+  <li><a href="#evidência-definição-e-granularidade-2224" id="toc-evidência-definição-e-granularidade-2224" class="nav-link" data-scroll-target="#evidência-definição-e-granularidade-2224"><span class="header-section-number">3.3</span> Evidência: definição e granularidade [§22–§24]</a></li>
+  <li><a href="#verossimilhanças-e-razões-de-verossimilhança-habitar-o-mundo-de-cada-hipótese-2527" id="toc-verossimilhanças-e-razões-de-verossimilhança-habitar-o-mundo-de-cada-hipótese-2527" class="nav-link" data-scroll-target="#verossimilhanças-e-razões-de-verossimilhança-habitar-o-mundo-de-cada-hipótese-2527"><span class="header-section-number">3.4</span> Verossimilhanças e razões de verossimilhança: habitar o mundo de cada hipótese [§25–§27]</a></li>
+  <li><a href="#evidência-testemunhal-a-regra-fonte-s-afirmou-x-2830" id="toc-evidência-testemunhal-a-regra-fonte-s-afirmou-x-2830" class="nav-link" data-scroll-target="#evidência-testemunhal-a-regra-fonte-s-afirmou-x-2830"><span class="header-section-number">3.5</span> Evidência testemunhal: a regra “fonte S afirmou X” [§28–§30]</a></li>
+  <li><a href="#condicionamento-em-evidências-previamente-incorporadas-3134" id="toc-condicionamento-em-evidências-previamente-incorporadas-3134" class="nav-link" data-scroll-target="#condicionamento-em-evidências-previamente-incorporadas-3134"><span class="header-section-number">3.6</span> Condicionamento em evidências previamente incorporadas [§31–§34]</a></li>
+  <li><a href="#sequenciamento-da-evidência-e-conveniência-analítica-3537" id="toc-sequenciamento-da-evidência-e-conveniência-analítica-3537" class="nav-link" data-scroll-target="#sequenciamento-da-evidência-e-conveniência-analítica-3537"><span class="header-section-number">3.7</span> Sequenciamento da evidência e conveniência analítica [§35–§37]</a></li>
+  <li><a href="#escalas-logarítmicas-para-probabilidades-3842" id="toc-escalas-logarítmicas-para-probabilidades-3842" class="nav-link" data-scroll-target="#escalas-logarítmicas-para-probabilidades-3842"><span class="header-section-number">3.8</span> Escalas logarítmicas para probabilidades [§38–§42]</a></li>
+  <li><a href="#inferência-via-regra-de-bayes-com-múltiplas-peças-de-evidência-4345" id="toc-inferência-via-regra-de-bayes-com-múltiplas-peças-de-evidência-4345" class="nav-link" data-scroll-target="#inferência-via-regra-de-bayes-com-múltiplas-peças-de-evidência-4345"><span class="header-section-number">3.9</span> Inferência via regra de Bayes com múltiplas peças de evidência [§43–§45]</a></li>
+  </ul></li>
+  <li><a href="#exemplo-empírico-pesos-de-evidência-pp.-1113" id="toc-exemplo-empírico-pesos-de-evidência-pp.-1113" class="nav-link" data-scroll-target="#exemplo-empírico-pesos-de-evidência-pp.-1113"><span class="header-section-number">4</span> Exemplo Empírico: Pesos de Evidência (pp.&nbsp;11–13)</a>
+  <ul class="collapse">
+  <li><a href="#apresentação-do-caso-e-das-hipóteses-rivais-4648" id="toc-apresentação-do-caso-e-das-hipóteses-rivais-4648" class="nav-link" data-scroll-target="#apresentação-do-caso-e-das-hipóteses-rivais-4648"><span class="header-section-number">4.1</span> Apresentação do caso e das hipóteses rivais [§46–§48]</a></li>
+  <li><a href="#avaliação-dos-pesos-de-evidência-para-e_1-e-e_2-4955" id="toc-avaliação-dos-pesos-de-evidência-para-e_1-e-e_2-4955" class="nav-link" data-scroll-target="#avaliação-dos-pesos-de-evidência-para-e_1-e-e_2-4955"><span class="header-section-number">4.2</span> Avaliação dos pesos de evidência para <span class="math inline">\(E_1\)</span> e <span class="math inline">\(E_2\)</span> [§49–§55]</a></li>
+  </ul></li>
+  <li><a href="#melhorando-inferência-e-transparência-analítica-pp.-1317" id="toc-melhorando-inferência-e-transparência-analítica-pp.-1317" class="nav-link" data-scroll-target="#melhorando-inferência-e-transparência-analítica-pp.-1317"><span class="header-section-number">5</span> Melhorando Inferência e Transparência Analítica (pp.&nbsp;13–17)</a>
+  <ul class="collapse">
+  <li><a href="#vantagens-e-oportunidades-do-process-tracing-bayesiano-explícito-5657" id="toc-vantagens-e-oportunidades-do-process-tracing-bayesiano-explícito-5657" class="nav-link" data-scroll-target="#vantagens-e-oportunidades-do-process-tracing-bayesiano-explícito-5657"><span class="header-section-number">5.1</span> Vantagens e oportunidades do <em>process tracing</em> bayesiano explícito [§56–§57]</a></li>
+  <li><a href="#ressalvas-e-limitações-5863" id="toc-ressalvas-e-limitações-5863" class="nav-link" data-scroll-target="#ressalvas-e-limitações-5863"><span class="header-section-number">5.2</span> Ressalvas e limitações [§58–§63]</a></li>
+  <li><a href="#aplicações-quando-a-análise-bayesiana-explícita-tem-maior-valor-6468" id="toc-aplicações-quando-a-análise-bayesiana-explícita-tem-maior-valor-6468" class="nav-link" data-scroll-target="#aplicações-quando-a-análise-bayesiana-explícita-tem-maior-valor-6468"><span class="header-section-number">5.3</span> Aplicações: quando a análise bayesiana explícita tem maior valor [§64–§68]</a></li>
+  </ul></li>
+  <li><a href="#argumento-sintético" id="toc-argumento-sintético" class="nav-link" data-scroll-target="#argumento-sintético"><span class="header-section-number">6</span> Argumento Sintético</a></li>
+  <li><a href="#ficha-analítica-crítica" id="toc-ficha-analítica-crítica" class="nav-link" data-scroll-target="#ficha-analítica-crítica">Ficha Analítica Crítica</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Fichamento: Explicit Bayesian Analysis for Process Tracing: Guidelines, Opportunities, and Caveats</h1>
+<p class="subtitle lead">Fairfield &amp; Charman (2017)</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Annotated Bibliography</div>
+    <div class="quarto-category">Metodologia Qualitativa</div>
+    <div class="quarto-category">Process Tracing</div>
+    <div class="quarto-category">Bayesianismo</div>
+    <div class="quarto-category">Inferência Causal</div>
+    <div class="quarto-category">Ciência Política</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Tales Mançano </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 3, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+<style>
+.lang-toggle {
+  position: fixed;
+  top: 70px;
+  right: 20px;
+  z-index: 1000;
+}
+.lang-btn {
+  background: transparent;
+  border: 1px solid #666;
+  border-radius: 4px;
+  padding: 5px 12px;
+  margin: 0 2px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+}
+.lang-btn:hover {
+  background: #f0f0f0;
+}
+.lang-btn.active {
+  background: #0366d6;
+  color: white;
+  border-color: #0366d6;
+}
+.lang-content[lang]:not([lang="en"]) { display: none; }
+.lang-content[lang="en"] { display: block; }
+</style>
+<p>Fairfield, T., &amp; Charman, A. E. (2017). Explicit Bayesian analysis for process tracing: Guidelines, opportunities, and caveats. <em>Political Analysis</em>, advance online. https://doi.org/10.1017/pan.2017.14</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Entrada BibTeX → Fairfield-Charman2017
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">Fairfield</span>-<span class="ot">Charman2017</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>    = {Fairfield, Tasha and Charman, Andrew E.},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {Explicit Bayesian Analysis for Process Tracing: Guidelines, Opportunities, and Caveats},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {2017},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span>   = {Political Analysis},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span>       = {10.1017/pan.2017.14},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+</div>
+</div>
+<p>Última atualização: 2026-05-03 Modelo: Perplexity, powered by Sonnet 4.6 Thinking Prompt Version: v13.0 2026-04-19 | 2026-04-24 “IA Blog Post QMD” Gerado em: 2026-05-03T23:49:00-03:00</p>
+<hr>
+<section id="introdução-pp.-12" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="introdução-pp.-12"><span class="header-section-number">1</span> Introdução (pp.&nbsp;1–2)</h2>
+<section id="o-problema-e-a-promessa-do-bayesianismo-para-pesquisa-qualitativa-12" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="o-problema-e-a-promessa-do-bayesianismo-para-pesquisa-qualitativa-12"><span class="header-section-number">1.1</span> O problema e a promessa do bayesianismo para pesquisa qualitativa [§1–§2]</h3>
+<p>O artigo abre identificando um movimento crescente dentro da ciência política que reconhece o bayesianismo como fundamento metodológico do <em>process tracing</em> — método que consiste em fazer inferências causais sobre um único caso ao avaliar explicações alternativas à luz das evidências coletadas. Em comparação com o frequentismo, o bayesianismo oferece vantagens especialmente relevantes para a pesquisa qualitativa de caso: pode lidar com dados não gerados por processos estocásticos (como informações de especialistas e fontes arquivísticas), pode ser aplicado para explicar eventos únicos sem referência a uma população, e exige um diálogo iterativo com os dados — o que espelha como o <em>process tracing</em> é tipicamente conduzido na prática.</p>
+<p>Os autores reconhecem que a literatura caminhou das analogias informais ao bayesianismo (McKeown 1999; Bennett 2008; Beach e Pedersen 2013) em direção a esforços mais explícitos de aplicação da análise bayesiana em pesquisa qualitativa (Rohlfing 2013; Bennett 2015; Humphreys e Jacobs 2015). Esse movimento é visto pelos autores como um divisor de águas que fornece fundamento sólido para a pesquisa de caso intensiva, de pequeno N. Contudo, embora as técnicas estatísticas bayesianas já estejam bem elaboradas para pesquisa quantitativa de grande N, a aplicação da probabilidade bayesiana à pesquisa qualitativa permanece uma fronteira não definitivamente resolvida.</p>
+</section>
+<section id="diagnóstico-da-literatura-existente-e-contribuições-do-artigo-35" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="diagnóstico-da-literatura-existente-e-contribuições-do-artigo-35"><span class="header-section-number">1.2</span> Diagnóstico da literatura existente e contribuições do artigo [§3–§5]</h3>
+<p>Os autores diagnosticam que os trabalhos pioneiros na área examinaram apenas alguns poucos fragmentos ilustrativos de evidência ou incluíram apenas pistas de <em>process tracing</em> altamente simplificadas, além de terem deixado de lado uma série de pontos técnicos importantes. O artigo busca avançar a aplicação do raciocínio bayesiano no <em>process tracing</em>, recorrendo às exposições da “probabilidade como lógica estendida” originárias das ciências naturais — tradição que remonta a Bernoulli (1655–1705) e Laplace (1749–1827) e que modernamente foi consolidada matematicamente por Cox (1961) e Jaynes (2003).</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central introdutória:</strong> O artigo apresenta diretrizes passo a passo para o <em>process tracing</em> bayesiano explícito, chamando atenção para pontos técnicos negligenciados na literatura e ilustrando a abordagem com a primeira aplicação sistemática a um estudo de caso que utiliza múltiplas peças de evidência detalhada.</p>
+</div>
+</div>
+<p>A introdução termina com a antecipação do argumento dual do texto: por um lado, os autores reconhecem que atribuir valores numéricos a probabilidades em ciência social qualitativa envolve uma dose substancial de arbitrariedade; por outro, identificam papéis importantes para a análise bayesiana explícita, especialmente no diagnóstico do locus de controvérsia entre pesquisadores e no treinamento da intuição para seguir a lógica bayesiana de forma mais sistemática.</p>
+<hr>
+</section>
+</section>
+<section id="mapeamento-do-terreno-intelectual-pp.-24" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="mapeamento-do-terreno-intelectual-pp.-24"><span class="header-section-number">2</span> Mapeamento do Terreno Intelectual (pp.&nbsp;2–4)</h2>
+<section id="bayesianismo-psicológico-versus-bayesianismo-lógico-69" class="level3" data-number="2.1">
+<h3 data-number="2.1" class="anchored" data-anchor-id="bayesianismo-psicológico-versus-bayesianismo-lógico-69"><span class="header-section-number">2.1</span> Bayesianismo psicológico versus bayesianismo lógico [§6–§9]</h3>
+<p>Os autores introduzem uma distinção fundamental entre duas correntes do bayesianismo. Os tratamentos do bayesianismo na ciência política tendem a se basear na escola “psicológica”, que fundamenta grande parte da epistemologia bayesiana na filosofia da ciência e nos livros didáticos de estatística bayesiana (Savage 2003; Howson e Urbach 2006). Em contraste, Fairfield e Charman advogam o bayesianismo “lógico”, articulado nas ciências físicas, como fundamento metodológico para o <em>process tracing</em> e para a inferência científica em sentido mais amplo. Enquanto o bayesianismo psicológico trata probabilidades como uma questão de opinião informada, o bayesianismo lógico busca representar o grau racional de crença que <em>devemos</em> ter em proposições, dado o conjunto de informações que possuímos, de forma independente de caprichos, esperanças ou predileções pessoais.</p>
+<p>Um princípio central do bayesianismo lógico é que as probabilidades devem codificar o conhecimento de modo único e “consistente”: incorporar informações de maneiras diferentes, mas logicamente equivalentes, deve produzir probabilidades idênticas, e indivíduos racionais que possuem as mesmas informações devem atribuir as mesmas probabilidades. Cox (1961) e Jaynes (2003) demonstraram matematicamente que, se exigimos consistência e mensuramos graus de crença com números reais entre zero e um, então somos obrigados a adotar as regras padrão de soma e produto para manipular e atualizar probabilidades. O bayesianismo lógico é prescritivo — aspira a elaborar procedimentos que um indivíduo racional <em>deveria</em> seguir ao raciocinar com informação limitada —, mas na prática, tanto nas ciências naturais quanto na ciência social, simplificações e aproximações são sempre necessárias.</p>
+</section>
+<section id="posição-em-relação-à-literatura-de-process-tracing-1013" class="level3" data-number="2.2">
+<h3 data-number="2.2" class="anchored" data-anchor-id="posição-em-relação-à-literatura-de-process-tracing-1013"><span class="header-section-number">2.2</span> Posição em relação à literatura de <em>process tracing</em> [§10–§13]</h3>
+<p>Os autores situam sua contribuição em relação a trabalhos específicos da literatura. Eles dialogam com Bennett (2015), expondo princípios técnicos adicionais não completamente explicitados nesse trabalho, em especial o condicionamento de verossimilhanças em evidências previamente incorporadas e a necessidade de comparar hipóteses rivais bem especificadas. Abell (2009) é mencionado como trabalho que partilha algumas similaridades, mas que se concentra em inferir a existência de “elos” causais individuais em uma narrativa, sem reconhecer a importância de avaliar explicações alternativas bem formuladas.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Ponto de inflexão em relação a Humphreys e Jacobs (2015):</strong> O modelo BIQQ (<em>Bayesian Integrative Qualitative Quantitative</em>) de Humphreys e Jacobs é reconhecido como inovador para combinar dados correlacionais com pistas simples de <em>process tracing</em>, mas é considerado mais complexo do que o necessário para análise baseada em evidências intensivas. O problema central é que o modelo classifica casos em tipos não observáveis (adversos, benéficos, crônicos, destinados) segundo resultados potenciais, o que os autores consideram parâmetros de perturbação sem informação sobre mecanismos causais — um aparato inadequado quando o objetivo é identificar a melhor explicação para um caso.</p>
+</div>
+</div>
+<p>Por fim, os autores criticam a centralidade retida na literatura para os testes de <em>process tracing</em> de Van Evera (1997) — hoop tests, smoking-gun tests, etc. —, argumentando que a classificação de testes é desnecessária dentro de um arcabouço bayesiano, pois a confirmação evidencial é sempre uma questão de <em>grau</em>, não de tipo, e a inferência é sempre governada pela lógica da regra de Bayes. Embora o raciocínio de Van Evera seja intuitivamente bayesiano em muitos aspectos, a noção de testes permanece próxima da teoria frequentista, com sua tradição de submeter hipóteses a sequências de testes nomeados que podem ser passados ou reprovados.</p>
+<hr>
+</section>
+</section>
+<section id="operacionalizando-a-análise-bayesiana-pp.-411" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="operacionalizando-a-análise-bayesiana-pp.-411"><span class="header-section-number">3</span> Operacionalizando a Análise Bayesiana (pp.&nbsp;4–11)</h2>
+<section id="três-etapas-fundamentais-e-a-forma-odds-ratio-de-bayes-1415" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="três-etapas-fundamentais-e-a-forma-odds-ratio-de-bayes-1415"><span class="header-section-number">3.1</span> Três etapas fundamentais e a forma odds-ratio de Bayes [§14–§15]</h3>
+<p>O <em>process tracing</em> bayesiano explícito envolve três etapas principais: (1) especificar as hipóteses <span class="math inline">\(H_i\)</span> e atribuir suas probabilidades a priori <span class="math inline">\(P(H_i \mid I)\)</span>, dada a informação de contexto <span class="math inline">\(I\)</span>; (2) identificar a evidência <span class="math inline">\(E\)</span>; e (3) avaliar as verossimilhanças <span class="math inline">\(P(E \mid H_i, I)\)</span> e/ou as razões de verossimilhança <span class="math inline">\(P(E \mid H_i, I)/P(E \mid H_j, I)\)</span>. Com esses elementos, é possível obter as odds a posteriori sobre <span class="math inline">\(H_i\)</span> versus <span class="math inline">\(H_j\)</span> à luz da evidência mediante a forma relativa de razão de odds da regra de Bayes:</p>
+<p><span class="math display">\[\frac{P(H_i \mid E, I)}{P(H_j \mid E, I)} = \frac{P(H_i \mid I)}{P(H_j \mid I)} \times \frac{P(E \mid H_i, I)}{P(E \mid H_j, I)} \tag{1}\]</span></p>
+<p>Os autores antecipam que a seção 3.4 explicitará a razão para usar uma escala logarítmica ao atribuir valores numéricos a probabilidades, e que a seção 3.5 ilustrará como derivar uma inferência agregada a partir de múltiplas peças de evidência.</p>
+</section>
+<section id="hipóteses-e-probabilidades-a-priori-1621" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="hipóteses-e-probabilidades-a-priori-1621"><span class="header-section-number">3.2</span> Hipóteses e probabilidades a priori [§16–§21]</h3>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Regra central para hipóteses:</strong> Em vez de comparar uma hipótese <span class="math inline">\(H\)</span> contra sua negação lógica <span class="math inline">\(\sim H\)</span> — procedimento predominante em tratamentos anteriores —, os autores advogam a identificação de uma ou mais hipóteses rivais <em>concretas</em>. Isso é especialmente crítico nas ciências sociais porque <span class="math inline">\(\sim H\)</span> geralmente não é uma proposição bem definida: quanto mais específica a hipótese, mais possibilidades ficam contidas em <span class="math inline">\(\sim H\)</span>, tornando praticamente impossível avaliar diretamente <span class="math inline">\(P(E \mid \sim H, I)\)</span>.</p>
+</div>
+</div>
+<p>O argumento é ilustrado com o exemplo do suspeito A: se a única alternativa plausível é o suspeito B (ex-cônjuge amargo que armou uma armadilha), então <span class="math inline">\(P(E \mid \sim H_A, I)\)</span> pode ser bastante elevada; porém, se a única alternativa é o suspeito C (um total estranho), a mesma probabilidade pode ser bastante baixa. Quando ambas as hipóteses alternativas são plausíveis, a única abordagem sensata é avaliar a verossimilhança condicional em cada hipótese separadamente. Esse raciocínio se estende a casos politicamente complexos: considerando dois fatores que poderiam motivar presidentes a violar mandatos protecionistas (representação dos eleitores versus busca de rendas neoliberais, à la Stokes 2001), os autores propõem delinear cinco hipóteses mutuamente exclusivas ao longo de um espectro que vai de “predominantemente representação” a “predominantemente busca de rendas”.</p>
+<p>Uma vez especificadas as hipóteses rivais, os autores advogam o uso do <strong>princípio da indiferença</strong> de Laplace (Gregory 2005; Jaynes 2003): partir de um estado inicial de máxima ignorância <span class="math inline">\(I_0\)</span> e atribuir probabilidades a priori iguais a cada hipótese. Na prática, há três opções razoáveis: (a) especificar priors que reflitam o melhor possível a informação de contexto; (b) usar priors iguais para evitar favorecer qualquer hipótese inicialmente; ou (c) reportar apenas razões de verossimilhança e deixar que os leitores forneçam seus próprios priors. Uma quarta opção consiste em conduzir análises de sensibilidade com distribuições de prior distintas.</p>
+<p>Os autores constroem uma crítica direta a Bennett (2015), que utiliza o caso de Tannenwald (2007) sobre o não uso de armas nucleares no pós-guerra: apesar de reconhecer que as três hipóteses “parecem igualmente plausíveis à primeira vista” — deterrência (<span class="math inline">\(H_D\)</span>), falta de utilidade militar (<span class="math inline">\(H_M\)</span>) e normas/taboo nuclear (<span class="math inline">\(H_T\)</span>) —, Bennett atribui prior de 40% a <span class="math inline">\(H_T\)</span> e 60% a <span class="math inline">\(\sim H_T\)</span>, uma inconsistência com o próprio julgamento de equiplausibilidade que deveria levar a priors iguais de 1/3 para cada hipótese. Rohlfing (2013) é criticado por construir priors de forma iterativa e aparentemente arbitrária, reduzindo a probabilidade da hipótese de trabalho à medida que rivais emergem da literatura, ao invés de especificar todas as hipóteses desde o início.</p>
+</section>
+<section id="evidência-definição-e-granularidade-2224" class="level3" data-number="3.3">
+<h3 data-number="3.3" class="anchored" data-anchor-id="evidência-definição-e-granularidade-2224"><span class="header-section-number">3.3</span> Evidência: definição e granularidade [§22–§24]</h3>
+<p>Os autores adotam uma visão ampla e de senso comum sobre o que constitui evidência no <em>process tracing</em>: qualquer observação ou informação relevante (além do conhecimento de contexto) que incida sobre a verdade das hipóteses. Evidências frequentemente contêm informações sobre timing, sequenciamento, objetivos e intenções dos atores, obtidas de entrevistas, arquivos, registros de mídia e literatura secundária. O bayesianismo não enfrenta nenhuma das restrições que limitam a estatística frequentista à análise de observações replicáveis ou dados gerados por processos estocásticos.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Os autores argumentam que a classificação do tipo de evidência é supérflua dentro de um arcabouço bayesiano — a evidência entra nos cálculos bayesianos <em>somente</em> através de verossimilhanças, independentemente de sua origem ou forma. Não existe definição útil de evidência “boa” ou “ruim” de forma absoluta: o valor probatório cai em um continuum determinado pela razão de verossimilhança.</p>
+</div>
+</div>
+<p>No que diz respeito à granularidade, não há prescrição geral sobre o que constitui uma “peça” distinta de evidência. A regra prática é evitar desagregar evidências em grão excessivamente fino (risco de se perder em minúcias) ou em grão excessivamente grosseiro (dificuldade de avaliar a verossimilhança do que é na verdade uma conjunção de proposições distintas). Observações que favorecem hipóteses diferentes, ou informações de fontes de tipos distintos, geralmente são melhor tratadas como peças separadas; informações similares oriundas de fontes similares podem ser utilmente agrupadas.</p>
+</section>
+<section id="verossimilhanças-e-razões-de-verossimilhança-habitar-o-mundo-de-cada-hipótese-2527" class="level3" data-number="3.4">
+<h3 data-number="3.4" class="anchored" data-anchor-id="verossimilhanças-e-razões-de-verossimilhança-habitar-o-mundo-de-cada-hipótese-2527"><span class="header-section-number">3.4</span> Verossimilhanças e razões de verossimilhança: habitar o mundo de cada hipótese [§25–§27]</h3>
+<p>Avaliar verossimilhanças e razões de verossimilhança é o passo inferencial central no <em>process tracing</em> bayesiano. A verossimilhança <span class="math inline">\(P(E \mid H_i, I)\)</span> representa o grau de crença na verdade de <span class="math inline">\(E\)</span> — uma proposição que enuncia alguma evidência empírica específica — condicional a uma hipótese e à informação de contexto. A chave para avaliar <span class="math inline">\(P(E \mid H_i, I)\)</span> é lembrar que <em>assumimos</em> que <span class="math inline">\(H_i\)</span> é correta.</p>
+<p>Os autores recorrem à terminologia de Hunter (1984): o pesquisador deve “mentalmente habitar o mundo da hipótese” e perguntar o quão surpreendente (baixa probabilidade) ou esperada (alta probabilidade) a evidência seria naquele mundo. Se a evidência é mais provável no “mundo de <span class="math inline">\(H_1\)</span>” do que no “mundo de <span class="math inline">\(H_2\)</span>”, então essa evidência aumenta as odds que colocamos em <span class="math inline">\(H_1\)</span> versus <span class="math inline">\(H_2\)</span>. Ganhamos confiança em uma hipótese na medida em que ela torna mais plausível a evidência observada, em comparação com a hipótese rival.</p>
+</section>
+<section id="evidência-testemunhal-a-regra-fonte-s-afirmou-x-2830" class="level3" data-number="3.5">
+<h3 data-number="3.5" class="anchored" data-anchor-id="evidência-testemunhal-a-regra-fonte-s-afirmou-x-2830"><span class="header-section-number">3.5</span> Evidência testemunhal: a regra “fonte S afirmou X” [§28–§30]</h3>
+<p>Nas ciências sociais, utilizamos frequentemente <strong>evidências testemunhais</strong> fornecidas por pessoas — políticos, jornalistas, historiadores — que podem ter memória imprecisa, enganar deliberadamente ou distorcer fatos para servir a seus interesses. A analogia com a calibração de aparatos de medição nas ciências naturais seria avaliar a confiabilidade da fonte, mas isso não pode ser feito de forma absoluta, independentemente do que foi dito e de qual hipótese é verdadeira.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Regra operacional para evidência testemunhal:</strong> A evidência <span class="math inline">\(E\)</span> deve tipicamente tomar a forma “fonte <span class="math inline">\(S\)</span> afirmou <span class="math inline">\(X\)</span>” — e não o conteúdo <span class="math inline">\(X\)</span> isolado. O contexto do informante e seus incentivos para revelar ou distorcer a verdade <em>dependem</em> da hipótese em consideração. Seguindo Jaynes (2003, p.&nbsp;128), a nova informação aprendida é que a fonte <em>afirmou</em> certos fatos, não os fatos em si.</p>
+</div>
+</div>
+<p>Os autores criticam a abordagem de Beach e Pedersen (2013, pp.&nbsp;126–129), que tratam o enunciado <span class="math inline">\(X\)</span> como evidência e avaliam a probabilidade de que <span class="math inline">\(X\)</span> seja preciso como um componente adicional e distinto da análise, de forma independente da hipótese — o que leva a uma inconsistência lógica, pois a precisão de <span class="math inline">\(X\)</span> depende necessariamente da hipótese sob consideração (ver Apêndice B do original).</p>
+</section>
+<section id="condicionamento-em-evidências-previamente-incorporadas-3134" class="level3" data-number="3.6">
+<h3 data-number="3.6" class="anchored" data-anchor-id="condicionamento-em-evidências-previamente-incorporadas-3134"><span class="header-section-number">3.6</span> Condicionamento em evidências previamente incorporadas [§31–§34]</h3>
+<p>Quando o corpo de evidências <span class="math inline">\(E\)</span> consiste de múltiplas observações <span class="math inline">\(E_1\)</span> a <span class="math inline">\(E_N\)</span>, é possível decompor a verossimilhança em um produto:</p>
+<p><span class="math display">\[P(E \mid H_k, I) = P(E_N \mid E_1 \cdots E_{N-1}, H_k, I) \cdots P(E_2 \mid E_1, H_k, I)\, P(E_1 \mid H_k, I) \tag{2}\]</span></p>
+<p>Isso significa que a verossimilhança de <span class="math inline">\(E_x\)</span> deve ser avaliada condicional não apenas à hipótese e à informação de contexto, mas também a todas as evidências do problema em questão que tenham sido previamente incorporadas, <span class="math inline">\(E_{\text{prev}}\)</span>.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Dependência lógica versus dependência causal:</strong> A dependência lógica entre peças de evidência é distinta da dependência causal. <span class="math inline">\(E_{\text{prev}}\)</span> não precisa exercer qualquer influência causal sobre <span class="math inline">\(E_x\)</span> para afetar o grau de crença em <span class="math inline">\(E_x\)</span>. O exemplo clássico das urnas com bolinhas coloreadas ilustra isso: observar que a segunda bolinha retirada é preta torna certa a cor vermelha da primeira bolinha, ainda que a segunda retirada não possa causar retroativamente o resultado da primeira.</p>
+</div>
+</div>
+<p>Os autores aplicam essa lógica à ciência social: suponha que um informante entrevistado em dezembro de 2005 conte uma história <span class="math inline">\(X\)</span>, e uma notícia de jornal de maio de 2005 relate uma história similar. O informante não pode ter influenciado causalmente o artigo escrito sete meses antes, mas as duas peças de evidência são <em>logicamente</em> dependentes — o informante pode ter aprendido <span class="math inline">\(X\)</span> lendo o artigo, de modo que, sob muitas hipóteses, não ficamos surpresos de encontrar o artigo após a entrevista. Além disso, o artigo enfatiza que dependência ou independência não é uma propriedade física das fontes, mas uma relação lógica entre peças de evidência dada uma hipótese específica.</p>
+</section>
+<section id="sequenciamento-da-evidência-e-conveniência-analítica-3537" class="level3" data-number="3.7">
+<h3 data-number="3.7" class="anchored" data-anchor-id="sequenciamento-da-evidência-e-conveniência-analítica-3537"><span class="header-section-number">3.7</span> Sequenciamento da evidência e conveniência analítica [§35–§37]</h3>
+<p>As regras da probabilidade condicional implicam que a ordem em que as evidências são analisadas <em>não afeta</em> as probabilidades a posteriori finais:</p>
+<p><span class="math display">\[P(E_A E_B \mid H, I) = P(E_B E_A \mid H, I) = P(E_A \mid E_B, H, I)\, P(E_B \mid H, I) = P(E_B \mid E_A, H, I)\, P(E_A \mid H, I) \tag{3}\]</span></p>
+<p>Alguns trabalhos na tradição do bayesianismo psicológico (Jeffrey 1983) introduzem regras não-padrão de atualização que implicam que a ordem importa, mas os autores argumentam que tais abordagens violam as regras fundamentais da probabilidade e conflitam com a racionalidade central do bayesianismo lógico.</p>
+<p>Embora a ordem não afete o resultado final, os autores recomendam sequenciar as evidências de forma que facilite o condicionamento nas evidências previamente incorporadas. Colocar evidências fortemente discriminatórias por último pode evitar ter que condicionar outras evidências na conjunção de uma hipótese e uma observação extremamente implausível sob essa hipótese — exercício mental difícil que exige imaginar coincidências ou eventualidades muito surpreendentes. Alternativamente, se a evidência é suficientemente decisiva, pode ser incorporada primeiro e a análise pode ser encerrada, pois evidências adicionais contribuirão apenas marginalmente para as posteriores.</p>
+</section>
+<section id="escalas-logarítmicas-para-probabilidades-3842" class="level3" data-number="3.8">
+<h3 data-number="3.8" class="anchored" data-anchor-id="escalas-logarítmicas-para-probabilidades-3842"><span class="header-section-number">3.8</span> Escalas logarítmicas para probabilidades [§38–§42]</h3>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Proposta metodológica inovadora:</strong> Em vez das escalas lineares, frequentemente de granularidade grosseira, usadas na maioria da literatura sobre <em>process tracing</em> bayesiano (como Rohlfing 2013, p.&nbsp;19), os autores advogam o uso de uma escala logarítmica para odds e razões de verossimilhança — prática padrão nas ciências naturais e da informação.</p>
+</div>
+</div>
+<p>Essa recomendação está ancorada na psicofísica: a percepção sensorial tende a ser função logarítmica da intensidade do estímulo (Lei de Weber-Fechner). Pelo mesmo motivo, escalas logarítmicas foram introduzidas para avaliar percepções de incerteza em inferência probabilística. O <strong>peso de evidência</strong> (<em>weight of evidence</em>, WOE) de Good (1985) em favor de uma hipótese em comparação com uma rival, medido em decibéis, é proporcional ao logaritmo da razão de verossimilhança:</p>
+<p><span class="math display">\[WOE(H_i : H_j) = 10 \log_{10}\left[\frac{P(E \mid H_i, I)}{P(E \mid H_j, I)}\right] \tag{4}\]</span></p>
+<p>Good (1985) afirma que uma variação de 1 dB é o nível mais fino de quantificação de crença razoavelmente possível. Uma variação de probabilidade de 75% para 90% corresponde a um aumento de log-odds de aproximadamente 5 dB — saliente, mas modesto comparado às dezenas de decibéis que evidências cogentes podem produzir nas ciências naturais.</p>
+<p><strong>Tabela de referência de sons (reproduzida do original):</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: center;">dB</th>
+<th style="text-align: left;">Referência</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">10</td>
+<td style="text-align: left;">Limiar auditivo adulto; folhas farfalhando; barulho de alfinete</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">20</td>
+<td style="text-align: left;">Sussurro</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">30</td>
+<td style="text-align: left;">Quarto silencioso ou biblioteca; tique-taque de relógio</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">45</td>
+<td style="text-align: left;">Suficiente para acordar uma pessoa dormindo</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">50</td>
+<td style="text-align: left;">Chuva moderada</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">60</td>
+<td style="text-align: left;">Conversa típica</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">70</td>
+<td style="text-align: left;">Restaurante barulhento; TV comum</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">80</td>
+<td style="text-align: left;">Calçada movimentada; despertador</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">90</td>
+<td style="text-align: left;">Caminhão diesel ou motocicleta passando</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">100</td>
+<td style="text-align: left;">Clube noturno; canteiro de obras</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">115</td>
+<td style="text-align: left;">Show de rock; bebê gritando</td>
+</tr>
+</tbody>
+</table>
+<p>Na pesquisa qualitativa, os autores sugerem tratar evidências <em>claramente decisivas</em> como correspondentes a aproximadamente 30 dB — a diferença entre um quarto silencioso e uma conversa (“os dados falam claramente”). Um prior muito desfavorável a uma hipótese em relação a uma rival mais plausível poderia razoavelmente ser fixado em −50 dB.</p>
+</section>
+<section id="inferência-via-regra-de-bayes-com-múltiplas-peças-de-evidência-4345" class="level3" data-number="3.9">
+<h3 data-number="3.9" class="anchored" data-anchor-id="inferência-via-regra-de-bayes-com-múltiplas-peças-de-evidência-4345"><span class="header-section-number">3.9</span> Inferência via regra de Bayes com múltiplas peças de evidência [§43–§45]</h3>
+<p>O passo final do <em>process tracing</em> bayesiano explícito consiste em aplicar a regra de Bayes. Trabalhando com múltiplas peças de evidência, é possível multiplicar as razões de verossimilhança em uma única etapa:</p>
+<p><span class="math display">\[\frac{P(H_i \mid E, I)}{P(H_j \mid E, I)} = \frac{P(H_i \mid I)}{P(H_j \mid I)} \times \frac{P(E_1 \mid H_i, I)}{P(E_1 \mid H_j, I)} \times \frac{P(E_2 \mid E_1, H_i, I)}{P(E_2 \mid E_1, H_j, I)} \times \cdots \tag{5}\]</span></p>
+<p>Tomando o logaritmo da equação (5), obtém-se uma forma aditiva particularmente simples da regra de Bayes: as log-odds a posteriori igualam as log-odds a priori mais o peso de evidência:</p>
+<p><span class="math display">\[10 \log_{10}\left[\frac{P(H_k \mid E, I)}{P(H_l \mid E, I)}\right] = 10 \log_{10}\left[\frac{P(H_k \mid I)}{P(H_l \mid I)}\right] + WOE(H_k : H_l) \tag{6}\]</span></p>
+<p>Os pesos de evidência são também aditivos (equação 7), o que torna a escala decibel computacionalmente conveniente: basta somar os pesos de evidência individuais, lembrando de condicionar nas <span class="math inline">\(E_{\text{prev}}\)</span> quando necessário.</p>
+<hr>
+</section>
+</section>
+<section id="exemplo-empírico-pesos-de-evidência-pp.-1113" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="exemplo-empírico-pesos-de-evidência-pp.-1113"><span class="header-section-number">4</span> Exemplo Empírico: Pesos de Evidência (pp.&nbsp;11–13)</h2>
+<section id="apresentação-do-caso-e-das-hipóteses-rivais-4648" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="apresentação-do-caso-e-das-hipóteses-rivais-4648"><span class="header-section-number">4.1</span> Apresentação do caso e das hipóteses rivais [§46–§48]</h3>
+<p>O caso empírico é extraído das pesquisas de Fairfield (2013; 2015) sobre mudança de política tributária na América Latina. O estudo examina uma reforma chilena de 2005 que revogou um subsídio tributário regressivo. Fairfield argumenta que um “apelo de equidade”, feito durante uma corrida presidencial em que a desigualdade assumiu excepcional saliência, compeliu a coalizão oposicionista de direita a aceitar a reforma para evitar punição eleitoral. Durante a campanha de 2005, o candidato presidencial da direita culpou a coalizão governante de centro-esquerda pela persistente desigualdade no Chile; o presidente em exercício respondeu vinculando o subsídio tributário à desigualdade e desafiando publicamente a oposição a apoiar a reforma. Esta é a hipótese de apelo de equidade (<span class="math inline">\(H_{EA}\)</span>).</p>
+<p>Duas hipóteses rivais são consideradas:</p>
+<ul>
+<li><span class="math inline">\(H_I\)</span>: a oposição aceitou a reforma porque o sistema partidário institucionalizado do Chile motiva cooperação bipartidária e política consensual;</li>
+<li><span class="math inline">\(H_{CC}\)</span>: a oposição aceitou a reforma porque sua clientela principal — empresas e indivíduos de alta renda — tinha interesse material enfraquecido em defender o subsídio em 2005, em função do declínio dos ativos elegíveis para o benefício.</li>
+</ul>
+<p>As três hipóteses são assumidas como mutuamente exclusivas e exaustivas.</p>
+</section>
+<section id="avaliação-dos-pesos-de-evidência-para-e_1-e-e_2-4955" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="avaliação-dos-pesos-de-evidência-para-e_1-e-e_2-4955"><span class="header-section-number">4.2</span> Avaliação dos pesos de evidência para <span class="math inline">\(E_1\)</span> e <span class="math inline">\(E_2\)</span> [§49–§55]</h3>
+<p><strong>Evidência <span class="math inline">\(E_1\)</span>:</strong> Informantes da coalizão governante relataram à pesquisadora que a coalizão de centro-esquerda discutiu a inclusão de uma medida para eliminar o subsídio tributário em múltiplas reformas tributárias anteriores, mas que essa medida foi descartada como inviável em todas essas ocasiões devido à resistência da coalizão de direita.</p>
+<ul>
+<li><span class="math inline">\(WOE_1(H_{EA} : H_I) = 30\,\text{dB}\)</span>: E1 “fala claramente” em favor de <span class="math inline">\(H_{EA}\)</span> em relação a <span class="math inline">\(H_I\)</span>. No mundo de <span class="math inline">\(H_{EA}\)</span>, o apelo de equidade alterou o comportamento da direita — de resistência nos anos anteriores para aceitação em 2005. Em contraste, se as instituições produzissem consenso em 2005, deveriam também tê-lo produzido nos anos anteriores, já que as instituições não mudaram no período intermediário.</li>
+<li><span class="math inline">\(WOE_1(H_{EA} : H_{CC}) = 3\,\text{dB}\)</span>: Apenas um sussurro em favor de <span class="math inline">\(H_{EA}\)</span>. Sob <span class="math inline">\(H_{CC}\)</span>, a direita aceitou porque o declínio dos ativos ultrapassou seu limiar de resolução para resistir à reforma, mas não há previsão clara sobre <em>quando</em> exatamente o subsídio seria eliminado, enquanto sob <span class="math inline">\(H_{EA}\)</span> há uma razão clara para o timing específico de 2005.</li>
+</ul>
+<p>Este exemplo ilustra a importância de decompor <span class="math inline">\(\sim H_{EA}\)</span> em <span class="math inline">\(H_I\)</span> e <span class="math inline">\(H_{CC}\)</span>: os pesos de evidência em favor de <span class="math inline">\(H_{EA}\)</span> em relação às duas rivais são distintos (30 dB vs.&nbsp;3 dB), e seria impossível raciocinar de forma sensata sobre um “mundo de <span class="math inline">\(\sim H_{EA}\)</span>” sem antes realizar essa decomposição.</p>
+<p><strong>Evidência <span class="math inline">\(E_2\)</span>:</strong> Um funcionário do Ministério da Fazenda declarou à pesquisadora que o subsídio “era uma pura transferência de recursos para pessoas ricas… Não era possível para a direita se opor à reforma depois de ter feito aquele argumento sobre desigualdade.” Da mesma forma, o ex-Presidente declarou que o subsídio “nunca teria sido eliminado se eu não tivesse tomado [o candidato oposicionista] pela palavra” quando este professou publicamente preocupação com a desigualdade.</p>
+<p>Os autores agregaram os dois excertos em uma única peça de evidência porque são fortemente dependentes sob qualquer hipótese: presidente e funcionários do Ministério da Fazenda comunicam-se extensamente e compartilham análises similares. A agregação também segue a regra prática da seção 3.2 — informação similar de fontes similares.</p>
+<ul>
+<li><span class="math inline">\(WOE_2(H_{EA} : H_I, E_1) = WOE_2(H_{EA} : H_{CC}, E_1) = 10\,\text{dB}\)</span>: <span class="math inline">\(E_2\)</span> fornece vislumbres do mecanismo causal subjacente a <span class="math inline">\(H_{EA}\)</span>, referindo-se à troca entre o candidato oposicionista e o presidente que culminou no apelo de equidade. Embora os informantes governamentais pudessem ter incentivos para atribuir à reforma uma narrativa favorável ao governo mesmo no mundo das hipóteses rivais (estratégia que retrata o governo positivamente), a informação de contexto dos autores lhes dá confiança na capacidade analítica e sinceridade desses informantes.</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Lição metodológica de <span class="math inline">\(E_2\)</span>:</strong> A precisão das informações fornecidas pelas fontes depende da hipótese em consideração. Sob <span class="math inline">\(H_{EA}\)</span>, os depoimentos dos informantes devem ser tomados como verdadeiros; sob as hipóteses rivais, os depoimentos são necessariamente falsos — os informantes estão equivocados ou mentindo.</p>
+</div>
+</div>
+<hr>
+</section>
+</section>
+<section id="melhorando-inferência-e-transparência-analítica-pp.-1317" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="melhorando-inferência-e-transparência-analítica-pp.-1317"><span class="header-section-number">5</span> Melhorando Inferência e Transparência Analítica (pp.&nbsp;13–17)</h2>
+<section id="vantagens-e-oportunidades-do-process-tracing-bayesiano-explícito-5657" class="level3" data-number="5.1">
+<h3 data-number="5.1" class="anchored" data-anchor-id="vantagens-e-oportunidades-do-process-tracing-bayesiano-explícito-5657"><span class="header-section-number">5.1</span> Vantagens e oportunidades do <em>process tracing</em> bayesiano explícito [§56–§57]</h3>
+<p>Os autores concordam com a posição de Rohlfing (2013), Bennett (2015) e Humphreys e Jacobs (2015) de que a análise bayesiana explícita, se cuidadosamente implementada, oferece vantagens para melhorar a inferência. Em especial: obriga a identificar e considerar cuidadosamente todas as evidências salientes e os elementos críticos da informação de contexto; impede o foco subconsciente em uma hipótese de trabalho favorecida, ao exigir a consideração de estados do mundo caracterizados por hipóteses rivais; e pode “eliminar a ambiguidade considerável em muitas frases verbais usadas para transmitir probabilidades” (Bennett 2015, p.&nbsp;297), com a escala decibel contribuindo para comunicar graus de crença de forma mais eficaz.</p>
+</section>
+<section id="ressalvas-e-limitações-5863" class="level3" data-number="5.2">
+<h3 data-number="5.2" class="anchored" data-anchor-id="ressalvas-e-limitações-5863"><span class="header-section-number">5.2</span> Ressalvas e limitações [§58–§63]</h3>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Desafio central — a arbitrariedade dos valores numéricos:</strong> Nas ciências naturais, uma teoria subjacente forte e a descrição do aparato de medição levam a uma função de verossimilhança que especifica probabilidades de forma não ambígua. Nas ciências sociais, não existe procedimento claro para traduzir informação qualitativa complexa, narrativa e não reproduzível em afirmações probabilísticas precisas. Especificar intervalos de probabilidade em vez de valores precisos simplesmente <em>reloca</em> a arbitrariedade e tem valor prático limitado, pois propagar probabilidades intervalares pela regra de Bayes é não-trivial com múltiplas hipóteses.</p>
+</div>
+</div>
+<p>A segunda ressalva é que um treinamento substancial pode ser necessário antes que a análise bayesiana explícita possa superar a intuição. A experiência de ensino dos autores indica que um ou dois dias de workshops intensivos não são suficientes. Como parte do processo de aprendizado, o raciocínio pode piorar antes de melhorar, pois avaliar o peso de evidência muda a maneira como a intuição é utilizada.</p>
+<p>A terceira ressalva refere-se à intratabilidade além de modelos causais relativamente simples. Exigir hipóteses mutuamente exclusivas é não-trivial e pode demandar oversimplificação: algumas hipóteses rivais a Fairfield (2013) envolvem mecanismos causais que poderiam operar simultaneamente ou em interação no mundo real, criando uma explosão combinatória no espaço de hipóteses e agravando os desafios de atribuição de valores numéricos. Por contraste, nas ciências naturais, a análise bayesiana é geralmente aplicada a espaços de hipóteses muito simples.</p>
+<p>A quarta ressalva é de ordem prática: o Apêndice A deste artigo — que inclui verificações cruzadas para garantir que as verossimilhanças sejam sensatas e razoavelmente consistentes — excede o comprimento do próprio artigo de Fairfield (2013), que incluía outros três estudos de caso. Exigir análise bayesiana explícita para todos os casos criaria desincentivos pesados para o <em>process tracing</em>. Por fim, análise bayesiana explícita e transparência analítica não são sinônimas: a desagregação excessiva pode obscurecer ao invés de clarificar a inferência, e a transparência não requer atribuição de valores numéricos a probabilidades.</p>
+</section>
+<section id="aplicações-quando-a-análise-bayesiana-explícita-tem-maior-valor-6468" class="level3" data-number="5.3">
+<h3 data-number="5.3" class="anchored" data-anchor-id="aplicações-quando-a-análise-bayesiana-explícita-tem-maior-valor-6468"><span class="header-section-number">5.3</span> Aplicações: quando a análise bayesiana explícita tem maior valor [§64–§68]</h3>
+<p>Os autores estratificam os contextos de aplicação por valor esperado:</p>
+<ul>
+<li><strong>Baixo valor:</strong> quando todas as observações favorecem fortemente uma hipótese ou quando a evidência tem fraco valor probatório — nesses casos, a análise bayesiana explícita apenas confirma o que a intuição já produziria.</li>
+<li><strong>Valor moderado:</strong> quando a evidência é complexa e não favorece claramente uma hipótese — a análise ajuda a rastrear nuances, mas há risco de que as conclusões sejam dominadas pela arbitrariedade na atribuição de valores numéricos.</li>
+<li><strong>Alto valor — identificar o locus de controvérsia:</strong> a aplicação mais valiosa é quando pesquisadores discordam sobre inferências. Como argumenta Hunter (1984, p.&nbsp;88), através da análise bayesiana “as fontes do desacordo podem ser determinadas muito mais facilmente do que na análise verbal comum.” A análise bayesiana fornece uma estrutura para localizar se o desacordo origina-se de diferentes informações de contexto, diferentes priors ou diferentes avaliações de verossimilhanças. Os números servem primariamente para estimular discussão sobre lógica inferencial, e o componente ad hoc da quantificação torna-se menos problemático.</li>
+<li><strong>Valor pedagógico:</strong> a leitura de exemplos e a realização de exercícios podem treinar a intuição para seguir mais sistematicamente a lógica inferencial, melhorando o <em>process tracing</em> narrativo tradicional. Uma das lições mais salientes é que o peso de evidência depende, por definição, de <em>quais</em> hipóteses são comparadas: não se pode julgar o poder discriminatório da evidência em relação apenas à hipótese de trabalho, sem considerar alternativas concretas.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="argumento-sintético" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="argumento-sintético"><span class="header-section-number">6</span> Argumento Sintético</h2>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Síntese do Argumento
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Tese central:</strong> O artigo argumenta que a análise bayesiana explícita, fundamentada no bayesianismo “lógico” das ciências físicas (Cox 1961; Jaynes 2003) e não no bayesianismo “psicológico” predominante na ciência política, oferece o arcabouço metodológico mais rigoroso para o <em>process tracing</em> qualitativo — mas somente se corretamente operacionalizada mediante comparação de hipóteses rivais concretas, avaliação de razões de verossimilhança condicionadas nas evidências previamente incorporadas, e uso de escalas logarítmicas (decibéis) para atribuição de valores.</p>
+<p><strong>Natureza do argumento:</strong> O argumento é simultaneamente normativo-metodológico e parcialmente conceitual. Os autores prescrevem procedimentos que pesquisadores <em>deveriam</em> seguir (normativo), mas também clarificam conceitos e regras técnicas que foram mal interpretados ou negligenciados na literatura (conceitual). A dimensão empírica serve principalmente como ilustração, não como teste.</p>
+<p><strong>O que o texto demonstra vs.&nbsp;o que permanece hipótese ou agenda:</strong> O texto demonstra com clareza lógica e exemplos numéricos: (a) por que comparar <span class="math inline">\(H\)</span> versus <span class="math inline">\(\sim H\)</span> é inadequado; (b) como a dependência lógica entre evidências exige condicionamento; (c) que escalas logarítmicas são mais compatíveis com a psicofísica da percepção de incerteza; (d) a aplicação ao caso chileno como prova de conceito. Permanece como agenda: verificação sistemática de que a abordagem efetivamente melhora inferences em pesquisadores treinados, e desenvolvimento de ferramentas computacionais que tornem a análise mais tratável para modelos causais complexos.</p>
+<p><strong>Contribuição para o debate mais amplo:</strong> O artigo posiciona-se na interseção entre os debates sobre transparência analítica na ciência política (DART Statement; Büthe e Jacobs 2015) e os esforços de legitimação metodológica da pesquisa qualitativa de caso. Sua contribuição singular é importar o bayesianismo lógico das ciências físicas para a metodologia qualitativa em ciência política, articulando com precisão os pontos em que a literatura precedente (Rohlfing 2013; Bennett 2015; Humphreys e Jacobs 2015) divergia das melhores práticas do campo de origem.</p>
+</div>
+</div>
+<hr>
+</section>
+<section id="ficha-analítica-crítica" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="ficha-analítica-crítica">Ficha Analítica Crítica</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Esta seção segue o formato <em>IA Planilhando Textos v13.0</em>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-13-contents" aria-controls="callout-13" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ficha Analítica — Tabela Markdown
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-13" class="callout-13-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 23%">
+<col style="width: 52%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Dimensão</th>
+<th style="text-align: left;">Raciocínio analítico</th>
+<th style="text-align: left;">Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Questão de Pesquisa</td>
+<td style="text-align: left;">A pergunta emerge de uma lacuna técnica real: a literatura endossou o bayesianismo como fundamento do <em>process tracing</em>, mas não equacionou adequadamente como operacionalizá-lo. A interpretação alternativa possível seria que a pergunta é puramente normativa, mas o artigo tem dimensão técnica-procedimental genuína. O ponto mais vulnerável é que a pergunta pressupõe que a análise explícita é desejável, sem problematizar de forma suficientemente sistemática se os ganhos superam os custos antes da seção 5.</td>
+<td style="text-align: left;">Como se deve operacionalizar a análise bayesiana explícita no <em>process tracing</em> qualitativo de forma tecnicamente rigorosa, superando as limitações dos tratamentos anteriores? Natureza: normativo-metodológica. Pergunta reconstruída em parte — os autores a articulam implicitamente nas seções 1 e 2, mas não a formulam como uma única sentença interrogativa.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Questões Secundárias</td>
+<td style="text-align: left;">As questões secundárias derivam diretamente da central e a estruturam: (1) Qual a distinção entre bayesianismo lógico e psicológico e por que ela importa? (2) Como especificar e comparar hipóteses rivais? (3) Como avaliar verossimilhanças de evidências testemunhais e logicamente dependentes? (4) Por que usar escalas logarítmicas? (5) Quando a análise bayesiana explícita tem maior valor?</td>
+<td style="text-align: left;">(1) Distinção bayesianismo lógico/psicológico; (2) especificação de hipóteses mutuamente exclusivas; (3) tratamento de evidência testemunhal e dependência lógica; (4) justificativa para escalas decibélicas; (5) avaliação de vantagens e limitações contextuais.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Puzzle-Type</td>
+<td style="text-align: left;">O puzzle é genuinamente metodológico e tem relevância além do caso: qualquer pesquisador que use <em>process tracing</em> defronta-se com o problema de como estruturar a inferência. A avaliação de plausibilidade do puzzle é positiva. A preocupação é que a solução proposta (análise explícita) possa ser ainda mais custosa do que o problema que resolve, questão que os próprios autores reconhecem na seção 5.</td>
+<td style="text-align: left;">Puzzle explicativo-normativo: a literatura adotou o bayesianismo como fundamento do <em>process tracing</em>, mas não resolveu como aplicá-lo de forma rigorosa e consistente. Puzzle genuíno e generalizável a toda pesquisa qualitativa de caso nas ciências sociais.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Conclusão / Argumento Central</td>
+<td style="text-align: left;">A tese é bem articulada e consistente com as premissas. O <em>claim</em> de descoberta mais forte — que a análise bayesiana explícita tem valor primário para identificar o locus de controvérsia entre pesquisadores — é plausível mas apoia-se sobretudo na argumentação dedutiva, não em evidências empíricas sobre como pesquisadores reais se comportam quando expostos à técnica.</td>
+<td style="text-align: left;">O bayesianismo lógico das ciências físicas fornece o único arcabouço consistente para inferência em face de incerteza, e o <em>process tracing</em> deve operacionalizá-lo mediante (a) hipóteses rivais concretas, (b) condicionamento em evidências previamente incorporadas, (c) escalas logarítmicas. Argumento normativo-metodológico. O que sustenta o <em>claim</em>: consistência lógica dedutiva derivada de Cox (1961) e Jaynes (2003), mais aplicação ilustrativa ao caso chileno. O que permanece especulativo: que a abordagem efetivamente melhora práticas de pesquisa.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Métodos</td>
+<td style="text-align: left;">A estratégia argumentativa é a principal vulnerabilidade metodológica: o artigo é essencialmente uma contribuição teórico-normativa, e as afirmações sobre ganhos práticos dependem de exemplos ilustrativos, não de avaliação sistemática. O exemplo empírico demonstra a aplicabilidade, não a superioridade em comparação com análise narrativa alternativa.</td>
+<td style="text-align: left;">Contribuição teórico-normativa com ilustração empírica. Não há coleta de dados primários no artigo em si — a evidência empírica é extraída de Fairfield (2013; 2015). Estratégia argumentativa: (1) dedução a partir de axiomas do bayesianismo lógico; (2) crítica interna à literatura existente; (3) demonstração de aplicação a estudo de caso. Limitação de identificação: impossível verificar se pesquisadores que seguem as diretrizes produzem inferências efetivamente melhores.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Generation Process (DGP)</td>
+<td style="text-align: left;">O DGP do artigo é dedutivo-ilustrativo: as regras são derivadas de axiomas probabilísticos, e o caso empírico é selecionado por conveniência (pesquisa própria de Fairfield). O risco é que a escolha de um caso favorável à técnica enviese a percepção dos ganhos. A unidade de análise (a peça de evidência dentro de um estudo de caso) é adequada à pergunta, mas o nível de agregação — um único caso de reforma tributária no Chile — limita a generalização.</td>
+<td style="text-align: left;">Fenômeno: aplicação do raciocínio bayesiano ao <em>process tracing</em> qualitativo. Observação: exercício dedutivo a partir de axiomas + análise da literatura. Coleta: revisão crítica de tratamentos existentes + aplicação ao caso chileno (Fairfield 2013). Operacionalização: avaliação de pesos de evidência (WOE em dB) para <span class="math inline">\(E_1\)</span> e <span class="math inline">\(E_2\)</span> com três hipóteses rivais. Análise: inferência bayesiana formal. Tipo de inferência: normativo-prescritiva + ilustrativa. Unidade de análise: peça de evidência dentro de um único caso.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Achados e Contribuições</td>
+<td style="text-align: left;">Os achados técnicos — distinção lógico/psicológico, condicionamento em evidências, escala decibel — são contribuições metodológicas sólidas e bem fundamentadas. A demonstração do caso chileno é convincente como prova de conceito. As afirmações sobre melhoria pedagógica e diagnóstico de controvérsias são plausíveis, mas permanecem especulativas.</td>
+<td style="text-align: left;">Contribuições teórico-metodológicas: (1) distinção bayesianismo lógico/psicológico e importação para ciência política; (2) diretrizes explícitas para hipóteses, evidência e verossimilhanças; (3) introdução da escala decibel no <em>process tracing</em>; (4) crítica técnica aos tratamentos anteriores de Bennett, Rohlfing e Humphreys-Jacobs. Contribuição empírica: primeira aplicação sistemática a múltiplas peças de evidência em um estudo de caso real. O que o <em>design</em> identifica com força: a inadequação técnica de comparar <span class="math inline">\(H\)</span> vs.&nbsp;<span class="math inline">\(\sim H\)</span> e de ignorar dependência lógica. O que é especulativo: que pesquisadores treinados produam inferências melhores.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Análise Crítica dos Achados</td>
+<td style="text-align: left;">Os autores respondem bem à parte técnica-normativa da pergunta. A fragilidade está na avaliação dos ganhos práticos: a seção 5 reconhece honestamente as limitações, mas o balanço final ainda tende ao otimismo sem evidência empírica sistemática sobre adoção e eficácia. A <em>scope condition</em> mais importante — modelos causais simples — é reconhecida mas subestimada, dado que a maioria dos fenômenos de interesse em ciência política envolve causalidade complexa e multicausal.</td>
+<td style="text-align: left;">Pontos mais vulneráveis: (1) a afirmação de que a abordagem melhora inferences não é testada empiricamente; (2) o requisito de hipóteses mutuamente exclusivas é extremamente restritivo para ciência social, e a simplificação necessária pode introduzir viés mais sério do que a abordagem narrativa que pretende melhorar; (3) o caso empírico é selecionado a dedo. Pontos mais fortes: (1) a crítica técnica a tratamentos anteriores é precisa e bem documentada; (2) a proposta de usar WOE em dB é genuinamente inovadora; (3) os autores são notavelmente honestos sobre as limitações.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Limitações</td>
+<td style="text-align: left;">As limitações reconhecidas mostram rara honestidade intelectual, especialmente para um artigo que propõe uma metodologia. As limitações não reconhecidas são igualmente importantes para avaliar o alcance do argumento.</td>
+<td style="text-align: left;"><strong>Reconhecidas pelos autores:</strong> probabilidades não podem ser especificadas de forma não ambígua; treinamento substancial necessário; intratabilidade com modelos causais complexos; carga prática excessiva; análise bayesiana explícita e transparência não são sinônimos. <br> <strong>Não reconhecidas ou subestimadas:</strong> (1) viés de seleção do caso empírico (pesquisa própria de Fairfield); (2) o requisito de hipóteses mutuamente exclusivas pode induzir mais distorção que o <em>process tracing</em> narrativo nos casos de causalidade conjuntural; (3) ausência de avaliação empírica dos efeitos sobre pesquisadores reais; (4) o artigo não discute como a abordagem se integra com outros designs multi-método além do BIQQ.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perspectiva Teórica</td>
+<td style="text-align: left;">A opção pelo bayesianismo lógico em detrimento do psicológico é coerente com a ontologia implícita do artigo — de que existe um padrão objetivo de raciocínio racional — mas essa premissa filosófica não é suficientemente problematizada. A moldura é adequada para o tipo de pergunta; a coerência entre ontologia e método é elevada para os propósitos formais do artigo, mas tensionada pela inevitável subjetividade da pesquisa qualitativa que os próprios autores reconhecem.</td>
+<td style="text-align: left;">Tradição(ões): bayesianismo lógico (Cox 1961; Jaynes 2003); filosofia da ciência probabilística; metodologia de pesquisa qualitativa em ciência política. Adequação: alta para a pergunta técnico-normativa proposta. Tensão não resolvida: o bayesianismo lógico é prescritivo e aspira à racionalidade intersubjetiva, mas a pesquisa qualitativa está fundamentalmente ancorada em julgamentos do pesquisador que resistem à padronização — tensão que os autores reconhecem mas não resolvem.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Principais Referências</td>
+<td style="text-align: left;">O diálogo com a literatura de metodologia qualitativa de ciência política é amplo e bem balanceado. O engajamento com Bennett e Humphreys-Jacobs é substancial e justo. A literatura sobre bayesianismo das ciências físicas (Cox, Jaynes, Good) é adequadamente mobilizada. Há ausência notável de diálogo com literatura sobre raciocínio heurístico e vieses cognitivos (Kahneman, Tversky), que seria relevante para as afirmações sobre treinamento de intuição.</td>
+<td style="text-align: left;">Centrais: Jaynes (2003), Cox (1961), Good (1985), Bennett (2015), Rohlfing (2013), Humphreys e Jacobs (2015), Fairfield (2013; 2015). Diálogo pobre: literatura de cognição e heurísticas (Kahneman-Tversky); literatura de <em>Qualitative Comparative Analysis</em> (QCA); abordagens process tracing orientadas a mecanismos (Hall 2003; Mahoney 2015).</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Observações</td>
+<td style="text-align: left;">Para pesquisadores de economia política comparada que utilizam estudos de caso intensivos — como o leitor deste fichamento —, o artigo oferece ferramentas precisas para estruturar inferências em análises de política pública e reformas institucionais. A lição mais transferível é provavelmente não a análise numérica explícita, mas a disciplina de especificar hipóteses rivais concretas e “habitar” cada mundo hipotético antes de avaliar a evidência. A omissão de diálogo com QCA é relevante, pois comparações entre casos são comuns em estudos de política comparada, e a relação entre pesos de evidência bayesianos e condições necessárias/suficientes não é elaborada.</td>
+<td style="text-align: left;">(1) O artigo abre uma agenda de pesquisa sobre como combinar análise bayesiana explícita com abordagens de causalidade conjuntural prevalentes na política comparada; (2) a tensão entre rigor técnico e praticabilidade não é plenamente resolvida, limitando a adoção da técnica em pesquisas multi-caso; (3) a contribuição mais durável pode ser a tabela de diretrizes (Tabela 3) como roteiro heurístico para <em>process tracing</em> narrativo, não a quantificação explícita.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<a href="http://www.github.com/mancano-tales">Tales Mançano</a> ©
+<script>document.write(new Date().getFullYear())</script>
+</div>   
+    <div class="nav-footer-center">
+<p>Build on <a href="https://github.com/drganghe/quarto-academic-website-template">Quart Academic Website Template</a> adapted by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a></p>
+</div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/drganghe/quarto-academic-website-template" target="_blank">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app" target="_blank">
+<p><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></p>
+</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="../../posts.xml" target="_blank">
+      <i class="bi bi-rss" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

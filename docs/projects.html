@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Tales Mançano">
-<meta name="description" content="Political Science Researcher | USP Graduate Program">
+<meta name="description" content="Tales Mançano Academic Website">
 
-<title>Tales Mançano</title>
+<title>Projects – Tales Mançano</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -41,6 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -48,8 +49,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-31eaf266902e15e6572a3934ae2616ee.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,21 +78,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
+    const listingTargetEl = window.document.querySelector('#listing-projects .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      valueNames: ['listing-image','listing-title','listing-author','listing-subtitle','listing-description','listing-funding','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-author","listing-subtitle","listing-description","listing-started","listing-ended","listing-funding"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
+    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -186,14 +184,12 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Tales Mançano">
-<meta property="og:description" content="(pronounced TAH-leez mun-SAH-no | /ˈta.lis mɐ̃.’sɐ.nu/) | He/Him (en) · Ele/Dele (pt)">
-<meta property="og:image" content="files/images/photo-tales.jpg">
+<meta property="og:title" content="Projects – Tales Mançano">
+<meta property="og:description" content="Funded projects">
 <meta property="og:site_name" content="Tales Mançano">
-<meta name="twitter:title" content="Tales Mançano">
-<meta name="twitter:description" content="(pronounced TAH-leez mun-SAH-no | /ˈta.lis mɐ̃.’sɐ.nu/) | He/Him (en) · Ele/Dele (pt)">
-<meta name="twitter:image" content="files/images/photo-tales.jpg">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Projects – Tales Mançano">
+<meta name="twitter:description" content="Funded projects">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -305,11 +301,30 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Projects</h1>
+<p class="subtitle lead">Funded projects</p>
+</div>
 
+
+
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 <style>
@@ -339,215 +354,153 @@ window.Quarto = {
 }
 .lang-content[lang]:not([lang="en"]) { display: none; }
 .lang-content[lang="en"] { display: block; }
-</style><style>
-.lang-toggle {
-  position: fixed;
-  top: 80px;
-  right: 30px;
-  z-index: 1000;
-  background: white;
-  padding: 5px;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-}
-.lang-btn {
-  background: transparent;
-  border: 1px solid #666;
-  border-radius: 4px;
-  padding: 6px 14px;
-  margin: 0 2px;
-  cursor: pointer;
-  font-size: 14px;
-  transition: all 0.3s;
-  font-weight: 500;
-}
-.lang-btn:hover {
-  background: #f0f0f0;
-}
-.lang-btn.active {
-  background: #0366d6;
-  color: white;
-  border-color: #0366d6;
-}
-</style>
-
-<div class="lang-toggle">
-  <button class="lang-btn active" id="btn-en" onclick="switchLang('en')">English</button>
-  <button class="lang-btn" id="btn-pt" onclick="switchLang('pt')">Português</button>
-</div>
-
-<script>
-function switchLang(lang) {
-  console.log('Switching to:', lang);
-  
-  // Procura todos os elementos que contém lang- na classe
-  const allElements = document.querySelectorAll('*');
-  let enCount = 0;
-  let ptCount = 0;
-  
-  allElements.forEach(el => {
-    const classes = el.className;
-    if (typeof classes === 'string') {
-      if (classes.includes('lang-en')) {
-        el.style.display = (lang === 'en') ? '' : 'none';
-        enCount++;
-      }
-      if (classes.includes('lang-pt')) {
-        el.style.display = (lang === 'pt') ? '' : 'none';
-        ptCount++;
-      }
-    }
-  });
-  
-  console.log('EN elements:', enCount, 'PT elements:', ptCount);
-  
-  // Atualiza botões
-  document.querySelectorAll('.lang-btn').forEach(btn => {
-    btn.classList.remove('active');
-  });
-  document.getElementById('btn-' + lang).classList.add('active');
-  
-  // Salva
-  localStorage.setItem('preferredLang', lang);
-}
-
-// Carrega inglês por padrão ao iniciar
-// Remova a linha com localStorage.setItem
-// Remova a linha com localStorage.getItem
-// Substitua o window.onload por:
-window.onload = function() { switchLang('en'); };
-</script>
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/images/photo-tales.jpg" class="about-image
-  rounded " style="width: 70%;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Tales Mançano</h1>
-<p class="subtitle lead">(pronounced TAH-leez mun-SAH-no | /ˈta.lis mɐ̃.’sɐ.nu/) | He/Him (en) · Ele/Dele (pt)</p>
-</div>
-<div class="quarto-title-meta column-page">
+</style><div id="listing-projects" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-projects-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-projects'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-image" data-direction="asc">
+      </option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Team
+      </option>
+      <option value="listing-subtitle" data-direction="asc">
+        Funder
+      </option>
+      <option value="listing-description" data-direction="asc">
+        Description
+      </option>
+      <option value="listing-started" data-direction="asc">
+        Start
+      </option>
+      <option value="listing-ended" data-direction="asc">
+        End
+      </option>
+      <option value="listing-funding" data-direction="asc">
+        Funding
+      </option>
+    </select>
   </div>
-</header>
-    <div class="about-links">
-  <a href="mailto:mancano.tales@gmail.com" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
-  <a href="https://orcid.org/0000-0001-5923-9743" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-orcid"></i> ORCID</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=UcrcWloAAAAJ&amp;hl=pt-BR" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><i class="ai  ai-google-scholar"></i> Google Scholar</span>
-  </a>
-  <a href="https://github.com/mancano-tales" class="about-link" rel="" target="_blank">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<div class="lang-en">
-<p>I’m Tales Mançano, a political science researcher and master’s graduate from the Graduate Program in Political Science at the University of São Paulo (FFLCH-USP). My research explores the relationship between institutions, inequality, and public policy, with a focus on post-secondary education, comparative political economy, welfare regimes, and market regulation.</p>
-<p>This site gathers information about my academic trajectory, publications, presentations, ongoing projects, and open notes/ideas published periodically in the <strong>Blog Posts</strong> section.</p>
-<p>The goal here is to share my activities, organize ideas, and make the research process publicly available—both the results and the paths taken.</p>
-<section id="experience" class="level2 unnumbered">
-<h2 class="unnumbered" data-anchor-id="experience">Experience</h2>
-<ul>
-<li><strong>Master’s Student/Researcher</strong>, University of São Paulo (USP) - FFLCH</li>
-<li><strong>Visiting Scholar</strong>, University of Konstanz, Germany</li>
-<li><strong>Visiting Student Researcher</strong>, Stanford University, Graduate School of Education, Lemman Center</li>
-</ul>
-</section>
-<section id="education" class="level2 unnumbered">
-<h2 class="unnumbered" data-anchor-id="education">Education</h2>
-<ul>
-<li><strong>M.A.&nbsp;Political Science</strong>, University of São Paulo (2026, exp.)</li>
-<li><strong>B.A. Social Sciences</strong>, University of São Paulo (2023)</li>
-</ul>
-</section>
-</div>
-<div class="lang-pt">
-<p>Sou Tales Mançano, pesquisador em Ciência Política e mestre pelo Programa de Pós-Graduação em Ciência Política da Universidade de São Paulo (FFLCH-USP). Meus interesses de pesquisa giram em torno da relação entre instituições, desigualdade e políticas públicas, com ênfase na educação pós-secundária, economia política comparada, regimes de bem-estar e regulação de mercados.</p>
-<p>Este site reúne informações sobre minha trajetória acadêmica, publicações, apresentações públicas, projetos em andamento e anotações abertas/ideias publicadas periodicamente na seção <strong>Blog Posts</strong>.</p>
-<p>A proposta aqui é compartilhar minhas atividades, sistematizar ideias e tornar o processo de pesquisa publicamente acessível—tanto os resultados quanto os caminhos percorridos.</p>
-<section id="experiência" class="level2 unnumbered">
-<h2 class="unnumbered" data-anchor-id="experiência">Experiência</h2>
-<ul>
-<li><strong>Mestrando/Pesquisador</strong>, Universidade de São Paulo (USP) - FFLCH</li>
-<li><strong>Pesquisador Visitante</strong>, Universidade de Konstanz, Alemanha</li>
-<li><strong>Pesquisador Visitante</strong>, Universidade Stanford, Escola de Educação, Lemman Center</li>
-</ul>
-</section>
-<section id="formação" class="level2 unnumbered">
-<h2 class="unnumbered" data-anchor-id="formação">Formação</h2>
-<ul>
-<li><strong>M.A.&nbsp;Ciência Política</strong>, Universidade de São Paulo (2026, prev.)</li>
-<li><strong>B.A. Ciências Sociais</strong>, Universidade de São Paulo (2023)</li>
-</ul>
-</section>
-</div>
-</div></div>
-</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
 
-<section id="recent-posts" class="level2 lang-en">
-<h2 data-anchor-id="recent-posts">Recent Posts</h2>
-<p>Check out my latest blog posts:</p>
-</section>
-<section id="postagens-recentes" class="level2 lang-pt">
-<h2 data-anchor-id="postagens-recentes">Postagens Recentes</h2>
-<p>Confira as últimas postagens do blog:</p>
-</section>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1777859234691" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./posts/Annotated-Bib/Untitled.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Untitled
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1776774624043" data-listing-reading-time-sort="2" data-listing-word-count-sort="280">
-<a href="./posts/CATEGORIES.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Canonical Category List
-</h5>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="QW5ub3RhdGVkJTIwQmlibGlvZ3JhcGh5JTJDQ29tcGFyYXRpdmUlMjBQb2xpdGljcyUyQ0RlbW9jcmF0aXphdGlvbiUyQ0hpc3RvcmljYWwlMjBJbnN0aXR1dGlvbmFsaXNtJTJDU3RhdGUlMjBGb3JtYXRpb24lMkNBZ3JhcmlhbiUyMFJlZm9ybQ==" data-listing-date-sort="1777777200000" data-listing-file-modified-sort="1777859318969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="33" data-listing-word-count-sort="6538">
-<a href="./posts/Annotated-Bib/Andersen2024.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Fichamento: Impartial Administration and Peaceful Agrarian Reform: The Foundations for Democracy in Scandinavia
-</h5>
-<div class="card-subtitle listing-subtitle">
-David Andersen (2024)
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-May 3, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
+<th>
+<a class="sort" data-sort="listing-image" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;"> </a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Team</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Funder</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-description" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Description</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-funding" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Funding</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-started" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Start</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-ended" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">End</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-title-sort="Economia Política da Educação Superior no Brasil">
+<td>
+<span class="listing-image"><img loading="lazy" src="https://www.fapesp.br/favicon.ico" style="height: 30px;"></span>
+</td>
+<td>
+<a href="https://mancano-tales.github.io/Mancano2026-MA-Thesis/" class="title listing-title">Economia Política da Educação Superior no Brasil</a>
+</td>
+<td>
+<span class="listing-author">Tales Mançano — orientadora: Marta Arretche (USP/CEM)</span>
+</td>
+<td>
+<span class="listing-subtitle">FAPESP Mestrado · Proc. 24/01888-0</span>
+</td>
+<td>
+<span class="listing-description">Examina como a política partidária e fatores institucionais moldam as políticas de educação pós-secundária no Brasil e suas desigualdades. Analisa ação afirmativa, expansão e concentração do setor privado à luz da literatura de regimes de habilidades (Busemeyer 2014), combinando análise histórico-institucional e comparações quantitativas internacionais (OCDE, microdados INEP 2009–2019).</span>
+</td>
+<td>
+<span class="listing-funding">FAPESP</span>
+</td>
+<td>
+<span class="listing-started">2024</span>
+</td>
+<td>
+<span class="listing-ended">2026</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-title-sort="Desigualdade Educacional no Brasil">
+<td>
+<span class="listing-image"><img loading="lazy" src="https://www.ibge.gov.br/favicon-96x96.png" style="height: 30px;"></span>
+</td>
+<td>
+<a href="https://mancano-tales.github.io/PNAD-Educacao/" class="title listing-title">Desigualdade Educacional no Brasil</a>
+</td>
+<td>
+<span class="listing-author">Tales Mançano</span>
+</td>
+<td>
+<span class="listing-subtitle">Pesquisa pessoal</span>
+</td>
+<td>
+<span class="listing-description">Visualizações interativas sobre desigualdade educacional brasileira com microdados da PNAD e PNAD Contínua (IBGE). Análise de escolaridade por renda, raça e região.</span>
+</td>
+<td>
+<span class="listing-funding">&nbsp;</span>
+</td>
+<td>
+<span class="listing-started">2024</span>
+</td>
+<td>
+<span class="listing-ended">&nbsp;</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<div class="text-end lang-en">
-<p><a href="./posts.html" class="btn btn-outline-primary">All Posts <i class="bi bi-arrow-right"></i></a></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
-<div class="text-end lang-pt">
-<p><a href="./posts.html" class="btn btn-outline-primary">Todas as Postagens <i class="bi bi-arrow-right"></i></a></p>
-</div>
-
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 
@@ -555,6 +508,13 @@ May 3, 2026
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

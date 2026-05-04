@@ -1,0 +1,299 @@
+---
+title: "Fichamento: Explicit Bayesian Analysis for Process Tracing: Guidelines, Opportunities, and Caveats"
+subtitle: "Fairfield & Charman (2017)"
+author: "Tales Mançano"
+date: "2026-05-03"
+last-updated: "2026-05-03"
+categories: [Annotated Bibliography, Metodologia Qualitativa, Process Tracing, Bayesianismo, Inferência Causal, Ciência Política]
+format:
+  html:
+    toc: true
+    number-sections: true
+    theme: cosmo
+    highlight-style: github
+---
+
+Fairfield, T., & Charman, A. E. (2017). Explicit Bayesian analysis for process tracing: Guidelines, opportunities, and caveats. *Political Analysis*, advance online. https://doi.org/10.1017/pan.2017.14
+
+::: {.callout-note collapse="true" icon=false}
+## Entrada BibTeX → Fairfield-Charman2017
+
+```bibtex
+@article{Fairfield-Charman2017,
+  author    = {Fairfield, Tasha and Charman, Andrew E.},
+  title     = {Explicit Bayesian Analysis for Process Tracing: Guidelines, Opportunities, and Caveats},
+  year      = {2017},
+  journal   = {Political Analysis},
+  doi       = {10.1017/pan.2017.14},
+}
+```
+
+:::
+
+Última atualização: 2026-05-03
+Modelo: Perplexity, powered by Sonnet 4.6 Thinking
+Prompt Version: v13.0 2026-04-19 | 2026-04-24 "IA Blog Post QMD"
+Gerado em: 2026-05-03T23:49:00-03:00
+
+---
+
+## Introdução (pp. 1–2)
+
+### O problema e a promessa do bayesianismo para pesquisa qualitativa [§1–§2]
+
+O artigo abre identificando um movimento crescente dentro da ciência política que reconhece o bayesianismo como fundamento metodológico do *process tracing* — método que consiste em fazer inferências causais sobre um único caso ao avaliar explicações alternativas à luz das evidências coletadas. Em comparação com o frequentismo, o bayesianismo oferece vantagens especialmente relevantes para a pesquisa qualitativa de caso: pode lidar com dados não gerados por processos estocásticos (como informações de especialistas e fontes arquivísticas), pode ser aplicado para explicar eventos únicos sem referência a uma população, e exige um diálogo iterativo com os dados — o que espelha como o *process tracing* é tipicamente conduzido na prática.
+
+Os autores reconhecem que a literatura caminhou das analogias informais ao bayesianismo (McKeown 1999; Bennett 2008; Beach e Pedersen 2013) em direção a esforços mais explícitos de aplicação da análise bayesiana em pesquisa qualitativa (Rohlfing 2013; Bennett 2015; Humphreys e Jacobs 2015). Esse movimento é visto pelos autores como um divisor de águas que fornece fundamento sólido para a pesquisa de caso intensiva, de pequeno N. Contudo, embora as técnicas estatísticas bayesianas já estejam bem elaboradas para pesquisa quantitativa de grande N, a aplicação da probabilidade bayesiana à pesquisa qualitativa permanece uma fronteira não definitivamente resolvida.
+
+### Diagnóstico da literatura existente e contribuições do artigo [§3–§5]
+
+Os autores diagnosticam que os trabalhos pioneiros na área examinaram apenas alguns poucos fragmentos ilustrativos de evidência ou incluíram apenas pistas de *process tracing* altamente simplificadas, além de terem deixado de lado uma série de pontos técnicos importantes. O artigo busca avançar a aplicação do raciocínio bayesiano no *process tracing*, recorrendo às exposições da "probabilidade como lógica estendida" originárias das ciências naturais — tradição que remonta a Bernoulli (1655–1705) e Laplace (1749–1827) e que modernamente foi consolidada matematicamente por Cox (1961) e Jaynes (2003).
+
+::: {.callout-note icon=false}
+**Tese central introdutória:** O artigo apresenta diretrizes passo a passo para o *process tracing* bayesiano explícito, chamando atenção para pontos técnicos negligenciados na literatura e ilustrando a abordagem com a primeira aplicação sistemática a um estudo de caso que utiliza múltiplas peças de evidência detalhada.
+:::
+
+A introdução termina com a antecipação do argumento dual do texto: por um lado, os autores reconhecem que atribuir valores numéricos a probabilidades em ciência social qualitativa envolve uma dose substancial de arbitrariedade; por outro, identificam papéis importantes para a análise bayesiana explícita, especialmente no diagnóstico do locus de controvérsia entre pesquisadores e no treinamento da intuição para seguir a lógica bayesiana de forma mais sistemática.
+
+---
+
+## Mapeamento do Terreno Intelectual (pp. 2–4)
+
+### Bayesianismo psicológico versus bayesianismo lógico [§6–§9]
+
+Os autores introduzem uma distinção fundamental entre duas correntes do bayesianismo. Os tratamentos do bayesianismo na ciência política tendem a se basear na escola "psicológica", que fundamenta grande parte da epistemologia bayesiana na filosofia da ciência e nos livros didáticos de estatística bayesiana (Savage 2003; Howson e Urbach 2006). Em contraste, Fairfield e Charman advogam o bayesianismo "lógico", articulado nas ciências físicas, como fundamento metodológico para o *process tracing* e para a inferência científica em sentido mais amplo. Enquanto o bayesianismo psicológico trata probabilidades como uma questão de opinião informada, o bayesianismo lógico busca representar o grau racional de crença que *devemos* ter em proposições, dado o conjunto de informações que possuímos, de forma independente de caprichos, esperanças ou predileções pessoais.
+
+Um princípio central do bayesianismo lógico é que as probabilidades devem codificar o conhecimento de modo único e "consistente": incorporar informações de maneiras diferentes, mas logicamente equivalentes, deve produzir probabilidades idênticas, e indivíduos racionais que possuem as mesmas informações devem atribuir as mesmas probabilidades. Cox (1961) e Jaynes (2003) demonstraram matematicamente que, se exigimos consistência e mensuramos graus de crença com números reais entre zero e um, então somos obrigados a adotar as regras padrão de soma e produto para manipular e atualizar probabilidades. O bayesianismo lógico é prescritivo — aspira a elaborar procedimentos que um indivíduo racional *deveria* seguir ao raciocinar com informação limitada —, mas na prática, tanto nas ciências naturais quanto na ciência social, simplificações e aproximações são sempre necessárias.
+
+### Posição em relação à literatura de *process tracing* [§10–§13]
+
+Os autores situam sua contribuição em relação a trabalhos específicos da literatura. Eles dialogam com Bennett (2015), expondo princípios técnicos adicionais não completamente explicitados nesse trabalho, em especial o condicionamento de verossimilhanças em evidências previamente incorporadas e a necessidade de comparar hipóteses rivais bem especificadas. Abell (2009) é mencionado como trabalho que partilha algumas similaridades, mas que se concentra em inferir a existência de "elos" causais individuais em uma narrativa, sem reconhecer a importância de avaliar explicações alternativas bem formuladas.
+
+::: {.callout-note icon=false}
+**Ponto de inflexão em relação a Humphreys e Jacobs (2015):** O modelo BIQQ (*Bayesian Integrative Qualitative Quantitative*) de Humphreys e Jacobs é reconhecido como inovador para combinar dados correlacionais com pistas simples de *process tracing*, mas é considerado mais complexo do que o necessário para análise baseada em evidências intensivas. O problema central é que o modelo classifica casos em tipos não observáveis (adversos, benéficos, crônicos, destinados) segundo resultados potenciais, o que os autores consideram parâmetros de perturbação sem informação sobre mecanismos causais — um aparato inadequado quando o objetivo é identificar a melhor explicação para um caso.
+:::
+
+Por fim, os autores criticam a centralidade retida na literatura para os testes de *process tracing* de Van Evera (1997) — hoop tests, smoking-gun tests, etc. —, argumentando que a classificação de testes é desnecessária dentro de um arcabouço bayesiano, pois a confirmação evidencial é sempre uma questão de *grau*, não de tipo, e a inferência é sempre governada pela lógica da regra de Bayes. Embora o raciocínio de Van Evera seja intuitivamente bayesiano em muitos aspectos, a noção de testes permanece próxima da teoria frequentista, com sua tradição de submeter hipóteses a sequências de testes nomeados que podem ser passados ou reprovados.
+
+---
+
+## Operacionalizando a Análise Bayesiana (pp. 4–11)
+
+### Três etapas fundamentais e a forma odds-ratio de Bayes [§14–§15]
+
+O *process tracing* bayesiano explícito envolve três etapas principais: (1) especificar as hipóteses $H_i$ e atribuir suas probabilidades a priori $P(H_i \mid I)$, dada a informação de contexto $I$; (2) identificar a evidência $E$; e (3) avaliar as verossimilhanças $P(E \mid H_i, I)$ e/ou as razões de verossimilhança $P(E \mid H_i, I)/P(E \mid H_j, I)$. Com esses elementos, é possível obter as odds a posteriori sobre $H_i$ versus $H_j$ à luz da evidência mediante a forma relativa de razão de odds da regra de Bayes:
+
+$$\frac{P(H_i \mid E, I)}{P(H_j \mid E, I)} = \frac{P(H_i \mid I)}{P(H_j \mid I)} \times \frac{P(E \mid H_i, I)}{P(E \mid H_j, I)} \tag{1}$$
+
+Os autores antecipam que a seção 3.4 explicitará a razão para usar uma escala logarítmica ao atribuir valores numéricos a probabilidades, e que a seção 3.5 ilustrará como derivar uma inferência agregada a partir de múltiplas peças de evidência.
+
+### Hipóteses e probabilidades a priori [§16–§21]
+
+::: {.callout-note icon=false}
+**Regra central para hipóteses:** Em vez de comparar uma hipótese $H$ contra sua negação lógica $\sim H$ — procedimento predominante em tratamentos anteriores —, os autores advogam a identificação de uma ou mais hipóteses rivais *concretas*. Isso é especialmente crítico nas ciências sociais porque $\sim H$ geralmente não é uma proposição bem definida: quanto mais específica a hipótese, mais possibilidades ficam contidas em $\sim H$, tornando praticamente impossível avaliar diretamente $P(E \mid \sim H, I)$.
+:::
+
+O argumento é ilustrado com o exemplo do suspeito A: se a única alternativa plausível é o suspeito B (ex-cônjuge amargo que armou uma armadilha), então $P(E \mid \sim H_A, I)$ pode ser bastante elevada; porém, se a única alternativa é o suspeito C (um total estranho), a mesma probabilidade pode ser bastante baixa. Quando ambas as hipóteses alternativas são plausíveis, a única abordagem sensata é avaliar a verossimilhança condicional em cada hipótese separadamente. Esse raciocínio se estende a casos politicamente complexos: considerando dois fatores que poderiam motivar presidentes a violar mandatos protecionistas (representação dos eleitores versus busca de rendas neoliberais, à la Stokes 2001), os autores propõem delinear cinco hipóteses mutuamente exclusivas ao longo de um espectro que vai de "predominantemente representação" a "predominantemente busca de rendas".
+
+Uma vez especificadas as hipóteses rivais, os autores advogam o uso do **princípio da indiferença** de Laplace (Gregory 2005; Jaynes 2003): partir de um estado inicial de máxima ignorância $I_0$ e atribuir probabilidades a priori iguais a cada hipótese. Na prática, há três opções razoáveis: (a) especificar priors que reflitam o melhor possível a informação de contexto; (b) usar priors iguais para evitar favorecer qualquer hipótese inicialmente; ou (c) reportar apenas razões de verossimilhança e deixar que os leitores forneçam seus próprios priors. Uma quarta opção consiste em conduzir análises de sensibilidade com distribuições de prior distintas.
+
+Os autores constroem uma crítica direta a Bennett (2015), que utiliza o caso de Tannenwald (2007) sobre o não uso de armas nucleares no pós-guerra: apesar de reconhecer que as três hipóteses "parecem igualmente plausíveis à primeira vista" — deterrência ($H_D$), falta de utilidade militar ($H_M$) e normas/taboo nuclear ($H_T$) —, Bennett atribui prior de 40% a $H_T$ e 60% a $\sim H_T$, uma inconsistência com o próprio julgamento de equiplausibilidade que deveria levar a priors iguais de 1/3 para cada hipótese. Rohlfing (2013) é criticado por construir priors de forma iterativa e aparentemente arbitrária, reduzindo a probabilidade da hipótese de trabalho à medida que rivais emergem da literatura, ao invés de especificar todas as hipóteses desde o início.
+
+### Evidência: definição e granularidade [§22–§24]
+
+Os autores adotam uma visão ampla e de senso comum sobre o que constitui evidência no *process tracing*: qualquer observação ou informação relevante (além do conhecimento de contexto) que incida sobre a verdade das hipóteses. Evidências frequentemente contêm informações sobre timing, sequenciamento, objetivos e intenções dos atores, obtidas de entrevistas, arquivos, registros de mídia e literatura secundária. O bayesianismo não enfrenta nenhuma das restrições que limitam a estatística frequentista à análise de observações replicáveis ou dados gerados por processos estocásticos.
+
+::: {.callout-important}
+Os autores argumentam que a classificação do tipo de evidência é supérflua dentro de um arcabouço bayesiano — a evidência entra nos cálculos bayesianos *somente* através de verossimilhanças, independentemente de sua origem ou forma. Não existe definição útil de evidência "boa" ou "ruim" de forma absoluta: o valor probatório cai em um continuum determinado pela razão de verossimilhança.
+:::
+
+No que diz respeito à granularidade, não há prescrição geral sobre o que constitui uma "peça" distinta de evidência. A regra prática é evitar desagregar evidências em grão excessivamente fino (risco de se perder em minúcias) ou em grão excessivamente grosseiro (dificuldade de avaliar a verossimilhança do que é na verdade uma conjunção de proposições distintas). Observações que favorecem hipóteses diferentes, ou informações de fontes de tipos distintos, geralmente são melhor tratadas como peças separadas; informações similares oriundas de fontes similares podem ser utilmente agrupadas.
+
+### Verossimilhanças e razões de verossimilhança: habitar o mundo de cada hipótese [§25–§27]
+
+Avaliar verossimilhanças e razões de verossimilhança é o passo inferencial central no *process tracing* bayesiano. A verossimilhança $P(E \mid H_i, I)$ representa o grau de crença na verdade de $E$ — uma proposição que enuncia alguma evidência empírica específica — condicional a uma hipótese e à informação de contexto. A chave para avaliar $P(E \mid H_i, I)$ é lembrar que *assumimos* que $H_i$ é correta.
+
+Os autores recorrem à terminologia de Hunter (1984): o pesquisador deve "mentalmente habitar o mundo da hipótese" e perguntar o quão surpreendente (baixa probabilidade) ou esperada (alta probabilidade) a evidência seria naquele mundo. Se a evidência é mais provável no "mundo de $H_1$" do que no "mundo de $H_2$", então essa evidência aumenta as odds que colocamos em $H_1$ versus $H_2$. Ganhamos confiança em uma hipótese na medida em que ela torna mais plausível a evidência observada, em comparação com a hipótese rival.
+
+### Evidência testemunhal: a regra "fonte S afirmou X" [§28–§30]
+
+Nas ciências sociais, utilizamos frequentemente **evidências testemunhais** fornecidas por pessoas — políticos, jornalistas, historiadores — que podem ter memória imprecisa, enganar deliberadamente ou distorcer fatos para servir a seus interesses. A analogia com a calibração de aparatos de medição nas ciências naturais seria avaliar a confiabilidade da fonte, mas isso não pode ser feito de forma absoluta, independentemente do que foi dito e de qual hipótese é verdadeira.
+
+::: {.callout-note icon=false}
+**Regra operacional para evidência testemunhal:** A evidência $E$ deve tipicamente tomar a forma "fonte $S$ afirmou $X$" — e não o conteúdo $X$ isolado. O contexto do informante e seus incentivos para revelar ou distorcer a verdade *dependem* da hipótese em consideração. Seguindo Jaynes (2003, p. 128), a nova informação aprendida é que a fonte *afirmou* certos fatos, não os fatos em si.
+:::
+
+Os autores criticam a abordagem de Beach e Pedersen (2013, pp. 126–129), que tratam o enunciado $X$ como evidência e avaliam a probabilidade de que $X$ seja preciso como um componente adicional e distinto da análise, de forma independente da hipótese — o que leva a uma inconsistência lógica, pois a precisão de $X$ depende necessariamente da hipótese sob consideração (ver Apêndice B do original).
+
+### Condicionamento em evidências previamente incorporadas [§31–§34]
+
+Quando o corpo de evidências $E$ consiste de múltiplas observações $E_1$ a $E_N$, é possível decompor a verossimilhança em um produto:
+
+$$P(E \mid H_k, I) = P(E_N \mid E_1 \cdots E_{N-1}, H_k, I) \cdots P(E_2 \mid E_1, H_k, I)\, P(E_1 \mid H_k, I) \tag{2}$$
+
+Isso significa que a verossimilhança de $E_x$ deve ser avaliada condicional não apenas à hipótese e à informação de contexto, mas também a todas as evidências do problema em questão que tenham sido previamente incorporadas, $E_{\text{prev}}$.
+
+::: {.callout-important}
+**Dependência lógica versus dependência causal:** A dependência lógica entre peças de evidência é distinta da dependência causal. $E_{\text{prev}}$ não precisa exercer qualquer influência causal sobre $E_x$ para afetar o grau de crença em $E_x$. O exemplo clássico das urnas com bolinhas coloreadas ilustra isso: observar que a segunda bolinha retirada é preta torna certa a cor vermelha da primeira bolinha, ainda que a segunda retirada não possa causar retroativamente o resultado da primeira.
+:::
+
+Os autores aplicam essa lógica à ciência social: suponha que um informante entrevistado em dezembro de 2005 conte uma história $X$, e uma notícia de jornal de maio de 2005 relate uma história similar. O informante não pode ter influenciado causalmente o artigo escrito sete meses antes, mas as duas peças de evidência são *logicamente* dependentes — o informante pode ter aprendido $X$ lendo o artigo, de modo que, sob muitas hipóteses, não ficamos surpresos de encontrar o artigo após a entrevista. Além disso, o artigo enfatiza que dependência ou independência não é uma propriedade física das fontes, mas uma relação lógica entre peças de evidência dada uma hipótese específica.
+
+### Sequenciamento da evidência e conveniência analítica [§35–§37]
+
+As regras da probabilidade condicional implicam que a ordem em que as evidências são analisadas *não afeta* as probabilidades a posteriori finais:
+
+$$P(E_A E_B \mid H, I) = P(E_B E_A \mid H, I) = P(E_A \mid E_B, H, I)\, P(E_B \mid H, I) = P(E_B \mid E_A, H, I)\, P(E_A \mid H, I) \tag{3}$$
+
+Alguns trabalhos na tradição do bayesianismo psicológico (Jeffrey 1983) introduzem regras não-padrão de atualização que implicam que a ordem importa, mas os autores argumentam que tais abordagens violam as regras fundamentais da probabilidade e conflitam com a racionalidade central do bayesianismo lógico.
+
+Embora a ordem não afete o resultado final, os autores recomendam sequenciar as evidências de forma que facilite o condicionamento nas evidências previamente incorporadas. Colocar evidências fortemente discriminatórias por último pode evitar ter que condicionar outras evidências na conjunção de uma hipótese e uma observação extremamente implausível sob essa hipótese — exercício mental difícil que exige imaginar coincidências ou eventualidades muito surpreendentes. Alternativamente, se a evidência é suficientemente decisiva, pode ser incorporada primeiro e a análise pode ser encerrada, pois evidências adicionais contribuirão apenas marginalmente para as posteriores.
+
+### Escalas logarítmicas para probabilidades [§38–§42]
+
+::: {.callout-note icon=false}
+**Proposta metodológica inovadora:** Em vez das escalas lineares, frequentemente de granularidade grosseira, usadas na maioria da literatura sobre *process tracing* bayesiano (como Rohlfing 2013, p. 19), os autores advogam o uso de uma escala logarítmica para odds e razões de verossimilhança — prática padrão nas ciências naturais e da informação.
+:::
+
+Essa recomendação está ancorada na psicofísica: a percepção sensorial tende a ser função logarítmica da intensidade do estímulo (Lei de Weber-Fechner). Pelo mesmo motivo, escalas logarítmicas foram introduzidas para avaliar percepções de incerteza em inferência probabilística. O **peso de evidência** (*weight of evidence*, WOE) de Good (1985) em favor de uma hipótese em comparação com uma rival, medido em decibéis, é proporcional ao logaritmo da razão de verossimilhança:
+
+$$WOE(H_i : H_j) = 10 \log_{10}\left[\frac{P(E \mid H_i, I)}{P(E \mid H_j, I)}\right] \tag{4}$$
+
+Good (1985) afirma que uma variação de 1 dB é o nível mais fino de quantificação de crença razoavelmente possível. Uma variação de probabilidade de 75% para 90% corresponde a um aumento de log-odds de aproximadamente 5 dB — saliente, mas modesto comparado às dezenas de decibéis que evidências cogentes podem produzir nas ciências naturais.
+
+**Tabela de referência de sons (reproduzida do original):**
+
+| dB | Referência |
+|:--:|:-----------|
+| 10 | Limiar auditivo adulto; folhas farfalhando; barulho de alfinete |
+| 20 | Sussurro |
+| 30 | Quarto silencioso ou biblioteca; tique-taque de relógio |
+| 45 | Suficiente para acordar uma pessoa dormindo |
+| 50 | Chuva moderada |
+| 60 | Conversa típica |
+| 70 | Restaurante barulhento; TV comum |
+| 80 | Calçada movimentada; despertador |
+| 90 | Caminhão diesel ou motocicleta passando |
+| 100 | Clube noturno; canteiro de obras |
+| 115 | Show de rock; bebê gritando |
+
+Na pesquisa qualitativa, os autores sugerem tratar evidências *claramente decisivas* como correspondentes a aproximadamente 30 dB — a diferença entre um quarto silencioso e uma conversa ("os dados falam claramente"). Um prior muito desfavorável a uma hipótese em relação a uma rival mais plausível poderia razoavelmente ser fixado em −50 dB.
+
+### Inferência via regra de Bayes com múltiplas peças de evidência [§43–§45]
+
+O passo final do *process tracing* bayesiano explícito consiste em aplicar a regra de Bayes. Trabalhando com múltiplas peças de evidência, é possível multiplicar as razões de verossimilhança em uma única etapa:
+
+$$\frac{P(H_i \mid E, I)}{P(H_j \mid E, I)} = \frac{P(H_i \mid I)}{P(H_j \mid I)} \times \frac{P(E_1 \mid H_i, I)}{P(E_1 \mid H_j, I)} \times \frac{P(E_2 \mid E_1, H_i, I)}{P(E_2 \mid E_1, H_j, I)} \times \cdots \tag{5}$$
+
+Tomando o logaritmo da equação (5), obtém-se uma forma aditiva particularmente simples da regra de Bayes: as log-odds a posteriori igualam as log-odds a priori mais o peso de evidência:
+
+$$10 \log_{10}\left[\frac{P(H_k \mid E, I)}{P(H_l \mid E, I)}\right] = 10 \log_{10}\left[\frac{P(H_k \mid I)}{P(H_l \mid I)}\right] + WOE(H_k : H_l) \tag{6}$$
+
+Os pesos de evidência são também aditivos (equação 7), o que torna a escala decibel computacionalmente conveniente: basta somar os pesos de evidência individuais, lembrando de condicionar nas $E_{\text{prev}}$ quando necessário.
+
+---
+
+## Exemplo Empírico: Pesos de Evidência (pp. 11–13)
+
+### Apresentação do caso e das hipóteses rivais [§46–§48]
+
+O caso empírico é extraído das pesquisas de Fairfield (2013; 2015) sobre mudança de política tributária na América Latina. O estudo examina uma reforma chilena de 2005 que revogou um subsídio tributário regressivo. Fairfield argumenta que um "apelo de equidade", feito durante uma corrida presidencial em que a desigualdade assumiu excepcional saliência, compeliu a coalizão oposicionista de direita a aceitar a reforma para evitar punição eleitoral. Durante a campanha de 2005, o candidato presidencial da direita culpou a coalizão governante de centro-esquerda pela persistente desigualdade no Chile; o presidente em exercício respondeu vinculando o subsídio tributário à desigualdade e desafiando publicamente a oposição a apoiar a reforma. Esta é a hipótese de apelo de equidade ($H_{EA}$).
+
+Duas hipóteses rivais são consideradas:
+
+- $H_I$: a oposição aceitou a reforma porque o sistema partidário institucionalizado do Chile motiva cooperação bipartidária e política consensual;
+- $H_{CC}$: a oposição aceitou a reforma porque sua clientela principal — empresas e indivíduos de alta renda — tinha interesse material enfraquecido em defender o subsídio em 2005, em função do declínio dos ativos elegíveis para o benefício.
+
+As três hipóteses são assumidas como mutuamente exclusivas e exaustivas.
+
+### Avaliação dos pesos de evidência para $E_1$ e $E_2$ [§49–§55]
+
+**Evidência $E_1$:** Informantes da coalizão governante relataram à pesquisadora que a coalizão de centro-esquerda discutiu a inclusão de uma medida para eliminar o subsídio tributário em múltiplas reformas tributárias anteriores, mas que essa medida foi descartada como inviável em todas essas ocasiões devido à resistência da coalizão de direita.
+
+- $WOE_1(H_{EA} : H_I) = 30\,\text{dB}$: E1 "fala claramente" em favor de $H_{EA}$ em relação a $H_I$. No mundo de $H_{EA}$, o apelo de equidade alterou o comportamento da direita — de resistência nos anos anteriores para aceitação em 2005. Em contraste, se as instituições produzissem consenso em 2005, deveriam também tê-lo produzido nos anos anteriores, já que as instituições não mudaram no período intermediário.
+- $WOE_1(H_{EA} : H_{CC}) = 3\,\text{dB}$: Apenas um sussurro em favor de $H_{EA}$. Sob $H_{CC}$, a direita aceitou porque o declínio dos ativos ultrapassou seu limiar de resolução para resistir à reforma, mas não há previsão clara sobre *quando* exatamente o subsídio seria eliminado, enquanto sob $H_{EA}$ há uma razão clara para o timing específico de 2005.
+
+Este exemplo ilustra a importância de decompor $\sim H_{EA}$ em $H_I$ e $H_{CC}$: os pesos de evidência em favor de $H_{EA}$ em relação às duas rivais são distintos (30 dB vs. 3 dB), e seria impossível raciocinar de forma sensata sobre um "mundo de $\sim H_{EA}$" sem antes realizar essa decomposição.
+
+**Evidência $E_2$:** Um funcionário do Ministério da Fazenda declarou à pesquisadora que o subsídio "era uma pura transferência de recursos para pessoas ricas... Não era possível para a direita se opor à reforma depois de ter feito aquele argumento sobre desigualdade." Da mesma forma, o ex-Presidente declarou que o subsídio "nunca teria sido eliminado se eu não tivesse tomado [o candidato oposicionista] pela palavra" quando este professou publicamente preocupação com a desigualdade.
+
+Os autores agregaram os dois excertos em uma única peça de evidência porque são fortemente dependentes sob qualquer hipótese: presidente e funcionários do Ministério da Fazenda comunicam-se extensamente e compartilham análises similares. A agregação também segue a regra prática da seção 3.2 — informação similar de fontes similares.
+
+- $WOE_2(H_{EA} : H_I, E_1) = WOE_2(H_{EA} : H_{CC}, E_1) = 10\,\text{dB}$: $E_2$ fornece vislumbres do mecanismo causal subjacente a $H_{EA}$, referindo-se à troca entre o candidato oposicionista e o presidente que culminou no apelo de equidade. Embora os informantes governamentais pudessem ter incentivos para atribuir à reforma uma narrativa favorável ao governo mesmo no mundo das hipóteses rivais (estratégia que retrata o governo positivamente), a informação de contexto dos autores lhes dá confiança na capacidade analítica e sinceridade desses informantes.
+
+::: {.callout-tip}
+**Lição metodológica de $E_2$:** A precisão das informações fornecidas pelas fontes depende da hipótese em consideração. Sob $H_{EA}$, os depoimentos dos informantes devem ser tomados como verdadeiros; sob as hipóteses rivais, os depoimentos são necessariamente falsos — os informantes estão equivocados ou mentindo.
+:::
+
+---
+
+## Melhorando Inferência e Transparência Analítica (pp. 13–17)
+
+### Vantagens e oportunidades do *process tracing* bayesiano explícito [§56–§57]
+
+Os autores concordam com a posição de Rohlfing (2013), Bennett (2015) e Humphreys e Jacobs (2015) de que a análise bayesiana explícita, se cuidadosamente implementada, oferece vantagens para melhorar a inferência. Em especial: obriga a identificar e considerar cuidadosamente todas as evidências salientes e os elementos críticos da informação de contexto; impede o foco subconsciente em uma hipótese de trabalho favorecida, ao exigir a consideração de estados do mundo caracterizados por hipóteses rivais; e pode "eliminar a ambiguidade considerável em muitas frases verbais usadas para transmitir probabilidades" (Bennett 2015, p. 297), com a escala decibel contribuindo para comunicar graus de crença de forma mais eficaz.
+
+### Ressalvas e limitações [§58–§63]
+
+::: {.callout-important}
+**Desafio central — a arbitrariedade dos valores numéricos:** Nas ciências naturais, uma teoria subjacente forte e a descrição do aparato de medição levam a uma função de verossimilhança que especifica probabilidades de forma não ambígua. Nas ciências sociais, não existe procedimento claro para traduzir informação qualitativa complexa, narrativa e não reproduzível em afirmações probabilísticas precisas. Especificar intervalos de probabilidade em vez de valores precisos simplesmente *reloca* a arbitrariedade e tem valor prático limitado, pois propagar probabilidades intervalares pela regra de Bayes é não-trivial com múltiplas hipóteses.
+:::
+
+A segunda ressalva é que um treinamento substancial pode ser necessário antes que a análise bayesiana explícita possa superar a intuição. A experiência de ensino dos autores indica que um ou dois dias de workshops intensivos não são suficientes. Como parte do processo de aprendizado, o raciocínio pode piorar antes de melhorar, pois avaliar o peso de evidência muda a maneira como a intuição é utilizada.
+
+A terceira ressalva refere-se à intratabilidade além de modelos causais relativamente simples. Exigir hipóteses mutuamente exclusivas é não-trivial e pode demandar oversimplificação: algumas hipóteses rivais a Fairfield (2013) envolvem mecanismos causais que poderiam operar simultaneamente ou em interação no mundo real, criando uma explosão combinatória no espaço de hipóteses e agravando os desafios de atribuição de valores numéricos. Por contraste, nas ciências naturais, a análise bayesiana é geralmente aplicada a espaços de hipóteses muito simples.
+
+A quarta ressalva é de ordem prática: o Apêndice A deste artigo — que inclui verificações cruzadas para garantir que as verossimilhanças sejam sensatas e razoavelmente consistentes — excede o comprimento do próprio artigo de Fairfield (2013), que incluía outros três estudos de caso. Exigir análise bayesiana explícita para todos os casos criaria desincentivos pesados para o *process tracing*. Por fim, análise bayesiana explícita e transparência analítica não são sinônimas: a desagregação excessiva pode obscurecer ao invés de clarificar a inferência, e a transparência não requer atribuição de valores numéricos a probabilidades.
+
+### Aplicações: quando a análise bayesiana explícita tem maior valor [§64–§68]
+
+Os autores estratificam os contextos de aplicação por valor esperado:
+
+- **Baixo valor:** quando todas as observações favorecem fortemente uma hipótese ou quando a evidência tem fraco valor probatório — nesses casos, a análise bayesiana explícita apenas confirma o que a intuição já produziria.
+- **Valor moderado:** quando a evidência é complexa e não favorece claramente uma hipótese — a análise ajuda a rastrear nuances, mas há risco de que as conclusões sejam dominadas pela arbitrariedade na atribuição de valores numéricos.
+- **Alto valor — identificar o locus de controvérsia:** a aplicação mais valiosa é quando pesquisadores discordam sobre inferências. Como argumenta Hunter (1984, p. 88), através da análise bayesiana "as fontes do desacordo podem ser determinadas muito mais facilmente do que na análise verbal comum." A análise bayesiana fornece uma estrutura para localizar se o desacordo origina-se de diferentes informações de contexto, diferentes priors ou diferentes avaliações de verossimilhanças. Os números servem primariamente para estimular discussão sobre lógica inferencial, e o componente ad hoc da quantificação torna-se menos problemático.
+- **Valor pedagógico:** a leitura de exemplos e a realização de exercícios podem treinar a intuição para seguir mais sistematicamente a lógica inferencial, melhorando o *process tracing* narrativo tradicional. Uma das lições mais salientes é que o peso de evidência depende, por definição, de *quais* hipóteses são comparadas: não se pode julgar o poder discriminatório da evidência em relação apenas à hipótese de trabalho, sem considerar alternativas concretas.
+
+---
+
+## Argumento Sintético
+
+::: {.callout-note icon=false}
+## Síntese do Argumento
+
+**Tese central:** O artigo argumenta que a análise bayesiana explícita, fundamentada no bayesianismo "lógico" das ciências físicas (Cox 1961; Jaynes 2003) e não no bayesianismo "psicológico" predominante na ciência política, oferece o arcabouço metodológico mais rigoroso para o *process tracing* qualitativo — mas somente se corretamente operacionalizada mediante comparação de hipóteses rivais concretas, avaliação de razões de verossimilhança condicionadas nas evidências previamente incorporadas, e uso de escalas logarítmicas (decibéis) para atribuição de valores.
+
+**Natureza do argumento:** O argumento é simultaneamente normativo-metodológico e parcialmente conceitual. Os autores prescrevem procedimentos que pesquisadores *deveriam* seguir (normativo), mas também clarificam conceitos e regras técnicas que foram mal interpretados ou negligenciados na literatura (conceitual). A dimensão empírica serve principalmente como ilustração, não como teste.
+
+**O que o texto demonstra vs. o que permanece hipótese ou agenda:** O texto demonstra com clareza lógica e exemplos numéricos: (a) por que comparar $H$ versus $\sim H$ é inadequado; (b) como a dependência lógica entre evidências exige condicionamento; (c) que escalas logarítmicas são mais compatíveis com a psicofísica da percepção de incerteza; (d) a aplicação ao caso chileno como prova de conceito. Permanece como agenda: verificação sistemática de que a abordagem efetivamente melhora inferences em pesquisadores treinados, e desenvolvimento de ferramentas computacionais que tornem a análise mais tratável para modelos causais complexos.
+
+**Contribuição para o debate mais amplo:** O artigo posiciona-se na interseção entre os debates sobre transparência analítica na ciência política (DART Statement; Büthe e Jacobs 2015) e os esforços de legitimação metodológica da pesquisa qualitativa de caso. Sua contribuição singular é importar o bayesianismo lógico das ciências físicas para a metodologia qualitativa em ciência política, articulando com precisão os pontos em que a literatura precedente (Rohlfing 2013; Bennett 2015; Humphreys e Jacobs 2015) divergia das melhores práticas do campo de origem.
+:::
+
+---
+
+## Ficha Analítica Crítica {.unnumbered}
+
+::: {.callout-note}
+Esta seção segue o formato *IA Planilhando Textos v13.0*.
+:::
+
+::: {.callout-note collapse="true" icon=false}
+## Ficha Analítica — Tabela Markdown
+
+| Dimensão | Raciocínio analítico | Conteúdo |
+|:---------|:---------------------|:---------|
+| Questão de Pesquisa | A pergunta emerge de uma lacuna técnica real: a literatura endossou o bayesianismo como fundamento do *process tracing*, mas não equacionou adequadamente como operacionalizá-lo. A interpretação alternativa possível seria que a pergunta é puramente normativa, mas o artigo tem dimensão técnica-procedimental genuína. O ponto mais vulnerável é que a pergunta pressupõe que a análise explícita é desejável, sem problematizar de forma suficientemente sistemática se os ganhos superam os custos antes da seção 5. | Como se deve operacionalizar a análise bayesiana explícita no *process tracing* qualitativo de forma tecnicamente rigorosa, superando as limitações dos tratamentos anteriores? Natureza: normativo-metodológica. Pergunta reconstruída em parte — os autores a articulam implicitamente nas seções 1 e 2, mas não a formulam como uma única sentença interrogativa. |
+| Questões Secundárias | As questões secundárias derivam diretamente da central e a estruturam: (1) Qual a distinção entre bayesianismo lógico e psicológico e por que ela importa? (2) Como especificar e comparar hipóteses rivais? (3) Como avaliar verossimilhanças de evidências testemunhais e logicamente dependentes? (4) Por que usar escalas logarítmicas? (5) Quando a análise bayesiana explícita tem maior valor? | (1) Distinção bayesianismo lógico/psicológico; (2) especificação de hipóteses mutuamente exclusivas; (3) tratamento de evidência testemunhal e dependência lógica; (4) justificativa para escalas decibélicas; (5) avaliação de vantagens e limitações contextuais. |
+| Puzzle-Type | O puzzle é genuinamente metodológico e tem relevância além do caso: qualquer pesquisador que use *process tracing* defronta-se com o problema de como estruturar a inferência. A avaliação de plausibilidade do puzzle é positiva. A preocupação é que a solução proposta (análise explícita) possa ser ainda mais custosa do que o problema que resolve, questão que os próprios autores reconhecem na seção 5. | Puzzle explicativo-normativo: a literatura adotou o bayesianismo como fundamento do *process tracing*, mas não resolveu como aplicá-lo de forma rigorosa e consistente. Puzzle genuíno e generalizável a toda pesquisa qualitativa de caso nas ciências sociais. |
+| Conclusão / Argumento Central | A tese é bem articulada e consistente com as premissas. O *claim* de descoberta mais forte — que a análise bayesiana explícita tem valor primário para identificar o locus de controvérsia entre pesquisadores — é plausível mas apoia-se sobretudo na argumentação dedutiva, não em evidências empíricas sobre como pesquisadores reais se comportam quando expostos à técnica. | O bayesianismo lógico das ciências físicas fornece o único arcabouço consistente para inferência em face de incerteza, e o *process tracing* deve operacionalizá-lo mediante (a) hipóteses rivais concretas, (b) condicionamento em evidências previamente incorporadas, (c) escalas logarítmicas. Argumento normativo-metodológico. O que sustenta o *claim*: consistência lógica dedutiva derivada de Cox (1961) e Jaynes (2003), mais aplicação ilustrativa ao caso chileno. O que permanece especulativo: que a abordagem efetivamente melhora práticas de pesquisa. |
+| Métodos | A estratégia argumentativa é a principal vulnerabilidade metodológica: o artigo é essencialmente uma contribuição teórico-normativa, e as afirmações sobre ganhos práticos dependem de exemplos ilustrativos, não de avaliação sistemática. O exemplo empírico demonstra a aplicabilidade, não a superioridade em comparação com análise narrativa alternativa. | Contribuição teórico-normativa com ilustração empírica. Não há coleta de dados primários no artigo em si — a evidência empírica é extraída de Fairfield (2013; 2015). Estratégia argumentativa: (1) dedução a partir de axiomas do bayesianismo lógico; (2) crítica interna à literatura existente; (3) demonstração de aplicação a estudo de caso. Limitação de identificação: impossível verificar se pesquisadores que seguem as diretrizes produzem inferências efetivamente melhores. |
+| Data Generation Process (DGP) | O DGP do artigo é dedutivo-ilustrativo: as regras são derivadas de axiomas probabilísticos, e o caso empírico é selecionado por conveniência (pesquisa própria de Fairfield). O risco é que a escolha de um caso favorável à técnica enviese a percepção dos ganhos. A unidade de análise (a peça de evidência dentro de um estudo de caso) é adequada à pergunta, mas o nível de agregação — um único caso de reforma tributária no Chile — limita a generalização. | Fenômeno: aplicação do raciocínio bayesiano ao *process tracing* qualitativo. Observação: exercício dedutivo a partir de axiomas + análise da literatura. Coleta: revisão crítica de tratamentos existentes + aplicação ao caso chileno (Fairfield 2013). Operacionalização: avaliação de pesos de evidência (WOE em dB) para $E_1$ e $E_2$ com três hipóteses rivais. Análise: inferência bayesiana formal. Tipo de inferência: normativo-prescritiva + ilustrativa. Unidade de análise: peça de evidência dentro de um único caso. |
+| Achados e Contribuições | Os achados técnicos — distinção lógico/psicológico, condicionamento em evidências, escala decibel — são contribuições metodológicas sólidas e bem fundamentadas. A demonstração do caso chileno é convincente como prova de conceito. As afirmações sobre melhoria pedagógica e diagnóstico de controvérsias são plausíveis, mas permanecem especulativas. | Contribuições teórico-metodológicas: (1) distinção bayesianismo lógico/psicológico e importação para ciência política; (2) diretrizes explícitas para hipóteses, evidência e verossimilhanças; (3) introdução da escala decibel no *process tracing*; (4) crítica técnica aos tratamentos anteriores de Bennett, Rohlfing e Humphreys-Jacobs. Contribuição empírica: primeira aplicação sistemática a múltiplas peças de evidência em um estudo de caso real. O que o *design* identifica com força: a inadequação técnica de comparar $H$ vs. $\sim H$ e de ignorar dependência lógica. O que é especulativo: que pesquisadores treinados produam inferências melhores. |
+| Análise Crítica dos Achados | Os autores respondem bem à parte técnica-normativa da pergunta. A fragilidade está na avaliação dos ganhos práticos: a seção 5 reconhece honestamente as limitações, mas o balanço final ainda tende ao otimismo sem evidência empírica sistemática sobre adoção e eficácia. A *scope condition* mais importante — modelos causais simples — é reconhecida mas subestimada, dado que a maioria dos fenômenos de interesse em ciência política envolve causalidade complexa e multicausal. | Pontos mais vulneráveis: (1) a afirmação de que a abordagem melhora inferences não é testada empiricamente; (2) o requisito de hipóteses mutuamente exclusivas é extremamente restritivo para ciência social, e a simplificação necessária pode introduzir viés mais sério do que a abordagem narrativa que pretende melhorar; (3) o caso empírico é selecionado a dedo. Pontos mais fortes: (1) a crítica técnica a tratamentos anteriores é precisa e bem documentada; (2) a proposta de usar WOE em dB é genuinamente inovadora; (3) os autores são notavelmente honestos sobre as limitações. |
+| Limitações | As limitações reconhecidas mostram rara honestidade intelectual, especialmente para um artigo que propõe uma metodologia. As limitações não reconhecidas são igualmente importantes para avaliar o alcance do argumento. | **Reconhecidas pelos autores:** probabilidades não podem ser especificadas de forma não ambígua; treinamento substancial necessário; intratabilidade com modelos causais complexos; carga prática excessiva; análise bayesiana explícita e transparência não são sinônimos. <br> **Não reconhecidas ou subestimadas:** (1) viés de seleção do caso empírico (pesquisa própria de Fairfield); (2) o requisito de hipóteses mutuamente exclusivas pode induzir mais distorção que o *process tracing* narrativo nos casos de causalidade conjuntural; (3) ausência de avaliação empírica dos efeitos sobre pesquisadores reais; (4) o artigo não discute como a abordagem se integra com outros designs multi-método além do BIQQ. |
+| Perspectiva Teórica | A opção pelo bayesianismo lógico em detrimento do psicológico é coerente com a ontologia implícita do artigo — de que existe um padrão objetivo de raciocínio racional — mas essa premissa filosófica não é suficientemente problematizada. A moldura é adequada para o tipo de pergunta; a coerência entre ontologia e método é elevada para os propósitos formais do artigo, mas tensionada pela inevitável subjetividade da pesquisa qualitativa que os próprios autores reconhecem. | Tradição(ões): bayesianismo lógico (Cox 1961; Jaynes 2003); filosofia da ciência probabilística; metodologia de pesquisa qualitativa em ciência política. Adequação: alta para a pergunta técnico-normativa proposta. Tensão não resolvida: o bayesianismo lógico é prescritivo e aspira à racionalidade intersubjetiva, mas a pesquisa qualitativa está fundamentalmente ancorada em julgamentos do pesquisador que resistem à padronização — tensão que os autores reconhecem mas não resolvem. |
+| Principais Referências | O diálogo com a literatura de metodologia qualitativa de ciência política é amplo e bem balanceado. O engajamento com Bennett e Humphreys-Jacobs é substancial e justo. A literatura sobre bayesianismo das ciências físicas (Cox, Jaynes, Good) é adequadamente mobilizada. Há ausência notável de diálogo com literatura sobre raciocínio heurístico e vieses cognitivos (Kahneman, Tversky), que seria relevante para as afirmações sobre treinamento de intuição. | Centrais: Jaynes (2003), Cox (1961), Good (1985), Bennett (2015), Rohlfing (2013), Humphreys e Jacobs (2015), Fairfield (2013; 2015). Diálogo pobre: literatura de cognição e heurísticas (Kahneman-Tversky); literatura de *Qualitative Comparative Analysis* (QCA); abordagens process tracing orientadas a mecanismos (Hall 2003; Mahoney 2015). |
+| Observações | Para pesquisadores de economia política comparada que utilizam estudos de caso intensivos — como o leitor deste fichamento —, o artigo oferece ferramentas precisas para estruturar inferências em análises de política pública e reformas institucionais. A lição mais transferível é provavelmente não a análise numérica explícita, mas a disciplina de especificar hipóteses rivais concretas e "habitar" cada mundo hipotético antes de avaliar a evidência. A omissão de diálogo com QCA é relevante, pois comparações entre casos são comuns em estudos de política comparada, e a relação entre pesos de evidência bayesianos e condições necessárias/suficientes não é elaborada. | (1) O artigo abre uma agenda de pesquisa sobre como combinar análise bayesiana explícita com abordagens de causalidade conjuntural prevalentes na política comparada; (2) a tensão entre rigor técnico e praticabilidade não é plenamente resolvida, limitando a adoção da técnica em pesquisas multi-caso; (3) a contribuição mais durável pode ser a tabela de diretrizes (Tabela 3) como roteiro heurístico para *process tracing* narrativo, não a quantificação explícita. |
+
+:::
